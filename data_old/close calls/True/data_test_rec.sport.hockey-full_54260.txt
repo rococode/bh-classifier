@@ -1,0 +1,23 @@
+0.544585407317 0.455414592684 0.089170814633 True
+prediction: hockey for data\test\rec.sport.hockey-full\54260
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| also       |   -10.04 |    -8.28 |   -1.76 | **    |
+| burns      |    -9.35 |   -10.07 |    0.72 |       |
+| pat        |    -9.35 |   -10.07 |    0.72 |       |
+| susan      |    -9.35 |   -10.07 |    0.72 |       |
+| think      |    -8.94 |    -8.69 |   -0.26 |       |
+| andreychuk |   -10.04 |   -10.07 |    0.03 |       |
+| borchevsky |   -10.04 |   -10.07 |    0.03 |       |
+| gilmour    |   -10.04 |   -10.07 |    0.03 |       |
+| outweighs  |   -10.04 |   -10.07 |    0.03 |       |
+| slightly   |   -10.04 |   -10.07 |    0.03 |       |
+From: sclark@epas.utoronto.ca (Susan Clark)
+Subject: Re: If You Were Pat Burns ...
+
+	Borchevsky is 5'9" and Gilmour is 5'11"...I think Gilmour slightly
+outweighs Borchevsky.  Andreychuk is also about 5'11", I think.
+
+Susan
+teeheehee...oops!
+

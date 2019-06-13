@@ -1,0 +1,27 @@
+0.546885713808 0.453114286192 0.093771427616 True
+prediction: hockey for data\test\rec.sport.hockey-full\54519
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| may    |   -10.06 |    -7.98 |   -2.09 | **    |
+| well   |    -9.37 |    -7.98 |   -1.39 | **    |
+| mike   |    -7.99 |    -9.36 |    1.38 | **    |
+| know   |    -8.46 |    -7.49 |   -0.96 |       |
+| played |    -8.46 |    -9.36 |    0.91 |       |
+| though |    -8.46 |    -9.36 |    0.91 |       |
+| anyone |    -9.37 |    -8.67 |   -0.7  |       |
+| lineup |   -10.06 |    -9.36 |   -0.7  |       |
+| put    |    -9.37 |    -8.67 |   -0.7  |       |
+| second |   -10.06 |    -9.36 |   -0.7  |       |
+From: bbeagan@cmsa.gmr.com (Brian D. Beagan)
+Subject: Re: Wings; Ogrodnick
+
+
+In article QfpfQaK00Vot4BpEdD@andrew.cmu.edu, Mike Molloy <mmaq+@andrew.cmu.edu> () writes:
+>I haven't seen any mention of Ogrodnick yet in the box scores.
+>
+>Does anyone know if he's playing?
+>
+>Mike
+
+
+He's been out, but he isn't injured.  He played well when he was put into the lineup at the end of the season - Murray has to sit somebody out, though.  If the Red Wings hadn't played as well as they did in the first game, he may have been in the second.  Why should Murray juggle players when the Wings are dominating Toronto like they are?

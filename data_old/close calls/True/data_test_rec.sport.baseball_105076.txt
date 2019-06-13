@@ -1,0 +1,40 @@
+0.41334434298 0.58665565702 0.17331131404 True
+prediction: baseball for data\test\rec.sport.baseball\105076
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| baseball |    -6.97 |    -9.41 |    2.44 | **    |
+| mario    |    -9.45 |    -7.11 |   -2.35 | **    |
+| league   |    -7.51 |    -9.41 |    1.9  | **    |
+| best     |    -9.45 |    -7.62 |   -1.84 | **    |
+| watch    |    -9.45 |    -7.8  |   -1.65 | **    |
+| players  |    -7.84 |    -9.41 |    1.57 | **    |
+| go       |    -8.36 |    -6.92 |   -1.43 | **    |
+| hes      |    -9.45 |    -8.31 |   -1.14 | **    |
+| little   |    -9.45 |    -8.31 |   -1.14 | **    |
+| object   |    -9.45 |    -8.31 |   -1.14 | **    |
+From: doctor8@jhuvms.hcf.jhu.edu (Jason Abner Miller)
+Subject: Re: Ugliest Stance (was Re: ugliest swing)
+
+Alan "All in all, it's just another" Sepinwall writes...
+
+>Ugliest stance of all time has to go to Oscar Gamble. The man would
+>practically kneel in front of home plate in order to have a small strike
+>zone! (He's just lucky that strike zone size isn't determined by how big
+>your afro is:)
+
+	I agree.  However, I have to object.  Growing up in the early
+1980's and playing 2 years of Mario Mendoza-esque Little League, I was
+told that since my hitting, well, sucked, I would do best to either
+"Walk, or take one in the face for the team".  I did both.  And, my
+Yankee fan father would say, "Bat like Oscar Gamble".  So I did.  And my
+career OBP was about .550.
+	Not only was Oscar a fun guy to watch, but he had some pretty 
+cool baseball cards and helped me become one of the best little league
+players in history.
+
+>-I'm outta here like Vladimir!
+>-Alan
+
+Jason A. Miller
+"some doctor guy"
+Frank Tanana:  1 win?!?!?!

@@ -1,0 +1,59 @@
+0.665291500607 0.334708499393 0.330583001215 False
+prediction: hockey for data\test\rec.sport.baseball-full\105027
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| l      |    -8.5  |   -10.04 |    1.54 | **    |
+| st     |    -8.72 |   -10.04 |    1.32 | **    |
+| red    |   -10.11 |    -8.94 |   -1.17 | **    |
+| sox    |   -10.11 |    -8.94 |   -1.17 | **    |
+| hated  |    -9.01 |   -10.04 |    1.03 | **    |
+| hey    |    -9.01 |   -10.04 |    1.03 | **    |
+| tel    |    -9.01 |   -10.04 |    1.03 | **    |
+| us     |    -9.01 |   -10.04 |    1.03 | **    |
+| first  |    -9.01 |    -8.25 |   -0.76 |       |
+| giants |   -10.11 |    -9.34 |   -0.76 |       |
+From: wall@cc.swarthmore.edu (Matthew Wall)
+Subject: Re: Yakult Swallows (Japanese pro baseball team)
+
+Anyone have any idea how to get Japanese League stats regularly in the US?
+
+- matt
+
+wall@cc.swarthmore.edu
+
+
+In article <f0v.11moqf@lab.ntt.jp>, yajima@nttcom.ntt.jp (YAJIMA Hiroshi)
+wrote:
+> 
+> Tuesday's game of Beloved Yakult Swallows
+> 
+> (At Jingu, 36,000)
+> Hanshin Tigers   001 000 100 |2
+> Beloved Yakult   050 020 00x |7
+> 
+> W - Ito (1-0). L - Nakagomi (0-1). HR - Yakult, Arai 1st.
+> ------------------------------------------------------------
+> CENTRAL LEAGUE STANDING
+> ========================
+>                         W   L   T   Pct.   GB
+> Hiroshima Carp          7   1   0   .875   --
+> Chunichi  Dragons       6   3   0   .667   1.5
+> Hanshin   Tigers        5   4   0   .667   2.5
+> Hated     Giants        4   4   0   .500   3.0
+> Beloved   Swallows      3   6   0   .333   4.5
+> Yokohama  BayStars      1   8   0   .111   6.5
+> ---------------------------------------------------------------
+> 
+> 
+> --
+> --------------------------------------------------------------------------
+> /_____  /_____   Hiroshi Yajima (E-MAIL:yajima@nttcom.ntt.jp)
+> ___|___ |=====|  NTT Network Information Systems Laboratories,
+>   / \   |======  9-11 Midori-Cho 3-Chome Musashino-Shi,Tokyo,180 Japan,
+>  /   \ |_|_|  /  TEL:+81-422-59-4256, FAX:+81-422-59-4254
+> 
+>                          
+
+Matt Wall * wall@cc.swarthmore.edu * Hey, I gotta job here, OK?
+---------------------------------------------------------------
+April 6, 1993: Boston Red Sox seize first place.

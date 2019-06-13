@@ -1,0 +1,37 @@
+0.999999889238 1.10762389546e-07 0.999999778475 True
+prediction: hockey for data\test\rec.sport.hockey-full\54562
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| fan    |   -10.11 |    -7.96 |   -2.15 | **    |
+| blues  |    -8.32 |   -10.04 |    1.72 | **    |
+| hawks  |    -8.32 |   -10.04 |    1.72 | **    |
+| player |    -7.71 |    -9.34 |    1.63 | **    |
+| th     |   -10.11 |    -8.65 |   -1.46 | **    |
+| st     |    -8.72 |   -10.04 |    1.32 | **    |
+| away   |   -10.11 |    -8.94 |   -1.17 | **    |
+| got    |   -10.11 |    -8.94 |   -1.17 | **    |
+| joseph |    -9.01 |   -10.04 |    1.03 | **    |
+| louis  |    -9.01 |   -10.04 |    1.03 | **    |
+From: howarth@sbctri.sbc.com (David Howarth)
+Subject: Re: Hawks
+
+In article <122779@netnews.upenn.edu>, ldecock@mail.sas.upenn.edu (Luke
+DeCock) wrote:
+> 
+> The only player the Hawks have lost because they screwed up is Peluso. The
+> hapless Blues lost Stevens and gave away Oates. Okay, so the Blues won this
+
+You must be kidding, right? In losing Stevens the Blues got Shanahan and
+kept
+Joseph. Then they traded Oates for Janney. As a Hawks fan you have got to
+respect those "hapless" names. 8^) Lets see, who scored the game winning
+overtime goal in the 4th game???
+
+
+> Luke DeCock
+> ldecock@mail.sas.upenn.eu
+
+     /\   David Howarth                              howarth@sbctri.sbc.com
+    ///\   Southwestern Bell Technology Resources Inc.
+   ///  \   Advanced Technology Laboratory
+  ///    \   1010 Pine, Rm 635  St. Louis,  MO.  63101 

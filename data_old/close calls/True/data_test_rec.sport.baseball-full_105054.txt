@@ -1,0 +1,24 @@
+0.446968884939 0.553031115061 0.106062230122 True
+prediction: baseball for data\test\rec.sport.baseball-full\105054
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| hit     |    -8.25 |   -10.07 |    1.82 | **    |
+| best    |    -9.34 |    -8.46 |   -0.88 |       |
+| line    |    -9.34 |   -10.07 |    0.73 |       |
+| year    |    -9.34 |   -10.07 |    0.73 |       |
+| saw     |   -10.04 |    -9.38 |   -0.66 |       |
+| one     |    -8.43 |    -7.87 |   -0.55 |       |
+| last    |    -8.94 |    -8.68 |   -0.25 |       |
+| think   |    -8.94 |    -8.68 |   -0.25 |       |
+| subject |    -7.64 |    -7.59 |   -0.05 |       |
+| deck    |   -10.04 |   -10.07 |    0.03 |       |
+From: klinker@itd.nrl.navy.mil (Eric Klinker)
+Subject: Re: best homeruns
+
+The best one I saw last year was Willie McGee off Matthews (I think?) in
+Phillie.  A fierce line drive that was still rising when it hit thE
+second deck facade at the Vet.  Willie McGee had one homerun last year.
+
+
+-- 
+                                   Eric

@@ -1,0 +1,37 @@
+0.588279791428 0.411720208572 0.176559582856 False
+prediction: hockey for data\test\rec.sport.baseball-full\105155
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| may        |   -10.05 |    -7.97 |   -2.09 | **    |
+| see        |   -10.05 |    -8.25 |   -1.8  | **    |
+| ill        |   -10.05 |    -8.44 |   -1.62 | **    |
+| especially |    -8.44 |   -10.05 |    1.6  | **    |
+| seen       |    -8.67 |   -10.05 |    1.38 | **    |
+| think      |    -9.36 |    -8.1  |   -1.26 | **    |
+| look       |   -10.05 |    -8.95 |   -1.11 | **    |
+| everybody  |    -8.96 |   -10.05 |    1.09 | **    |
+| ron        |    -8.96 |   -10.05 |    1.09 | **    |
+| players    |    -8.44 |    -9.35 |    0.91 |       |
+From: steph@perseus.cs.uiuc.edu (Dale Stephenson)
+Subject: Re: Ron Gant, Stalling, and Hirschbeck.
+
+In <1993Apr21.020426.3316@adobe.com> snichols@adobe.com (Sherri Nichols) writes:
+
+>In article <steph.735343286@pegasus.cs.uiuc.edu> steph@pegasus.cs.uiuc.edu (Dale Stephenson) writes:
+>>But in the past, a disputed strike call has been enough reason to step
+>>out of the batters box.  It may not be a good idea.  It may even irritate the
+>>umpire.  But I've seen it a lot, and I've seen it tolerated.  Just not this
+>>time.
+
+>The key words here are "in the past".  Everybody was warned before the
+>season began that the umpires had been instructed to enforce the rule in
+>the interest of speeding up the game.  
+
+When I see this happening to other players, I'll post a public apology to
+Mr. Hirschbeck.  Until then, I think this was a case of "selective
+enforcement."
+-- 
+Dale J. Stephenson |*| (steph@cs.uiuc.edu) |*| Baseball fanatic
+
+  "It is considered good to look wise, especially when not 
+   overburdened with information" -- J. Golden Kimball

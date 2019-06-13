@@ -1,0 +1,29 @@
+0.437266611852 0.562733388148 0.125466776296 False
+prediction: baseball for data\test\rec.sport.hockey-full\54752
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| c          |    -8.11 |   -10.05 |    1.94 | **    |
+| penalty    |   -10.05 |    -8.25 |   -1.8  | **    |
+| lot        |   -10.05 |    -8.66 |   -1.4  | **    |
+| playoffs   |   -10.05 |    -8.66 |   -1.4  | **    |
+| give       |    -8.67 |   -10.05 |    1.38 | **    |
+| believe    |   -10.05 |    -8.95 |   -1.11 | **    |
+| capitals   |   -10.05 |    -8.95 |   -1.11 | **    |
+| seem       |   -10.05 |    -8.95 |   -1.11 | **    |
+| washington |   -10.05 |    -8.95 |   -1.11 | **    |
+| first      |    -7.86 |    -8.95 |    1.09 | **    |
+From: Robbie Po <RAP115@psuvm.psu.edu>
+Subject: Re: Caps postseason fortunes
+
+In article <1rhddoINN4l9@jhunix.hcf.jhu.edu>, admiral@jhunix.hcf.jhu.edu (Steve
+C Liu) says:
+>Okay, the Caps AGAIN are about to break out the golf clubs but before they
+>do, does anyone have the history of the Washington Capitals' futility
+>record in the playoffs? I remember that Terry's first year was the first
+
+Don't give up so soon.  A lot of Burgh fans didn't give up at 3-1 last year.
+You gotta believe!  (Hard as that may seem)  With the Caps with the #1 power
+play in the playoffs and #1 penalty killing (according to Mike Lange) all
+the Caps have to do is make sure it doesn't go OT...as that was Boston's and
+Chicago's demise.  OT can be a curse.
+

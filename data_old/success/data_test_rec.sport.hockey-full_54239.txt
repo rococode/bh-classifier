@@ -1,0 +1,42 @@
+0.960010987596 0.0399890124037 0.920021975193 True
+prediction: hockey for data\test\rec.sport.hockey-full\54239
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| ball   |   -10.11 |    -7.47 |   -2.63 | **    |
+| fans   |   -10.11 |    -8.25 |   -1.86 | **    |
+| l      |    -8.5  |   -10.04 |    1.54 | **    |
+| roger  |    -8.5  |   -10.04 |    1.54 | **    |
+| lot    |   -10.11 |    -8.65 |   -1.46 | **    |
+| coach  |    -8.72 |   -10.04 |    1.32 | **    |
+| hey    |    -9.01 |   -10.04 |    1.03 | **    |
+| many   |    -9.01 |   -10.04 |    1.03 | **    |
+| would  |    -7.54 |    -8.43 |    0.89 |       |
+| one    |    -7.8  |    -8.65 |    0.85 |       |
+From: golchowy@alchemy.chem.utoronto.ca (Gerald Olchowy)
+Subject: Re: Stan Fischler, 4/22
+
+In article <1993Apr24.181145.17567@news.columbia.edu> gld@cunixb.cc.columbia.edu (Gary L Dare) writes:
+>
+>* Roger Neilson is not property ... among other rumours, he's now
+>the #1 candidate to coach the Flyers, and will bring along Colin
+>Campbell as his assistant.
+>
+
+This would be dumb move of the nineties...Lindros is big and strong...
+but why give him a ball and chain on one leg and an anchor on the
+other to drag along.
+
+>* Compuware is actively scouting Phoenix for a new team in 94-95 [hey,
+>Nick and Jimmy ... buy the Devils and fix them here, please! --- gld].
+>
+
+Not if Pocklington gets there first! (-...actually, if Pocklington
+doesn't get a better deal, he would probably go to Hamilton...taking
+the team out of Canada would get the whole country mad at him...
+taking the team to Hamilton wouldn't get anybody mad at him that 
+isn't mad at him already...and would make him a lot of friends
+in Southern Ontario...so many that the whining of the stupid politicians in
+Edmonton and the fickle spoiled fans wouldn't be noticed at all.
+Edmonton would wallow in anonymnity.
+
+Gerald

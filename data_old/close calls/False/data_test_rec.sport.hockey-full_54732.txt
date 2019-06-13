@@ -1,0 +1,27 @@
+0.421318877873 0.578681122127 0.157362244253 False
+prediction: baseball for data\test\rec.sport.hockey-full\54732
+| word        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| detroit     |   -10.04 |    -7.97 |   -2.07 | **    |
+| season      |    -8.66 |   -10.05 |    1.39 | **    |
+| nhl         |   -10.04 |    -8.66 |   -1.38 | **    |
+| would       |    -7.74 |    -8.66 |    0.92 |       |
+| team        |    -8.1  |    -8.95 |    0.85 |       |
+| though      |    -9.35 |   -10.05 |    0.7  |       |
+| alan        |   -10.04 |    -9.35 |   -0.69 |       |
+| appreciated |   -10.04 |    -9.35 |   -0.69 |       |
+| theres      |   -10.04 |    -9.35 |   -0.69 |       |
+| im          |    -9.35 |    -8.95 |   -0.4  |       |
+Subject: Re: NHL Team Captains
+From: caldwell8102@mtroyal.ab.ca
+
+>And, while we are on the subject, has a captain ever been traded, 
+>resigned, or been striped of his title during the season? Any other 
+>team captain trivia would be appreciated.
+
+Brad McCrimmon was the captain of the Flames when he was traded to Detroit
+following the 1989-90 season. This was during the off-season though.
+
+There's countless examples of captains being traded, I'm sure.
+
+								Alan

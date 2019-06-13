@@ -1,0 +1,40 @@
+0.997335355702 0.00266464429838 0.994670711403 False
+prediction: hockey for data\test\rec.sport.baseball-full\104981
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| sure   |    -8.16 |   -10.04 |    1.88 | **    |
+| world  |    -8.72 |   -10.04 |    1.32 | **    |
+| red    |   -10.11 |    -8.94 |   -1.17 | **    |
+| sox    |   -10.11 |    -8.94 |   -1.17 | **    |
+| end    |    -9.01 |   -10.04 |    1.03 | **    |
+| see    |    -8.32 |    -9.34 |    1.03 | **    |
+| one    |    -7.8  |    -8.65 |    0.85 |       |
+| bases  |   -10.11 |    -9.34 |   -0.76 |       |
+| drive  |   -10.11 |    -9.34 |   -0.76 |       |
+| old    |   -10.11 |    -9.34 |   -0.76 |       |
+From: joec@hilbert.cyprs.rain.com ( Joe Cipale)
+Subject: Re: Old Predictions to laugh at...
+
+In article <wilbanks.734921387@spot.Colorado.EDU> wilbanks@spot.Colorado.EDU (Kokopeli) writes:
+>
+>My prediction: The Red Sox-Cubs Series and Vikings-Broncos SuperBore will
+>occur at the end of the world.
+>
+So, which one will officially be the end of the world? ;)
+
+I can see the end of the WS now:
+"Well folks, here it is.  Bottom of the ninth; bases loaded; Full count on
+Sandberg in this 1-1 game.  Clemens winds, heres the pitch.  Swung on and it is a 
+line drive to center.  Zupcic moves to his left. He's there and.....
+*****ZOT******
+
+ 
+===============================================================================
+| joec@godot.cyprs.rain.com     |WARNING: Elvis impersonating can be hazardous|
+| joec@ursula.ee.pdx.edu        |         to your health -- it sure won't help|
+|                               |         your reputation.                    |
++-------------------------------+---------------------------------------------+
+| I bike, therefore I am!       | Go Red Sox!            Go Celtics!          |
+|                               | Go Seahawks!           Go Sonics!           |
+===============================================================================
+

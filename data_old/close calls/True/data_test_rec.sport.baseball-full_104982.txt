@@ -1,0 +1,29 @@
+0.479360992675 0.520639007325 0.0412780146494 True
+prediction: baseball for data\test\rec.sport.baseball-full\104982
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| mitchell |    -8.67 |   -10.06 |    1.38 | **    |
+| home     |   -10.06 |    -8.96 |   -1.1  | **    |
+| ball     |    -8.96 |   -10.06 |    1.1  | **    |
+| kevin    |   -10.06 |    -9.36 |   -0.7  |       |
+| move     |   -10.06 |    -9.36 |   -0.7  |       |
+| paul     |   -10.06 |    -9.36 |   -0.7  |       |
+| seems    |   -10.06 |    -9.36 |   -0.7  |       |
+| stretch  |   -10.06 |    -9.36 |   -0.7  |       |
+| anything |    -9.37 |   -10.06 |    0.69 |       |
+| length   |    -9.37 |   -10.06 |    0.69 |       |
+From: paula@koufax.cv.hp.com (Paul Andresen)
+Subject: Kevin Mitchell Does It Again
+
+In what seems to be a classic Mitchell move, he drops a fly ball, and injures
+his hamstring on the same play. Haven't heard anything on how serious the
+leg is.
+
+--->Paul, who me? bitter about Mitchell's performance in Seattle? Nah.
+--------------------------------------------------------------------------------
+           We will stretch no farm animal beyond its natural length
+
+  paula@koufax.cv.hp.com   Paul Andresen  Hewlett-Packard  (503)-750-3511
+
+    home: 3006 NW McKinley    Corvallis, OR 97330       (503)-752-8424
+                            A SABR member since 1979

@@ -1,0 +1,44 @@
+0.483126003538 0.516873996462 0.0337479929241 False
+prediction: baseball for data\test\rec.sport.hockey-full\54543
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| hockey   |   -10.08 |    -7.42 |   -2.66 | **    |
+| puck     |   -10.08 |    -8.45 |   -1.63 | **    |
+| maybe    |    -8.47 |   -10.06 |    1.59 | **    |
+| football |    -8.69 |   -10.06 |    1.37 | **    |
+| players  |    -6.86 |    -8.11 |    1.25 | **    |
+| time     |    -7.51 |    -8.67 |    1.16 | **    |
+| goal     |   -10.08 |    -8.96 |   -1.12 | **    |
+| remember |   -10.08 |    -8.96 |   -1.12 | **    |
+| guys     |    -8.98 |   -10.06 |    1.08 | **    |
+| times    |    -8.98 |   -10.06 |    1.08 | **    |
+From: galvint@cs.nps.navy.mil (thomas galvin)
+Subject: Re: Camera work on televised games
+
+In article <1993Apr22.105352.18235@vax5.cit.cornell.edu> yecx@vax5.cit.cornell.edu writes:
+>Is it just me or is the camera work on some of these games really sad??  I
+>can't remember how many times during the Penguins-Devils game they showed some
+>guy (without the puck) being checked in the corner while the puck was being
+>fired on goal.  In fact, I think they even missed one goal completely because
+>they were showing two guys holding each other in the corner.
+>
+>Now the last time I watched a football game, they didn't show the lineman going
+>at it while the running back turned the corner for a touchdown . . . . 
+>
+>Is it just me??	
+>
+>Greg
+>
+
+ESPN has been trying various things to get away from the
+follow-the-puck concept of televising hockey games.  One of the main
+problems with hockey is that it is very difficult to show everything
+that is going on -- more happens away from the puck than in any other
+sport except maybe football and they can do iso's on football players
+to be shown between plays.
+
+The problem of course is that sometimes you get something worthwhile,
+other times you get burned.
+
+-Tom Galvin        galvint@taurus.cs.nps.navy.mil
+

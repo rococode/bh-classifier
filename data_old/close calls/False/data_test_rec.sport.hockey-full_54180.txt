@@ -1,0 +1,25 @@
+0.392262715109 0.607737284891 0.215474569783 False
+prediction: baseball for data\test\rec.sport.hockey-full\54180
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| one        |    -8.09 |    -9.36 |    1.27 | **    |
+| context    |    -8.93 |   -10.05 |    1.12 | **    |
+| playing    |   -10.03 |    -8.95 |   -1.08 | **    |
+| ridiculous |    -9.34 |   -10.05 |    0.71 |       |
+| another    |   -10.03 |    -9.36 |   -0.68 |       |
+| time       |    -9.34 |    -8.95 |   -0.39 |       |
+| players    |    -8.93 |    -8.67 |   -0.27 |       |
+| absurd     |   -10.03 |   -10.05 |    0.02 |       |
+| compare    |   -10.03 |   -10.05 |    0.02 |       |
+| franciss   |   -10.03 |   -10.05 |    0.02 |       |
+From: golchowy@alchemy.chem.utoronto.ca (Gerald Olchowy)
+Subject: Re: plus minus stat
+
+It is meaningless to compare one player's plus/minus statistic with
+another players' out of the context of the role and the playing time
+of the players involved.    
+
+To compare Jagr's and Francis's plus/minus is ridiculous and absurd...
+
+Gerald
+

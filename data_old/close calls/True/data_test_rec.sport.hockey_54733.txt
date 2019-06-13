@@ -1,0 +1,37 @@
+0.598255867074 0.401744132926 0.196511734148 True
+prediction: hockey for data\test\rec.sport.hockey\54733
+| word                        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------------------------|----------|----------|---------|-------|
+| nhl                         |    -7.61 |    -9.72 |    2.11 | **    |
+| claim                       |    -8.08 |    -9.72 |    1.64 | **    |
+| gee                         |    -8.08 |    -9.72 |    1.64 | **    |
+| roger                       |    -8.08 |    -9.72 |    1.64 | **    |
+| maynard                     |    -8.3  |    -9.72 |    1.42 | **    |
+| maynardramseycslaurentianca |    -8.3  |    -9.72 |    1.42 | **    |
+| many                        |    -8.3  |    -6.95 |   -1.36 | **    |
+| work                        |    -9.69 |    -8.33 |   -1.36 | **    |
+| internet                    |    -9    |    -7.77 |   -1.22 | **    |
+| cordially                   |    -8.59 |    -9.72 |    1.13 | **    |
+From: maynard@ramsey.cs.laurentian.ca (Roger Maynard)
+Subject: Re: NHL LETTER & Roger's Response
+
+In <1993Apr26.054703.29827@sol.ctr.columbia.edu> phoenix@startide.ctr.columbia.edu (Ali Lemer) writes:
+
+>Gee, what a coincidence. He doesn't share my views. Perhaps that's why his
+>name is not on the list to accompany the letter! Maybe I should write a 
+>disclaimer at the end: "Mr. Bettman, nota bene: Roger Maynard does NOT
+>agree with this letter!" I know he'd be so worried, otherwise!
+
+You wouldn't have to put my name at the bottom if you simply appended a 
+standard disclaimer that the opinions expressed in your petition in no
+way claim to represent the views of either rec.sport.hockey or the internet
+as a whole.  You have surely seen these disclaimers appended to the postings
+of many who work for companies and post on the net.  The disclaimers, clever
+though some of them may be, are there for a reason.
+
+ 
+-- 
+
+cordially, as always,                      maynard@ramsey.cs.laurentian.ca 
+                                           "So many morons...
+rm                                                 ...and so little time." 

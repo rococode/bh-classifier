@@ -1,0 +1,20 @@
+0.573556736502 0.426443263498 0.147113473004 False
+prediction: hockey for data\test\rec.sport.baseball-full\105144
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| play     |    -7.97 |   -10.04 |    2.07 | **    |
+| phillies |   -10.05 |    -8.94 |   -1.11 | **    |
+| like     |    -7.97 |    -8.94 |    0.97 |       |
+| know     |    -9.36 |    -8.43 |   -0.93 |       |
+| numbers  |   -10.05 |    -9.35 |   -0.7  |       |
+| blamed   |    -9.36 |   -10.04 |    0.68 |       |
+| exact    |    -9.36 |   -10.04 |    0.68 |       |
+| lead     |    -9.36 |   -10.04 |    0.68 |       |
+| game     |    -7.35 |    -7.96 |    0.62 |       |
+| anyone   |    -8.95 |    -8.43 |   -0.52 |       |
+From: kmelcher@rafael.Arco.COM (Kenneth Melcher)
+Subject: Re: The 1964 Phillies: deja vu?
+
+My dad has always blamed the Phillies collapse in '64 on me...  On Sept 21,  1964,  the Phillies had something like a 9 game lead with 12 to play.  I was born on Sept 21,  1964.  The Phils proceeded to lose something like 10 straight while the Cards won 10 straight (does anyone know hte exact numbers?),  and a pennant was blown.  To this day my dad likes to remind me that it all began when I was born!
+
+KRM

@@ -1,0 +1,47 @@
+0.418319187637 0.581680812363 0.163361624726 False
+prediction: baseball for data\test\rec.sport.hockey-full\54527
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| home     |   -10.04 |    -8.68 |   -1.35 | **    |
+| work     |   -10.04 |    -8.68 |   -1.35 | **    |
+| early    |    -8.94 |   -10.07 |    1.13 | **    |
+| live     |   -10.04 |    -8.97 |   -1.07 | **    |
+| said     |   -10.04 |    -8.97 |   -1.07 | **    |
+| baseball |    -7.74 |    -8.68 |    0.95 |       |
+| changed  |    -9.34 |   -10.07 |    0.73 |       |
+| long     |    -8.65 |    -9.38 |    0.73 |       |
+| net      |    -9.34 |   -10.07 |    0.73 |       |
+| espn     |   -10.04 |    -9.38 |   -0.66 |       |
+From: galvint@cs.nps.navy.mil (thomas galvin)
+Subject: Re: ESPN f*ck up
+
+In article <1428@wavefront.wti.com> matthew@wavefront.wti.com (Matt Coohill) writes:
+>
+>	Okay... here's some gripe"ing" (?griping?... whatever).
+>
+>	(I live in Santa Barbara... for reference... I think)
+>
+>	Okay, ABC showed the Kings/Flames... fine... YAWN.
+>
+>	ESPN (through a fortunate rainout of a baseball game) showed the
+>  Red Wings/Toronto game... cool.
+>
+>	But I SWEAR that the advertisements all week long had said that
+>  ESPN would show Pitt/NJ on Tuesday and Bos/Buff on Thursday.
+>
+>	I raced home from work early (4:30 Pacific) to catch the game, but
+>  ALAS, it was the Boston/Buffalo game and then they promised that they would
+>  show the Pitt/NJ game on Thursday.  OVERNIGHT they changed their mind.
+>
+>[rest deleted]
+
+    ESPN never committed (and I never saw advertised) to a particular
+Thursday game.  They had originally scheduled Bos-Buf, and that was
+somehow leaked on this net, but to my knowledge ESPN never publicly
+released a schedule until Monday when they announced Pitt-NJ Thursday
+and Boston-Buffalo Saturday.
+
+-Tom Galvin         galvint@taurus.cs.nps.navy.mil
+
+
+

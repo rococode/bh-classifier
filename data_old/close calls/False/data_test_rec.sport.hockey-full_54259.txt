@@ -1,0 +1,28 @@
+0.471295387876 0.528704612124 0.0574092242486 False
+prediction: baseball for data\test\rec.sport.hockey-full\54259
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| penguins |   -10.05 |    -8.44 |   -1.62 | **    |
+| many     |    -8.67 |   -10.05 |    1.38 | **    |
+| oh       |   -10.05 |    -8.95 |   -1.11 | **    |
+| guess    |    -8.96 |   -10.05 |    1.09 | **    |
+| score    |   -10.05 |    -9.35 |   -0.7  |       |
+| mike     |    -9.36 |   -10.05 |    0.68 |       |
+| series   |    -8.96 |    -8.44 |   -0.52 |       |
+| game     |    -7.86 |    -7.65 |   -0.21 |       |
+| article  |    -7.86 |    -7.97 |    0.11 |       |
+| subject  |    -7.57 |    -7.65 |    0.08 |       |
+From: msanfrat@cs.ucsd.edu (Mike Sanfratello)
+Subject: Re: ESPN Thumbs Up your $%#@*!!
+
+In article <1993Apr20.214505.6925@wkuvx1.bitnet> kozloce@wkuvx1.bitnet writes:
+>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUGGGGGGGGGGGGGGGG!
+>
+>(Oh guess what the score is now 7-0 penguins! Switch games you $%&*#@!!!)
+> [...]
+
+and guess which game ESPN is showing in my area on Thursday - yep,
+Pens-Devils.  There are so many other interesting series, who cares
+about Mario???
+
+mike

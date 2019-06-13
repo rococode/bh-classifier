@@ -1,0 +1,32 @@
+prediction: baseball for data\test\rec.sport.baseball-full\105041
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| morris  |    -7    |   -10.04 |    3.04 | **    |
+| ws      |    -8.25 |   -10.04 |    1.79 | **    |
+| rings   |    -8.66 |   -10.04 |    1.38 | **    |
+| always  |   -10.04 |    -8.94 |   -1.1  | **    |
+| steve   |   -10.04 |    -8.94 |   -1.1  | **    |
+| pitcher |    -8.94 |   -10.04 |    1.1  | **    |
+| pitches |    -8.94 |   -10.04 |    1.1  | **    |
+| toronto |    -8.94 |   -10.04 |    1.1  | **    |
+| would   |    -7.56 |    -8.65 |    1.1  | **    |
+| yanks   |    -8.94 |   -10.04 |    1.1  | **    |
+From: stevet@eskimo.com (Steven Thornton)
+Subject: Re: Relative value of players
+
+<KIME.93Apr20133127@mongoose.torolab.ibm.com> <mjones.735335684@fenway>
+Organization: Eskimo North (206) 367-3837 {eskimo.com}
+
+
+Yeah, Morris just knows how to win. That's why he lost 18 for Detroit in
+1990. Funny how he wins a lot of games when he pitches on good teams but
+loses a lot when he pitches on bad ones. And if "rings" was the only
+criteria for success, then teams would always tend to repeat, and
+eventually you'd have the same team win the WS every bleepin' year. Sort
+of like the yanks in the 50s.
+
+Morris is a decent pitcher on the downside of a good, not great, career.
+Toronto will finish 3rd or 4th this year, with Morris and all those
+rings, because their pitching staff was destroyed over the off-season.
+
+Steve Thornton   stevet@eskimo.com

@@ -1,0 +1,16 @@
+0.486955852939 0.513044147061 0.0260882941222 True
+prediction: baseball for data\test\rec.sport.baseball\105059
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| anyone   |    -8.07 |    -8.72 |    0.65 |       |
+| know     |    -8.36 |    -8.02 |   -0.33 |       |
+| arocha   |    -9.45 |    -9.41 |   -0.04 |       |
+| jeffries |    -9.45 |    -9.41 |   -0.04 |       |
+| redbirds |    -9.45 |    -9.41 |   -0.04 |       |
+| status   |    -9.45 |    -9.41 |   -0.04 |       |
+| subject  |    -7.66 |    -7.62 |   -0.04 |       |
+| wounded  |    -9.45 |    -9.41 |   -0.04 |       |
+From: sbp002@acad.drake.edu
+Subject: Wounded Redbirds
+
+Does anyone know the status of Jeffries or Arocha?

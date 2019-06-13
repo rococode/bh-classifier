@@ -1,0 +1,30 @@
+0.38247868094 0.61752131906 0.23504263812 False
+prediction: baseball for data\test\rec.sport.hockey-full\54202
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| devils    |   -10.04 |    -8.44 |   -1.6  | **    |
+| needs     |    -8.65 |   -10.05 |    1.39 | **    |
+| bill      |   -10.04 |    -8.95 |   -1.09 | **    |
+| go        |    -8.94 |    -7.97 |   -0.97 |       |
+| game      |    -7.74 |    -8.44 |    0.7  |       |
+| article   |    -8.25 |    -8.95 |    0.7  |       |
+| less      |    -9.35 |   -10.05 |    0.7  |       |
+| mark      |    -9.35 |   -10.05 |    0.7  |       |
+| someone   |    -9.35 |   -10.05 |    0.7  |       |
+| wondering |    -9.35 |   -10.05 |    0.7  |       |
+From: v057p7nk@ubvmsb.cc.buffalo.edu (Andrew W Korbut)
+Subject: Re: Ulf crushes Valeri Zelepukin
+
+In article <C5xx27.G32@newsserver.pixel.kodak.com>, clare@ssd.kodak.com (Bill Clare 726-9419) writes...
+>That more or less says it.  I flicked the Penguins game on briefly and saw
+>Ulf cross-check Valeri in the face.  I am wondering if Don Cherry is going to
+>go off on this at all in coach's corner.
+
+Nah, Cherry will only spew if Ulf was nailing "a good Canadian boy".
+
+What an idiot... if this is the heart and soul of Canadian patriotism, 
+then someone needs a new hobby...
+
+ Dr.D [The Devils Advocate]        "Drinkin' & women & guns don't mix..."
+ v057p7nk@ubvms.cc.buffalo.edu
+ awkorbut@acsu.buffalo.edu                      - Mark Arm

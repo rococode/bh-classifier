@@ -1,0 +1,48 @@
+0.512144658334 0.487855341666 0.0242893166688 True
+prediction: hockey for data\test\rec.sport.hockey-full\54778
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| wings   |    -8.09 |   -10.09 |    2    | **    |
+| detroit |    -7.96 |    -9.4  |    1.44 | **    |
+| nhl     |    -8.65 |   -10.09 |    1.44 | **    |
+| another |   -10.04 |    -8.7  |   -1.33 | **    |
+| bad     |   -10.04 |    -8.7  |   -1.33 | **    |
+| didnt   |   -10.04 |    -8.7  |   -1.33 | **    |
+| state   |    -8.94 |   -10.09 |    1.15 | **    |
+| happen  |   -10.04 |    -8.99 |   -1.05 | **    |
+| roger   |   -10.04 |    -8.99 |   -1.05 | **    |
+| times   |   -10.04 |    -8.99 |   -1.05 | **    |
+From: LMARSHA@cms.cc.wayne.edu (Laurie Marshall)
+Subject: Re: Another travesty at the Joe Louis
+
+In article <1993Apr22.114213.3391@mtroyal.ab.ca>
+caldwell8102@mtroyal.ab.ca writes:
+ 
+>(Detroit, April 21)
+>
+>Most knowledgable observers once again watched in shock as the Detroit Red
+>Wings again beat the best goaltender in the world six times en route to
+>another easy victory over the best team in the NHL.
+>
+>For the best goaltender in the world, Felix Potvin, six was a bad number as
+>he surrendered six goals and collected six minutes in penalties in reponse
+>to the goon tactics employed by the inferior Red Wings team.
+>
+>                                                                Alan
+>
+>P.S. We told you this would happen, Roger. Didn't we? I love it.....
+ 
+ 
+ 
+ 
+ 
+ Where is Roger anyway?  Haven't heard from him in awhile.  He must
+be out on the golf course waiting for the Leafs to join him any day
+now. : )
+ 
+ 
+ 
+Laurie Marshall
+Wayne State University
+Detroit, Michigan
+Go Wings!!!!

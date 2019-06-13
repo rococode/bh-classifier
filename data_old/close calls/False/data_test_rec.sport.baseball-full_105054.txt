@@ -1,0 +1,24 @@
+0.59280803758 0.40719196242 0.18561607516 False
+prediction: hockey for data\test\rec.sport.baseball-full\105054
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| hit      |    -9.37 |    -7.97 |   -1.4  | **    |
+| still    |    -8.96 |   -10.05 |    1.08 | **    |
+| best     |   -10.06 |    -9.35 |   -0.71 |       |
+| homeruns |   -10.06 |    -9.35 |   -0.71 |       |
+| eric     |    -9.37 |   -10.05 |    0.68 |       |
+| phillie  |    -9.37 |   -10.05 |    0.68 |       |
+| year     |    -7.58 |    -8.25 |    0.68 |       |
+| one      |    -7.98 |    -8.44 |    0.45 |       |
+| think    |    -8.68 |    -8.44 |   -0.24 |       |
+| last     |    -8.12 |    -7.97 |   -0.15 |       |
+From: klinker@itd.nrl.navy.mil (Eric Klinker)
+Subject: Re: best homeruns
+
+The best one I saw last year was Willie McGee off Matthews (I think?) in
+Phillie.  A fierce line drive that was still rising when it hit thE
+second deck facade at the Vet.  Willie McGee had one homerun last year.
+
+
+-- 
+                                   Eric

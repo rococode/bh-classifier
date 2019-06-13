@@ -1,0 +1,44 @@
+0.589830107262 0.410169892738 0.179660214525 True
+prediction: hockey for data\test\rec.sport.hockey-full\54283
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| games    |    -9.37 |    -6.84 |   -2.53 | **    |
+| baseball |   -10.06 |    -7.98 |   -2.09 | **    |
+| got      |   -10.06 |    -8.26 |   -1.8  | **    |
+| reason   |   -10.06 |    -8.67 |   -1.39 | **    |
+| well     |    -9.37 |    -7.98 |   -1.39 | **    |
+| city     |    -8.68 |   -10.06 |    1.38 | **    |
+| mike     |    -7.99 |    -9.36 |    1.38 | **    |
+| update   |    -8.68 |   -10.06 |    1.38 | **    |
+| else     |   -10.06 |    -8.96 |   -1.11 | **    |
+| back     |    -8.97 |   -10.06 |    1.09 | **    |
+From: cuorg@uxa.ecn.bgu.edu (Orazio Guagliano)
+Subject: Re: Schedule...
+
+In article <1993Apr20.233724.26553@news.columbia.edu> gld@cunixb.cc.columbia.edu (Gary L Dare) writes:
+>mre@teal.Eng.Sun.COM (Mike Eisler) writes:
+>>gld@cunixb.cc.columbia.edu (Gary L Dare) writes:
+>>>I can't believe that ESPN is making SportsChannel America look good.
+>>
+>>But only in NY,NJ, Philadelphia, and Chicago. Everywhere else, the only
+>>reason SportsChannel was available was for local baseball broadcasts.
+>
+>Yes, a point well-taken ... however, even in areas that finally got
+>some games, there's something nagging in the back of your skull when
+>the network that has the national rights in its pocket says on its
+>sports news, "There's an awesome overtime going on in Quebec City,
+>and we'll *try* to get you an update through the show ..." when you
+>know that it's on a satellite's feedhorn somewhere up there ...
+
+
+  Listen guys you can talk about this the whole playoffs.  I'm here in a
+small town in southern Illinois at school.  I'm from Canada and I know
+that cbc and tsn have games on every night,  all you have to do is go to
+a bar with a satellite.  I have watched both games between Mon Que and
+toronto and detroit,  not to mention Van vs Winn and with cbc.  They
+show all goals from every game that evening so I haven't missed a goal
+all playoffs.  Well have to go boy leafs are on Ciao.
+
+Roger Guagliano
+Eastern Illinois University
+

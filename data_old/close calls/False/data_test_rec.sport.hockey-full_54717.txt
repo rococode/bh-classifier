@@ -1,0 +1,28 @@
+0.406534337765 0.593465662235 0.18693132447 False
+prediction: baseball for data\test\rec.sport.hockey-full\54717
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| teams   |   -10.04 |    -8.26 |   -1.78 | **    |
+| year    |    -7.96 |    -9.36 |    1.39 | **    |
+| russian |   -10.04 |    -8.66 |   -1.38 | **    |
+| happen  |    -9.35 |   -10.05 |    0.7  |       |
+| last    |    -8.25 |    -8.95 |    0.7  |       |
+| lost    |    -9.35 |   -10.05 |    0.7  |       |
+| seems   |    -9.35 |   -10.05 |    0.7  |       |
+| work    |    -9.35 |   -10.05 |    0.7  |       |
+| goals   |   -10.04 |    -9.36 |   -0.68 |       |
+| wc      |   -10.04 |    -9.36 |   -0.68 |       |
+From: hechel@vms.huji.ac.il
+Subject: switzerland at WC93
+
+what did happen to the swiss team ? last year they reached the semi-final
+and now after 3 matches no points and even no goals !!
+after the 0:1 against Italy it seems they lost any hope and were
+overrun 0:6 by the russian team.
+now it seems that they have to work hard not to be relegated to the
+B-level. does anybody know if this WC is the qualification tournement for
+the olympic games '94 in Lillehammer or are some teams already
+qualified for them.
+
+hopp schwiiz
+           daniel

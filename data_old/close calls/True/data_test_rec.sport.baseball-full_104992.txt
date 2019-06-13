@@ -1,0 +1,67 @@
+0.394742863859 0.605257136141 0.210514272283 True
+prediction: baseball for data\test\rec.sport.baseball-full\104992
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| vs      |    -9.34 |    -7.42 |   -1.91 | **    |
+| many    |   -10.03 |    -8.45 |   -1.58 | **    |
+| batter  |    -8.65 |   -10.06 |    1.42 | **    |
+| past    |    -8.65 |   -10.06 |    1.42 | **    |
+| walk    |    -8.65 |   -10.06 |    1.42 | **    |
+| batting |    -8.93 |   -10.06 |    1.13 | **    |
+| pitcher |    -8.93 |   -10.06 |    1.13 | **    |
+| please  |    -8.93 |   -10.06 |    1.13 | **    |
+| try     |    -8.93 |   -10.06 |    1.13 | **    |
+| based   |   -10.03 |    -8.96 |   -1.07 | **    |
+From: mss@netcom.com (Mark Singer)
+Subject: Re: Bases loaded walk gives Reds win in 12: RedReport 4-21
+
+In article <GRABINER.93Apr23115329@germain.harvard.edu> grabiner@math.harvard.edu (David Grabiner) writes:
+>In article <mssC5w795.7G4@netcom.com>, Mark Singer writes:
+>
+>Based only on this data*, I don't see any reason to
+>pinch-hit for Sabo, or any other player who had been a poor clutch
+>hitter in the past.
+>
+>But there are many other factors involved in a decision to pinch-hit.
+>Does the pinch-hitter give you a platoon advantage?  (Any portion of
+>Sabo's clutch split that results from his platoon split is certainly a
+>real ability, even if it has nothing to do with clutch hitting.)  Do you
+>have a singles hitter at the plate when you need a home run?  Do you
+>have a curveball pitcher facing a batter who has trouble with curves?
+
+
+Hey!  What's this?  We agree!
+
+No platoon advantage (Sabo vs. Samuel).
+
+Both players have a reputation of being excellent fastball hitters,
+	and both have a reputation of being fooled too often with
+	slow curves and change ups.
+
+Sabo has more power, and a little bit of a better batting eye.  Samuel
+	is noted as an agressive free-swinger.  Sabo has more homerun power.
+
+Both players started the game hitting below .200.  
+
+There may have been some game considerations that might have prompted
+	Perez to want to reserve Samuel for use later.  But the game
+	*was* on the line, and Samuel never did get in.
+
+Given all of this, I don't see a lot to suggest pinch-hitting, nor do
+I see anything to suggest no pinch-hitting.  There is, of course, the
+clutch-hitting information.  But if that's useless...
+
+Then again.  If it's not...
+
+
+>
+>--
+>David Grabiner, grabiner@zariski.harvard.edu
+>"We are sorry, but the number you have dialed is imaginary."
+>"Please rotate your phone 90 degrees and try again."
+>Disclaimer: I speak for no one and no one speaks for me.
+
+
+-- 
+Mark Singer    
+mss@netcom.com

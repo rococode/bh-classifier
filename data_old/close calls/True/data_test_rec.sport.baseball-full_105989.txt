@@ -1,0 +1,42 @@
+0.426947202162 0.573052797838 0.146105595677 True
+prediction: baseball for data\test\rec.sport.baseball-full\105989
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| b       |    -7.42 |   -10.08 |    2.66 | **    |
+| may     |    -7.66 |   -10.08 |    2.42 | **    |
+| home    |    -8.45 |   -10.08 |    1.63 | **    |
+| made    |   -10.06 |    -8.47 |   -1.59 | **    |
+| either  |    -8.96 |   -10.08 |    1.12 | **    |
+| hitting |    -8.96 |   -10.08 |    1.12 | **    |
+| runs    |    -8.96 |   -10.08 |    1.12 | **    |
+| yankees |    -8.96 |   -10.08 |    1.12 | **    |
+| kind    |   -10.06 |    -8.98 |   -1.08 | **    |
+| must    |   -10.06 |    -8.98 |   -1.08 | **    |
+From: roney@selkirk.sfu.ca (Chris J. Roney)
+Subject: Re: The Babe v. The Pride of the Yankees
+
+behrens@cc.swarthmore.edu (Eric Behrens) writes:
+
+
+>The Babe and The Pride of the Yankees offer very different renditions of
+>the sotry about Ruth and Gherig hitting home runs for the boy in the
+>hospital.  Can some historian out there explain "history's" version of the
+>story.  
+
+>I wouldn't put is past either (or both) of the movies to season the truth
+>with a little extra spice.
+
+>Any other comments as to inaccuracies in these two movies?
+
+
+
+   Good question!  I kind of wondered about this myself.  Just one
+thought I had on it  -  the Babe himself was IN "Pride of the
+Yankees", which made me think
+
+a) that version may be closer to the truth, and 
+b) the Babe must have been a pretty good gut to be in the movie even
+though some of the scenes didn't make him look completely flattering.
+
+-- 
+Chris Roney  (e-mail chris_roney@sfu.ca)

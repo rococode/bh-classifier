@@ -1,0 +1,44 @@
+0.40467077891 0.59532922109 0.190658442181 True
+prediction: baseball for data\test\rec.sport.baseball-full\105036
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| team     |   -10.03 |    -7.73 |   -2.3  | **    |
+| years    |   -10.03 |    -8.42 |   -1.61 | **    |
+| others   |    -8.65 |   -10.03 |    1.39 | **    |
+| point    |    -8.65 |   -10.03 |    1.39 | **    |
+| could    |   -10.03 |    -8.65 |   -1.39 | **    |
+| article  |    -7.84 |    -8.93 |    1.1  | **    |
+| anyway   |   -10.03 |    -8.93 |   -1.1  | **    |
+| probably |   -10.03 |    -8.93 |   -1.1  | **    |
+| anyone   |    -9.34 |   -10.03 |    0.69 |       |
+| around   |    -9.34 |   -10.03 |    0.69 |       |
+From: luriem@alleg.edu(Michael Lurie) The Liberalizer
+Subject: Re: Winfield's spot on THE ALL TIME GREATS TEAM
+
+In article <9834@blue.cis.pitt.edu> dtate+@pitt.edu (David M. Tate)  
+writes:
+> In article <C5wEwD.Kto@murdoch.acc.Virginia.EDU>  
+drw3l@delmarva.evsc.Virginia.EDU (David Robert Walker) writes:
+> >In article <9729@blue.cis.pitt.edu> dtate+@pitt.edu (David M. Tate)  
+writes:
+> 
+ielding RF of all time, as far
+> 	    as anyone can tell
+> 
+> I did a quick scan last night, looking for players with a peak  
+comparable
+> to or better than Winfield.  In my quick-n-dirty subjective judgement,  
+you
+> could make good cases for Ruth, Aaron, Ott, Robinson, Clemente, Kaline, 
+> Maris, Klein, Jackson, Waner, and probably a few others.  This is not a
+> knock on Winfield, but a comment on his consistency: all of those other
+> players had awesome stretches and very good stretches, while Winfield  
+has
+> been more uniformly excellent.  Hall of Fame?  Absolutely.  Top-10 peak?
+> I'm not so sure.  Top 10 total career value?  Yes, almost certainly.
+> 
+> 
+
+
+
+Point taken. When was winfield's peak years anyway? probably around 85.

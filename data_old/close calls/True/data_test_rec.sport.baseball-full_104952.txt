@@ -1,0 +1,32 @@
+0.477111618418 0.522888381582 0.0457767631645 True
+prediction: baseball for data\test\rec.sport.baseball-full\104952
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| cubs    |    -7.42 |   -10.05 |    2.63 | **    |
+| tell    |   -10.05 |    -8.66 |   -1.4  | **    |
+| winning |    -8.67 |   -10.05 |    1.38 | **    |
+| east    |   -10.05 |    -8.95 |   -1.11 | **    |
+| thanks  |   -10.05 |    -8.95 |   -1.11 | **    |
+| without |    -8.96 |   -10.05 |    1.09 | **    |
+| go      |    -8.96 |    -7.97 |   -0.99 |       |
+| anyone  |   -10.05 |    -9.35 |   -0.7  |       |
+| story   |   -10.05 |    -9.35 |   -0.7  |       |
+| call    |    -9.36 |   -10.05 |    0.68 |       |
+From: rap50204@uxa.cso.uiuc.edu (Underdog )
+Subject: Southpaw?
+
+
+
+Can anyone out there tell me why they call left-handed pitchers
+"Southpaw"?
+
+Also the story on how the term originated.
+
+Thanks!! 
+
+
+Go Cubs! 
+
+Prediction: They will finish over .500 this year without winning the East.
+
+

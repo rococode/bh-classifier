@@ -1,0 +1,39 @@
+0.443486574325 0.556513425675 0.11302685135 False
+prediction: baseball for data\test\rec.sport.hockey-full\54240
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| games  |    -9.34 |    -8.13 |   -1.22 | **    |
+| help   |    -8.94 |   -10.07 |    1.13 | **    |
+| thats  |    -8.94 |   -10.07 |    1.13 | **    |
+| pay    |   -10.04 |    -8.97 |   -1.07 | **    |
+| player |    -9.34 |    -8.28 |   -1.07 | **    |
+| anyone |    -8.65 |    -9.38 |    0.73 |       |
+| blue   |    -9.34 |   -10.07 |    0.73 |       |
+| called |    -9.34 |   -10.07 |    0.73 |       |
+| dont   |    -9.34 |   -10.07 |    0.73 |       |
+| liked  |    -9.34 |   -10.07 |    0.73 |       |
+From: allan@cs.UAlberta.CA (Allan Sullivan)
+Subject: Don's nickname "grapes" (was Re: Don Cherry - help me out, here)
+
+georgeh@gjhsun (George H) writes:
+
+>LMARSHA@cms.cc.wayne.edu (Laurie Marshall) writes:
+
+>>Don got his nickname 'Grapes' but I'm not sure.  Don use to coach the
+>>Boston Bruins.  I don't know exactly when that was.  Could someone fill
+>>me in on this info?
+
+>I think that the name 'grapes' came because as coach (for the Bruins ?
+>or in the minors ?) he used to chew on grapes to keep from getting 
+>dehydrated during the games.  His dog Blue may have been named 
+>'cause he liked Labatts beer ... anyone know about that ?
+
+According to "Quotations from Chairman Cherry", Don was playing in
+Springfield. He and another player had to pay some fines; the other
+player had his paid off, but not Don didn't want to.
+
+Don called the other player a "teacher's Pet", and the other player
+replied "Ah, that's just sour grapes".
+
+Don't know how accurate that is, but that's what's printed.
+

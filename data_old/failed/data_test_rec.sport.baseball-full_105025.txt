@@ -1,0 +1,31 @@
+prediction: hockey for data\test\rec.sport.baseball-full\105025
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| head   |    -8.65 |   -10.04 |    1.39 | **    |
+| lets   |    -8.94 |   -10.04 |    1.1  | **    |
+| seen   |    -8.94 |   -10.04 |    1.1  | **    |
+| credit |   -10.04 |    -8.94 |   -1.1  | **    |
+| throws |   -10.04 |    -8.94 |   -1.1  | **    |
+| yes    |   -10.04 |    -8.94 |   -1.1  | **    |
+| blues  |    -9.35 |   -10.04 |    0.7  |       |
+| champs |    -9.35 |   -10.04 |    0.7  |       |
+| imo    |    -9.35 |   -10.04 |    0.7  |       |
+| ivy    |    -9.35 |   -10.04 |    0.7  |       |
+From: kkeller@mail.sas.upenn.edu (Keith Keller)
+Subject: Mattingly
+
+Just to add to this vein, consider that range of a first baseman is not
+the only important thing.  He is IMO the best fielder of bad throws from
+the other infielders.  I have seen him scoop balls out of the dirt, catch
+balls off a large bounce, take down balls over his head, wide, etc. ad
+infinitum.  *And* he gets the out, much of the time.  Some of the things
+he does to save his infielders of errors are amazing.  You have to give
+Mattingly credit for being able to do all of that while keeping his foot
+near the bag (yes, I am sure he gets a few calls because he is Mattingly :-)
+
+--
+    Keith Keller				LET'S GO RANGERS!!!!!
+	kkeller@mail.sas.upenn.edu		IVY LEAGUE CHAMPS!!!!
+     In this corner				LET'S GO QUAKERS!!!!!
+     Weighing in at almost every weight imaginable . . . 
+     Life, and all that surrounds it.		     -- Blues Traveler, 1993

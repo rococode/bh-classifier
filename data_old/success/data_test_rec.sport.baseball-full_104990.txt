@@ -1,0 +1,35 @@
+0.00102724448686 0.998972755513 0.997945511026 True
+prediction: baseball for data\test\rec.sport.baseball-full\104990
+| word         |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------------|----------|----------|---------|-------|
+| like         |    -8.25 |    -9.41 |    1.17 | **    |
+| trade        |    -8.94 |   -10.11 |    1.17 | **    |
+| going        |   -10.04 |    -9.01 |   -1.03 | **    |
+| maynard      |   -10.04 |    -9.01 |   -1.03 | **    |
+| came         |    -9.34 |   -10.11 |    0.76 |       |
+| continues    |    -9.34 |   -10.11 |    0.76 |       |
+| philadelphia |    -9.34 |   -10.11 |    0.76 |       |
+| jim          |   -10.04 |    -9.41 |   -0.62 |       |
+| meaning      |   -10.04 |    -9.41 |   -0.62 |       |
+| surprise     |   -10.04 |    -9.41 |   -0.62 |       |
+From: mb@cray.com (Maynard Brandt)
+Subject: Re: Twins Update 4-22
+
+In article <1993Apr23.151050.8995@sctc.com> macomber@sctc.com (Chuck Macomber) writes:
+>
+>TWINS UPDATE --  Posted April 22, 1993  
+>---------------------------------------------
+>Jim Deshaies continues to be the surprise of not only the Twins, but of
+>the American League as well.  Going into today's game, Deshaies was 3-0
+>with a 1.74 ERA.  Deshaies allowed 2 Earned runs in 6 2/3 innings, meaning
+>his ERA will climb slightly.  Deshaies, who came to MN via a trade with
+>Philadelphia which sent David West there, continues to make Andy MacPhail
+>look like a true genius.
+>
+Minor correction: Hartley came in the West trade to Phily.  Deshaies signed
+as a free agent ($1.7M over 2 years).  He pitched for San Diego last year.
+-- 
+Regards,
+
+Maynard Brandt
+Cray Research, Inc.

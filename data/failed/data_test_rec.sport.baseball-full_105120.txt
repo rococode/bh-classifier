@@ -1,0 +1,48 @@
+0.9974902740181627 0.0025097259818377235 0.994980548036325 False
+prediction: hockey for data\test\rec.sport.baseball-full\105120
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| period      |    -7.11 |   -10.06 |    2.95 | **    |
+| rangers     |    -7.86 |   -10.06 |    2.2  | **    |
+| far         |   -10.05 |    -8.45 |   -1.6  | **    |
+| today       |   -10.05 |    -8.45 |   -1.6  | **    |
+| players     |    -8.67 |   -10.06 |    1.39 | **    |
+| another     |    -8.96 |   -10.06 |    1.1  | **    |
+| mvp         |    -8.96 |   -10.06 |    1.1  | **    |
+| question    |   -10.05 |    -8.96 |   -1.09 | **    |
+| know        |    -8.96 |    -8.11 |   -0.84 |       |
+| appreciated |    -9.36 |   -10.06 |    0.7  |       |
+From: robinr@prism.CS.ORST.EDU (Ryan Robin)
+Subject: John Wetteland, Derek Lilliquist, info please.
+
+
+
+Hi there,
+
+      I was wondering if anyone knew if John Wetteland was put on the DL again
+      after his first 15-day period was up? I read in the USA Today Sports 
+      section that he is on for "surgery to repair broken toe", and was
+      wondering if that was new. I thought he was just letting it heal. 
+
+      Another question, Is Derek Lilliquist the main closer for the Indians now
+      that Olin is gone. I need to know cause I need to find a reliever to 
+      replace Wetteland and so far Lilliquist is doing ok. Any information on
+      either of the players would be greatly appreciated. Thank you for your
+      time. 
+
+
+      Ryan Robin.
+
+___________________________________________________________ 
+  
+  [==================]         Texas Rangers in 1993!
+  [==================]          Jose Canseco for MVP.
+  [==]    [==]    [==]
+  [==]    [==]    [==]             Ryan N. Robin
+          [==]                   311 Weatherford Hall
+          [==]                     Corvallis, OR.
+          [==]                       97331-1701
+          [==]
+       [========]
+       [========]            (robinr@prism.cs.orst.edu)
+___________________________________________________________

@@ -1,0 +1,21 @@
+0.576050391125 0.423949608875 0.152100782251 False
+prediction: hockey for data\test\rec.sport.baseball-full\104967
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| anyone   |   -10.06 |    -8.24 |   -1.82 | **    |
+| thanks   |   -10.06 |    -8.93 |   -1.13 | **    |
+| list     |    -8.96 |   -10.03 |    1.07 | **    |
+| mailing  |    -8.96 |   -10.03 |    1.07 | **    |
+| mail     |   -10.06 |    -9.34 |   -0.72 |       |
+| address  |   -10.06 |   -10.03 |   -0.03 |       |
+| advance  |   -10.06 |   -10.03 |   -0.03 |       |
+| houston  |   -10.06 |   -10.03 |   -0.03 |       |
+| houstons |   -10.06 |   -10.03 |   -0.03 |       |
+| j        |   -10.06 |   -10.03 |   -0.03 |       |
+From: smithers@cybernet.cse.fau.edu (J Scott Smithers)
+Subject: HOUSTON MAILING LIST
+
+Can anyone mail me the address of Houston's Mailing List?
+Thanks in advance. 
+J. Scott Smithers
+smithers@dcseq.uscga.edu

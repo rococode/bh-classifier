@@ -1,0 +1,41 @@
+0.999960962869 3.90371308085e-05 0.999921925738 True
+prediction: hockey for data\test\rec.sport.hockey-full\54896
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| also       |   -10.11 |    -8.25 |   -1.86 | **    |
+| area       |   -10.11 |    -8.65 |   -1.46 | **    |
+| much       |   -10.11 |    -8.94 |   -1.17 | **    |
+| especially |    -9.01 |   -10.04 |    1.03 | **    |
+| hey        |    -9.01 |   -10.04 |    1.03 | **    |
+| night      |    -9.01 |   -10.04 |    1.03 | **    |
+| played     |    -9.01 |   -10.04 |    1.03 | **    |
+| score      |    -9.01 |   -10.04 |    1.03 | **    |
+| see        |    -8.32 |    -9.34 |    1.03 | **    |
+| know       |    -9.41 |    -8.43 |   -0.99 |       |
+From: roney@selkirk.sfu.ca (Chris J. Roney)
+Subject: Re: Hey, What about teh Cannucks?
+
+grogers@slacvx.slac.stanford.edu (Greg Rogers) writes:
+
+>Hi all,
+
+>Due to living in the Bay Area, I as unable to see Vancouver's victory over
+>the Jets last night.  I know the score, but that rarely describes the game.
+>Could someone please post a brief sonapsis (sp?) of waht happened.  How well
+>did each team play?  Were the cannucks deserving of the victory?
+
+
+    Well, in my opinion the Canucks played a really strong game. I was
+especially pleased by a very strong game from Linden - I think he
+could be a key to success for them this year.  Defensively, they
+really had a strong game.  Hardly heard Selanne's name all night.
+Craven also played one of his best games since coming over.  With a
+few exceptions, they really didn't let the high-flying Jets do much
+high-flying.  I thought the Jets defence looked overmatched by the
+Canucks forwards - they will have to improve on that if they want to
+make this a series.
+
+    In short, it was a great start!
+
+-- 
+Chris Roney  (e-mail chris_roney@sfu.ca)

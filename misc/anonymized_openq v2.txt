@@ -1,0 +1,1268 @@
+"C:\Program Files\Java\jdk1.8.0_151\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.4\lib\idea_rt.jar=55743:C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.4\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Users\rococo\Desktop\code\bh-classifier\explanationanalysis\target\classes;C:\Users\rococo\.m2\repository\org\postgresql\postgresql\42.2.5\postgresql-42.2.5.jar" edu.washington.hcde.leah.Launcher
+2019.05.25.13.41.52 [info] Executing select a.id, a.how_decide, a.overall, a.frustration_why, a.trust_why, a.recommend_why, c.perf_why from exp_openq as a inner join exp_demographics as b on a.id = b.id inner join exp_perf as c on c.id = b.id where b.pilot is not true and b.dq is not true
+id
+how_decide
+overall
+frustration_why
+trust_why
+recommend_why
+perf_why
+unique ids:
+c15f9d29-4cbe-445d-90b5-e3c75ee99bef: [65735 , 84182 , 84472 , 87894 , 17235 , 69801 ]
+5b2eafe6-9b5c-404e-b61b-cc93ea53025a: [59238 , 52847 , 24394 , 34774 , 86803 , 12498 ]
+ac32669b-6140-4dcf-82bf-f4369f415f20: [86268 , 67779 , 75044 , 56484 , 81920 , 63790 ]
+a5b47276-5fa0-476e-9371-d2bd330619f7: [42674 , 89671 , 39437 , 15923 , 19803 , 40172 ]
+6307c15f-08ce-4281-9a3a-043ab7d988f9: [24651 , 83501 , 82157 , 45989 , 69806 , 52808 ]
+1b36cdb3-4fb1-4994-b87f-0353620c1271: [42729 , 30560 , 13331 , 14960 , 50548 , 24136 ]
+9aa28af0-7d15-4438-a278-657c93dda3d5: [74285 , 41603 , 40881 , 25376 , 39072 , 75669 ]
+1e82e91c-77df-412d-b581-176fb52ced8d: [13952 , 59979 , 95981 , 79123 , 81094 , 46558 ]
+8bd31b2e-3a12-4dcc-8692-f4a535bfcc15: [55475 , 41669 , 45806 , 13928 , 60901 , 70922 ]
+2433d69f-0ecc-4dd8-aca1-14432bf264bf: [93060 , 57837 , 69724 , 19156 , 41767 , 12777 ]
+912e14f1-2f16-459d-8d0c-e10a1027b6de: [51232 , 27394 , 36603 , 73231 , 86087 , 81527 ]
+e5acc83b-a65c-41c8-a3c0-0878dc8b0641: [86909 , 43780 , 32301 , 18267 , 14955 , 60694 ]
+14c5d42f-35d5-43ad-8526-a3b81fb5c259: [51971 , 41594 , 50871 , 99569 , 65781 , 76281 ]
+6c8f7eb6-a2a7-4cf2-b3ea-8e7cfeb9d549: [30855 , 27370 , 10732 , 85653 , 83306 , 47123 ]
+c099a88f-cece-458f-b127-1dc51ef12599: [74271 , 17488 , 94719 , 58126 , 45117 , 42742 ]
+861e5d5a-59d4-4709-a6db-27d8c9d11b05: [95302 , 13832 , 60206 , 65919 , 82036 , 26258 ]
+dfd4bde5-d355-4f6a-abe3-fb172580823f: [24515 , 79910 , 19531 , 27747 , 60895 , 69656 ]
+93b70965-f3ab-40e2-947a-5894735cf17a: [97038 , 16210 , 35208 , 74102 , 15745 , 26449 ]
+94d16d78-d10b-45e1-8a4c-0887a2f50271: [33891 , 84674 , 87686 , 40001 , 92196 , 98470 ]
+09cbf868-eed8-4e7c-8171-02ecaae79ea6: [12103 , 97951 , 30494 , 46178 , 29645 , 83900 ]
+9ff0bd96-960e-45e0-8e0e-39b27b3059a0: [54071 , 11868 , 41642 , 49971 , 18576 , 42847 ]
+f34b2227-7f4f-48ee-a324-554529f121e5: [95839 , 14938 , 76683 , 57331 , 93509 , 50219 ]
+30dd1b0d-b862-47ee-b4e7-86388df23c51: [24402 , 56715 , 31933 , 27097 , 29809 , 28552 ]
+0a07b803-8707-479c-8c05-50ea4673fa92: [30190 , 44017 , 67846 , 50278 , 89964 , 97154 ]
+2f1ec1b4-0534-45f6-9947-913083515b45: [87227 , 60617 , 88822 , 94646 , 50190 , 25316 ]
+15772021-6164-40e8-a6f4-a08309ca0c5e: [29818 , 67770 , 77529 , 64268 , 39608 , 74908 ]
+39dae4f4-8cd6-46c5-9a93-8f27168f2692: [67005 , 40684 , 51795 , 36876 , 84127 , 12791 ]
+2c26b600-9ebc-4598-b8bf-7264f3e04616: [82670 , 51003 , 13497 , 11158 , 31361 , 72478 ]
+6c53c5f5-b086-42cf-9529-f6fb1788820c: [22428 , 38054 , 10754 , 23148 , 22122 , 59408 ]
+63b358b8-58f8-47d9-a49e-df83246fcf8a: [78302 , 97170 , 90555 , 84533 , 84473 , 12205 ]
+06e3ecb8-8707-4a61-a93a-f9216079c148: [23537 , 35410 , 66254 , 91904 , 27785 , 86578 ]
+bae5e601-d75a-4344-97f2-1148f1d5dc37: [47555 , 47614 , 57824 , 36824 , 37554 , 22740 ]
+bee4b192-6e06-4d3c-ac03-664cce6c70f6: [51419 , 40611 , 75419 , 99888 , 22958 , 20259 ]
+0c4256b2-c8eb-4126-a776-612bdf00e80a: [86846 , 86867 , 69734 , 13344 , 88446 , 39211 ]
+69cce717-7e85-4767-8398-66ba8e4487c4: [82926 , 43268 , 17525 , 97333 , 27866 , 37981 ]
+45895ef8-c037-4be2-bbc7-77bf08cb163c: [55315 , 49153 , 95119 , 16699 , 19155 , 92832 ]
+283d6f0b-2abf-4271-93ba-7a37cd9733fe: [30700 , 77077 , 77975 , 48218 , 26216 , 72245 ]
+c61bae24-7b8c-47f3-bf26-88ccfdfb4f64: [86448 , 48142 , 75736 , 19680 , 66388 , 54331 ]
+2a035311-a655-47d0-85f9-f003a3bf32d7: [22471 , 18979 , 37398 , 86844 , 58261 , 42915 ]
+8d550ee0-4897-4c8f-a84e-610e91bc4174: [56224 , 41062 , 72931 , 64111 , 90451 , 21032 ]
+252a5804-e8b2-42b1-abe3-ca3db1ae9a52: [19707 , 95254 , 94460 , 45865 , 14991 , 78047 ]
+3fe3b475-e204-42ef-8222-3b2eca30419c: [21088 , 61908 , 92339 , 36912 , 97461 , 46965 ]
+3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9: [99905 , 24362 , 65703 , 91607 , 38948 , 25771 ]
+ff915f66-d311-4cee-9b15-46f6f4ba8603: [29080 , 78429 , 74612 , 66643 , 48773 , 83275 ]
+13a25166-03af-4048-80f5-d6149b0876f6: [92724 , 73048 , 51918 , 82077 , 50503 , 94493 ]
+4203dda1-6deb-46de-92f4-4e5cd852ed38: [16550 , 50958 , 43350 , 63838 , 14407 , 92206 ]
+c560122e-0301-4e8d-8641-fff0b26d2831: [35781 , 42646 , 55966 , 44191 , 79623 , 10782 ]
+42386715-faf6-4a7b-a718-71dba0cf9072: [18634 , 58140 , 93965 , 81431 , 16961 , 81516 ]
+077c366c-911f-4086-ba19-8dd1a2316a7a: [25678 , 17569 , 68433 , 95013 , 35066 , 24677 ]
+4047f3f1-e491-4c36-a252-45cd8ef5dd91: [11603 , 81890 , 82605 , 25865 , 66816 , 31986 ]
+7a3b32bb-0b9b-42e3-8225-a1af3681db6e: [10597 , 26039 , 29885 , 93797 , 86885 , 86445 ]
+8e434bb9-f577-4519-a97a-73618c8e3b5b: [42055 , 36453 , 15444 , 89101 , 65374 , 68783 ]
+135287c8-0607-47d9-831c-86b886b95713: [37031 , 66962 , 91380 , 85563 , 60653 , 41152 ]
+1a58200d-6484-468e-9085-cd52900b5097: [94742 , 21543 , 40035 , 45416 , 49456 , 13591 ]
+193b92f0-3e9d-464a-b1b9-eb8ed3de26a1: [54182 , 39357 , 36367 , 53087 , 50776 , 86254 ]
+64f2470a-4fbf-4d89-aa13-fe269a420576: [15651 , 55720 , 29459 , 28921 , 46082 , 98446 ]
+cf71ffa6-c298-4df2-ab2d-9b2b3c208cd8: [65141 , 79250 , 19915 , 18173 , 99394 , 10260 ]
+29cec8d1-3ef1-4f35-8cca-429b3b56eef7: [52621 , 60242 , 44310 , 18950 , 91953 , 27730 ]
+da13eced-d846-4d59-9491-9c110c19a3a0: [37346 , 14352 , 35538 , 16499 , 46352 , 46002 ]
+7e9bb330-59c2-42e5-803a-a6b9d70f9be4: [28013 , 83425 , 31430 , 82556 , 48774 , 53466 ]
+02fec82f-310f-4bf2-8fc8-cee1c4c24fcc: [56945 , 34096 , 94680 , 11982 , 46754 , 23030 ]
+890f44d9-b04c-49aa-a876-673b71b0fcb0: [80601 , 89046 , 93699 , 87737 , 40604 , 38226 ]
+f77fbe77-5c64-4ada-a701-aca1057c400e: [26013 , 46030 , 46331 , 91697 , 54467 , 88247 ]
+3f6af0ed-eec8-473a-8a33-1beaad2c4149: [62874 , 53311 , 61864 , 81863 , 80978 , 92600 ]
+329593aa-be6c-4896-93c6-bbec08f0fb49: [84858 , 60851 , 60272 , 61139 , 99063 , 70563 ]
+ff4863d7-1a06-4565-b287-5d42c02d2ac7: [23693 , 92686 , 66341 , 34826 , 37191 , 62637 ]
+11c65c4f-fc43-4970-afd0-6849b7346898: [99859 , 97069 , 94328 , 61246 , 31213 , 20823 ]
+c279ff22-4d54-43c8-98cc-655630c4a37e: [32888 , 55085 , 84278 , 41186 , 67670 , 32466 ]
+b25facc1-77ac-432f-8338-86b00bae02e1: [63100 , 73327 , 44954 , 14379 , 70080 , 38291 ]
+43c2b37c-5f38-40f7-810e-4b5d093ee89d: [39766 , 70456 , 78461 , 43634 , 58133 , 82688 ]
+ea4667f6-3d7d-4e70-b582-863640d4511e: [44950 , 93153 , 33374 , 99993 , 66520 , 19974 ]
+9e550dda-4548-4c1b-9f09-49c715bbbc74: [70349 , 22279 , 36186 , 28439 , 58233 , 22031 ]
+f133dc75-46c3-4bce-a5b2-25b111e0aba9: [32590 , 46233 , 24098 , 44564 , 33559 , 99243 ]
+769e4a53-6d7c-4b71-a9c3-a79a01144537: [75852 , 72352 , 76327 , 39662 , 98666 , 26900 ]
+a9802b41-264a-4ecf-af68-cd9c4a08c775: [85341 , 45356 , 36382 , 12141 , 45478 , 12397 ]
+00b76ff2-d0b9-418c-bee1-5ca45e01db5e: [24307 , 20566 , 21369 , 83685 , 45863 , 23554 ]
+cbc81b26-e708-4827-87ff-290c32ee37c7: [67610 , 70091 , 95330 , 36525 , 40273 , 35132 ]
+014f7254-b2ba-443a-af30-39ceb0d17aa5: [17996 , 11108 , 94803 , 70182 , 32651 , 67189 ]
+a180012e-05f5-409f-a15d-8ef86efa3b65: [51727 , 28576 , 66741 , 71455 , 56445 , 99698 ]
+5fa76e8a-2362-40a9-bcf4-0f2c80b73d14: [46902 , 21129 , 35379 , 88077 , 98530 , 28274 ]
+fc36ae70-9e21-4d55-a7bb-f4622a522fdf: [87297 , 40290 , 39498 , 89868 , 28420 , 32776 ]
+53be5cb8-2b4f-48ae-bb07-80f97c36551a: [78901 , 51392 , 85383 , 62320 , 76517 , 67090 ]
+89172b9b-c69a-4eaf-a0b7-19d574b914f3: [89756 , 54519 , 82202 , 97504 , 42909 , 46076 ]
+ddb10ebe-ceff-49d4-9da9-9f2e6a4c9a75: [76778 , 17143 , 89843 , 14658 , 50212 , 40933 ]
+f568326d-78c6-4b81-ae90-a484da879d2b: [65341 , 26017 , 43099 , 20155 , 43497 , 22308 ]
+985fd63c-907c-4a17-8b8f-3dd37451f070: [63760 , 52185 , 28089 , 36310 , 74350 , 37044 ]
+4a628af3-d31e-47c4-ba88-dcf87b8fe53c: [77944 , 55374 , 11210 , 55632 , 82623 , 32576 ]
+b7f37ac6-81b3-4845-aa5c-a0cc82f6705b: [36649 , 47243 , 15598 , 87530 , 45997 , 94232 ]
+1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38: [77519 , 97133 , 15384 , 90548 , 85812 , 80564 ]
+2672b578-f122-47ed-80fd-360354c360ba: [35619 , 25617 , 18025 , 45488 , 47405 , 90689 ]
+8ad2c308-bb77-486b-a58f-b2639e54c06b: [51393 , 81135 , 11295 , 98042 , 38755 , 90126 ]
+8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9: [33352 , 79402 , 83298 , 67691 , 31504 , 76830 ]
+5ac433ce-4725-4690-b18a-65d92f264ed8: [82834 , 16180 , 42828 , 98722 , 46163 , 95765 ]
+afedb721-b8b3-403f-a138-e5b73c484730: [27950 , 17931 , 22441 , 45339 , 11809 , 61704 ]
+5b0963c7-b446-450a-9775-2baee197093a: [51846 , 57630 , 45423 , 33318 , 78356 , 15880 ]
+116bb258-09a0-4781-a5e2-7ae0621c1a2b: [79125 , 37257 , 29835 , 29615 , 23780 , 12325 ]
+32211dc0-eb39-446c-8fcb-69d7db683dd4: [29680 , 15197 , 33194 , 79595 , 47283 , 86074 ]
+2a029364-c6de-4d07-a8e6-83dcf9495454: [42990 , 79942 , 25801 , 51429 , 73737 , 21215 ]
+dabe8093-4793-4086-8f19-3589cab190a5: [16616 , 82086 , 97798 , 98723 , 95770 , 74943 ]
+db415535-db7a-4d03-aeda-70df8292fc7b: [58513 , 58433 , 96289 , 47973 , 80246 , 51171 ]
+eb1991b6-bf89-4f2c-b841-4776d7ce6a2c: [28525 , 29664 , 51176 , 19389 , 69329 , 50264 ]
+fb675380-229d-4523-af24-3338613de1bc: [74690 , 27606 , 36766 , 39881 , 75730 , 29998 ]
+1b0b18bc-40e1-40ae-901c-9fc162fbe25f: [42825 , 82175 , 80174 , 68900 , 28100 , 21580 ]
+f32e4e5b-91e9-45ce-b21e-2c940e3306e3: [42884 , 20769 , 44893 , 83026 , 40626 , 74038 ]
+41ea6c01-6b6f-4db7-bbc2-5f39e8d91b52: [15699 , 68828 , 19485 , 69809 , 62818 , 37843 ]
+646dff6c-7e4e-4a34-bbef-e7079cad85b5: [27090 , 23443 , 21095 , 90433 , 92498 , 64721 ]
+93464c5d-141f-4796-8996-110929ac5dad: [41932 , 37157 , 96876 , 65750 , 22504 , 90443 ]
+266a47e0-cee1-43c3-a0a1-92efb8c66411: [53282 , 36418 , 84596 , 40670 , 76230 , 10237 ]
+adad6a9c-8fed-42b5-9312-b162ac1d883f: [60302 , 39144 , 71722 , 49095 , 73594 , 96428 ]
+6811d6a9-1695-4d01-a1ed-e1d316be0234: [26720 , 96106 , 43410 , 93143 , 84423 , 51682 ]
+ade4fcb0-d286-4f9d-9606-b48e492f8298: [21769 , 83004 , 92547 , 27711 , 77806 , 36940 ]
+1347f8ca-661f-456b-997d-f96b1c51df68: [56958 , 48843 , 38569 , 69443 , 65329 , 13063 ]
+783ba60b-3766-4d24-a74b-e52c78478b3f: [92422 , 77421 , 59103 , 26342 , 73356 , 96014 ]
+09fd466c-6146-4860-9690-efb7fb247094: [99879 , 94089 , 69775 , 45485 , 76421 , 51722 ]
+8c5e9d58-c8bd-4488-8a93-97bc2bd3b6a6: [56800 , 72725 , 56101 , 82236 , 29618 , 66469 ]
+c620de7a-9cfb-4eba-8552-03fa2bee954f: [40137 , 86597 , 71029 , 33969 , 47855 , 47146 ]
+9d789811-e83e-4437-8662-161f22c549e6: [52273 , 63335 , 83637 , 41484 , 29627 , 74283 ]
+275bdb8e-d0e2-4cc7-a709-87e820e49b23: [42088 , 94434 , 13696 , 29279 , 81381 , 97208 ]
+2164fe0d-d0a0-4851-a4b2-d162b180031a: [30238 , 54935 , 98653 , 47282 , 78532 , 35794 ]
+dedc4809-38dd-4e73-b5d6-fa30a7a21171: [42328 , 41131 , 42190 , 40448 , 94528 , 43442 ]
+27d37697-39ee-477d-ba07-6b0155879b3d: [72562 , 25178 , 34972 , 27194 , 16662 , 28002 ]
+af860c26-3b8d-4ec8-b7ae-16ca5e9014a4: [95696 , 24736 , 44260 , 48510 , 72030 , 79304 ]
+baf667e9-edc5-48ea-8e4f-c3061f6b78ff: [97535 , 43138 , 47814 , 84184 , 74421 , 14682 ]
+eda7c5d3-f3a4-405c-a124-c8531d695949: [99615 , 10050 , 44999 , 63652 , 18690 , 98349 ]
+1f54d07d-c7a7-4931-94be-5498932b200f: [73060 , 19268 , 60043 , 67764 , 56679 , 17327 ]
+7b9c52d4-1f80-4e36-b653-3fe266f61b43: [71748 , 61323 , 15611 , 66405 , 50018 , 63804 ]
+05bff2e3-fda6-4917-be54-33e1cd36c3c1: [46986 , 53039 , 59167 , 24866 , 90998 , 38203 ]
+5cbe99d7-0dda-4789-86ae-98fa066867ae: [60821 , 31020 , 92016 , 44283 , 32101 , 98961 ]
+45e978cb-e71e-4338-884a-79cb9c203283: [35018 , 76521 , 11730 , 50328 , 26178 , 96025 ]
+708e2a1d-e70a-4513-907b-8e64a7e18abe: [24650 , 29646 , 17907 , 11452 , 11972 , 10098 ]
+a7a05e60-26c8-48bc-9bb9-474a804ebf30: [46597 , 11607 , 37206 , 43607 , 78958 , 71559 ]
+60b298de-aa0c-46b8-ba58-cf939a99ae54: [91340 , 41204 , 26241 , 36521 , 67410 , 26737 ]
+c5be635a-8570-41b2-8abb-b646e4fe501c: [27174 , 91961 , 43871 , 50709 , 73126 , 74648 ]
+03e1fa4d-f5fa-46f8-8453-213a14ff83cc: [71266 , 39049 , 82132 , 86879 , 46621 , 94636 ]
+9deb5e4e-7c45-4a73-9c06-654e86f3eab3: [84685 , 82578 , 88495 , 60725 , 13334 , 54354 ]
+dd4ec61e-f619-49bd-add9-3e5397e2b39c: [96862 , 35015 , 68604 , 87155 , 64673 , 23673 ]
+d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f: [40523 , 89866 , 93445 , 34200 , 99538 , 52148 ]
+8853d73b-33fd-4a88-87a0-a3827d30092e: [87628 , 43755 , 51840 , 87999 , 74410 , 73116 ]
+b8eadb53-5aad-48f8-b4e2-e56a568b2be3: [67733 , 78242 , 79210 , 69974 , 99422 , 66608 ]
+7f71c7c8-75ff-4a90-93c2-e5a52f93f78a: [56603 , 71505 , 80720 , 86263 , 85596 , 41255 ]
+c94e4039-78ad-41af-887a-0c2cc69e37be: [84601 , 41620 , 83694 , 90993 , 29894 , 64197 ]
+4606270f-e967-4f21-b256-f1c7a6bc48b4: [57827 , 35683 , 43087 , 25722 , 17787 , 18239 ]
+a2aa8d16-6eb3-433f-99fb-eeb76f4ea453: [36674 , 55919 , 75999 , 31360 , 58997 , 48363 ]
+67c2d664-1d40-4a41-ac10-df9e87110a1f: [65767 , 76486 , 52937 , 14383 , 89489 , 64526 ]
+829d8efe-ddde-4414-981c-5669bacd5396: [42047 , 89301 , 89340 , 89029 , 25169 , 86593 ]
+16eb63d8-ca24-472b-9393-fc444194a836: [55271 , 78735 , 76292 , 16070 , 70224 , 78183 ]
+ca96caa4-1ed5-455f-9fcb-4b3ec427988d: [17232 , 68546 , 72801 , 67765 , 95044 , 23553 ]
+24f4e7be-8943-4a97-a213-637eb3634e7d: [26015 , 48777 , 33586 , 84829 , 36187 , 61852 ]
+36379606-76e9-4ffd-aec3-9863d9ce0bb6: [40212 , 30831 , 56704 , 65978 , 71895 , 56108 ]
+f6eb787b-1b59-429a-8f6e-81dd544982e5: [77086 , 29465 , 35116 , 70835 , 89631 , 81143 ]
+3af15328-326d-47bf-8820-fb731ff55b2a: [69825 , 73029 , 51854 , 11833 , 66711 , 11243 ]
+8811b1f9-ca73-44b3-9caf-669ea71bc12e: [51530 , 45907 , 49669 , 98015 , 45731 , 27039 ]
+455ea770-880e-4b6e-86f2-19e09c6aec4f: [73593 , 14613 , 19070 , 99263 , 89674 , 73588 ]
+5a8cd3a6-4307-448e-a53f-354ee0331f81: [12173 , 36294 , 70055 , 21628 , 58675 , 29520 ]
+178fbee1-9bde-418f-ada7-d90871c99d2c: [88165 , 71126 , 42713 , 59908 , 37823 , 38891 ]
+3f84afbf-af34-4ae8-9318-4e90d7031297: [86634 , 88736 , 82458 , 44059 , 79046 , 14409 ]
+9deefe11-561c-4012-9cea-a870522bfced: [67858 , 95478 , 37007 , 97348 , 64669 , 44617 ]
+543d4bb2-4854-4294-b8f7-396e9da04a25: [35280 , 51439 , 95473 , 27820 , 49963 , 65419 ]
+eae8706f-2c9c-447f-966e-e4388ceb5ac6: [75340 , 55779 , 64217 , 58955 , 37883 , 22891 ]
+9d529b0f-e878-4f4c-9088-6ab0badf7731: [31222 , 53279 , 34753 , 62323 , 28173 , 98540 ]
+1311767d-1705-4702-9881-0b7594312aef: [24871 , 71376 , 32728 , 90801 , 49314 , 88665 ]
+418b392e-6d29-4dce-98c6-e1411877c0b5: [57161 , 38417 , 14168 , 20914 , 20714 , 27511 ]
+d18a419a-6774-4469-99fe-0a34daf24f8b: [85947 , 16341 , 32640 , 24120 , 80850 , 83279 ]
+e644dc6e-d9e8-44cb-a567-94b752c8ead6: [47069 , 25860 , 73321 , 95986 , 22898 , 53019 ]
+9345a5d6-70dc-44a6-8463-56dc1bc72bb7: [16307 , 84004 , 56639 , 53956 , 19988 , 12289 ]
+d751eff7-1cb3-407d-b13d-c245dbb7ecb4: [98363 , 88490 , 67530 , 79827 , 54832 , 29562 ]
+c8c2e1cf-4f50-4e2f-9cb7-79c3b6b776ae: [40551 , 45480 , 94094 , 52350 , 37322 , 16933 ]
+b7c476fe-6d31-45ab-89be-007ee3275c33: [40496 , 96500 , 22973 , 38714 , 62794 , 90737 ]
+225ad246-3aa5-4e8e-87a3-8e79de120b2c: [13040 , 91662 , 50337 , 59527 , 13437 , 26336 ]
+147cd76b-280a-42a3-8d91-d9d67e1376e1: [28129 , 75469 , 47168 , 99037 , 49777 , 37903 ]
+85083788-60b7-4a3d-8494-c76b5f7967d2: [41490 , 93158 , 93880 , 25174 , 98284 , 44393 ]
+24bd80cd-729c-478b-8192-cc71080b5f47: [95757 , 97301 , 49091 , 52334 , 11896 , 75716 ]
+4109791f-e6db-412b-93dd-b6f87139db21: [63766 , 19090 , 25155 , 38534 , 52813 , 36769 ]
+8398fd30-cf91-45dc-8ba1-bda01f01f093: [38806 , 49003 , 77252 , 38242 , 34399 , 37203 ]
+bfc09c0b-8dd1-4679-9eb4-36a1a34915bb: [48016 , 90661 , 94442 , 85302 , 71275 , 87731 ]
+d57a1e96-90bd-40d1-8b5a-56c5fe123af6: [58324 , 25738 , 78135 , 76951 , 50019 , 48258 ]
+
+
+perf_why
+I don't know how the model will perform on tougher tasks, but I think the information I have given it will help it and make it slightly more reliable.	22428 
+seems right	15651 
+At first it made a few mistakes.	60821 
+I feel like a lot of the words that the model chose as the most important didn't have anything to do with either sport. It was almost random whether the model was correct or not. Some of the highlighted words were sport related, but more fo them were not. 	70349 
+I think feedback to the model helps it improve.	26013 
+As far as I could see there was only one mistake in the first ten.  I think if the model has been trained, it will continue to accurately predict.	71748 
+I think it may choose more applicable words on the emails it got wrong.  IT is a machine though so it may just make the same mistakes.	28013 
+The machine did a good job of evaluating the first set based on the highlighted words. 	35619 
+I think I identified some keywords that will help the system learn some of the terminology that is associated with each sport	92422 
+it did fairly well to begin with , only a couple mistakes. see no reason that would change.	42055 
+The highlighted words many times had nothing to do with making an accurate choice.	75340 
+Overall, I thought that the model did a good job of categorizing the emails, though there were a couple of errors. I think that the margin of error will be about the same. 	33352 
+There is no evidence for me to think otherwise. 	35781 
+They were pretty accurate anyway	84685 
+The model should work in a similar manner. I don't see any reason that it will do significantly better or worse as long as the email are similar to the practice ones.	73060 
+I think I was able to select enough specific words and team names to help the AI improve.	85947 
+Th model has been fairly accurate overall only making a handful of mistakes.  The one thing I hesitate about is the reasoning sometimes as it's seemed to have "Gotten lucky" more than once with non-sensical terms.	60302 
+I think that the model has figured out the keywords that belong to each sport (team names, athletes, and coaches). I think that the data from the practice emails will improve their accuracy slightly. 	17996 
+I think that the model itself will pick up where it did well and where it didn't do so well. It has evaluated more text so it may know more of what to look for.	13040 
+My words may have helped fix the model a bit	84858 
+I answered the questions correctly and it seemed pretty correct the first time. I assume it'll get better if its coded right.	46986 
+It was mostly accurate already and the feedback I provided was only marginal at best. But it should help it decide between hockey or baseball even better. 	63760 
+With only a slightly larger sample size, I don't see how the model could improve or worsen.	30855 
+I think overall the model did decently on the first 10 but it did get some wrong that I think it should have got correct. I don't really see it doing any better or worse though.	79125 
+I think I found more defining words for it to consider when choosing. 	26015 
+it looks like a really good model, so I predict it's going to categorize a lot of emails correctly, like I'd guess 12 or 13 out of 15 will be correct.	30190 
+I think that the model gets better as it goes along.	16616 
+I think I was able to help the model learn which keywords to look for to help it decide which sport is being discussed.	65767 
+The model was fairly accurate and it just needs to learn a few more abbreviations and terms.  With the additional training I would expect it to become more reliable.  	30700 
+I feel that the questions that the model was incorrect about in the previous section were overtly wrong, so these should be easy to correct.  I didn't see the model get "confused" by difficult passages, but rather it was just plain wrong even though there was obvious information in these incorrectly identified passages.  Therefore, I believe that the model should perform slightly better than before because it got that majority of questions correct in the last round.	51530 
+There were a couple I wasn't sure of, so it might learn from bad advice.	25678 
+Since it has some corrections, it should be able to predict better from here.	74285 
+They seemed the same to me	21088 
+I think it did well in the first set so if it learns each time it does one correctly it should do a bit better now	32590 
+I feel like the computer is very smart about what keywords are on the screen and how to analyze them into real world answers.	40212 
+Because with the feedback an almost perfect system should improve not do worse.  	28525 
+I think my feedback will help the model perform better on the next set of emails.	77944 
+It seems to do alright, but I am not sure it would do better	33891 
+Based on what I have observed so far, the AI is bang on correct 90% of the time. It's able to pick up specific sport terms easily.	56603 
+It seemed to do pretty well so far.	78302 
+The model seems to be pretty good already at predictions.	99879 
+It has no new info really	55475 
+There were some incorrect predictions which I indicated correctly, so I believe the model will improve slightly.  However, it is not always picking the best words and I don't believe that will be totally corrected with the limited number of emails I reviewed.	42088 
+It seems to be fairly accurate	56800 
+The model got more than half correct, so I think it will do about the same in the next set of emails.	86846 
+The model was already proving to be mostly accurate.	12103 
+It seems clear that some of the words it uses to tag an email as about baseball or hockey could go either way. This being the case, I don't think it will be in a better OR worse position in the upcoming batch of emails either. There does appear to be a tinge of randomness due to this highlighting of certain ambivalent terms.	22471 
+I think it is the same model and will do equally as well. Its methods or algorithm hasn't changed as far as I know. 	48016 
+it didn't seem to get more than half of the emails right in the beginning but if it really adjsuts to the clarifications made then it should be much better	57827 
+I'm hoping it does better based on the keywords I have highlighted.  I guess we'll find out if that is the case.	67733 
+it was pretty accurate so i expect that to continue 	95302 
+It hasn't seemed to learn very much. It bases its decisions on words that could be related to either baseball or hockey. It also used Montreal to guess that one was baseball and that another was hockey. It ignores words that would easily determine whether the email is baseball or hockey, like home run, strikeout, goal, ice, ball, and others. The model doesn't seem very refined yet. 	15699 
+i feel like the model was about 80% accurate in these 10 cases. I am starting to think it has a list of team names to help it decide	42729 
+I think it will do the same. It doesn't seem like a learning machine. It will make the same predictions.	77519 
+its now got feedback on what was right vs wrong and can adjust 	39766 
+Most of the predictions were correct, so it was pretty smart, a couple it took words that you couldn't really tell which it was though.	65341 
+The model was pretty accurate, so  think the will do just as well	82834 
+I think I could point out some of the ways it was wrong, but it was already pretty good and the ones it got wrong were pretty tough.	85341 
+As far as I know, there is no difference in terms of content between this set and the previous set, so I think they should be about the same.	17232 
+It's supposed to improve based on feedback.	37031 
+There are words are out of topic.	73593 
+I think the model will do about the same that it has done I think it did pretty good considering but needs some updates to make it better. I don't know if it learns and gets better with time.	26720 
+I think some of the words the model focused on weren't really good words to use as far as deciding whether text is talking about baseball or hockey, and the recommendations I gave were better than the ones that were highlighted in yellow, for the most part. The model's overall predictions, though, were decent. I think they got 7 out of 10 correct. So I feel that my feedback might help it make slightly better decisions about the text.	71266 
+it will know more terms to consider when making its judgement, especially now that it knows it has made mistakes using its current system	58513 
+I am just taking a guess	40523 
+I would expect it to use a similar method. I don't think it can understand all the abbreviations of team names.	12173 
+I understand both baseball and hockey. I lean baseball. 	47069 
+The model is able to chose significant key words the majority of the time.	13952 
+Because some of the feedback I gave wasn't very constructive since some emails didn't have any other identifying words for the given sport besides what the program already chose.	40137 
+I feel that it will be slightly better because it was already very good so there isn't much to improve upon, but it will make some minor adjustments to be more accurate.	10597 
+I believe that it picks up hockey stuff quicker than baseball.	67610 
+I think it did a really good job before and it will gain experience in its algorithm 	51727 
+I helped it tag emails as unknown 	82670 
+I feel that the model focused on more relevant words to make its decision as the emails continued, so I think that the next set will be more accurate because it will focus on more pertinent words.	95757 
+It only got one or two wrong, so I don't think it has enough info to really change how it decides. It'd need more than 2 samples.	80601 
+The model was correct 90% of the time, kinda hard to improve on that.	87297 
+The machine may have learned from the previous run	46597 
+I mostly just told it it was right which can't be too helpful to get better. I don't know how I could have made it much better.	30238 
+I have no reason to believe it'll get better or worse	19707 
+I don't see why it would change.	63100 
+The model had trouble figuring out the e-mails if the information wasn't that obvious. But it was right for all of the easier ones that basically told you if it was hockey or baseball. So if it takes the feedback into account I think it will do a little better the second time. 	55315 
+I don't think anything will change in these new e-mails that will change the behavior of the model	27174 
+It got most of them right, might have only missed one.	74271 
+The model performed very well on the first set of the 10 emails. There is room for slight improvement, but the model has done a fine job so far.	18634 
+I feel that I taught it better words to discern by which, if any, sport is featured, in the e-mails.	59238 
+I think it does well enough and there's no reason to think it'll perform any differently, even if the sample size is larger	99615 
+I think it'll do it's best, but some emails are very vague.	94742 
+The model does very well for the most part. It just needs definite known terms for the sport which is being talked about.	77086 
+The model predicted most of the emails correctly already. A small handful were either incorrect or unclear, so with my input I feel it would have improved the model slightly - but not a whole lot since there wasn't a large amount of incorrect answers from the model in the first place.	98363 
+I feel like it has learned from my feedback and has improved.	56945 
+It has better information on what keywords are relevant to hockey vs. baseball.	37346 
+Because I think that some emails are ambiguous. Maybe with learning some of the teams and the slang for them, it might get better but not by much. I think we were at 70-80% on the last round so probably in the 80% range would be realistic.	16307 
+I think my feedback will help the model more accurately know if the email is talking about hockey or baseball. I think certain keywords I selected will really help. 	55271 
+It was only wrong in the practice round one single time, so  I feel like I don't have much to teach it, it's already very good	51419 
+It got improved from feedbacks	97038 
+I gave the model some terms that are clearly either hockey or baseball but not both.	58324 
+Getting eight of ten correct is already a pretty good score. The two answers that were missed involved emails that were very ambiguous. One of them, for example, discussed All-Star tickets but the sports was never made clear. The second incorrect guess contained a discussion on Todd Worrell, who I know to have been a former baseball player, but again, the sport -- or its teams -- were not mentioned in the email.	28129 
+The majority of the work on the model has already been done. My suggestions may help but probably only somewhat. 	36674 
+It will hopefully use some of the words I highlighted to better determine baseball vs hockey	46902 
+I assume that the model will perform roughly the same for  the next set set of trials as I don't have any reason to assume it will get better or worse. 	51232 
+I think if it looks for certain common words that are different in each sport it will have an easier time figuring out the difference. it seemed to have a good grasp to start with.	93060 
+It was highlighting mostly irrelevant words in each email. There were a number of words in each one that would have help identify the sport much more effectively.	32888 
+It did a pretty good job on these first ten I do not see why it would change in the next 15	65141 
+The model is pretty good but the words it chooses are not ones I would think would give certainty as to the right choice. There are some words that are common to both sports; we'll see if it's good at differentiating. 	65735 
+I feel that the model should be able to improve due to the high level of reliability the model has shown so far which makes me mostly trust the efficiency of the model. Additionally my inputs in the second phase is likely to have positive influences on how the model makes its decision.	44950 
+I think based on the very foundation of ML the model should improve with additional input of quality data. Moreover, intuitively, it seems like the model should get better as it learns to better discern between the two entities as it works through more examples. Basically, the model should improve as practice makes perfect. 	24307 
+Because I don't think it will improve nor get worse	63766 
+I think that the model will learn from the feedback it was given.	99859 
+It seemed to recognize the emails well enough before my feedback	21769 
+Its learning and will get better with experience. Me giving it all the answers to the earlier emails will help it know what email belongs to which category 	95696 
+I feel that the model did a good job of determining whether the email was about hockey or baseball based on the first set. 	29080 
+I'm not sure the feedback I provided will improve or hurt the model in any way. It was pretty obvious for most of them.	89756 
+It mostly did really well.  There were only about two or three that were questionable.	78901 
+The model seemed pretty accurate already. 	96862 
+I think it should make some improvements.	67858 
+It was correct all of the times so even if it gets better it can still only be so correct.	31222 
+Because some emails are hard to decide on. The ML did a good job on the last emails so I think it will be about the same.	52273 
+It didn't seem to learn that well. It looked for a few keywords and decided based on that. 	88165 
+Because I gave feedback when it was wrong and selected specific words to differentiate between hockey and baseball.	11603 
+We've indicated words that the are better related to the sports. We've made the model a bit smarter and learned.	24515 
+The model only made one mistake in the previous emails. If it corrects for what it did wrong it should be perfect.	51393 
+I think the model looks for certain keywords relating to each sport, and can tell them apart better.	42674 
+It did pretty well as it was.	51846 
+I feel like if it can learn from the mistakes and recognize the keywords I selected, then it will likely do a slightly better job if similar keywords are encountered in the e-mails.	27090 
+Based on the highlighted words that where chosen on the incorrect answers, with the feedback I think the MI will ignore those words and choose different words that may be more correct to make it's decisions. 	42328 
+It was pretty accurate and it has had feedback to make it better. 	41932 
+The model was already relatively accurate(8/10 correct I think) so if it takes my feedback and improves then the quality should not get worse.	40496 
+seemed pretty accurate so i think it will prob stay the same	23693 
+they are ok but not perfect.	75852 
+there are more emails so there is more room for error.	97535 
+It didn't pick on some obvious keywords. It also selected quite a few non-relevant words that could apply to anything inside or outside the sports world which is pretty useless.	24871 
+Depends on if it mentions homeruns, balls, pucks or outfield. 	27950 
+It did quite well to begin with, only getting one wrong.  There was another that was impossible to determine.  If it uses any of my data, which I added a few more keywords, it might do slightly better. 	86268 
+I think it did a decent job to begin with so I feel it will do the same again	86448 
+I was only unsure on one of the previous 10 emails. If they are similar for the next 15 emails, I will do the same. 	76778 
+i dont think enough inputs were given to improve its accuracy.	16550 
+The model pretty much predicted all the emails in the first set of emails so I expect the same in the second set.	95839 
+It has better experience.	84601 
+Because they are able to get information from others during and interaction like the practice I just took in order to make better decisions	54071 
+I feel that way because I don't have any reason to think that it's performance will improve, or get worse in the future, what would change in the situation, that would cause that? Was interacting with me supposed to improve its performance? Because if that was the case, that wasn't made clear to me. 	92724 
+It seems to have done pretty well	52621 
+It will try to correct itself based on the number it predicted incorrectly the first time. 	87227 
+I don't think there is enough new data in the dataset to improve the model. 	38806 
+I think the words that I chose were better than the ones chosen last time	86634 
+I believe I did a good job teaching it	67005 
+The machine seems pretty smart in categorizing from what I have already seen.	42825 
+They chose good keywords the first time. My input should not impact that much.	99905 
+If it's the same model then it should perform as well. At least if you don't throw any tricky ones in this set.	62874 
+I have no reason to believe the model will work any differently than it did on the first e-mails, so it should be about the same.  It probably consistently uses the same method to determine each e-mail, so it should deliver the same quality of results.	24650 
+The model did fairly well on the previous decisions 	40551 
+The model hasn't changed, so it should perform the same.	56958 
+it seems to do a good job overall so I think it would learn more	42884 
+About the same because the emails that the model answered incorrectly were tricky and didn't give any obvious indication on what sport they were referring to. 	35018 
+The model will learn from its mistakes and be able to more accurately guess whether the email was about hockey or baseball.	53282 
+I think it would do slightly better because my feedback will improve the decisions it makes. 	29680 
+BECAUSE I TAUGHT IT A FEW OF ITS ERRORS	56224 
+I don't see any reason to believe its performance will improve or worsen based on the information I have.	47555 
+The model did a good job at interpreting the emails, some emails were wrong however. With input from the first test, I believe the model can go back and learn from what we did on here.	36649 
+I think it might choose different words to make a choice	51971 
+Optimism. The machine was designed to learn through feedback, so hopefully it should. 	42047 
+\nI'd say the model needs more training sets to improve accuracy. 	23537 
+Because on the first set they were right 90 percent of the time,so the next go round I expect them to be reliable but not perfect.	72562 
+I thought the model was fairly accurate in it's predictions and expect it to perform in a similar manner going forward.	24651 
+I think the model did very well at predicting before and did not need much improvement. I would expect the same performance as before.	82926 
+It did pretty good in the first round; I see no reason for it to slip up now.	57161 
+I think that it will look at the emails it got wrong and will figure out why it was wrong.	42990 
+I gave it better rules so it should do a little better.	35280 
+I think I got the emails right, so if it has taken my feedback into consideration, it should do a little better.	54182 
+If it is learning from input, then it should be able to work out a better way to categorize the baseball and hockey emails. Perhaps, it will find better words in some of the instances.	41490 
+Not sure, it's kind of iffy depending on how the email is written. Would only do better if there were more indentifying words	24402 
+It will probably be a little better because the algorithm will make an adjustment.	74690 
+The model seemed to be pretty decent at guessing correctly and I think with some extra data sets it'll get more accurate. 	87628 
+I see no reason to think it would do better or worse than it already has. It all depends on how many keywords specific to each sport are in the emails.	86909 
+The computer got most of the first set of 10 correct, although one could have been either about hockey or baseball. There may be another email like that, but overall it seemed accurate.	91340 
+If the model tries to learn anything from my input I believe it will guess slightly more correctly, but still probably make some mistakes. 	69825 
+as far as i can tell the model did a fair job, but certainly not a very good job.  obviously there were key terms that the model missed.  therefore, i wouldn't think the model would do better or worse in the second set of emails.	29818 
+printed 176
+
+
+how_decide
+Mentioning of skating or ice generally means the email is about hockey. Fielding or homeruns will mean baseball. Just analyzing the words used in the email will tell the model whether the email is about baseball or hockey.	17143 
+At first it seemed that the words the model was using weren't relevant to whether the sport was baseball or hockey at all. It seemed like it was just focusing on random words, however as the emails went on it started focusing on words that gave clues to which sport it was, for instance a team name or a trophy name or an action that happens in only that sport "hitter" "goal". I think once it learned the relevant words for each sport it looked for those words in the emails and made its decision based on their presence.	97301 
+It noticed key words in the text	60851 
+It seems to key in on certain words or names  that are associated with the sport and classifies accordingly.	66962 
+It looked at team names quite a bit. It also looked at locations and was likely to attribute Canadian locations to hockey. 	55919 
+I think the machine learning model decided was because of the team names. Some were either baseball team names or hockey team names. Also, I think some words are used in baseball and some in hockey, and it decided by those words.	15197 
+It looks at specific words and made a decision based on those.	16341 
+Certain words	82578 
+\nI pay attention to sports. I miss the Thrashers and will argue about about "Atlanta Dream" will be a nightmare in my life.  	25860 
+I think it tried to recognize names and phrases that were distinct to each sport.	79250 
+The machine used team names and sport terms to decide the sport. 	25617 
+The machine used key words found in the emails and determined from there.	41603 
+It looked for keywords that are associated with hockey vs baseball	21129 
+By looking for certain words and combinations of words that it has learned over time refer to which sport	94434 
+I think it looked for keywords related to either sport	97133 
+It picked up key words that came into the view.	17488 
+it looked at names and whether language contained anything related to baseball or hockey.	43138 
+it pulled common words used for that sport and made the decision based on that	40684 
+I don't know	55720 
+I think it used an algorithm to scan for keywords, phrases or names relating to either baseball or hockey. 	90661 
+I think the model uses keywords to discern if the email is about baseball or hockey.	83501 
+based on key words	61908 
+I think that it looked for certain keywords.	97069 
+Based on keywords such as team name, player's name	16210 
+I guess it just looked for team names and sport specific lingo. Not sure how else it would know.	89046 
+if the word ball or inning etc was in the email, baseball would be assumed. If NHL, stanley cup or goal was mentioned, it would choose hockey	28576 
+The model used certain words to determine whether emails were about hockey or hockey. Sometimes the words weren't relevant, but they mostly were.	78735 
+There were some pretty good keywords to help the machine learning model decide if they were about baseball or hockey. The model took those words into account.	39357 
+I think it took what it saw, like names or teams and tried to decide from there, I don't think it looked up what teams or names belonged to which sport, I think it took what subjects were in the topic, if it said baseball trivia or something to do with hockey, it made it's guess on that, and not the names of players or teams. It made mistakes as most teams were about baseball but it guessed hockey. 	73029 
+It likely looks for key words that it associates with those sports.	45356 
+it looks for proper nouns and terms that are specific to hockey or baseball, but it also highlights some words that don't have any special meaning, like words like "well"	44017 
+in the trials it only made 2 mistakes that im aware of and i didnt notice anything that led me to understand why it was wrong on those 2 if i had to guess i would say if there are less keywords the accuracy goes down	13832 
+It appeared that it was using keywords to decide as humans do what the subject is about. It didn't use the keywords I would have thought, but it was able to use words that were exclusive to each sport.	91662 
+It inferred based on the language and abbreviations used.	51392 
+It looked for key words or phrases that related to the sport such as team names or types of action.	38417 
+using team names or specific terminology 	95254 
+It found words within the email that had to do with either of the sports. 	60617 
+The model took keywords from the emails to make an accurate decision. The model looked for actions words related to the sports or team names and players.	36418 
+They pick out key words	89866 
+I think it looked for key words, like team names, player names, and words like NHL or MLB, "pitcher," "hitter," "goalie," etc.	36294 
+i'm not for sure	73327 
+It looked for keywords, especially for names of teams or names of events, like the Stanley Cup playoffs or the world championship of baseball	40611 
+I think it searched for keywords in the email that had to do with either baseball or hockey. One example would be one that said Todd Worell wasn't throwing the ball. This would have to be baseball since they use a puck in hockey, not a ball. It also probably searched for team names and matched them with a list of baseball teams and hockey teams. This would work for the most part, although both baseball and hockey have teams named Rangers, Texas Rangers in baseball and NY Rangers in hockey.	41204 
+It looked for certain keywords in relation to either hockey or baseball.	27606 
+I think it focused on specific words or team names that belonged to either sport.	81890 
+By finding key terms relative to the specific sport(runs, pitch, goal, save, pitcher, ice)	96500 
+It looks for keywords that can easily be attributed to a baseball or hockey conversation and bases its' decision off of those words.	76486 
+The machine looked at terms that are relevant to hockey or baseball and decided based on if the email had a lot of these phrases.	76521 
+Picked out key words and decided if it was about baseball or hockey	42646 
+I tried to base it on the words that were highlighted previously.	97170 
+it focused on certain game-related words, such as "pitch," but it also (more helpfully) focused on SPORT-related terms, like "NHL" or "Stanley Cup." I couldn't decide if it knew the relevant player names (like Worrell), which is a weakness, and there were problems with the emails themselves, like the misspelling of "Angels" which made it harder for the ML to be successful. 	18979 
+It chose based on keywords contained in the email.	51439 
+It used the words in the email to look at what the text was about, and made an educated guess based on the words.	61323 
+It decided by picking out key words that were related to the sport or used to describe it.	26039 
+There were certain words that the model would attribute to one or the other sport.	27370 
+i think it made judgments based on some key terms and scoring layout or numbers commonly used between baseball and hockey.	58433 
+It uses keywords mentioned in the articles.	11607 
+It used keywords associated with each sport to determine which one it belonged to	10050 
+They went by the high lighted words,which were like hints to it.	25178 
+Finding key words. Learning from feedback.	63335 
+I really don't know. It seemed to me like the algorithm ignored many of the most important words and instead focused on ambiguous words like "Frank" for some inexplicable reason. So I have no idea.	47614 
+I think it used a database of words that matched common sports terms and team names to each sport. 	27394 
+It looked for key words of teams and for words that are specific to the game.	46030 
+Key terms in the email	94089 
+I think it looked for keywords of teams/the sports term itself.. IIRC the only one it missed had no real terms in it outside "DL" which is a baseball term abbreviation but not super specific.	40290 
+The machine learning model evaluate words within the emails to determine if they are more baseball or hockey related in order to decide whether or not each email is more likely to belong to the topic of baseball or hockey. In other words, the model read the email in order to find key words which it then uses to generate a probability of the email belonging to one category over the other. 	93153 
+It searched for keywords and determined what words were associated with each sport.	72725 
+It found words that were closely related to each sport	41594 
+It looked for team names, keywords like "hit" and of course words like NHL, MLB, baseball or hockey	19090 
+I think it searched for words that were most associated with either game 	11868 
+it took a few key words, like pitch, or hit, or goal, stick, and made the decision if it was hockey or baseball for the most part it was correct, some emails, however, didn't have specific key words, and were a bit more difficult, so it had to guess.	26017 
+Certain keywords.	41620 
+I think it took words that belong to each sport "stick" "puck" "hockey" vs "ball" "hit run" baseball" and analyzed them that way	60242 
+i think it prob scanned for keywords like: homerun, stanley cup, etc and made a determination that way	92686 
+probably had a list of keywords to look for to classify emails	35683 
+It picked up keywords that would only apply to baseball or hockey or it would determine it from Team names.	54519 
+It looked for certain key words unique to each sport, such as 'goal' or 'pitch'.  It did have difficulty with words common to both like 'Caps' and 'game'.	84182 
+The model picked out team names.  The model picked out actions that are unique to baseball or hockey	25738 
+it seemed to be looking for keywords	20769 
+I think it tried it's bet, but would often highlight pointless words that didn't indicate anything of value. 	21543 
+lOOKED FOR THE MENTION OF EITHER APORT THEN LOOKED FOR TEAMS AOCIATED WITH SPORT THEN PLAYERS THEN INFO STADIUMS FINALLY IT GUESSED 	41062 
+The ML model differentiated between the two sports topics using the presence of certain high frequency terms/words that are commonly associated with one sport, but not with the other i.e. pitches, ball, Cup, run, etc. 	20566 
+It looked for keywords that were associated with either hockey or baseball. 	49003 
+It seemed like they may have took keywords and matched them to a database to come up if they were about baseball or hockey. Keywords such as a player's name or a team, possibly even a city.	37257 
+I am not sure exactly how it works. I think it looks for several keywords associated with one of the two sports, but not the other, but I don't think I was ever told exactly how it works.	38054 
+It looked for words that it thought was an indicator of the answer. Like a sports team or city.	54935 
+If the model correctly identified keywords in the email	45480 
+I believe it may have learned to change the choice based on feedback on errors from Part 2.  It may adjust if it knew that the original choice was wrong or perhaps it will use different terms to make its choice.	83425 
+It took certain words like red sox to decide baseball and other words like NHL to pick hockey	46233 
+It will look at the terms and teams.	14613 
+looked for team names and events unique to each sport. Could be confused by seeing "hat" and 'cap" together, however.	53311 
+I'm not sure. It seemed to be more accurate when there were team names though.	95478 
+I believe it relied on the actual words that were obvious to a particular sport.	56715 
+I think it must have recognize some words exclusive to/mostly used only in the context of sports, or the names of sports teams/leagues themselves. So that might be something like knowing the Phils and homeruns are baseball, or the Caps and goals are hockey. But it's hard to tell when it got most of them correct the first time around (I think).	23443 
+The model focused on a set of words for each category (baseball and hockey) that I assume were weighted to a certain extent, and if more of those words were present, the model decided that the email was about that category.	39049 
+I think it looked at the teams names that could be baseball or hockey and sorted that easy. I think sometimes it took keywords related to either sport and interpreted that. It checked for reconized player names. Sometimes i don't know why it used random words that wasn't related at all.	96106 
+I think the machine was very smart and knew what words to look for.  It was right more often than not.  I only remember one wrong one.	34096 
+If the machine recognized anything word related to baseball or hockey it selected the appropriate sport. If the email was on that included both sports it went with hockey. The word could be a sport term, league, or player.	16180 
+The machine learning model looked for keywords that it had determined were either about hockey or baseball I believe. 	78429 
+The machine learning model took words already supplied and feedback from me to determine whether emails were about baseball or hockey. 	79402 
+It searched for keywords that are typically associated with one sport or the other.  For example "ice" would be hockey, and "homerun" is obviously baseball.  The more new words it picks up, the better it will predict the sport. 	67779 
+It seemed to look for team names.	86597 
+It used keywords related to either baseball or hockey to determine the subject of the emails.	55374 
+I think it looked for certain keywords that are more likely to be associated with that particular sport, e.g. stick for hockey, or innings for baseball, etc. 	43755 
+It searches for keywords that can be assigned to a specific sport and team names.	97951 
+I think by using certain key words that are related to the sports. If none, then it went with Hockey.	79910 
+I think it was programmed with key words to look for.  I don't think the key words that it was programmed to look for were always very good though and I have no idea how or who chose those key words.  There was probably an algorithm of some sort that weighed the keywords and would decide if there was more weight to hockey or baseball.	78242 
+I think it heavily depended on team names (e.g. Leafs, Red Sox) and the presence of the words 'baseball' and 'hockey' or those very closely associated with it.	77421 
+Some were based on teams names, but many highlighted words had nothing to do with making an accurate choice.	55779 
+I believe the machine looked for distinctive words to either sport.  Ball, home run, strikeout etc for baseball.  Shot, goal and stick for hockey. 	77077 
+It took key words and decided if the email was about baseball or hockey.	37157 
+Whether certain words were in the email (NHL, AL, team names, terms used only in that sport).	68546 
+They tried to pick out the key words to which sport they are talking about.	70091 
+I think the models looks for key words, or initials, pertaining to the respective sport.	29465 
+It decided based on the presence of certain keywords.	48843 
+It seemed to categorize emails as hockey if they contained phrases like Stanley Cup or Leafs, and baseball if the emails had terms like no-hitter or the names of baseball teams	83004 
+key words like pitch, throw, goal, NHL, MLB, ball, puck, Leafs, etc. It could sort those into the appropriate side.	17569 
+The ML picked out certain keywords, sometimes relevant like team names or jargon, other times random words with no connection so not sure how it was using those to decide.	71376 
+It looked for keywords like no hitter, ice, MLB, NHL, and team names. It was able to decide which sport these belonged to. 	11108 
+The machine used a few keywords to decide what the email was about.  In my opinion, it wasn't always the right words or the most obvious words but many times the machine got it right so I supposed based on their algorithm they were, in fact, the right words. 	29664 
+The machine learning model likely used a series of keywords in order to decide whether the emails were about baseball or hockey.  Most likely there were first-order terms, such as the words "baseball" or "hockey", that the machine learning model used to decide.  Then there would be second order terms, such as "pitcher" "catcher" "inning" or "puck" "rink" "ice".  These were then followed by team names or team cities, then player names. I believe that confusion would occur if this information were missing or there was overlap in a player's last name between a baseball player's and a hockey player's.  However, the model would use my subsequent feedback to correct and refine its predictions.	45907 
+It seemed to look for certain keywords like team names, but also seemed to highlight what seemed like a lot of random words	91961 
+The model did an excellent job of correctly figuring out emails detailing the basic talking points of each sport and being exact in its guess. The model had issues with emails that were used vague language, and limited wording about the sport and people's names.	58140 
+The machine looked for words such as "pitcher", "Stanley Cup", and team names to decide which sport was being discussed.	59979 
+It used certain keywords that were supposed to indicate hockey, or baseball, but some of the keywords were meaningless, so it was inaccurate at times. How it got these keywords, I have no idea. Probably some statistical analysis of other articles, which produced slightly flawed results.	73048 
+I think it just looked for keywords and used that to 	24736 
+It tried to pick out key words in each email that were directly associated with either baseball or hockey.	14352 
+Honestly i'm not sure. I'm pretty sure it got one wrong that should have been baseball and the team dodger was in it. SO maybe it isn't by team name. A 	19268 
+The machine looked for specific words that talked about one of the teams. I found that the emails had specific words pertaining to one of the teams.	84674 
+I am not sure.	31020 
+It decides based on key words present in the emails.	82086 
+It decided based on the words highlighted in yellow that it decided as important for describing each particular email.	43268 
+Based on key words that I've seen it use before, like name of major leagues, players, big teams, things like "pitch" for baseball or "goal" for hockey helps the machine make their decision.	35410 
+It picked words it deemed were related to baseball or related to hockey in order to make this choice.It didn't seem to have much specific knowledge of either sport though, and a lot of the words it used seemed mostly random. I'm not sure how it reasoned that ordinary words or that a name like Frank would distinguish hockey from baseball. Some of them it seemed to get right by guessing. 	68828 
+it picked at times random words that it thought fit into a model of the game	70456 
+The machine learning uses certain key-words to help decide whether its hockey or baseball.	35015 
+Mostly by the people mentions or the instruments used in the game.	17931 
+It detected certain words that are associated with each sports (team names, home runs, goals, puck, bullpen) and used them to determine which sport was most likely being talked about.	29646 
+I think it was able to tell by the e-mail mentioning something specific about hockey or baseball. But when it wasn't obvious, the machine had trouble and would then choose the wrong sport. 	49153 
+It was looking for specific keywords relevant to each particular sport. Things like team names, terms and player names.	43780 
+It picked out specific key words related to the sport and made decisions using these keywords to categorize the emails.	52847 
+I have no idea. It picked completely insane words like "for" "like" as reasons it chose one over the other. I'm not convinced it wasn't just randomly picking and got lucky.	53039 
+I think it looked for certain words that it could try and relate to the sport	48142 
+it looks for references to entities like teams and leagues.	51003 
+It looks for key words to help determine the subject of the email.	48777 
+I think that it searched for keywords that are associated with either sport and determined it that way.	79942 
+it took team names, cities and events in the text and isolated which sport was being talked about from these features. so a specific term like stanley cup would signal the the ML that it was a hockey event.	50958 
+It seemed to just pick random words out of the emails and try to make a judgement from those. There didn't seem to be much else to it. They missed a bunch of words that would have much more effectively identified what sport.	55085 
+It reads and looks for team names, player names, as well as key sport terms. Hockey and baseball are distinct in this regard.	71505 
+Certain keywords that were tagged before, I believe the model will associate those words with either baseball or hockey. It will then decide based on that which are hockey emails or baseball emails.	47243 
+Sometimes it used terms that would normally be used in each sport. Sometimes, it didn't use any word that made sense and it felt like it was a random guess.	93158 
+From specific tag words about either sport.	84004 
+It took certain keywords on the screen and made a smart choice about what sport it was talking about.	30831 
+I noticed that there were several of the correct options had words that were highlighted that were team names and cities to indicate which sport it was.   	41131 
+For the most part, the machine learning model identified keywords in each email which led it to conclude whether it was about baseball or hockey. In some scenarios, the chosen words were largely inconsequential which may have potentially impacted the model's decision making in a negative way. But in other cases, the model did a good job of singling out relevant keywords -- like terminology unique to a single sport, or a city or team name -- to help it make accurate decisions.	75469 
+by some key words in the text	72352 
+it was probably programmed with key words that helped it make its decision.  for example, some team names were probably named as hockey teams, while others were named as baseball teams.  also, some key terms such as strike outs, home runs, world series, goals, playoffs, etc were named.  what probably gave the model problems was when a term is used in both sports.  "playoffs" and "champions" are examples.	67770 
+Team names, certain key words, and player names I think were used.	57630 
+It took certain keywords that usually only apply in hockey(ice) vs baseball(ball) to make its decision	89301 
+keywords like Leafs, Red Sox, etc	41669 
+It seemed to use certain keywords, either something involved in the game itself (hitting, batting, etc.) or in some cases just knew what the teams were associated with (Islanders-hockey, Sox-baseball, etc)	39144 
+I felt like the model determined whether the emails were about baseball or hockey based on keywords and names mentioned. For example, if the name of a hockey team or hockey player was mentioned, it might determine it was about Hockey - and likewise for baseball. I felt like some obvious keywords like "baseball" or "hockey" were used, but less obvious ones like "goal" wasn't used, which caused the Machine Learning Model to make the wrong decisions about a small handful of emails when there wasn't anything more obvious in the email.	88490 
+used key words in the message and subject line	36453 
+I think it looks for words that are associated with the particular sport. 	81135 
+I think it uses keywords. 	71126 
+It used keywords.	24362 
+I think it looked for words like "goal", "pitch" "FHL",etc to help sort them out.	82175 
+I think the machine decided by picking out player's names or the names of the teams. Also, I noticed that it may have picked out a random name or phrase relating to the sport-such as the Stanley Cup.	86867 
+It picked out certain words that are associated with either baseball or hockey.  It used a majority of those picked words to make a decision.	52185 
+I don't think I figured it out. I did notice that some locations like "Boston" and "LA" were highlighted as well as words like "hit" etc but IS still feel like in some emails just random non-sports related words were highlighted. 	22279 
+It used certain words to see if it was more likely to be baseball or hockey	88736 
+It looks for common terms for each sport, and then decides based on how frequent those words appear in the emails.	89671 
+I think the machine looked for key words associated with each sport. I couldn't really tell if it was looking at team or player names in its decisions, but I think it was specific terms used in each sport, as well as league names.	57837 
+I think the model used the names of the teams or players to decide.	14938 
+i think it had a preset list of names of the teams to help it decide, but i am not completely confident about that.	30560 
+it looked at keywords in the emails and associated them to the topics?	53279 
+printed 176
+
+
+overall
+I thought the experience was well paced and straightforward.	32301 
+I felt that this experience was good.  The model wasn't too far off of its ideal performance levels and would likely be able to refine its predictive capabilities with some minor feedback.	49669 
+it was good	75736 
+It was okay. I think the machine had a pretty good grasp of what it was looking for, or at least it seemed that way.	69724 
+it was very smart	94460 
+Overall it was a positive experience, but it obviously needs more training, especially when it comes to figure out how how certain words are used in context. 	51840 
+I enjoyed it very much. 	51176 
+I thought it was easy to use and didn't have any trouble with it flagging false results. 	94803 
+i was surprised that it was mainly accurate in the practice so i developed a level of trust with the model 	60206 
+It was fun to use and I liked it.	42828 
+It was an interesting experience. I would hope it would improve over time though.	93880 
+It did a good job.	34972 
+I was skeptical it was an actual AI, I feel it was just stuff arbitrarily selected by the experimenter.	51918 
+It was fun experience but at the same time it was little difficult to know why its making a mistake when answer was obvious to human.	47814 
+I found it frustrating even though the model was successful.	57824 
+I was comfortable using the machine and it was kinda fun interacting with it to figure out how it made it's choices. 	42190 
+I really liked it I would be curious how it learned as it went along	24098 
+It was really simple and easy to use.	82157 
+It felt reliable and trustworthy. It only had trouble when not many of the common keywords were used.	39437 
+I enjoyed it and found it interesting that it did so well.	46331 
+I felt generally positive about it, if a little uncertain. I thought it did a decent job of categorizing the emails, even if the words it chose didn't always match what I'd consider good indicators of which sport the emails were talking about.	82132 
+I felt that it was easy to understand how the model made its determinations. I felt the system was easy to navigate. 	83298 
+It was interesting, trying to guess what the machine is doing 	66254 
+Interesting and I like interacting in it.  I am not sure if I was able to influence it to start making correct choices when it had chosen incorrectly in earlier phase.  I did like the idea and ability to use technology to help sorting.	31430 
+it was fun	51795 
+seemed to work well and if it can be taught mistakes will work better	72931 
+I feel like I should have gone into model development. This model is not very good and will lead to great frustration.	61864 
+It was correct a decent amount of the time, but seemingly for the wrong reasons 	84278 
+It was a vaguely positive experience.	89340 
+It went well and was interesting to see artificial intelligence work.	71029 
+The experience was good. The model appeared to be in working order.	36766 
+I thought it was predictable and accurate.	38569 
+It was pretty straight forward using it and it worked well.	91380 
+I felt it was fun, like programming a modeling software	40881 
+It was easy to use. No real issue.	93699 
+I felt like it was accurate and easy to train	15611 
+I liked using the model and it was a pleasant experience it seemed helpful at least to sort through emails.	43410 
+positive expetience, it made predictions for hard to guess emails	13497 
+It worked well	69775 
+i think it still needs improvement but it has potential and decent accuracy in sorting between to different topics	96289 
+I thought it was interesting and it was somewhat enjoyable.	49091 
+Positive overall.  Easy to use.	85383 
+I enjoyed trying to see if I could guess what the model would choose, it was a good experience for me. I wish I could have more time and examples to try to figure it out! 	36186 
+I like it	35208 
+I thought it was interesting and it did remarkably well, better than I thought it would.	69734 
+It was fine.	98653 
+I thought the model was great for what it was trying to accomplish.	15598 
+I think it was interesting and effective.	32640 
+It was fun, though I did not really know how it worked.	37007 
+I thought the model was pretty good and just needed to be trained a bit more.	24394 
+I think this model proved to be useful. I would feel confident using it again. 	18025 
+I liked it.	92016 
+I enjoyed it but kind of felt frustrated that i couldn't figure out how it was going about sorting.	60043 
+So much confusions.	19070 
+I liked it.	31933 
+I feel like it can eventually become more adept then a human.	82202 
+I trusted the model because it made consistent and accurate decisions, I felt as if we were working together.	17525 
+I liked the model, but it needs some work. The highlighted words weren't that great compared to really obvious keywords like team names.	50337 
+Good, I thought it did well.	90555 
+Fine, I had no issues	75419 
+I like the idea, seems like a strong way to sort emails	44310 
+Good and like it.	95330 
+It was interesting and could end up being useful for some companies.	50871 
+It was easy to use	64217 
+i liked it. i wish I could do more like this	44954 
+I thought the machine was smart and did very well. It was fun checking and working with the model.	80174 
+I felt that the experience using this model was helpful and informative.	29885 
+I feel really good about it and i would use it in my own business. 	56704 
+It was more accurate than I thought it would be, but there were emails that could have been about either, and one that mentioned both baseball and hockey, so a third "not sure" or "both" option would make it more accurate.	26241 
+It was fairly accurate, though some were hard to tell. Overall it was easy to use	82458 
+I thought it was interesting and challenging and a nice break from the typical academic study.	79210 
+It seemed to do any okay job. It needs it's vocab expanded. 	42713 
+I enjoyed it, thanks for the opportunity.	14168 
+It was fun	88495 
+I found the model to be accurate and I enjoyed seeing how it made it's classifications.	22973 
+It was decent	93445 
+I had a lot of fun with this HIT.	94680 
+My overall sense of the model is that it's pretty intuitive, though there is still work to be done before I would feel completely confident about its success rate over time. I would describe the experience of using this model as pleasant, entertaining, interesting, and made me feel curious about how it arrives at the conclusions it does.	47168 
+It was fine? 	39498 
+I was fairly impressed by what seemed to be an accurate model.	77252 
+I thought it was adequate for this task but I wouldn't trust it for company-wide use for something important.	37398 
+Using the model has been a good experience primarily due to how reliable it has been.	33374 
+I felt that it was a good experience. 	96876 
+It was fun	94094 
+It was a good attempt that's headed in the right direction. However the keyword data set needs to be overhauled to include jargon specific to the sports and generic terms need to be eliminated to improve overall accuracy.	32728 
+I liked having to guess which the model would guess.	56101 
+It was ok, but I feel like it was an exercise and not really working with ML	56639 
+I really enjoyed it	78135 
+I loved the experience of using the model. It was very interesting to learn about a new model that will help lots of people.	87686 
+I liked it overall. I thought it was neat how it could pick the correct choice between some of the harder ones. Granted many of them were easy, but it did pick correctly on some that weren't.	29835 
+it worked well i think.	34753 
+I had fun using it.	35538 
+Ok, I would take the time to make it learn.	19531 
+I felt like it was easy to use and helpful in making decisions.	33194 
+I enjoyed the experience and feel comfortable with the program.	70055 
+It needs some more datapoints, but I can see it being very good	35379 
+Needs to reach human level	45806 
+I felt positive and expected the machine to be correct.  I believe there was a soccer passage about Switzerland  	77975 
+it was interesting	92339 
+I felt really good about the experience. 	76292 
+It was fun trying to figure out how it was choosing the keywords it depended on.	59103 
+It was a pleasant experience	25801 
+I think it worked well.	45423 
+I feel that it still needs improvement for there were some errors made by the model.	97798 
+It was a fun experience. It was fun getting use to the machine.	83694 
+i enjoyed it.  it brought back memories from times i was much younger.  there is no doubt that a younger fan would not be able to do as well as i did in identifying the sport.  i got them all right (except one which i had to guess at because it gave me no clues at all).  i think if the model is improved it can be superb but as of now it's not reliable.	77529 
+It was pretty interesting	25155 
+I found the task of using the model interesting.	11210 
+I had a positive experience, there were no glitches and it works well	67846 
+I liked it I think that it would save people time in certain circumstances.	19915 
+It was easy to use, but I did not get enough feedback. I did not know if I was feeding the system the correct words or if it was learning as it should.	10754 
+I thought it was useful. I would wonder how it would handle adding more topics and if it was customizable to include industry-specific words that would make it more useful. 	84472 
+I like the idea of the model. It was successful the majority of the time.	95981 
+It was fine, right some of time, wrong more of the time, but it's still got some right and with some more input it would be really good. 	51854 
+I enjoyed seeing what the model thought, and thinking about what the model thought.	36367 
+It felt good because it helped me understand the subjects of the emails even if I was unfamiliar with the topic.	11730 
+Very good experience. I was surprise how well the model performed.	93965 
+Positive. Fixing which words it looked at, as well as taking more than 3 keywords into account, would help a lot. 	75999 
+I love it and would use it.	94719 
+Good overall.  At least it wasn't an exercise in frustration as with some other models.	71722 
+It was good.  It is a useful tool.	30494 
+it was interesting to see how it thought what was what	78461 
+I didn't mind it and I find machine learning and model stuff like this interesting in general, so it was interesting if nothing else. I would've liked to see how quickly it could wind up learning.	21095 
+I think it is fun to work with and works very well.	35116 
+It was fascinating. I miss hockey in my city. And baseball. I think this it's interesting. 	73321 
+It was very good.	72801 
+It was sort of interesting to try to figure out how it made its determinations. But I also wondered why it had so little knowledge of each sport. It was frustrating at times seeing words in an email that would are unique to hockey or unique to baseball and not see the model uses those to make its decisions. I felt like it got lucky in some of its choices. 	19485 
+mixed feelings	29459 
+I felt good about the experience of using the model. I was able to learn something by using the model and I could help the model improve by helping to correct the mistakes.	84596 
+It was a neutral experience overall.  It was okay.	28089 
+i thought it was fine and can see it's application in certain instances	66341 
+I liked it.	60272 
+It was pretty accurate and easy to use. 	94442 
+I felt good about it. I mostly trust the model. It did a pretty good job.	89843 
+It was kind of fun and interactive	66741 
+This took too long. Some of the emails I couldn't tell and at least one email I'm sure mentioned both sports.	36382 
+I enjoyed it.	65703 
+I didn't really think it was the best or most accurate model	43871 
+It was painless and pretty easy all things considered.	59167 
+It seemed easy to use and understand	92547 
+i felt like it had some knowledge about how to make decisions on e-mails but it is far too inaccurate	13331 
+This model is great but could use just a little work.	68604 
+I enjoyed it 	41642 
+I feel neutral. It could be a useful tool but I wouldnt trust it completely	15384 
+it helps but not perfect	15444 
+It was interesting, but the model needs more work and time.	40035 
+I found it fairly easy to use for someone who doesn't know much about the sports mentioned.	22441 
+I was impressed at how well the model worked and would have fun training it to fit my purposes.	68433 
+It was pleasant because I didn't feel like I was correcting it or it wasn't working.	74612 
+I felt it was interesting. I felt unsure about some of the emails.	83637 
+It was easy to use and understand. The logic was easy to follow.	80720 
+I thought it did a really good job	44260 
+It was cool Thank you.	76327 
+I think it was a learning experience for both of us.	37206 
+This was interesting, just not sure how it chose the highlighted words on a few of them, but for the most part chose correct words that could interpret which emails it was referring to.	43099 
+It was a positive experience.	88822 
+It was more accurate than I expected, and I was pleasantly surprised.  	75044 
+I honestly enjoyed using the model and was more impressed than I anticipated being by its relatively good accuracy. Moreover, I understood the instances where the ML model may have gotten confused and selected the wrong answer i.e. the Caps example referred to above. 	21369 
+it was ok, a little fun really.	43350 
+it was pretty easy to use and overall pretty accurate so i thought it was a great experience.	82605 
+I thought the model was pretty effective and that I would be able to help it be even more effective with my input.	52937 
+I enjoyed using the model, to see what its capabilities are and how well it would be able to categorize the e-mails on its own. 	95119 
+depends on if the model would adjust in the future. right now for the first 10 emails it didnt do a good job	43087 
+It was fun! The AI was mostly right and I could understand why it was wrong when it was.	44999 
+The model performed reasonably well and hopefully I was helping it learn by selecting the correct answers. 	36603 
+I felt the model was very lacking in quality in the sense that there were obvious keywords that should have been considered but weren't, which made me frustrated at the programming.	10732 
+It needs a lot of work.	95473 
+I felt like the experience was pretty good and helpful.	76683 
+I think it was very easy and sorted the emails well.	11295 
+I liked it I think it worked well	44893 
+I felt it was fine	55966 
+It went well. It wasn't perfect, but the results were better than expected.	94328 
+I felt it was a good experience - it seemed like it would speed up the classification of emails quite a bit. With that said however, it may need some refinement if the emails in question were of a critical nature - or at least a human to quickly scan the email contents to make sure it was correct.	67530 
+It was easy to use and generally correct.	13696 
+Overall my experience was fairly positive.	17907 
+I enjoyed it and found it useful.	33586 
+printed 176
+
+
+frustration_why
+It is pretty accurate	74102 
+I would be hesitant until I worked with the model for a period of time	52350 
+It seemed like it was very accurate in determining the subject of the emails.	98042 
+I would not feel frustrated because while not entirely accurate the model is quite reliable and can be mostly trusted upon.  	99993 
+It seems to do an okay job. 	59908 
+i dont think the model is close to 100% in guessing right.	25722 
+I doubt that any system would be perfect, but I also doubt there would be enough mistakes to frustrate me.	89029 
+I think it generally does a good sorting emails between the two sports but you would definitely have to recheck.	93143 
+I disagree because the model made few mistakes and got most of them correct.	79595 
+I would rather make the decisions myself.  If the machine made an error it would take me just as long to fix. 	48218 
+It seems to be able to distinguish between the two, however I don't get many emails about baseball or hockey. 	66643 
+The model is accurate enough at 90%. That is pretty decent for any sorting or ai system.	86263 
+It was accurate enough that it was worth letting it do the work	88077 
+It was accurate more often than not	97348 
+I think it would be able to decipher which emails belong where.	18950 
+I didn't understand why it picked some of the words to make its decisions on. It did things like use the name Frank, which I can't fathom how it could make a decision based on that.	26342 
+A human can outperform it	13928 
+They were specific to a topic, but I could reply to each one. I'd do better if I knew exactly who I was replying to and had a relationship. 	95986 
+It would do a good job because it rarely fails	50278 
+I think it did pretty good at deciding.	91697 
+It seemed to categorize them correctly without my input, and I don't follow hockey or baseball	27711 
+It seemed to be right for the majority of the time so I wouldn't mind using it	18173 
+I think the model was pretty accurate.	57331 
+it worked well	45865 
+im not sure how it would work for me since i dont talk about sports	43634 
+It did a decent job guessing correctly	14379 
+It got almost all of them right.	87737 
+I don't think it's capable enough yet, and needs more programming.	45416 
+I think it is pretty good, so I would be comfortable using it. Also, if it gets better through training, then I would be even more comfortable with it.	21628 
+It is easy enough to set up words to sort emails, I don't know why ML would be different.	53956 
+I would feel fine with it if it's fairly accurate	44059 
+i wouldn't feel frustrated because the model is highly efficient 	65978 
+Because some are ambiguous.	99263 
+It was right	44191 
+It seems to be pretty accurate.	84533 
+I believe that this model did fairly good job on the first 10 emails (I believe it got 7 correct) and my feedback would probably give in a much better chance at correctly categorizing the emails.  Therefore, I trust this model and even if it did not improve at all relative to its performance in the second round, its performance was acceptable in my opinion and would be only a little bit frustrating.	98015 
+It might work some of the time, but I wouldn't have confidence that it would pick the right category if there weren't any clear indicators like keywords that I would have to go back and check.	36521 
+I didn't feel frustrated using it.	85563 
+Because it got most of them right, and I would like prefer a majority to be categorized properly than do with the computer and have none categorized.	33969 
+Because of the few errors made, this would not impact my frustration level. 	67691 
+I thought it did a pretty good job of picking out keywords and distinguishing the difference.	16499 
+It gets things great and is very reliable.	58126 
+it did make a few mistakes and also it is not perfect. some emails are too vague and may lead to more mistakes overall	47973 
+I think it works well but the errors balanced it	82236 
+The model did a pretty good job overall.	61246 
+It made a few errors on what seemed to me to be pretty obvious emails. 	87894 
+I think it has enough accuracy. 	44283 
+It's reasoning made no sense 9 times out of 10. It would just lead to confusion on my part.	24866 
+it  would not match all the time and make big mixups.	27747 
+I don't really feel one way or the other about it.  I don't care if my emails are not categorized a specific way.	66405 
+It seems to have high accuracy.	62320 
+I think the model can be integrated and useful. Once integrated, improvements can be implements.	79123 
+I think it would help me and save me a lot of time, but I would also feel the need to check a lot of its work, for at least some time, so I think I would feel badly when I would inevitably find a mistake.	23148 
+In the first session, it got more right than wrong, and I think it has the capability to do better as more emails are decisioned and the program is given feedback.	29279 
+I just felt like there was no rhyme or reason to which words were highlighted. I get the locations words that were highlighted but I never figured out the decisions by the model.  	28439 
+I would not feel frustrated because it generally seemed reliable and usually accurate.	11452 
+The model only behaves as you tell it to. Some emails can't be distinguished even by a human, so expecting the model to be perfect is silly. 	31360 
+It is not foolproof. Sometimes there is not enough keywords for the model to decide.	98723 
+It did fairly well deciding which sport the email was about	99569 
+I would not feel frustrated. I think the model was good enough if it could determine the proper keywords.	39881 
+This model is a quality predictor of a wide range of emails.	81431 
+It picks on words that have no clear meaning. This led to errors that were preventable because there were keywords in those emails that would have made the choice very simple if they had been included in the data set.	90801 
+Except for a few misinterpretations noted in the first part, the ML model was quite accurate in its ability to differentiate between hockey and baseball emails, except in a few instances as noted before i.e. the only hockey related mention was the Caps which presumably the ML model may have linked with baseball given the commonality of baseball caps. These hiccups could be ironed out but teaching the ML model how to differentiate these two instances using good data. Regardless of the room for improvement, the ML model was pretty effective and would be useful with respect to productivity. 	83685 
+I would not feel frustrated because I think the model does a generally fair job of correctly evaluating the emails, so my level of frustration would be lower than if the model had a much lower success rate.	99037 
+I don't think the model is good at discerning ambiguous content. I don't think it has mastered the ability to read between the lines to understand what the conversation is about if the topic isn't obvious. So it wouldn't be able to accurately categorize e-mail as well as a person can. It is more limited. 	16699 
+The model seems to learn quickly and be able to sort through and find the key words of the emails. 	70182 
+It is good but it can make simple mistakes. It seems its scanning for certain words while ignoring major words that are related to the sports.	84184 
+I think it would get better over time and learn as we go. 	49971 
+It's easy to understand,	45485 
+It seemed to be doing a good job. I only saw a couple that were blatantly wrong.	25174 
+I think it was able to make the correct decision in most cases and could be accurate in most cases	73231 
+I would be afraid it would misjudge the email if both sports were mentioned.	98722 
+It wasn't 100% and I would rather just look through my own emails.	59527 
+I think the model did a pretty good job overall; I would like to be able to fine tune it but I would not be frustrated.	20914 
+It's not going to be accurate enough as it stands, but if it learns and learns quickly that opinion would likely change.	90433 
+Many of the words the model value more are not ones I would focus on for separating emails.	85653 
+I don't understand why it chose to highlight a lot of the words it did to use in its decision making	50709 
+It did a pretty good job and the importance of splitting hockey/baseball is low so errors don't bug me	89868 
+I think the machine performs well on the emails it made a couple mistakes but the instructions said it would learn more over time so I think it did a good job and will only get better	44564 
+I think the model is a great starting point, and there are some easy ways to improve it.	24120 
+It was easy to use.	45989 
+I feel it is intuitive enough to be accurate most of the time, but still needs work	63652 
+I would be able to distinguish the two.	36525 
+It was mostly correct, so I would not be frustrated.	67765 
+I think it would be helpful, but not perfect.	43607 
+I would not feel frustrated because on the most part it is accurate.	93797 
+I don't have strong feelings either way	36912 
+I think for the most part it did a good job of figuring it out.	27097 
+it was pretty accurate and would help to sort emails.	25865 
+had no issue with it	89101 
+I think it was pretty good for the most part, for most of the emails it got correct.	20155 
+Not sure, maybe it wouldn't be as efficient and I would expect.	91904 
+I think the machine was pretty accurate in it's predictions. 	45488 
+I would feel a little frustrated, because it's not readily apparent why certain words were focused on. However, if I'm able to add my own words to help the model make decisions, I would feel less frustration about using it.	86879 
+I think it did fine.	33318 
+It would get most emails correct	51429 
+I think it does a pretty good job in general. Seems to be able to differentiate pretty well. Well enough that most would be categorized correctly.	18267 
+I don't completely trust it.	12141 
+For the most part it was pretty accurate	67764 
+Because in the second phase/part, the computer was choosing key terms that had nothing to do with a sport.  IT was seemingly choosing random words at times and not key target words. I would be worried that my own emails would be classified/sorted incorrectly.	82556 
+I think this would make things easier	61139 
+The model seemed to be accurate and I agreed with its decisions.	97333 
+I think the machine would make the right choice more times than not.	90993 
+It would frustrate me because the algorithm is inexplicable. It ignores very significant words so I would always doubt it.	36824 
+IT WORKS 	64111 
+Because I feel that the model is mostly accurate.	69443 
+I think overall this model was successful at the task and did a good job.	52334 
+I would have to see what it does with other subjects	19680 
+I think it did a pretty good job. 	85302 
+Out of the 10 emails the machine was only wrong on 4 of them. So I think that the machine would be able to select the majority of emails correctly. 	40448 
+The model does a pretty good job for a model.	53087 
+I could program keywords that would separate emails and I think it does that pretty accurately as long as the keywords are present.	95013 
+It seemed to do pretty well from what I could see. I mean it had a 50/50 chance, but it seemed to get it right more often than not. Some of those e-mails, I even had trouble telling what they were actually about.	19156 
+I don't think it would be accurate enough and it would make obvious mistakes that I would be annoyed with.	69974 
+I wouldn't feel frustrated because I think the model made the majority of correct guesses. It did an okay job and I would use it to make decisions.	13344 
+I think I coukd teach this model to make decisions about topics and urgency	76951 
+I don't expect it to be perfectly accurate, so I wouldn't really feel frustrated using it since I expect it to make mistakes occasionally. 	87999 
+it doesn't seem fully competent yet	14960 
+I don't know	28921 
+i don't think i would like a program scanning my emails	34826 
+It's usually right even though I don't like how it's getting its answers.	47282 
+I think it did a good job. With a few tweaks it could be even better.	84829 
+It would make mistakes only because some chosen keywords have nothing to do with either sport.	58955 
+It was hard to be accurate sometimes	34200 
+it wasn't very accurate	36876 
+I don't think it's frustrating at all.  It seems to be working.	11982 
+The model is right almost every time and I trust it to make the right choice. The model will improve over time as it processes more data and learns from its previous mistakes.	40670 
+It seems to work well enough.	46178 
+I thought that I understood its decisions	11158 
+I don't believe it would make any more mistakes than I would, so it would just make my life easier. 	56484 
+I think it was accurate in most cases. A few times it used wrong keywords I believe but overall the model performed well.	55632 
+The more I use the system the more accurate it will be at predicting.	65750 
+I think it did a great job, overall. 	19389 
+It seems simple enough, somewhat the same as my gmail currently uses to sort important stuff from promotions. 	45339 
+it seemed to work well overall	83026 
+I would prefer to make my own decisions. Also, humans can decipher nuance in text.	90548 
+The model is fairly good and just needs a bit of fine tuning.	34774 
+I would not feel frustrated because the model does a very good job of recognizing the emails.	40001 
+In my own emails I tend to overwrite and try to express myself much more than usual. The model could incorrectly interpret key words that would otherwise not be related to the subject	87530 
+I would not because I wouldn't expect the system to be perfect.	27194 
+It uses words that have no power to distinguish between the subjects. It could use words like home run or strikeout for baseball and words like goal or ice for hockey. It could also use abbreviations, such as MLB for baseball and NHL for hockey, but it doesn't. It seems so random and like it doesn't have specific knowledge about either sport. 	69809 
+i felt all things considered it did a good job i was kind of surprised	65919 
+It did really well, so I'm not worried it will be wrong	99888 
+Just because it's imperfect, and I would know that.	86844 
+I think, for the most part, the model does a good job.	70835 
+I felt it did a pretty good job at determining the difference, but not perfect. The less obvious emails could use some work - perhaps if it learns to pickup on subtle keywords when nothing more obvious is present would help.	79827 
+Honestly depends on the subject since these were all sports-related.  How would the model determine from other areas of life?	49095 
+It has no substantial process to it. There are way too many ways for it to misidentify sports	41186 
+It would be good to have a fine-tuned filter that was made that way by me, to my specifications	25376 
+I think the model is quite reliable and makes very few errors.	15923 
+It seems to do a good job	48510 
+If my emails were about sports I could see how this model would be accurate but not sure about other topics.	38714 
+I do not get frustrated about things like this. I expect some errors.	91607 
+It seemed pretty effective for determining the subject.	97504 
+The model was easy to use.	87155 
+I would already know my own emails and their subject matter.  I guess I don't really understand this question.	36310 
+I would feel frustrated because the model isn't 100% accurate.	16070 
+I think the model does a good enough job reviewing and categorizing the emails that it would be able to save me some time as long as I understood that occasional mistakes would happen.	14383 
+I feel it got most of them right.	68900 
+Disagree because the model was accurate most of the time and made understanding the emails easier.	50328 
+People even make mistakes so I expect ML to do the same.	41484 
+I do not think I would feel that way	60725 
+I see no reason to get frustrated	38534 
+Because it sometimes seems to make arbitrary decisions and is wrong about things that should be easy to determine, and it would throw out or miscategorize some emails for sure. It seems to be right most of the time, but the basis it uses for its decisions doesn't seem sound, so I don't really know why it is as accurate as it seems to be.	82077 
+I'm not sure how it would help.	62323 
+It doesn't seem very sophisticated. 	27820 
+I think its pretty spot on	71455 
+A 20% error rate is too high for such a simple task	81863 
+I think the model works pretty good for the most part. I think I wouldn't be too frustrated with it in the end.	29615 
+I don't get frustrated easily. 	94646 
+Unless it used a search for the subjects in the e-mails for the teams or names it would probably guess mostly incorrectly and it getting that wrong would annoy me. 	11833 
+it's not 100% accurate and i cannot trust it because of that.	63838 
+I feel like it is fairly accurate. 	38242 
+if i was going to use a model i'd want a near-guarantee that it was correct at least 98% of the time; otherwise, what's the point of the model? i might as well just do my own research in that case.  which is why i'd never pay for a model like this.  part of sports info and stats is the satisfaction i get out of doing my own research. in my case i don't want a model. i think it would lead to lots of frustration. part of that is i'm 63.  i remember names like pat burns and buck showwalter.  younger fans wouldn't know those names.	64268 
+The model was pretty accurate. 	14658 
+They were pretty good. They were not bad.	39662 
+printed 176
+
+
+trust_why
+Again I think it was more successful than I thought it would be.  	69329 
+sort of the same answer i gave above.  this model showed me during this survey that it is not reliable.  it did okay but i want better than okay.  there were some bad misses.  i wouldn't trust it.  it needs to be programmed better.  i got the idea it got about 80% correct.  thats a "B minus."  not good enough.	39608 
+The model was good as long as it could find keywords.	75730 
+As long as nothing important is filtered I would be happy.	29618 
+there were only a few that made it difficult to decide which email it was talking about.	43497 
+I thought did a good job overall. I think it only messed up a couple in the practice rounds.	46352 
+It did a good job if getting the majority of the emails correct	29809 
+It sorted enough wrong that in volume situations I would spend more time looking for errors than it would be worth overall. Until it can get a higher accuracy rate it wouldn't be that useful.	49314 
+Because I Think it would learn from me 	18576 
+It seems pretty accurate. 	52813 
+I think it would make a few mistakes but I think overall it is useful.	78356 
+The model seemed to get most of the decisions correct	50212 
+It seems to be pretty accurate when it comes to emails.	84473 
+Again I don't think the system is very complex and there's too much room for error.	99422 
+I don't trust it because it doesn't seem accurate enough yet, and I'd second guess it all the time which would mean I probably spent even more time on it.	92498 
+I'd prefer to do it myself, but its still a useful system.	14955 
+It only failed once in the practice	22958 
+I trust myself more	85812 
+Imperfections, like lacking complete knowledge of player names, and its inability to account for email misspellings and other errors.	58261 
+I would trust it insofar that the email was fair to the model.	50776 
+It has a good track record here,	76517 
+It was only able to understand the easier e-mails and not the more complicated ones. 	19155 
+It is accurate enough, but I would still want to double check	98530 
+When terms from both sports are mentioned it confuses the system.	46163 
+I agree because it is very helpful and only made a few mistakes.	47283 
+It's smart enough to get most of it right but not all of it	18690 
+Same reason as above. 	40604 
+I thought that the machine did very well at correctly selecting the sport for most of the emails. With a little more feedback I think the machine could master this task.	94528 
+it's not refined enough	50548 
+Dont think the model as is is good enough to classify emails correctly most of the time	17787 
+It did a good job	70080 
+The system was mostly accurate, it would just need fine-tuning and maintenance for maximum accuracy.	74350 
+Just using keywords my email already does this.	19988 
+It made good decisions.	60653 
+It got some wrong, so I wouldn't trust it until it was at nearly 100%.	13437 
+I think it would be mostly correct but it should flag some emails as unsure if they don't contain specific keywords.	80850 
+It seemed to be fairly accurate with few mistakes. 	71275 
+The machine was typically correct.  	26216 
+it didn't get many wrong	14991 
+I think it would do a decent job.	78958 
+Some of the times they get it wrong.	40273 
+It seems accurate for a majority of the cases	29645 
+It got more right than wrong and, as I said earlier, I think it has the capacity to get better.  There are strong and different keywords for each sport that it would be relatively easy for it to learn over time.	81381 
+PERcentage wise it does well	90451 
+Overall the model did do a good job. It did get a couple wrong in the phase 2, but it looked like it could decide which was which most of the time.	23780 
+I would want to more feedback before implementing the model for my own emails.	81094 
+My own emails are filled with my own thoughts and based on the subject the model could pick up extra words that are not relevant. It could interpret them in a wrong way.	45997 
+I am not sure I could trust a high percentage of emails to be correctly sorted due to the computer sometimes not picking up on key words that relate to the true subject.	48774 
+It did a good job and will learn more over time so I think it will do a good job	33559 
+It's usually right.	78532 
+It got most right, but most of the mistakes were made for highlighting the wrong keywords.	37883 
+Again, no system is perfect. I would rather judge for myself.	25169 
+I don't trust it completely. If I'd be waiting for important emails I'd definitely not use it.	32101 
+I would still want to double check since it wasn't accurate all the time.	64669 
+Because it makes some obvious mistakes, and because I don't trust the basis for its decision making.	50503 
+Like I said before it seemed to do pretty well. Even if it was a coin flip on if it got it correct or not.	41767 
+I wouldn't trust it because it's not 100% accurate and makes mistakes. 	70224 
+really depends on the situation. Hard to say for general use unless I went in and specified keywords for the topics I am interested in.	62794 
+I do not see that it made many major errors in sorting and is reliable.	28100 
+I think it does a good enough job of categorizing the emails correctly.  It will make some mistakes, but as long as I can accept that, I think the ML system would be helpful.	89489 
+only sometimes i would not just totally rely on this system to make the correct choices all the time.	84423 
+The model is trustworthy and I understand how the model makes its decisions.	76230 
+It might or might not	97461 
+I think the machines would be correct more times than not.	29894 
+I think it did a pretty good job overall from what I saw 	99394 
+My emails are more complicated than hockey vs baseball.	28173 
+I would trust it a little. They were right most of the time.	98666 
+It proved it was capable of doing a good job.	36187 
+It seems like it can do about as good as I can myself.	29627 
+It didn't make many mistakes and it would be useful to sort through a large number of emails.	38755 
+It did a good job overall and I would feel comfortable using it. I'd still scan over the emails myself since I'm aware it could still use some improvement.	54832 
+I think that the model already has a good database and can learn from errors. 	31504 
+for the most part it made the right decisions	40626 
+I would trust it a bit because it was usually accurate, but occasionally could be wrong, so not as good as a knowledgeable human.	11972 
+I think the system had a high accuracy rate. 	47405 
+It was mostly right	79623 
+There are some that it got wrong.	45478 
+it wasn't accurate	84127 
+I feel like it's just a good system that works well, and I assume it improves over time.	58675 
+I can't understand it so I can't trust it.	37554 
+I don't quite understand how it made some decisions. Also, it got more wrong than I would feel comfortable with if it was to be used in a business application.	73356 
+I would trust it because it seems to make correct decisions most of the time.	86885 
+It's good enough	28420 
+It seems to have proved itself in the current task	91953 
+I don't have enough info about it.	46082 
+It wasn't always right	65781 
+I think the system needs some fine tuning.	20714 
+Because it was mostly accurate. I would check it periodically at first, however.	39072 
+Too many of them were wrong. It needs more learning, specially when no keywords were present.	60895 
+I think the model would get the majority of emails correct but not all without more training.	89631 
+The model did a pretty good job overall.	31213 
+i have some trust in the system and if it could mark some as undecided if they do not match any terms or triggers, i would trust it more	80246 
+The model has shown to be quite reliable by accurately sorting a majority of the email shown, therefore I feel that I can trust it based on its previous performances.	66520 
+Its very accurate and great.	45117 
+Picking random words to base its decision on doesn't seem like a trustworthy system.	67670 
+Too high of an error rate	80978 
+I would have to do a lot of work to train the model but it woukd work eventually	50019 
+It was just as accurate as I am, so I would have no problem using it. 	81920 
+The model seemed pretty accurate.	64673 
+it is fairly accutate	31361 
+It makes mistakes on these sporting events with generic information, it would do worse on emails with more nuanced topics	14407 
+the system seems to be accurate 	76421 
+Most emails containing team names and words like "pitcher" or "puck" are pretty obvious. With some good keyword management you could get it pretty accurate. 	58997 
+I would be hesitant to fully rely when first using the system because I know it will make mistakes. 	22504 
+I can't trust something that makes nearly as many mistakes as what it gets right.	83306 
+It doesn't feel as if it's using key subject matters in a search, just finding common key words and making slightly educated guesses. 	66711 
+Because it wasn't accurate enough for my tastes.	49456 
+I do think the model was more right more times than it was wrong.	58233 
+From what I can see, the AI system is fairly accurate. 	50018 
+It seems to get more right than wrong	99063 
+It seemed to be doing alright with the emails, though it might have just been random.	98284 
+I would like to work with the model until I am confident in its judgements 	37322 
+I would trust it to sort emails like promotional ones but I wouldn't want it to make decisions for my personal emails. I would still like to have control over those. 	32651 
+It made mostly the right decision	13334 
+In a majority of instances in which I was made aware of its decisions, the system made correct decisions, so I'd be inclined to put at least some degree of trust in the system to continue doing so in regards to my own emails. Any reluctance I have is the result of ambiguous emails that either give no indication of a single sport, or reveal information that is relevant to multiple sports. 	49777 
+it worked out about 90% of the time, good enough	65374 
+from practice i learned it's got a good percentage so i would trust it to a certain degree 	82036 
+again, as above, i dont know how it would work for me at all	58133 
+I feel like it is fairly accurate. 	34399 
+Probably. Baseball and hockey terms aren't that close. It got it.	22898 
+I feel like it'd be accurate some of the time, but I don't feel that it's accurate enough for me to actually trust it to handle my own emails. 	74410 
+It's reasoning made no sense, I can't trust something that doesn't explain itself very well.	90998 
+The model did not seem to have trouble picking out which sport was discussed in the emails.	19803 
+Agree because the model was accurate and I rarely felt as if I had to double check or doubt it.	26178 
+The model needs more training	27785 
+It was wrong a few times	99538 
+Nothing is flawless I would expect it to make some mistakes.	11809 
+I would prefer to have some sort of system where there is a minimum level of confidence for the AI to make decisions and then emails below that confidence level could be filtered out for me to do manually	86087 
+Same answer as above	89964 
+it does will with the information it's provided, but for ambiguous things still needs oversight.	35066 
+Because I feel that the model is mostly accurate.	65329 
+It was pretty hit and miss	73126 
+I would trust it to get most right, but not all.  It did well enough.	47855 
+It was off on some,but overall did a good job making the predictions.	16662 
+I think the model did a good job in distinguishing information in the emails. 	93509 
+For the part, the system's predictions were correct. 	50190 
+I would trust it because it knows the difference between the teams.	92196 
+I think with training it could do just fine	79046 
+It was mostly correct, so it makes the right decisions and is therefore trustworthy.	95044 
+I'd day it's right about 75% of the time. 	37823 
+I feel that the machine would be able to classify emails based on key words effectively.	48773 
+it's easy enough to correct any mistakes and it was pretty accurate overall	66816 
+It would be able to get most of the email correct	73737 
+The system is very smart 	71895 
+Because the model's predictions were consistent and accurate.	27866 
+The model seemed to do a good job and I would believe that overtly incorrect categorizations/classifications would be corrected rather quickly based on my feedback.	45731 
+I will have to decide myself.	89674 
+Baseball and hockey emails might be easy to distinguish, but I would be skeptical if there were two categories that were very similar and use a lot of overlapping terms.	67410 
+I think the model made more correct than incorrect choices, and I would willingly  use it to make decisions, especially when there were words and phrases that it could easily detect.	88446 
+This model was correct most of the time.	16961 
+It seemed accurate from what I saw.	38948 
+The model is fairly reliable and can categorize the emails much quicker than the human eye.	86803 
+Again, depends how literate the model is outside of sports-related knowledge.	73594 
+I feel confident it could sift competently though my emails	56445 
+I think it worked just as good as any kind of software that can sort through emails.	46754 
+It doesn't seem very sophisticated. 	49963 
+It uses random words that could be part of any sentence about anything. It also used the word Montreal to decide an email was about hockey, and the word Montreal to decide another email was about baseball. I feel like over a large number of emails it would make a lot of errors, especially with emails that had a very small number of specialized words that are unique to hockey or baseball. 	62818 
+It is accurate and it keeps learning	15745 
+It misses some obvious keywords	60901 
+I don't receive many emails, so I don't think I need it	77806 
+I will not trust it since it is prone to error.	95770 
+I didn't notice any huge errors 	72030 
+From the examples I saw the machine performed well overall and seemed to get better over time, so I would trust that it would be correct when I used it.	11896 
+As explained in detail previously, the ML model is relatively intelligent and able in doing an effective and relatively accurate job. Of course, it messed up in certain instances where the  confusion is obvious. However,room for improvement doesn't mean that it shouldn't be used until it's absolutely perfect, which in all likelihood will never happen given the elusive nature of perfection. 	45863 
+It may miss some nuances but it would work good for the bulk of them.	42909 
+For the most part yes. Its not perfect but it got most right. It would depended on how accurate emails would need to be sorted.	56679 
+It was mostly correct but did make a few errors.  I would gain confidence in the system if it learned from its mistakes and improved its success rate, or if there was a quick and easy way to tell it about mistakes. 	17235 
+Again 90% is decent enough.	85596 
+It seems to perform well under most conditions. If it was not important to be absolutely correct (i.e. if I was just organizing personal emails), I think this system would work well for me.	22122 
+i guess if it had the correct keywords to look for	37191 
+I feel that there would not be very many mistakes. It also could get better with more feedback.	54467 
+I would probably trust it slightly, because even if the words it chose sometimes seemed poor indicators of the sport, it managed to get about 70% of the emails properly categorized. That would make me feel okay about it making decisions, for the most part.	46621 
+I think it did a decent job	66388 
+I don't think its fully reliable yet. I'll have to go through every email to make sure that there are no mistakes done.	74421 
+I think it would work correctly, with greater accuracy with more learning and input from me training it on which emails of mine fit into which category.	82623 
+The system was fairly accurate.	69806 
+printed 176
+
+
+recommend_why
+I would recommend it because I think it could help the company to be more effective and efficient.	86445 
+I think it has potential to be great.	71559 
+I would still want people to do the job.	74283 
+I would get fired for the ineffectiveness of this model	32466 
+It would make some work tasks easier and free me up to do other things. 	76830 
+It can only get better 	42847 
+Based on what I have seen it works.	67090 
+It would need to be refined more if used in a detail oriented field but other then that it would save time for the company.	46076 
+It would depend on the volume of emails involved, and the success rate of the software. I think it would certainly be worth a try. 	69801 
+The model was easy to use and easy to interpret.	40933 
+I love implementing new technology and this is a very successful technology in my opinion.  I would be interested to see how it performs in the real world, in the long run. 	50264 
+The system was correct 90% of the time.  I think human interaction would have the same results.	63804 
+I think it is effective enough at categorizing emails that it would be able to help employees save some time.	64526 
+It needs to be worked on more before I'd feel comfortable using it for my hypothetical company. 	73116 
+With some tweaks, I think it could work even better. But overall, it did better than guessing.	60694 
+This model could save us time and does a good enough job that I would recommend it, with the caveat that like any model, it's not perfect.	86254 
+I think it could be modified or programmed better and if was more accurate could be a useful tool unless there are better ones out there.	53466 
+IIt was mostly correct, so I think it would be very useful.	23553 
+i don't see the point in it.  a company wants to do superior work.  this model, as now constructed, does "okay" work.  i don't want a company to be okay.  i want it to be excellent and excellence can be achieved by people if they work hard enough.  anyone who wants to do the necessary research could have done better than this model.	74908 
+It's accuracy overall was good, and it would save a lot of time in the long run, even with the occasional error where it determines something incorrectly.	29562 
+Maybe good for some people but not for me.	73588 
+The model did make the email subject condensed and gave a sense of understanding. 	46558 
+I feel like it's not nearly reliable or advanced enough. It doesn't seem to have learned or adapted to words that would be very useful in distinguishing hockey from baseball. It's extremely unsophisticated and I imagine my superiors would be wondering why I chose such a limited model. 	37843 
+I would cautiously recommend it. I would like to know a bit more about how it actually formulates it decisions, but I think from what I have seen of it. It is mostly trustworthy.	12777 
+I would recommend this model because it is easy to use and it will help a lot. I also think it would make a few mistakes but improve over time.	86074 
+The same as above, needs improvement	86578 
+it is often correct and works on a good algorithm 	78047 
+It understood, but I do think human interaction matters.	53019 
+it seemed pretty reliable and like it would improve over time	74038 
+I think that it could save a lot of time. The files could be sorted so that you could pick which emails to read.	88247 
+I think the model is probably close enough to working at a level of accuracy to make it worthwhile to use	81527 
+The system works and it would be useful.	90126 
+It was extremely accurate, and at least as good as the average human.  It did a good job of selecting the right words to be able to make the right decision.	63790 
+I did not see many errors that the model made.	40172 
+Not perfect, but pretty accurate.	35794 
+Correct more times than not.	64197 
+It was mostly right	10782 
+It could be a good tool to save a company time and effort	80564 
+I would recommend the model because of it's accuracy in predicting emails.	50219 
+It did what it was supposed to there were only a few instances where it was wrong an I think that is about as good as a person could do sorting emails.	10260 
+It gets more right than wrong and it has the capacity to learn.  This would save time and money at the end of the day.	97208 
+It's reliable and will help the company categorize much faster than regular humans.	12498 
+I think it does a good job	99698 
+I think it did pretty well	14409 
+The system is extremely smart and efficient 	56108 
+Depends on how accurate and important something like this would mean to the company.	61704 
+It seems to do well enough with sports knowledge so I'd be willing to give it a try with other areas to see how well it did with those.	96428 
+I feel like it is accurate enough to be of benefit to the company.	37203 
+It can pick up on the right things from time to time.	35132 
+It could be wrong sometimes	52148 
+It seems to work alright now, and I think it would be easy to make it even more reliable if it were given certain training sets.	59408 
+For being a system that can learn I think it is trained very well for being new.	21580 
+The model would help a company by efficiently processing emails and categorizing them. The model is trustworthy and accurate which means the company would feel comfortable using it.	10237 
+I think using this model could help speed up sorting emails with pretty high accuracy. 	90689 
+I would be only willing to partially recommend.	23673 
+Isn't transparent enough about how it comes to decisions.	38203 
+It has a good level of accuracy and will only get better.	83900 
+It's  easy to understand.	51722 
+It is able to efficiently sort emails and quickly learn the rules of what it needs to look for. 	67189 
+it wasn't accurate	12791 
+I might recommend it because it does pretty well but it would be hard to stand by it completely because it isn't 100%.	12325 
+until it proves it can be 99.9% accurate, it's not worth using/paying for.	92206 
+I agree that it did a good job, but it still has about a 20% error rate. I think most companies would find that high an error rate unacceptable.	46002 
+Needs some refinement	22891 
+Yes as long as it stops focusing on terms that aren't necessary terms like "and" and "the"	97154 
+i work in healthcare and there's too much to do with hipaa to worry about a program scanning our emails in this industry	62637 
+Until there is a way where the model would not make a mistake then I would not recommend it.	74943 
+Unless it could prove to be correct all the time I could not recommend it	95765 
+I mean it worked pretty well with a few mistakes. overall i imagine it would do an ok job at sorting most email.	17327 
+It would depend on the employees.  I prefer to be hands on and would rather do the work myself.  However, other people have the exact opposite feelings. 	72245 
+It was capable and would meet our needs.	61852 
+I would recommend this model to the hypothetical company because as noted above it has a relatively high degree of accuracy, efficacy, effectiveness, and efficiency. 	23554 
+I would think that going back manually to check accuracy might take away from any convenience the computer might initially provide.	26737 
+It needs more work.	13591 
+It was not accurate enough that I could feel comfortable recommending it	74648 
+I wouldn't recommend it until it was better.	78183 
+I don't know how useful it would be	12397 
+Because having most emails categorized without the need for us to do it ourselves will save a lot of time, even though some aren't done properly.	47146 
+I would hesitate to tdo that in general 	46965 
+it would cut down on time spent sorting through emails	31986 
+I feel it could be useful.	25316 
+90% seems high but if the company wants more than that, this AI might not be able to pull it off on vague emails.	41255 
+it got most of the emails correct.	22308 
+I think it is on the right track and could be made to be very efficient.	27511 
+only if it adjusted after the first 10 emails were done by me.	18239 
+It's success rate is high.	38226 
+I think it still needs to be improved.	44617 
+Because it will clearly miscategorize items in some instances and could very easily throw out an important email.	94493 
+As stated before it does a good job of knowing what the emails are about. Some people would not even be able to figure some of the emails out. I had a hard time unless there were specific words that pertained to one sport or the other.	28552 
+The model works most of the time and is mostly predictable in the results it gave.	96025 
+They are not 100 percent but decent	26900 
+Because of the imperfections I pointed out in question 8.	42915 
+Because it does seem to do an efficient job of classifying emails.	83275 
+I would definitely use this!	23030 
+I think it would be very useful as long as there is also some manual review.	83279 
+it works well enough	21032 
+There are still enough errors I would hesitate to use this.  I would want to make it better.	37044 
+I think it would be a useful tool in organization.	32576 
+I think I could probably figure the model out given more time, and I believe it was more accurate than it was inaccurate. 	22031 
+It works basically well with some human oversight.	66469 
+It seemed to be fairly accurate with few mistakes. 	87731 
+If I got it accurate, sure. In it's current state I think the keywords could be tweaked to make it accurate enough for professional use. 	48363 
+Its accuracy rate isn't high enough for me to feel comfortable in recommending it.	96014 
+This model seems to improve over time and was mostly accurate and I think it could save a lot of time for employees, so I would recommend it.	75716 
+It works great and is right on the money.	42742 
+The model was accurate when making decisions.	37981 
+Most of the decisions seemed right to me.	41152 
+The model is reliable plus it can be quite useful in the case that it judgement are better than that of humans therefore having this model can improve the efficiency of my hypothetical company.	19974 
+If the model got better at it's accuracy I would, but not until then as it would disappoint. 	11243 
+This model works. 75-90 percent of the emails the model made the correct choice. There should still be human supervision to correct the few emails the model incorrectly chooses.	81516 
+I guess it would be ok, it was right often, but I would need to run it through hundreds if not thousands of emails to see if the statistics could be lowered into the 99% range	12289 
+It would depend on if there were any other alternatives	21215 
+It did a good job	38291 
+It seems to be pretty accurate overall.	12205 
+After a few weeks of trials, it would largely perform correctly.	75669 
+it accomplished what it set out to.	98540 
+The model seems to do a good job at deciphering what type of email is relevant based on keywords. In a professional setting where certain emails would need to be categorized quickly and efficiently, I believe the model could do a good job.	94232 
+It could save time. It would be slightly helpful.	44393 
+I would because the model was pretty good making predictions.	28002 
+It seems easy enough to program and maintain, had good accuracy.	24677 
+I think after the initial instillation of the model it will save time. 	90443 
+I would not want to be responsible if the model is wrong	16933 
+I would like to see more first	54331 
+I would probably recommend the model, assuming its word set is able to be updated and tweaked. That is really the crux for me, as far as whether I'd choose to recommend this. If it can evolve and expand its knowledge base over time, that could make it a useful tool for this purpose.	94636 
+It is a good model if it is able to find keywords. However, I would want to look at a larger sample before fully recommending it to my company.	29998 
+Not enough information.	98446 
+no, but I would if we can choose what word this AI should scan for.	14682 
+I think it would likely save some time.	86593 
+I would maybe recommend it because it seems fairly accurate and reliable if it were too much work for a trained human to do similar tasks.	10098 
+It could be a source of sorting emails especially so we could know what it was about before having to go through all manually.	51682 
+It will improve efficiency	20259 
+I can't recommend something I don't understand.	22740 
+The model would not be able to distinguish sports at an acceptable level	92600 
+I think it needs more time before rolling out to a business.	15880 
+Because I feel that the model is mostly accurate.	13063 
+I think it works well	27730 
+If I thought it would be useful to them I would recommend 	79304 
+I don't know how quickly or if it could learn in order to recognize the very basics, let alone more complex situations like one of the emails that talked about both hockey and baseball leagues.	64721 
+it is not nearly reliable enough making decisions to be used in business	24136 
+I think it could be very useful for searching through emails. It could prove to be very beneficial.	29520 
+I'd need to know about the company's need. 	38891 
+Although there may be some mistakes at first I think that the machine could become more effective with the task and save time going though the various emails. 	43442 
+I think the model has potential but needs to be improved so it can understand a conversation and know what the terms are if someone doesn't obviously mention baseball or hockey. It should also understand related names of people and terms that give clues to what the e-mail is about. 	92832 
+It doesn't seem very sophisticated. 	65419 
+i think it's accurate enough to put to use 	26258 
+I actually liked using the system.	52808 
+Even if the algorithm was ~75% accurate it would save time.	90737 
+I think it did a better than average job, and would willingly use it for myself, but would perhaps be hesitant for using it in a company unless it improved its record and could easily choose all the email subjects correctly.	39211 
+it is accurate and knowledgable	72478 
+It already did good and will only improve so I would recommend it. It would help cut down on how employees send time on emails	99243 
+Again there are too many mistakes just in the e-mails I saw.  I think it got three of them wrong which is a 30% error rate and that's too high.	66608 
+nothing is perfect but this would hbe helpful	68783 
+I think it could make a mistake on a company scale that may cost somebody money.	26336 
+It doesn't solve a problem with enough reliability. If something is causing as much of a problem as it's trying to fix, I see no reason to spend money on it. 	88665 
+Because it does a decent enough job	32776 
+I would recommend the model because it is worth it to have this help and know that it will do it's job correctly.	98470 
+I would wait until it worked perfectly	98349 
+it did well	54354 
+It does a good enough job	70563 
+This model can be taught to recognize certain words and a lot of them. 	48258 
+it does a decent job overall and there will be errors but it can cut down on a large sum of menial labor	51171 
+It misses some obvious keywords	70922 
+id need FAR more data than just this snippet	82688 
+It is a good model	26449 
+The model did a pretty good job overall.	20823 
+Again, it needs a lot more to learn, specially when emails are ambiguos.	69656 
+It will save us time.	25771 
+I felt that this experience was good.  The model wasn't too far off of its ideal performance levels and would likely be able to refine its predictive capabilities with some minor feedback.	27039 
+Even though it wasn't always right, it was right most of the time so it could save time	76281 
+Based on my previous responses, I have some uncertainty as to the true accuracy of this model over the long term, so investing in such a system would require many more trials. With that said, there is sufficient evidence from the first 10 trials to think that the model could be a net positive for my hypothetical company, and so I would seek to implement it on a trial basis.	37903 
+Same reason as previous answer, I think the model would get the majority of emails correct but not all without more training.	81143 
+The model is clearly underdeveloped and needs serious upgrades before it can improve its accuracy.	47123 
+It helps managing tons of emails I guess.	98961 
+It wasn't accurate enough to use in place of business	28274 
+Because I think it is accurate enough	36769 
+Coworkers would likely refuse to learn how to use it	36940 
+printed 176
+
+Process finished with exit code 0

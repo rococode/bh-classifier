@@ -1,0 +1,22 @@
+0.580163432508 0.419836567492 0.160326865016 False
+prediction: hockey for data\test\rec.sport.baseball-full\105401
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| bb          |   -10.05 |    -8.66 |   -1.39 | **    |
+| whether     |    -8.95 |   -10.04 |    1.09 | **    |
+| question    |    -9.35 |   -10.04 |    0.69 |       |
+| category    |   -10.05 |   -10.04 |   -0.01 |       |
+| includes    |   -10.05 |   -10.04 |   -0.01 |       |
+| intentional |   -10.05 |   -10.04 |   -0.01 |       |
+| lin         |   -10.05 |   -10.04 |   -0.01 |       |
+| mlb         |   -10.05 |   -10.04 |   -0.01 |       |
+| official    |   -10.05 |   -10.04 |   -0.01 |       |
+| stats       |   -10.05 |   -10.04 |   -0.01 |       |
+From: lws@eembox.ncku.edu.tw (WenHsiang Lin)
+Subject: Stats question
+
+
+	I am just wondering whether the official MLB stats includes 
+Intentional Walks in the BB category or not?
+
+WenHsiang Lin

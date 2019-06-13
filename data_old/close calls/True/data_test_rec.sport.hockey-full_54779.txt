@@ -1,0 +1,29 @@
+0.584823690642 0.415176309358 0.169647381285 True
+prediction: hockey for data\test\rec.sport.hockey-full\54779
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| blues   |    -8.65 |   -10.05 |    1.41 | **    |
+| playoff |    -8.94 |   -10.05 |    1.12 | **    |
+| could   |    -9.34 |    -8.45 |   -0.9  |       |
+| get     |    -8.24 |    -8.96 |    0.71 |       |
+| rick    |    -9.34 |   -10.05 |    0.71 |       |
+| detroit |   -10.04 |    -9.36 |   -0.67 |       |
+| news    |   -10.04 |    -9.36 |   -0.67 |       |
+| rangers |   -10.04 |    -9.36 |   -0.67 |       |
+| return  |   -10.04 |    -9.36 |   -0.67 |       |
+| sp      |   -10.04 |    -9.36 |   -0.67 |       |
+From: twork@egr.msu.edu (Michael Twork)
+Subject: Re: Wings News and Playoff Thoughts
+
+>roots in Detroit.  He would be a valuable asset to the Wings and Perhaps the
+>Rangers could get a Zombo in return?
+
+  
+ 
+Wake up and smell the Norris!!  Rick Zombo was traded to the Blues for Vince
+Riendo (sp?) last season.  
+
+- Mike
+
+
+

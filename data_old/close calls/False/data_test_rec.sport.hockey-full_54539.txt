@@ -1,0 +1,26 @@
+0.418044194469 0.581955805531 0.163911611061 False
+prediction: baseball for data\test\rec.sport.hockey-full\54539
+| word           |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------------|----------|----------|---------|-------|
+| espn           |   -10.04 |    -8.65 |   -1.39 | **    |
+| put            |   -10.04 |    -8.65 |   -1.39 | **    |
+| game           |    -7.33 |    -8.43 |    1.1  | **    |
+| could          |    -8.94 |   -10.04 |    1.1  | **    |
+| good           |    -8.66 |    -8.43 |   -0.23 |       |
+| subject        |    -7.56 |    -7.64 |    0.08 |       |
+| areivalry      |   -10.04 |   -10.04 |   -0    |       |
+| bout           |   -10.04 |   -10.04 |   -0    |       |
+| opps           |   -10.04 |   -10.04 |   -0    |       |
+| quebecmontreal |   -10.04 |   -10.04 |   -0    |       |
+From: au021@cleveland.Freenet.Edu (Roland Behunin)
+Subject: Now if ESPN wanted to show a good game...
+
+
+They could put on a Quebec-Montreal game.
+
+Talk a bout areivalry!
+opps rivalry..
+
+roland
+-- 
+Roland

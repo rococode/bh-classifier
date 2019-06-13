@@ -1,0 +1,30 @@
+0.599936065632 0.400063934368 0.199872131265 True
+prediction: hockey for data\test\rec.sport.hockey-full\54366
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| night      |    -8.66 |   -10.05 |    1.39 | **    |
+| stanley    |    -8.66 |   -10.05 |    1.39 | **    |
+| game       |    -7.75 |    -8.95 |    1.2  | **    |
+| interested |   -10.05 |    -8.95 |   -1.1  | **    |
+| pretty     |   -10.05 |    -8.95 |   -1.1  | **    |
+| cup        |    -8.95 |   -10.05 |    1.1  | **    |
+| fans       |   -10.05 |    -9.35 |   -0.69 |       |
+| frank      |   -10.05 |    -9.35 |   -0.69 |       |
+| im         |    -8.66 |    -9.35 |    0.69 |       |
+| sure       |    -9.35 |   -10.05 |    0.69 |       |
+From: fmsalvat@eos.ncsu.edu (FRANK MICHAE SALVATORE)
+Subject: NC Caps/Isles Fans
+
+
+Caps/Isles Fans,
+
+Anyone interested in catching the games from Nassau
+Coliseum (hopefully there will be another) can catch
+the game at North Carolina's Original Sports Bar in
+Chapel Hill.  I'm pretty sure they carry HTS as well.
+They had all three games on at the same
+time last night.  This is the only place I know to
+catch all of the Stanley Cup action.
+
+Frank Salvatore
+fmsalvat@eos.ncsu.edu

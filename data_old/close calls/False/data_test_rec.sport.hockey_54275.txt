@@ -1,0 +1,27 @@
+0.414996746256 0.585003253744 0.170006507488 False
+prediction: baseball for data\test\rec.sport.hockey\54275
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| hockey   |    -9.72 |    -6.98 |   -2.74 | **    |
+| fans     |    -9.02 |    -7.29 |   -1.73 | **    |
+| quickly  |    -9.72 |    -8.59 |   -1.13 | **    |
+| chuck    |    -8.62 |    -9.69 |    1.07 | **    |
+| computer |    -8.62 |    -9.69 |    1.07 | **    |
+| espn     |    -8.62 |    -9.69 |    1.07 | **    |
+| game     |    -5.83 |    -6.74 |    0.92 |       |
+| science  |    -9.72 |    -9    |   -0.72 |       |
+| time     |    -7.93 |    -8.59 |    0.66 |       |
+| agree    |    -9.02 |    -8.59 |   -0.43 |       |
+From: atwoodc@csugrad.cs.vt.edu (Charles Atwood)
+Subject: ESPN bashing!
+
+I agree thouroughly!!  Screw the damn contractual agreements!
+Show the exciting hockey game.  They will lose
+fans of ESPN (of which I have been one for quite a while) quickly 
+with decisions like this.
+Just my $.02
+
+Chuck "ESPN f***ed up this time" Atwood
+atwoodc@csugrad.cs.vt.edu
+Virginia Tech Computer Science Department
+

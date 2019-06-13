@@ -1,0 +1,25 @@
+0.570055944951 0.429944055049 0.140111889902 True
+prediction: hockey for data\test\rec.sport.hockey-full\54723
+| word                |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------------------|----------|----------|---------|-------|
+| playoff             |    -8.13 |   -10.04 |    1.91 | **    |
+| player              |   -10.07 |    -8.94 |   -1.13 | **    |
+| must                |   -10.07 |    -9.35 |   -0.73 |       |
+| email               |    -9.38 |   -10.04 |    0.66 |       |
+| nhl                 |    -9.38 |   -10.04 |    0.66 |       |
+| box                 |   -10.07 |   -10.04 |   -0.03 |       |
+| final               |   -10.07 |   -10.04 |   -0.03 |       |
+| interested          |   -10.07 |   -10.04 |   -0.03 |       |
+| message             |   -10.07 |   -10.04 |   -0.03 |       |
+| mmilitzoskidmoreedu |   -10.07 |   -10.04 |   -0.03 |       |
+From: mmilitzo@scott.skidmore.edu (matthew militzok)
+Subject: 1992 - 1993 FINAL NHL PLAYER STATS
+
+If you are interested in receiving the final player stats for
+the 1992-1993 NHL Season as well as playoff box scores, stats and
+scores/updates...
+then e-mail my stat server
+
+mmilitzo@skidmore.edu
+
+the subject of the message must be:	STATS

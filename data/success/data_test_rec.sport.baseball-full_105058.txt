@@ -1,0 +1,31 @@
+0.15275769077231444 0.8472423092276337 0.6944846184553193 True
+prediction: baseball for data\test\rec.sport.baseball-full\105058
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| baseball  |    -8.67 |   -10.05 |    1.38 | **    |
+| bb        |    -8.67 |   -10.05 |    1.38 | **    |
+| greenwell |    -8.96 |   -10.05 |    1.09 | **    |
+| hits      |    -8.96 |   -10.05 |    1.09 | **    |
+| single    |    -8.96 |   -10.05 |    1.09 | **    |
+| example   |   -10.06 |    -9.36 |   -0.7  |       |
+| lets      |   -10.06 |    -9.36 |   -0.7  |       |
+| plus      |   -10.06 |    -9.36 |   -0.7  |       |
+| total     |   -10.06 |    -9.36 |   -0.7  |       |
+| would     |    -8.67 |    -7.97 |   -0.7  |       |
+From: cuz@chaos.cs.brandeis.edu (Cousin It)
+Subject: Re: HBP? BB? BIG-CAT?
+
+stevet@eskimo.com (Steven Thornton) writes:
+
+|The official MLB formula for OBP is (hits plus walks plus hit-by-pitch)
+|divided by (at-bats plus walks plus hit-by-pitch plus sacrifice flies).
+|Sac bunts and errors have no effect. Source: Total Baseball (and they
+               ^^^^^^
+
+	Sure they might. If an error is recorded on, for example, a
+ground ball, ie the batter would otherwise be out, it is officially a
+hitless at bat. If it's some other type of error (Greenwell lets a
+single go by), it doesn't effect the OBP. But, most errors are
+counted.
+
+-Cuz

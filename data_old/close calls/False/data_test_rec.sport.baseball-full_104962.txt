@@ -1,0 +1,41 @@
+0.623271146664 0.376728853336 0.246542293329 False
+prediction: hockey for data\test\rec.sport.baseball-full\104962
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| go      |    -7.94 |   -10.03 |    2.09 | **    |
+| know    |    -8.41 |   -10.03 |    1.62 | **    |
+| east    |    -8.92 |   -10.03 |    1.11 | **    |
+| article |    -8.92 |    -7.83 |   -1.09 | **    |
+| also    |   -10.02 |    -8.93 |   -1.09 | **    |
+| left    |    -9.33 |   -10.03 |    0.7  |       |
+| tell    |    -9.33 |   -10.03 |    0.7  |       |
+| thanks  |    -9.33 |   -10.03 |    0.7  |       |
+| call    |   -10.02 |    -9.34 |   -0.68 |       |
+| pitcher |   -10.02 |    -9.34 |   -0.68 |       |
+From: tknuth@bio.ri.ccf.org (Todd Knuth)
+Subject: Re: Southpaw?
+
+In article 9IJ@news.cso.uiuc.edu, rap50204@uxa.cso.uiuc.edu (Underdog ) writes:
+>
+>
+>Can anyone out there tell me why they call left-handed pitchers
+
+I dont know about the story but it comes from the fact that in most stadiums, the batter faces northeast and so when
+a pitcher is on the mound, his left arm is to the south, hence the term.
+
+>"Southpaw"?
+>
+>Also the story on how the term originated.
+>
+>Thanks!! 
+>
+>
+>Go Cubs! 
+>
+>Prediction: They will finish over .500 this year without winning the East.
+>
+>
+
+
+
+

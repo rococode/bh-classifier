@@ -1,0 +1,20 @@
+0.392654467061 0.607345532939 0.214691065877 False
+prediction: baseball for data\test\rec.sport.hockey-full\54753
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| buffalo   |   -10.04 |    -9.35 |   -0.7  |       |
+| somehow   |    -9.35 |   -10.04 |    0.69 |       |
+| im        |    -8.43 |    -8.94 |    0.51 |       |
+| hes       |    -8.94 |    -9.35 |    0.4  |       |
+| even      |    -8.94 |    -8.65 |   -0.29 |       |
+| good      |    -8.66 |    -8.43 |   -0.23 |       |
+| subject   |    -7.56 |    -7.64 |    0.08 |       |
+| bruins    |   -10.04 |   -10.04 |   -0    |       |
+| bs        |   -10.04 |   -10.04 |   -0    |       |
+| convinced |   -10.04 |   -10.04 |   -0    |       |
+From: "William K. Willis" <ww1a+@andrew.cmu.edu>
+Subject: Re: Where are all the Bruins fans???
+
+Good point - there haven't even been any recent posts about Ulf! 
+Secretly, I'm convinced that he's responsible for the Bs being down 3-0
+to Buffalo, somehow.

@@ -1,0 +1,39 @@
+0.556841774437 0.443158225563 0.113683548874 True
+prediction: hockey for data\test\rec.sport.hockey-full\54766
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| pens     |    -7.56 |   -10.07 |    2.52 | **    |
+| hockey   |    -8.25 |   -10.07 |    1.82 | **    |
+| penguins |    -8.43 |   -10.07 |    1.64 | **    |
+| bit      |   -10.04 |    -8.69 |   -1.36 | **    |
+| game     |    -8.43 |    -7.08 |   -1.36 | **    |
+| said     |   -10.04 |    -8.69 |   -1.36 | **    |
+| deal     |    -8.94 |   -10.07 |    1.13 | **    |
+| would    |    -8.43 |    -7.37 |   -1.07 | **    |
+| almost   |   -10.04 |    -8.97 |   -1.07 | **    |
+| day      |   -10.04 |    -8.97 |   -1.07 | **    |
+From: "Carl D. Lovejoy" <cl3d+@andrew.cmu.edu>
+Subject: Re: Don Cherry-New Pens Annoucer?
+
+>KBL and the Penguins have just inked a new deal, giving KBL all 
+>TV and radio rights to Pens games.  Plans are that KBL would like
+>to have an entire night of hockey, starting with a 7:00 pre-game
+>show and running to a post game show that would sign off about 11:00
+>(depending upon length of the game).
+> 
+>Don Cherry announcing Penguins games.  Yeah, and (to quote Pgh's
+>goofy mayor) I'm the Queen of Sheba.
+> 
+>Lori
+>Contact for the Penguins
+>lli+@cs.cmu.edu
+
+    Well I was watching Hockey Hotline last night and Stan said that the
+station (KBL) had been recieving calls all day concerning this subject. 
+And the verdict was that almost exclusively NOBODY wanted that load
+mouth, know it all blow hard, former Bruin whiner, Ulf Hating, scum
+sucking, Pr*ck of missery in Pittsburgh on a permanent basis.  That's
+not exactly what Stan said;  I did do a bit of interpriting.
+
+
+The CMU Kiddie

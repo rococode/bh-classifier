@@ -1,0 +1,33 @@
+2.9485831452e-05 0.999970514169 0.999941028337 True
+prediction: baseball for data\test\rec.sport.baseball-full\105071
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| ball   |    -7.47 |   -10.11 |    2.63 | **    |
+| hit    |    -7.96 |   -10.11 |    2.15 | **    |
+| sure   |   -10.04 |    -8.16 |   -1.88 | **    |
+| man    |    -8.43 |   -10.11 |    1.68 | **    |
+| front  |    -8.94 |   -10.11 |    1.17 | **    |
+| like   |    -8.25 |    -9.41 |    1.17 | **    |
+| order  |    -8.94 |   -10.11 |    1.17 | **    |
+| around |   -10.04 |    -9.01 |   -1.03 | **    |
+| would  |    -8.43 |    -7.54 |   -0.89 |       |
+| bad    |    -9.34 |   -10.11 |    0.76 |       |
+From: sepinwal@mail.sas.upenn.edu (Alan Sepinwall)
+Subject: Ugliest Stance (was Re: ugliest swing)
+
+In article <C5tHz3.Lr4@world.std.com> tac@world.std.com (Tackey Chan) writes:
+>
+>	Ugliest swing..I am not sure. I think the ugliset stance is
+>Jolio Franco of the Ranger. I wonder how that bat comes around in time
+>to hit the ball. It looks bad but hey.it get the job done. 
+>
+>				------TAC
+
+
+Ugliest stance of all time has to go to Oscar Gamble. The man would
+practically kneel in front of home plate in order to have a small strike
+zone! (He's just lucky that strike zone size isn't determined by how big
+your afro is:)
+
+-I'm outta here like Vladimir!
+-Alan

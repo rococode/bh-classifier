@@ -1,0 +1,37 @@
+5.85843585751e-05 0.999941415641 0.999882831283 True
+prediction: baseball for data\test\rec.sport.baseball-full\105007
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| fan      |    -7.96 |   -10.11 |    2.15 | **    |
+| fans     |    -8.25 |   -10.11 |    1.86 | **    |
+| area     |    -8.65 |   -10.11 |    1.46 | **    |
+| stadium  |    -8.09 |    -9.41 |    1.32 | **    |
+| red      |    -8.94 |   -10.11 |    1.17 | **    |
+| sox      |    -8.94 |   -10.11 |    1.17 | **    |
+| talking  |   -10.04 |    -9.01 |   -1.03 | **    |
+| one      |    -8.65 |    -7.8  |   -0.85 |       |
+| ballpark |    -9.34 |   -10.11 |    0.76 |       |
+| lived    |    -9.34 |   -10.11 |    0.76 |       |
+From: mlogan@thurman.prime.com (Max Logan x2313 5-1)
+Subject: Re: New Home for the Bosox!!!
+
+MIF101@psuvm.psu.edu writes:
+> 
+>    I heard about a month back that the Red Sox are getting a new dome stadium.
+> I have relatives that just moved up that way, and they said about the city
+> releasing the funds.  Can anybody verify this?
+> to a game
+> 
+>                                               Bosox fan in Pa
+
+I have lived in the Boston area for 15 years now.  They have been talking
+about a new Boston Garden (hockey/basketball) since I've lived here.  One
+day the "last hurdle" has been overcome, and the next day there's a new
+hurdle.  Fans have been grumbling about Foxboro Stadium (or whatever it's
+called this year) for nearly as long, but there are only preliminary
+proposals for a new stadium.  Local politics prevents anything from being
+done in a timely fashion.  There will not be a new ballpark in my
+lifetime.
+
+Max Logan
+Nashua NH

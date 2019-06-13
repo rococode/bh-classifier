@@ -1,0 +1,25 @@
+0.613618188208 0.386381811792 0.227236376416 False
+prediction: hockey for data\test\rec.sport.baseball-full\104911
+| word              |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------------|----------|----------|---------|-------|
+| usa               |    -8.1  |   -10.04 |    1.95 | **    |
+| show              |    -8.66 |   -10.04 |    1.39 | **    |
+| jewish            |   -10.04 |    -8.94 |   -1.1  | **    |
+| mind              |   -10.04 |    -8.94 |   -1.1  | **    |
+| matter            |   -10.04 |    -9.35 |   -0.69 |       |
+| many              |    -9.35 |   -10.04 |    0.69 |       |
+| steve             |    -9.35 |   -10.04 |    0.69 |       |
+| applelinkeastgate |   -10.04 |   -10.04 |   -0    |       |
+| baseball          |    -8.94 |    -8.94 |   -0    |       |
+| bernstein         |   -10.04 |   -10.04 |   -0    |       |
+From: Eastgate@world.std.com (Mark Bernstein)
+Subject: Jewish Broadcasters (was Jewish Baseball Players?)
+
+For that matter, how many Gentleman of The Press Box have been Jewish? The
+only Jewish sportscaster that comes to mind is Steve Williams (?), who had
+a Phillies show on KYW in Philadelphia in the 80s.
+-- 
+Mark Bernstein
+Eastgate Systems, Inc.   134 Main Street   Watertown MA 02172 USA
+voice: (800) 562-1638 in USA   +1(617) 924-9044
+Eastgate@world.std.com    Compuserve: 76146,262    AppleLink:Eastgate 

@@ -1,0 +1,25 @@
+0.389843862325 0.610156137675 0.220312275349 True
+prediction: baseball for data\test\rec.sport.baseball-full\105051
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| game   |    -7.95 |   -10.02 |    2.07 | **    |
+| win    |    -9.34 |    -8.41 |   -0.92 |       |
+| think  |    -8.42 |    -9.33 |    0.91 |       |
+| boston |   -10.03 |    -9.33 |   -0.7  |       |
+| man    |   -10.03 |    -9.33 |   -0.7  |       |
+| randy  |   -10.03 |    -9.33 |   -0.7  |       |
+| games  |    -8.24 |    -8.92 |    0.68 |       |
+| hit    |    -9.34 |   -10.02 |    0.68 |       |
+| least  |    -9.34 |   -10.02 |    0.68 |       |
+| must   |    -9.34 |   -10.02 |    0.68 |       |
+From: jxu@black.clarku.edu (Dark Wing Duck!!)
+Subject: Bosox win again! (5-2 against Seattle)
+
+Last night, Boston Red Sox win its 11 games of 14 games by beating Seattle
+5-2.  Roger Clemson pitch not so dominate.  He walked at least 6 man in
+first 6 inns.  But Valetin and Greenwell hit homeruns and Red Sox prevail.
+
+I think that game is must win for Red Sox in Seattle, considering Darwin will
+faced Seattle ace Randy Johnson tonight.
+
+

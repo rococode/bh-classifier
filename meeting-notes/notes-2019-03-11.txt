@@ -1,0 +1,41 @@
+= # INTRO PAGE 
+
+= ml models details box: delete
+
+= Designed to explore how people understand machine learning models... You do not need to know anything about machine learning models to do this task.<br/>
+
+= # NEW PAGE: practice
+
+= first, we'll look at a practice email that will show you how the model will show its decisions to you. (and accept feedback from you)
+
+= # buttons (dont fade out buttons that arent disabled)
+
+= # emails
+
+= take out the Message:
+
+= fix alignment
+
+= # test section
+
+= Do you think the machine learning model would correctly predict whether ?
+= popup text to ask what the user thinks is right: Let us know, do you think this email is about hockey or baseball? (has not sure)
+= change this to be inline
+
+= # practice
+
+= fix resize window wrap on email text
+
+= lower font size
+
+
+=====
+
+how to motivate ppl to understand that they want a good model
+
+how to get ppl to understand that maybe the model might change without overly biasing them
+before you review? after you review?
+
+restate hypothesis
+
+metric: user predictions of the model

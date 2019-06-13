@@ -1,0 +1,36 @@
+0.000540803416775 0.999459196583 0.998918393166 True
+prediction: baseball for data\test\rec.sport.baseball-full\105026
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| ball   |    -7.47 |   -10.11 |    2.63 | **    |
+| bob    |   -10.04 |    -7.47 |   -2.57 | **    |
+| fan    |    -7.96 |   -10.11 |    2.15 | **    |
+| fans   |    -8.25 |   -10.11 |    1.86 | **    |
+| th     |    -8.65 |   -10.11 |    1.46 | **    |
+| take   |   -10.04 |    -8.72 |   -1.32 | **    |
+| field  |    -8.94 |   -10.11 |    1.17 | **    |
+| ground |    -8.94 |   -10.11 |    1.17 | **    |
+| like   |    -8.25 |    -9.41 |    1.17 | **    |
+| plays  |   -10.04 |    -9.01 |   -1.03 | **    |
+From: rudy@netcom.com (Rudy Wade)
+Subject: Re: bob vesterman's plan to generate fan interest
+
+In article <1254@rd1.interlan.com> tonyf@rm1.interlan.com (Tony Fernandez) writes:
+>The Marlins tried something like this and was a complete failure.  On
+>Opening Day, instead of having a 7th-inning stretch with the singing of
+>Take Me Out to the Ballgame, they had some young women on the field lead
+>the crowd into doing aerobics while the PA was playing Gloria Estefan's
+>Get On Your Feet.  The fans actually booed and started singing Take Me
+>Out... on their own.  I actually kind of felt sorry for the girls.
+
+Are you kidding?  I'm stuck with the Toronto SkyDome, where their idea
+of a 7th inning stretch is that "Blue Jays" song where everyone gets
+to yell:  "Okay, okay, Blue Jays, Blue Jays, Let's Play Ball!"
+
+Wow.. what genius did it take to compose that one, to outshine the
+old classic.  And there are women on the field to "lead the crowd".
+
+Then again, this is the same crowd who is more entertained by the
+"grounds crew" and the word ground is used loosely, than it is by
+the outstanding plays by the opponents' fielders.
+

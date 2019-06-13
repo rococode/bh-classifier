@@ -1,0 +1,27 @@
+0.416289301208 0.583710698792 0.167421397584 True
+prediction: baseball for data\test\rec.sport.baseball-full\104995
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| bosox      |    -8.93 |   -10.06 |    1.13 | **    |
+| ever       |   -10.03 |    -8.96 |   -1.07 | **    |
+| pitched    |    -9.34 |   -10.06 |    0.72 |       |
+| university |    -9.34 |   -10.06 |    0.72 |       |
+| history    |   -10.03 |    -9.37 |   -0.66 |       |
+| ii         |   -10.03 |    -9.37 |   -0.66 |       |
+| oh         |   -10.03 |    -9.37 |   -0.66 |       |
+| two        |    -8.93 |    -9.37 |    0.44 |       |
+| one        |    -8.09 |    -7.67 |   -0.42 |       |
+| writes     |    -7.83 |    -8.12 |    0.28 |       |
+From: franjion@spot.Colorado.EDU (John Franjione)
+Subject: Re: Bosox go down in smoke II (Seattle 7-0) ...
+
+dietz@parody.Data-IO.COM (Kent Dietz) writes:
+
+>Oh, yea, and Chris Bosio pitched a NO-HITTER.  One over the minimum, two
+
+Have there ever been any other no-hitters in Mariner history?
+-- 
+John Franjione
+Department of Chemical Engineering
+University of Colorado, Boulder
+franjion@spot.colorado.edu

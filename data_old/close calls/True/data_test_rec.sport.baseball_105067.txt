@@ -1,0 +1,26 @@
+0.430640818677 0.569359181323 0.138718362646 True
+prediction: baseball for data\test\rec.sport.baseball\105067
+| word            |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------------|----------|----------|---------|-------|
+| bob             |    -7.26 |    -9.41 |    2.15 | **    |
+| best            |    -9.45 |    -7.62 |   -1.84 | **    |
+| first           |    -7.06 |    -8.31 |    1.26 | **    |
+| says            |    -9.45 |    -8.72 |   -0.74 |       |
+| article         |    -7.84 |    -8.31 |    0.47 |       |
+| aprteslanjitedu |    -9.45 |    -9.41 |   -0.04 |       |
+| baseballalways  |    -9.45 |    -9.41 |   -0.04 |       |
+| baseman         |    -9.45 |    -9.41 |   -0.04 |       |
+| basemen         |    -9.45 |    -9.41 |   -0.04 |       |
+| beenalways      |    -9.45 |    -9.41 |   -0.04 |       |
+From: <RVESTERM@vma.cc.nd.edu>
+Subject: Re: BEST FIRST BASEMEN...
+
+In article <1993Apr20.102857.1@tesla.njit.edu>, drm6640@tesla.njit.edu says:
+>
+>DON MATTINGLY IS THE BEST FIRST BASEMAN IN THE HISTORY OF BASEBALL.....ALWAYS
+>HAS BEEN.....ALWAYS WILL BE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+why?
+
+bob vesterman.
+

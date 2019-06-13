@@ -1,0 +1,31 @@
+0.586093947859 0.413906052141 0.172187895719 False
+prediction: hockey for data\test\rec.sport.baseball\104944
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| tickets |    -8.02 |    -9.45 |    1.43 | **    |
+| get     |    -9.41 |    -8.07 |   -1.34 | **    |
+| anyway  |    -8.31 |    -9.45 |    1.14 | **    |
+| work    |    -9.41 |    -8.36 |   -1.05 | **    |
+| sold    |    -8.72 |    -9.45 |    0.74 |       |
+| anyone  |    -8.72 |    -8.07 |   -0.65 |       |
+| email   |    -9.41 |    -8.76 |   -0.65 |       |
+| please  |    -9.41 |    -8.76 |   -0.65 |       |
+| sale    |    -9.41 |    -8.76 |   -0.65 |       |
+| know    |    -8.02 |    -8.36 |    0.33 |       |
+From: kilpat@oasys.dt.navy.mil (Andrew Kilpatrick)
+Subject: I Want AllStar Tickets !
+
+
+I want All-Star Tickets does anyone know how I can get
+some?
+
+Are they for public sale or are they sold out?
+
+Or do you just have to work for a company with some
+
+Anyway any answers would be appreciated.
+
+Please E-mail me.
+
+Thanks,
+Andrew

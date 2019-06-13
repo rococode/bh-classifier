@@ -1,0 +1,33 @@
+0.613045427145 0.386954572855 0.226090854291 False
+prediction: hockey for data\test\rec.sport.baseball\105088
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| think  |    -6.84 |    -8.36 |    1.51 | **    |
+| much   |    -7.62 |    -8.76 |    1.14 | **    |
+| time   |    -9.41 |    -8.36 |   -1.05 | **    |
+| fan    |    -8.72 |    -9.45 |    0.74 |       |
+| writes |    -8.02 |    -8.76 |    0.74 |       |
+| coming |    -9.41 |    -8.76 |   -0.65 |       |
+| david  |    -9.41 |    -8.76 |   -0.65 |       |
+| email  |    -9.41 |    -8.76 |   -0.65 |       |
+| last   |    -8.31 |    -7.66 |   -0.65 |       |
+| real   |    -9.41 |    -8.76 |   -0.65 |       |
+From: dwarner@journalism.indiana.edu (David J.)
+Subject: Re: Omar Vizquel - GRAND SALAMI?
+
+Cheryl Marks writes
+> 
+> Do you think Omar's grand slam is the result of his new fan club?  Last week 
+> a banner appeared in the Kingdome:    
+> 
+> 	OLDER WOMEN FOR OMAR  
+
+That depends.  Just how much older were they?
+ 
+> Cheryl
+
+--
+David J.(dwarner@journalism.indiana.edu)*****Blue Riddle Productions 1993
+*-------------------------------It's on.--------------------------------*
+***"THE RAP IS AN ART EP" is coming out on tape -- this time for real.***
+*------------------------E-mail me for the 411.-------------------------*

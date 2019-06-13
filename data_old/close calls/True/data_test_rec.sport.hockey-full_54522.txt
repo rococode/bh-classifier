@@ -1,0 +1,42 @@
+0.502586167845 0.497413832155 0.00517233568955 True
+prediction: hockey for data\test\rec.sport.hockey-full\54522
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| jose        |   -10.04 |    -7.96 |   -2.08 | **    |
+| hes         |   -10.04 |    -8.1  |   -1.95 | **    |
+| calgary     |    -8.43 |   -10.04 |    1.61 | **    |
+| kings       |    -8.66 |   -10.04 |    1.39 | **    |
+| player      |    -8.66 |   -10.04 |    1.39 | **    |
+| show        |    -8.66 |   -10.04 |    1.39 | **    |
+| development |   -10.04 |    -8.94 |   -1.1  | **    |
+| get         |    -8.94 |   -10.04 |    1.1  | **    |
+| last        |    -8.94 |    -7.96 |   -0.98 |       |
+| team        |    -8.25 |    -7.27 |   -0.98 |       |
+Subject: Makarov
+From: caldwell8102@mtroyal.ab.ca
+
+In article <1993Apr21.234022.2880@CSD-NewsHost.Stanford.EDU>, nlu@Xenon.Stanford.EDU (Nelson Lu) writes:
+>  
+> I *don't* think the Sharks should dig into the free agent market.  Most of
+> the "good" free agents will require quite a bit of compensation, and set the
+> Sharks back as far as player development goes; remember, the Sharks were
+> unwilling to give up player(s) in addition to the $2 million they offered for
+> Joe Murphy, and I think that's a good approach.  They tried to sign Sergei
+> Makarov before this season because Makarov wouldn't have required compensation.
+
+Matching the Makarov offer was the only real mistake Dave King has made this
+year. I have to wonder about the intelligence of signing a 33-year old who
+is obviously on the downside of his career to a 4-year $2 million contract. 
+Risebrough matched the offer on King's request and Makarov has spent the last
+quarter of the season in the press box because his work ethic just plain
+stinks. Not to mention that he's lost a step and can no longer get himself
+into position to make the nifty passes. 
+
+I think Makarov will be available for free this offseason to anybody who agrees
+to pay his contract. He's ineffective in Calgary, but he might be able to help
+a team like San Jose, with their shortage of talent. If there's no takers, and
+Makarov doesn't show improvement in training camp, I think the Flames will just
+bite the bullet and buy out Makarov's contract and release him. With his
+current attitude, he is a detriment to the team.
+
+								Alan

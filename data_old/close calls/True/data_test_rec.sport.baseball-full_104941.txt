@@ -1,0 +1,20 @@
+0.458869619428 0.541130380572 0.0822607611448 True
+prediction: baseball for data\test\rec.sport.baseball-full\104941
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| making    |   -10.03 |    -8.97 |   -1.06 | **    |
+| pitcher   |    -9.34 |   -10.06 |    0.73 |       |
+| get       |    -8.64 |    -8.12 |   -0.52 |       |
+| line      |   -10.03 |   -10.06 |    0.04 |       |
+| qualifies |   -10.03 |   -10.06 |    0.04 |       |
+| rule      |   -10.03 |   -10.06 |    0.04 |       |
+| save      |   -10.03 |   -10.06 |    0.04 |       |
+| says      |   -10.03 |   -10.06 |    0.04 |       |
+| subject   |    -7.63 |    -7.67 |    0.04 |       |
+From: cs902060@ariel.yorku.ca (GEOFFREY E DIAS)
+Subject: How does a pitcher get a save?
+
+
+	The subject line says it all. What is the rule that qualifies
+a pitcher as making a save?
+

@@ -1,0 +1,30 @@
+0.563495833094 0.436504166907 0.126991666187 False
+prediction: hockey for data\test\rec.sport.baseball-full\105400
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| fan      |   -10.02 |    -8.93 |   -1.09 | **    |
+| young    |   -10.02 |    -8.93 |   -1.09 | **    |
+| hell     |    -9.33 |   -10.03 |    0.7  |       |
+| say      |    -9.33 |   -10.03 |    0.7  |       |
+| get      |    -8.92 |    -9.34 |    0.41 |       |
+| red      |    -8.92 |    -9.34 |    0.41 |       |
+| last     |    -9.33 |    -8.93 |   -0.4  |       |
+| writes   |    -8.08 |    -7.73 |   -0.35 |       |
+| paul     |    -8.64 |    -8.93 |    0.3  |       |
+| andresen |   -10.02 |   -10.03 |    0.01 |       |
+From: tac@world.std.com (Tackey Chan)
+Subject: Re: Hey Red Sox Fans!
+
+paula@koufax.cv.hp.com (Paul Andresen) writes:
+
+>                               WOOF!
+
+>Gawd, how I hate myself for doing this, but sometimes you get those urges
+>that are too powerful to overcome.
+	
+>To quote Sportscenter: Bosiooo ooo ooo
+
+	Hey, Bosio threw a no-no what the hell a Red Sox fan
+going to say to that. Heck...Remeber Matt Young last year? ICK..
+	
+			------TAC

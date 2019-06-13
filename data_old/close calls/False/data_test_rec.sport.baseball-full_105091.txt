@@ -1,0 +1,41 @@
+0.579189129813 0.420810870187 0.158378259627 False
+prediction: hockey for data\test\rec.sport.baseball-full\105091
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| runs    |   -10.05 |    -8.08 |   -1.97 | **    |
+| games   |    -7.66 |    -9.34 |    1.68 | **    |
+| last    |    -8.45 |   -10.03 |    1.58 | **    |
+| never   |    -8.45 |   -10.03 |    1.58 | **    |
+| michael |   -10.05 |    -8.64 |   -1.41 | **    |
+| one     |    -7.49 |    -8.64 |    1.15 | **    |
+| mule    |   -10.05 |    -8.93 |   -1.12 | **    |
+| years   |   -10.05 |    -8.93 |   -1.12 | **    |
+| scorer  |    -8.96 |   -10.03 |    1.07 | **    |
+| says    |    -9.36 |    -8.42 |   -0.94 |       |
+From: rickert@NeXTwork.Rose-Hulman.Edu (John H. Rickert)
+Subject: Re: Gotta a Question....
+
+In article <47844@sdcc12.ucsd.edu> demers@cs.ucsd.edu (David DeMers) writes:
+>In article <cjkuo.68.0@symantec.com>, cjkuo@symantec.com (Jimmy Kuo) writes:
+> |> gt0523e@prism.gatech.EDU (Michael Andre Mule) writes:
+> ....
+> |> >>What is the maximum runs allowed before a stopper can get credit for a
+> |> >>relief? i.e. if a stopper comes in with a 5 run lead does he getcredit
+> |> >> with the save.
+> |> >If you come in and pitch the last three innings,and your team was ahead 
+> |> >when you got out there and wins the game, you get a save.
+> |> Sort'a correct. If you pitched at least 3 innings,entered with your team 
+> |> in the lead, was the pitcher when the game ended,the game was never tied 
+> |> during your stint, and your team won, you get a save.
+> Well, the rulebook says that in the opinion of the scorer, you must have
+> "pitched effectively" for your 3 innings - this save is not automatic,
+> unlike the others.
+
+Someone in SABR actually looked at these games a few years ago 
+and found that the official scorer awarded the save in every one 
+of the games - even those in which the pitcher had pitched badly 
+(allowing 4 or 5 runs).
+
+seeing, hearing (my two sense worth)
+john rickert
+rickert@nextwork.rose-hulman.edu

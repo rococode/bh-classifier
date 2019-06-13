@@ -1,0 +1,33 @@
+0.402670013982 0.597329986018 0.194659972037 True
+prediction: baseball for data\test\rec.sport.baseball-full\105042
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| think    |    -8.94 |    -7.86 |   -1.09 | **    |
+| even     |    -8.94 |    -8.11 |   -0.84 |       |
+| bases    |    -9.35 |   -10.05 |    0.7  |       |
+| bonds    |    -9.35 |   -10.05 |    0.7  |       |
+| close    |    -9.35 |   -10.05 |    0.7  |       |
+| winfield |    -9.35 |   -10.05 |    0.7  |       |
+| could    |    -8.94 |    -8.44 |   -0.5  |       |
+| article  |    -8.25 |    -7.86 |   -0.4  |       |
+| players  |    -8.66 |    -8.95 |    0.3  |       |
+| subject  |    -7.65 |    -7.49 |   -0.16 |       |
+From: jmann@vineland.pubs.stratus.com (Jim Mann)
+Subject: Re: ALL-TIME PEAK PLAYERS
+
+In article <1993Apr20.202808.11395@alleg.edu>  
+luriem@alleg.edu(Michael Lurie) The Liberalizer writes:
+> 
+> Very interesting, Gehrig below bonds and schmidt. RICKY HENDERSON?  
+He  
+> could steal bases, but his hitting stats are not even close to  
+dimmagio's.
+> uhhhh. Where is Winfield?
+
+Henderson's stat's are probably closer to DiMaggio's than you
+think.
+
+--
+Jim Mann            
+Stratus Computer   jmann@vineland.pubs.stratus.com  
+

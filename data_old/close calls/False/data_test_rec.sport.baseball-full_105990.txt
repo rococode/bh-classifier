@@ -1,0 +1,42 @@
+0.508257353803 0.491742646197 0.0165147076062 False
+prediction: hockey for data\test\rec.sport.baseball-full\105990
+| word             |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------------|----------|----------|---------|-------|
+| b                |   -10.07 |    -8.25 |   -1.82 | **    |
+| said             |    -8.28 |   -10.04 |    1.77 | **    |
+| thats            |   -10.07 |    -8.66 |   -1.41 | **    |
+| follow           |    -8.68 |   -10.04 |    1.36 | **    |
+| line             |    -8.68 |   -10.04 |    1.36 | **    |
+| team             |    -7.3  |    -8.66 |    1.36 | **    |
+| may              |    -8.12 |    -9.35 |    1.23 | **    |
+| nichols          |   -10.07 |    -8.95 |   -1.12 | **    |
+| sherri           |   -10.07 |    -8.95 |   -1.12 | **    |
+| snicholsadobecom |   -10.07 |    -8.95 |   -1.12 | **    |
+From: fls@keynes.econ.duke.edu (Forrest Smith)
+Subject: Re: Highlights
+
+In article <1993Apr26.161946.846@adobe.com> snichols@adobe.com (Sherri Nichols) writes:
+>Might I suggest that a more appropriate forum for game-by-game highlights
+>of a particular team is a mailing list, rather than rec.sport.baseball? 
+>
+	I looked up "might" to see why you selected that particular word,
+and discovered the line ". . . to express permission, liberty,
+probability, possibility . . ."  It also said something about being a
+"polite" alternative to "may."  The presence of "probability, possibility"
+can certainly be used to partially explain your word selection.  
+So, I'd say to all extents and purposes, "Yes, you might."  In fact, you did.
+(Not that you were asking *me* specifically.)
+
+	The next question is, why would a mailing list be "more" appropriate?
+We don't all get mailing lists.  We surely don't all get mailing lists about
+the teams about which we are most enthused.  So it seems to me r.s.baseball
+is an appropriate place to look for information about teams one doesn't
+necessarily follow day-to-day.
+
+	This is not intended as flamage, but rather is an attempted answer,
+as you posed your post as a question.
+-- 
+it bait bait bait bait bait bait bait bait bait bait bait bait bait ba
+a                                                                    i
+b              Anyone for lemur sooshi?                              t
+    That's sushi.  Learn to spell, you pathetic winker ;-)

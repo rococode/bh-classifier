@@ -1,0 +1,44 @@
+0.441954420476 0.558045579524 0.116091159047 True
+prediction: baseball for data\test\rec.sport.baseball-full\105109
+| word         |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------------|----------|----------|---------|-------|
+| baseball     |    -8.25 |   -10.07 |    1.82 | **    |
+| central      |    -9.35 |   -10.07 |    0.73 |       |
+| hated        |    -9.35 |   -10.07 |    0.73 |       |
+| dragons      |   -10.04 |    -9.38 |   -0.66 |       |
+| fax          |   -10.04 |    -9.38 |   -0.66 |       |
+| giants       |   -10.04 |    -9.38 |   -0.66 |       |
+| japan        |   -10.04 |    -9.38 |   -0.66 |       |
+| laboratories |   -10.04 |    -9.38 |   -0.66 |       |
+| game         |    -8.25 |    -7.77 |   -0.48 |       |
+| team         |    -7.4  |    -6.98 |   -0.42 |       |
+From: yajima@nttcom.ntt.jp (YAJIMA Hiroshi)
+Subject: Re: Yakult Swallows (Japanese pro baseball team)
+
+Wednesday's game of Beloved Yakult Swallows
+
+(At Jingu, 38,000)
+Hanshin Tigers      000 006 000 |6
+Beloved Swallows    100 000 000 |1
+
+  W - Kasai (2-0). L - Ito (0-1).
+----------------------------------------------------------------
+CENTRAL LEAGUE STANDING
+==========================
+                   W   L   T   Pct.   GB
+Hiroshima Carp     7   2   0  .778    --
+Chunichi Dragons   7   3   0  .700    0.5
+Hanshin Tigers     6   4   0  .600    1.5
+Hated   Giants     4   5   0  .444    3.0
+Beloved Swallows   3   7   0  .300    4.5
+Yokohama BayStars  2   8   0  .200    5.5
+------------------------------------------------------------------
+
+--
+--------------------------------------------------------------------------
+/_____  /_____   Hiroshi Yajima (E-MAIL:yajima@nttcom.ntt.jp)
+___|___ |=====|  NTT Network Information Systems Laboratories,
+  / \   |======  9-11 Midori-Cho 3-Chome Musashino-Shi,Tokyo,180 Japan,
+ /   \ |_|_|  /  TEL:+81-422-59-4256, FAX:+81-422-59-4254
+
+                         

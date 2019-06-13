@@ -1,0 +1,30 @@
+0.0173138816847715 0.9826861183152162 0.9653722366304447 False
+prediction: baseball for data\test\rec.sport.hockey-full\54174
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| really  |    -8.27 |   -10.05 |    1.79 | **    |
+| goal    |   -10.06 |    -8.67 |   -1.39 | **    |
+| greg    |    -8.67 |   -10.05 |    1.38 | **    |
+| many    |    -8.96 |   -10.05 |    1.09 | **    |
+| even    |    -8.96 |    -8.11 |   -0.85 |       |
+| think   |    -7.86 |    -8.67 |    0.8  |       |
+| last    |    -7.5  |    -8.26 |    0.77 |       |
+| missed  |   -10.06 |    -9.36 |   -0.7  |       |
+| sad     |   -10.06 |    -9.36 |   -0.7  |       |
+| watched |   -10.06 |    -9.36 |   -0.7  |       |
+Subject: Camera work on televised games
+From: yecx@vax5.cit.cornell.edu
+
+Is it just me or is the camera work on some of these games really sad??  I
+can't remember how many times during the Penguins-Devils game they showed some
+guy (without the puck) being checked in the corner while the puck was being
+fired on goal.  In fact, I think they even missed one goal completely because
+they were showing two guys holding each other in the corner.
+
+Now the last time I watched a football game, they didn't show the lineman going
+at it while the running back turned the corner for a touchdown . . . . 
+
+Is it just me??	
+
+Greg
+

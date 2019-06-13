@@ -1,0 +1,31 @@
+0.541609379898 0.458390620102 0.0832187597968 True
+prediction: hockey for data\test\rec.sport.hockey-full\54224
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| flyers    |    -8.09 |   -10.05 |    1.96 | **    |
+| article   |    -9.35 |    -7.57 |   -1.78 | **    |
+| team      |    -8.25 |    -9.36 |    1.11 | **    |
+| detroit   |   -10.04 |    -8.95 |   -1.09 | **    |
+| writes    |    -8.25 |    -7.34 |   -0.9  |       |
+| season    |    -9.35 |    -8.44 |   -0.9  |       |
+| following |    -9.35 |   -10.05 |    0.71 |       |
+| nhl       |    -9.35 |   -10.05 |    0.71 |       |
+| sure      |    -9.35 |   -10.05 |    0.71 |       |
+| think     |    -7.56 |    -8.26 |    0.71 |       |
+From: schock@flip.cpsc.ucalgary.ca (Craig-Richard Schock)
+Subject: Re: NHL Team Captains
+
+In article <1993Apr22.121035.3394@mtroyal.ab.ca>  writes:
+> >And, while we are on the subject, has a captain ever been traded, 
+> >resigned, or been striped of his title during the season? Any other 
+> >team captain trivia would be appreciated.
+> 
+> Brad McCrimmon was the captain of the Flames when he was traded to Detroit
+> following the 1989-90 season. This was during the off-season though.
+> 
+> There's countless examples of captains being traded, I'm sure.
+
+Yeah... I think that the Flames and the Flyers traded Captains once... Mel  
+Bridgeman for Brad Marsh.
+
+Craig

@@ -1,0 +1,36 @@
+5.67850058284e-05 0.999943214994 0.999886429988 True
+prediction: baseball for data\test\rec.sport.baseball-full\105147
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| bob    |   -10.04 |    -7.47 |   -2.57 | **    |
+| fans   |    -8.25 |   -10.11 |    1.86 | **    |
+| th     |    -8.65 |   -10.11 |    1.46 | **    |
+| teams  |   -10.04 |    -8.72 |   -1.32 | **    |
+| ever   |    -9.34 |    -8.16 |   -1.18 | **    |
+| away   |    -8.94 |   -10.11 |    1.17 | **    |
+| like   |    -8.25 |    -9.41 |    1.17 | **    |
+| much   |    -8.94 |   -10.11 |    1.17 | **    |
+| many   |   -10.04 |    -9.01 |   -1.03 | **    |
+| things |   -10.04 |    -9.01 |   -1.03 | **    |
+From: gspira@nyx.cs.du.edu (Greg Spira)
+Subject: Re: Candlestick Park experience (long)
+
+craige@sad.hp.com (Craig Eid) writes:
+
+>These things should have been done a long time ago, but it took a real 
+>businessman (ex - Safeway President Peter Magowan) to figure it out. Just 
+>like he used to tell his checkers, "If the customers don't come back, I don't
+>need as many checkers". This isn't a knock on Bob Lurie - he was a competent
+>businessman but he didn't deal much with the general public.
+
+Interesting article, Craig.  It's amazing how hard it is to get baseball
+teams to understand how to properly market their teams and treat their
+customers.  No other business could ever get away with the 19th century 
+attitudes that most current owners display in running their clubs.  I guess the
+owners look at baseball's high growth rate and ask why it's necessary
+to bring 20th century business practices into the game, but they don't
+realize how much more growth the game is capable of and how much they
+pay in terms of long-term popularity by not doing better by the game
+and its fans.
+
+Greg 

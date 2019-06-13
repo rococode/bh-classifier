@@ -1,0 +1,41 @@
+0.441229711675 0.558770288325 0.117540576651 True
+prediction: baseball for data\test\rec.sport.baseball-full\104977
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| maybe   |    -8.43 |   -10.05 |    1.62 | **    |
+| runners |    -8.94 |   -10.05 |    1.11 | **    |
+| well    |    -8.94 |   -10.05 |    1.11 | **    |
+| stats   |   -10.04 |    -8.95 |   -1.09 | **    |
+| thing   |   -10.04 |    -8.95 |   -1.09 | **    |
+| game    |    -8.43 |    -7.56 |   -0.86 |       |
+| article |    -7.84 |    -8.66 |    0.82 |       |
+| base    |    -9.34 |   -10.05 |    0.71 |       |
+| every   |    -9.34 |   -10.05 |    0.71 |       |
+| writes  |    -7.96 |    -8.66 |    0.71 |       |
+From: chyang@engin.umich.edu (Chung Hsiung Yang)
+Subject: Re: Seattle BB (was Re: AL Stats and Standings)
+
+In article <1r8rctINN8dd@senator-bedfellow.MIT.EDU> cmk@athena.mit.edu (Charles M Kozierok) writes:
+>In article <franjion.735549550@spot.Colorado.EDU> franjion@spot.Colorado.EDU (John Franjione) writes:
+> 
+>} >	Griffey, well, most of it are intentional walks.  
+>} 
+>} Are you sure about this?
+>
+>i'd say pitching around him is more likely.
+>
+
+	Yeah, maybe that is more likely.  But from the Mariners-Tigers 
+series, it seems like every time there are base runners, the pitchers 
+seem to purposely pitch around him or give him a free pass.  The 
+funny thing was that Griffey was struggling up until the last game of the
+four game series if I remember correctly.
+
+- Chung Yang
+
+>cheers,
+>
+>-*-
+>charles
+
+

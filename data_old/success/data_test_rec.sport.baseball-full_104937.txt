@@ -1,0 +1,33 @@
+4.27517589166e-12 0.999999999996 0.999999999991 True
+prediction: baseball for data\test\rec.sport.baseball-full\104937
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| ball      |    -7.47 |   -10.11 |    2.63 | **    |
+| hit       |    -7.96 |   -10.11 |    2.15 | **    |
+| fly       |    -8.25 |   -10.11 |    1.86 | **    |
+| enough    |    -8.94 |   -10.11 |    1.17 | **    |
+| much      |    -8.94 |   -10.11 |    1.17 | **    |
+| several   |    -8.94 |   -10.11 |    1.17 | **    |
+| excellent |   -10.04 |    -9.01 |   -1.03 | **    |
+| played    |   -10.04 |    -9.01 |   -1.03 | **    |
+| score     |   -10.04 |    -9.01 |   -1.03 | **    |
+| third     |   -10.04 |    -9.01 |   -1.03 | **    |
+From: snichols@adobe.com (Sherri Nichols)
+Subject: Re: OBP hurt by sac flies (was Re: HBP? BB? BIG-CAT?)
+
+In article <1993Apr23.065059.16619@rigel.econ.uga.edu> scottm@helena.stat.uga.edu (scott mclure) writes:
+>Sorry, I gotta disagree here.  Last time I played ball, I went up on
+>several occasions intending to hit a fly ball deep enough to score the
+>runner from third or advance a runner to third.  It's relatively easy
+>actually... you swing under the path of the ball you normally would to
+>hit a good line drive.  With fastballs it's very easy, much more
+>difficult with good breaking balls.  A good hitter with excellent bat
+>control can voluntarily hit fly balls to the outfield at least, oh, 60%
+>of the time?  Maybe more..
+
+There's a blurb in the STATS Scoreboard about this, and though I don't have
+the book with me here, my memory is that the best at hitting sac flies were
+far below this 60% number.
+
+Sherri Nichols
+snichols@adobe.com

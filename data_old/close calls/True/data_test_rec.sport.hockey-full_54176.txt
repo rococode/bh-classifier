@@ -1,0 +1,28 @@
+0.553989627347 0.446010372653 0.107979254694 True
+prediction: hockey for data\test\rec.sport.hockey-full\54176
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| think    |   -10.05 |    -8.1  |   -1.95 | **    |
+| thats    |   -10.05 |    -8.43 |   -1.61 | **    |
+| bay      |    -8.44 |   -10.04 |    1.6  | **    |
+| tampa    |    -8.44 |   -10.04 |    1.6  | **    |
+| nhl      |    -8.66 |   -10.04 |    1.38 | **    |
+| kozlov   |    -8.95 |   -10.04 |    1.09 | **    |
+| draft    |   -10.05 |    -9.35 |   -0.7  |       |
+| center   |    -9.35 |   -10.04 |    0.69 |       |
+| devils   |    -9.35 |   -10.04 |    0.69 |       |
+| probably |    -9.35 |   -10.04 |    0.69 |       |
+From: paul@fugu.Data-IO.COM (Paul Brownlow)
+Subject: Re: 1993 NHL Draft
+
+In article <1993Apr20.184627.4585@newshub.ariel.yorku.ca>, cs902043@ariel.yorku.ca (SHAWN LUDDINGTON) writes:
+|> Tampa Bay will either go for a russian Kozlov (I think that's it) or a 
+|>     defenseman Rob Niedemeyer (probably spelt the last name wrong)
+
+Rob Niedermayer is a forward (center, I think) with the WHL Medicine Hat
+Tigers.  His brother, Scott, is a defenseman (now with the NJ Devils).
+-- 
+Paul Brownlow				|         Visualize 
+Data I/O Corp.  Redmond, WA		|	   Whirled
+paul@data-io.com			|	    Peas
+					|

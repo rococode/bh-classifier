@@ -1,0 +1,48 @@
+0.589205784026 0.410794215974 0.178411568053 True
+prediction: hockey for data\test\rec.sport.hockey-full\54304
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| games    |    -9.37 |    -6.84 |   -2.53 | **    |
+| many     |    -8.27 |   -10.06 |    1.78 | **    |
+| someone  |   -10.06 |    -8.67 |   -1.39 | **    |
+| tell     |   -10.06 |    -8.67 |   -1.39 | **    |
+| found    |   -10.06 |    -8.96 |   -1.11 | **    |
+| bad      |    -8.97 |   -10.06 |    1.09 | **    |
+| blue     |    -8.97 |   -10.06 |    1.09 | **    |
+| cup      |    -8.97 |   -10.06 |    1.09 | **    |
+| penguins |    -8.97 |   -10.06 |    1.09 | **    |
+| two      |    -8.27 |    -9.36 |    1.09 | **    |
+From: steven.kipling@freddy.ersys.edmonton.ab.ca (Steven Kipling) 
+Subject: Re: ESPN broadcastsssss
+
+ -=> Quoting Cire Y. Trehguad to All <=-
+
+
+ CYT> Hey I am in Iowa and I do not mind ESPN showing the PITT/NJD games.
+ CYT> At least I get to see the DEVILS...even if they are gettin there ass
+ CYT> kicked Perhaps they will score and even win a game or two
+
+ CYT> GO DEVILS
+
+
+I am sorry to tell you this, but
+I don't think the devils will win
+a game against Pittsburg, the 
+Penguins have so many scoring threats
+that you shut down one and another
+will kill you
+It's too bad but I must conclude that the Penguins will
+win their third stanley cup in a row.
+I hope someone will beat them, but I just cannot see it
+happening.
+
+
+S t e v e
+
+
+
+
+
+... Backup not found: (A)bort (R)etry (P)anic
+___ Blue Wave/QWK v2.12
+                                                            

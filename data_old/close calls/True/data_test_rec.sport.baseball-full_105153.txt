@@ -1,0 +1,30 @@
+0.411128209325 0.588871790675 0.177743581349 True
+prediction: baseball for data\test\rec.sport.baseball-full\105153
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| games    |    -9.34 |    -7.67 |   -1.67 | **    |
+| time     |    -7.73 |    -9.37 |    1.64 | **    |
+| pitches  |    -8.42 |   -10.06 |    1.64 | **    |
+| braves   |    -8.65 |   -10.06 |    1.42 | **    |
+| else     |    -8.93 |   -10.06 |    1.13 | **    |
+| game     |    -8.93 |    -8.12 |   -0.82 |       |
+| actually |   -10.03 |    -9.37 |   -0.66 |       |
+| ask      |   -10.03 |    -9.37 |   -0.66 |       |
+| done     |   -10.03 |    -9.37 |   -0.66 |       |
+| ron      |   -10.03 |    -9.37 |   -0.66 |       |
+From: hhenderson@vax.clarku.edu
+Subject: RE: Game Length (was Re: Braves Update!!
+
+ecaxron@ariel.lerc.nasa.gov (Ron Graham) writes:
+
+>I think that, everything else being equal, it's not too much to ask that
+>if a weeknight game can be shortened by half-an-hour by cutting out warmup
+>pitches, dawdling outside the batter's box, commerical time-outs and that
+>sort of thing, I'm not asking for too much.
+
+How do you know they can be shortened by half-an-hour?  Has anybody done a
+study to determine how much time is actually "wasted" -- say, in these A's
+games?
+
+Heather
+HHENDERSON@vax.clarku.edu

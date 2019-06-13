@@ -1,0 +1,38 @@
+0.557357971337 0.442642028663 0.114715942674 True
+prediction: hockey for data\test\rec.sport.hockey-full\54730
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| montreal  |    -8.26 |   -10.04 |    1.79 | **    |
+| quebec    |    -8.26 |   -10.04 |    1.79 | **    |
+| playoffs  |    -8.44 |   -10.04 |    1.6  | **    |
+| advantage |   -10.05 |    -8.66 |   -1.39 | **    |
+| goals     |    -8.66 |   -10.04 |    1.38 | **    |
+| nhl       |    -8.66 |   -10.04 |    1.38 | **    |
+| call      |   -10.05 |    -8.94 |   -1.1  | **    |
+| scored    |   -10.05 |    -8.94 |   -1.1  | **    |
+| well      |   -10.05 |    -8.94 |   -1.1  | **    |
+| total     |    -8.66 |    -7.85 |   -0.82 |       |
+Subject: Re: Nords 3 - Habs 2 in O.T. We was robbed!!
+From: caldwell8102@mtroyal.ab.ca
+
+ In article <18APR93.25909598.0086@VM1.MCGILL.CA> JBE5 <JBE5@MUSICB.MCGILL.CA> writes:
+>Aargh!
+>
+>Paul Stewart is the worst and most biased ref. presently in the NHL.
+>He called a total of 4 penalties on the Habs and one on the Nordiques.
+>The Nords' penalty came in O.T.  Stewart, being an ex-Nordique himself,
+>was looking to call penalties on the Habs while letting the Nords
+>get away with murder...WE WAS ROBBED!!!!
+
+If my powerplay was as bad as Montreal's, I'd be thanking Stewart for calling
+as few penalties as possible. Quebec's powerplay is lethal and it is to their
+advantage to have a penalty-filled game where they can clean up with their
+superior powerplay. 
+
+Montreal really lost that game (and game 2) because Patrick Roy is well on
+his way to having another one of his trademark awful playoffs. The man is
+truly overrated. Quebec has scored six goals on Roy and four, perhaps five, 
+were quite stoppable. 
+
+								Alan
+

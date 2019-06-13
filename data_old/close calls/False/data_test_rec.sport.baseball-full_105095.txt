@@ -1,0 +1,40 @@
+0.547237074456 0.452762925544 0.0944741489118 False
+prediction: hockey for data\test\rec.sport.baseball-full\105095
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| home      |   -10.08 |    -8.25 |   -1.83 | **    |
+| past      |    -8.47 |   -10.04 |    1.57 | **    |
+| runs      |   -10.08 |    -8.66 |   -1.42 | **    |
+| hitting   |   -10.08 |    -8.95 |   -1.13 | **    |
+| different |    -8.98 |   -10.04 |    1.06 | **    |
+| playing   |    -8.98 |   -10.04 |    1.06 | **    |
+| pride     |    -8.98 |   -10.04 |    1.06 | **    |
+| two       |    -8.98 |   -10.04 |    1.06 | **    |
+| season    |    -8.98 |    -7.96 |   -1.02 | **    |
+| comments  |   -10.08 |    -9.35 |   -0.73 |       |
+From: behrens@cc.swarthmore.edu (Eric Behrens)
+Subject: The Babe v. The Pride of the Yankees
+
+
+The Babe and The Pride of the Yankees offer very different renditions of
+the sotry about Ruth and Gherig hitting home runs for the boy in the
+hospital.  Can some historian out there explain "history's" version of the
+story.  
+
+I wouldn't put is past either (or both) of the movies to season the truth
+with a little extra spice.
+
+Any other comments as to inaccuracies in these two movies?
+
+
+
+------------------------------
+
+Eric A. W. Behrens
+behrens@cc.swarthmore.edu
+
+
+"I'd walk through hell in a gasoline suit to keep playing baseball."  
+
+                                                        --Pete
+Rose

@@ -1,0 +1,28 @@
+0.462448716601 0.537551283399 0.0751025667979 True
+prediction: baseball for data\test\rec.sport.baseball-full\105104
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| baseball  |    -8.25 |   -10.07 |    1.82 | **    |
+| clubhouse |    -8.66 |   -10.07 |    1.42 | **    |
+| david     |   -10.04 |    -8.69 |   -1.35 | **    |
+| use       |   -10.04 |    -8.69 |   -1.35 | **    |
+| email     |   -10.04 |    -9.38 |   -0.66 |       |
+| real      |    -9.35 |    -8.69 |   -0.66 |       |
+| time      |    -8.94 |    -9.38 |    0.44 |       |
+| writes    |    -7.96 |    -7.77 |   -0.19 |       |
+| like      |    -8.1  |    -8    |   -0.1  |       |
+| art       |   -10.04 |   -10.07 |    0.03 |       |
+From: dwarner@journalism.indiana.edu (David J.)
+Subject: Re: Bonilla
+
+Jiann-ming Su writes
+> Bobby Bonilla supposedly use the word 'faggot' when he got mad at that author
+> in the clubhouse.  Should he be banned from baseball for a year like Schott?
+
+It wouldn't bother me...
+
+--
+David J.(dwarner@journalism.indiana.edu)*****Blue Riddle Productions 1993
+*-------------------------------It's on.--------------------------------*
+***"THE RAP IS AN ART EP" is coming out on tape -- this time for real.***
+*------------------------E-mail me for the 411.-------------------------*

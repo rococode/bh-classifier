@@ -1,0 +1,40 @@
+0.616897473386 0.383102526614 0.233794946772 True
+prediction: hockey for data\test\rec.sport.hockey-full\54227
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| games   |    -9.34 |    -7.38 |   -1.96 | **    |
+| nhl     |    -8.65 |   -10.09 |    1.44 | **    |
+| adams   |    -8.94 |   -10.09 |    1.15 | **    |
+| patrick |    -8.94 |   -10.09 |    1.15 | **    |
+| played  |    -8.94 |   -10.09 |    1.15 | **    |
+| playoff |    -8.94 |   -10.09 |    1.15 | **    |
+| cal     |    -9.34 |    -8.3  |   -1.05 | **    |
+| best    |    -9.34 |    -8.48 |   -0.86 |       |
+| bruins  |    -9.34 |   -10.09 |    0.75 |       |
+| norris  |    -9.34 |   -10.09 |    0.75 |       |
+From: jpc@philabs.philips.com (John P. Curcio)
+Subject: Re: NHL PLAYOFF RESULTS FOR GAMES PLAYED 23 APRIL 1993
+
+In article <1993Apr24.131127.17461@philabs.philips.com> jpc@philabs.philips.com (John P. Curcio) writes:
+
+>NHL PLAYOFF RESULTS FOR GAMES PLAYED 23 APRIL 1993:
+>
+>--------------------------------------------------------------------------------
+>
+>                  CONFERENCE SEMI-FINALS        BEST OF SEVEN
+>      PATRICK              ADAMS              NORRIS              SMYTHE
+
+> NYI   (leads 2-1)   MON                 TOR                 LA    
+> WAS                 QUE   (leads 2-1)   DET   (leads 2-1)   CAL   (tied  2-1)
+                                                                     ^^^^^^^^^^
+
+O.K. people, so it's not tied.  I meant leads 2-1........  Shoot me if you
+must.
+
+-JPC
+
+-- 
+-------------------------------------------------------------------------------
+John P. Curcio 		          Go Bruins!		   Philips Laboratories
+jpc@philabs.philips.com 			           345 Scarborough Road
+(914) 945-6442               	 		     Briarcliff Manor, NY 10510 

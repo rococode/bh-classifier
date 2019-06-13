@@ -1,0 +1,35 @@
+0.424238826323 0.575761173677 0.151522347355 True
+prediction: baseball for data\test\rec.sport.baseball-full\105169
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| hit     |    -7.96 |   -10.11 |    2.15 | **    |
+| catch   |    -8.65 |   -10.11 |    1.46 | **    |
+| stadium |    -8.09 |    -9.41 |    1.32 | **    |
+| field   |    -8.94 |   -10.11 |    1.17 | **    |
+| like    |    -8.25 |    -9.41 |    1.17 | **    |
+| little  |   -10.04 |    -9.01 |   -1.03 | **    |
+| shot    |   -10.04 |    -9.01 |   -1.03 | **    |
+| say     |    -9.34 |    -8.5  |   -0.85 |       |
+| base    |    -9.34 |   -10.11 |    0.76 |       |
+| gerald  |    -9.34 |   -10.11 |    0.76 |       |
+From: woods@ncar.ucar.edu (Greg Woods)
+Subject: Re: Rockies spoon-feed game to Mets
+
+In article <4200416@hpcc01.corp.hp.com> boell@hpcc01.corp.hp.com (Donald P Boell) writes:
+>Is it just me, or does Bichette look totally lost in the outfield?
+
+He's been playing horrible defense. Baylor said after Wednesday's game that
+he wanted to shake up the lineup a little, because Bichette has been
+having a rough time defensively and Jerald Clark has not been hitting.
+He was true to his word; I went to Thursday's game and Gerald Young
+was in right and Daryl Boston (who has a very hot bat) was in left.
+Baylor was careful to say though that he didn't necessarily mean for
+these changes to be permanent but he wanted to give these other two
+a shot while Clark and Bichette were not playing well.
+
+In defense of Bichette, it looks like right field in Mile High Stadium
+is a bitch to play. Some of the visiting outfielders have been having
+some problems too (although Bobby Bonilla made a great catch crashing into
+the wall to rob Daryl Boston of an extra base hit in Thursday's game)
+
+--Greg

@@ -1,0 +1,38 @@
+0.231328498702 0.768671501298 0.537343002596 True
+prediction: baseball for data\test\rec.sport.baseball-full\104980
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| also     |    -8.25 |   -10.11 |    1.86 | **    |
+| question |    -8.43 |   -10.11 |    1.68 | **    |
+| players  |   -10.04 |    -8.72 |   -1.32 | **    |
+| derek    |   -10.04 |    -9.01 |   -1.03 | **    |
+| either   |   -10.04 |    -9.01 |   -1.03 | **    |
+| forget   |   -10.04 |    -9.01 |   -1.03 | **    |
+| going    |   -10.04 |    -9.01 |   -1.03 | **    |
+| indians  |   -10.04 |    -9.01 |   -1.03 | **    |
+| james    |   -10.04 |    -9.01 |   -1.03 | **    |
+| period   |   -10.04 |    -9.01 |   -1.03 | **    |
+From: cej0@ns1.cc.lehigh.edu (CHARLES EDWARD JAMES)
+Subject: Re: John Wetteland, Derek Lilliquist, info please.
+
+>
+>      I was wondering if anyone knew if John Wetteland was put on the DL again
+>      after his first 15-day period was up? I read in the USA Today Sports
+>      section that he is on for "surgery to repair broken toe", and was
+>      wondering if that was new. I thought he was just letting it heal.
+As of today's USA Today (4/23) John Wetteland should come off of the DL
+tonight and possibly pitch in the series this weekend (I forget who they play.)
+>
+>      Another question, Is Derek Lilliquist the main closer for the Indians now
+>      that Olin is gone. I need to know cause I need to find a reliever to
+>      replace Wetteland and so far Lilliquist is doing ok. Any information on
+>      either of the players would be greatly appreciated. Thank you for your
+>      time.
+Derek Lilliquist is probably going to be the main closer, but it will be kind
+of a bullpen by committee also.
+-- 
+|-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-|
+| Charles James         |      "If you don't care where you're going,        |
+| Lehigh University     |               then you ain't lost"                 |
+| CEJ0@Lehigh.EDU       |           Anonymous person in CSC 252              |
+|-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-|

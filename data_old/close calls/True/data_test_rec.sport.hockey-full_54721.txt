@@ -1,0 +1,38 @@
+0.562305234228 0.437694765773 0.124610468455 True
+prediction: hockey for data\test\rec.sport.hockey-full\54721
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| wings   |    -7.85 |   -10.09 |    2.24 | **    |
+| goals   |    -8.44 |   -10.09 |    1.65 | **    |
+| games   |    -8.95 |    -7.53 |   -1.42 | **    |
+| get     |    -8.95 |    -7.69 |   -1.26 | **    |
+| jets    |    -8.95 |   -10.09 |    1.14 | **    |
+| caught  |    -9.35 |   -10.09 |    0.74 |       |
+| defense |    -9.35 |   -10.09 |    0.74 |       |
+| goalie  |    -9.35 |   -10.09 |    0.74 |       |
+| game    |    -7.34 |    -8.01 |    0.67 |       |
+| gives   |   -10.05 |    -9.4  |   -0.65 |       |
+From: jake@rambler.Eng.Sun.COM (Jason Cockroft)
+Subject: Leafs: What happened?
+
+How did the Leafs turn it around??? 
+
+
+I couldn't get the Leaf games on the weekend in CA.
+
+Did the Leaf defense wise up overnight?
+Did the Leafs get in the slot or 
+was it just "fluke" goals in a goalie duel? 
+Did the Wings turn off the jets or muscle?  
+What gives here?
+
+I caught game 1 on satellite.  I figured my Leafs were washed.
+This is a _major_ turnaround.   Very few predicted this. 
+How, how, how did it happen?   
+
+Wing and Leaf perspectives welcomed!
+
+
+-jake.
+
+

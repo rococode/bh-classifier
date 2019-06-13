@@ -1,0 +1,53 @@
+0.443293185502 0.556706814498 0.113413628996 True
+prediction: baseball for data\test\rec.sport.baseball-full\105064
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| players  |    -8.65 |   -10.04 |    1.39 | **    |
+| group    |   -10.04 |    -8.66 |   -1.38 | **    |
+| info     |   -10.04 |    -8.66 |   -1.38 | **    |
+| player   |    -9.35 |    -7.96 |   -1.38 | **    |
+| anyone   |   -10.04 |    -8.95 |   -1.09 | **    |
+| seems    |   -10.04 |    -8.95 |   -1.09 | **    |
+| book     |    -9.35 |   -10.04 |    0.7  |       |
+| business |    -9.35 |   -10.04 |    0.7  |       |
+| cannot   |    -9.35 |   -10.04 |    0.7  |       |
+| finally  |    -9.35 |   -10.04 |    0.7  |       |
+From: <RVESTERM@vma.cc.nd.edu>
+Subject: Re: USA McWeekly Stats
+
+In article <1993Apr20.033504.13966@mnemosyne.cs.du.edu>, gspira@nyx.cs.du.edu
+(Greg Spira) says:
+>
+><RVESTERM@vma.cc.nd.edu> writes:
+>
+>>In article <franjion.734996049@spot.Colorado.EDU>, franjion@spot.Colorado.EDU
+>>(John Franjione) says:
+>>>
+>>>Also, I have the impression from reading this group and Bill James
+>>>that Elias is a bunch of money-grubbing jerks whose mission is to
+>>>charge as much as they can for baseball statistical info
+>>>
+>
+>>and bill james is not? yeah.  sure.  do you own "the bill james players
+>>rating book"?
+>
+>Uh, Bill James doesn't sell statistics.  He sells books with statistics,
+>but he is not in the business of providing stats like Elias, STATS,
+>Howe, Baseball workshop etc. are.
+>
+>Greg
+
+funny, it seems to me that the stats major league and minor league handbooks,
+which are nothing BUT collections of statistics, are authored by "bill james
+and stats inc. (and howe, for the minor league handbook)".
+
+and i am not sure how the 1993 bill james player ratings book qualifies
+as a "book with statistics", while the elias analyst is a "statistics book".
+the analyst contains more stats, sure, but it also contains more dialogue.
+
+finally, the point was not about the word "statistics".  it was about
+"money-grubbing".  i don't see how anyone who has looked at the bill
+james player ratings book cannot consider him money-grubbing.
+
+bob vesterman.
+

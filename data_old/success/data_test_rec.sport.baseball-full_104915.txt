@@ -1,0 +1,40 @@
+prediction: baseball for data\test\rec.sport.baseball-full\104915
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| jays     |    -8.43 |   -10.04 |    1.61 | **    |
+| better   |    -8.1  |    -9.35 |    1.25 | **    |
+| actually |   -10.04 |    -8.94 |   -1.1  | **    |
+| could    |    -8.94 |   -10.04 |    1.1  | **    |
+| got      |    -8.94 |   -10.04 |    1.1  | **    |
+| id       |    -8.94 |   -10.04 |    1.1  | **    |
+| right    |    -8.94 |   -10.04 |    1.1  | **    |
+| article  |    -8.66 |    -7.74 |   -0.92 |       |
+| know     |    -9.35 |    -8.43 |   -0.92 |       |
+| writes   |    -8.43 |    -7.55 |   -0.88 |       |
+From: tedward@cs.cornell.edu (Edward [Ted] Fischer)
+Subject: Re: Ind. Source Picks Baerga Over Alomar: Case Closed 
+
+In article <C5L6Dn.4uB@andy.bgsu.edu> klopfens@andy.bgsu.edu (Bruce Klopfenstein) writes:
+>fester@island.COM (Mike Fester) writes:
+>> 
+>> I'd say you could make a good for them being about equal right now. T&P
+>> rated Baerga higher, actually.
+>
+>Finally, an objective source.  Alomar's a great player, but so is Baerga.
+>Nice to see the objective source cited rather than "my dad's bigger than
+>your dad" posts.
+
+I know.  You have this fucked up idea that anybody who prefers Alomar
+to Baerga must be a Jay-Lover and Indian-Hater.  Sorry, you got that
+one wrong!  I hate the Jays and don't care one way or the other about
+the Indians.  But objectively, Alomar had the better offensive year
+last year, so I have to pick him.
+
+You admit T&P as a reliable(?), objective source?  Then you will note
+that they rated Alomar as the better offensive player, chosing Baerga
+over Alomar only because of his defense.
+
+That's a joke!  (Alomar might not be a gold-glover, but he's certainly
+no worse than Baerga defensively.)
+
+-Valentine

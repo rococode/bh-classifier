@@ -1,0 +1,38 @@
+0.435182815578 0.564817184422 0.129634368844 False
+prediction: baseball for data\test\rec.sport.hockey-full\54508
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| hockey    |   -10.06 |    -7.43 |   -2.63 | **    |
+| games     |    -6.84 |    -9.37 |    2.53 | **    |
+| question  |   -10.06 |    -8.12 |   -1.94 | **    |
+| since     |   -10.06 |    -8.12 |   -1.94 | **    |
+| got       |    -8.26 |   -10.06 |    1.8  | **    |
+| great     |   -10.06 |    -8.27 |   -1.78 | **    |
+| better    |    -7.86 |    -9.37 |    1.51 | **    |
+| well      |    -7.98 |    -9.37 |    1.39 | **    |
+| around    |    -8.96 |   -10.06 |    1.11 | **    |
+| exception |    -8.96 |   -10.06 |    1.11 | **    |
+From: ritt1@ac.dal.ca
+Subject: Re: Lemieux's Getting the Hart... Jeez I hope not!
+
+In article <22APR93.02956996.0062@UNBVM1.CSD.UNB.CA>, Patrick Walker <F1HH@UNB.CA> writes:
+ 
+> By the way, I am Canadian, play a little, and watched
+> Hockey night In Canada, (Never Missed a Show!)
+
+Well that's really great Pat.  I guess since you've played a little you thereby 
+qualify as an expert.  Especially since you watch all the games on t.v.  All 
+that qualifies you as is a armchair quarterback or a coach potato
+
+> Not that I condone violence, but I'll make an exception for Mario.
+Pat Walker
+
+Again just further evidence as to what kind of an expert you are.  Truly a 
+stupid statement.  Mario is definately one of the best players to play the game.
+I'm not saying he is the best to ever play the game, but he should come to
+mind when that question is asked.  Let's face it, he just returns from 
+radiation therapy with around a dozen games left, overtakes Lafontaine for the
+scoring lead and then buries him!!!!  No, I guess he just got lucky.
+Speaking of Lafontaine, now there's a guy who should be considered for the
+Hart trophy as well, certainly one of the better players in the league this
+year. 

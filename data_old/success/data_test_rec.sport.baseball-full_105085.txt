@@ -1,0 +1,39 @@
+1.56221257382e-09 0.999999998438 0.999999996876 True
+prediction: baseball for data\test\rec.sport.baseball-full\105085
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| ball   |    -7.47 |   -10.11 |    2.63 | **    |
+| hit    |    -7.96 |   -10.11 |    2.15 | **    |
+| street |    -8.43 |   -10.11 |    1.68 | **    |
+| roger  |   -10.04 |    -8.5  |   -1.54 | **    |
+| id     |    -8.65 |   -10.11 |    1.46 | **    |
+| lot    |    -8.65 |   -10.11 |    1.46 | **    |
+| run    |    -8.65 |   -10.11 |    1.46 | **    |
+| dan    |   -10.04 |    -8.72 |   -1.32 | **    |
+| ever   |    -9.34 |    -8.16 |   -1.18 | **    |
+| field  |    -8.94 |   -10.11 |    1.17 | **    |
+From: cmk@athena.mit.edu (Charles M Kozierok)
+Subject: Re: Best Homeruns
+
+In article <1993Apr16.172502.2301@osf.org> dswartz@osf.org (Dan Swartzendruber) writes:
+} In article <4200419@hpcc01.corp.hp.com> boell@hpcc01.corp.hp.com (Donald P Boell) writes:
+} >I'd have to say the most impressive HRs I've ever see came from Dave Kingman
+} >and his infamous moon-raker drives...
+} 
+} I remember one he hit circa 1976 at Wrigley Field that went across
+} the street (in dead center field) and hit a house on the roof.  He
+} whiffed a lot, but when he *did* connect, watch out!
+
+the best home run i have *ever* seen came off, believe it or not,
+Roger Clemens (sorry, Val) a couple of years ago. he threw a ball to
+Incaviglia which was literally at Inky's neck, and he absolutely 
+hammered the crap out of it. after the swing, Clemens nonchalantly
+motioned for a new ball--he didn't even turn around to look, or
+even get upset. the ball hit the lights in the left-field standard,
+some 70 or so feet about the Green Monster (over 100 feet above the
+ground total!)
+
+truly an amazing shot.
+
+-*-
+charles

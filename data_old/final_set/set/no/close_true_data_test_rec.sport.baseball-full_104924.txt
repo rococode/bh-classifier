@@ -1,0 +1,30 @@
+0.394427951384 0.605572048616 0.211144097232 True
+prediction: baseball for data\test\rec.sport.baseball-full\104924
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| paul     |   -10.04 |    -8.72 |   -1.32 | **    |
+| much     |    -8.94 |   -10.11 |    1.17 | **    |
+| dick     |   -10.04 |    -9.01 |   -1.03 | **    |
+| know     |    -8.43 |    -9.41 |    0.99 |       |
+| one      |    -8.65 |    -7.8  |   -0.85 |       |
+| reader   |    -9.34 |   -10.11 |    0.76 |       |
+| time     |    -7.96 |    -8.72 |    0.76 |       |
+| anyone   |    -8.94 |    -9.41 |    0.48 |       |
+| baseball |    -8.94 |    -8.72 |   -0.22 |       |
+| andresen |   -10.04 |   -10.11 |    0.07 |       |
+From: paula@koufax.cv.hp.com (Paul Andresen)
+Subject: Dick Estelle
+
+Does anyone know if the Dick Estelle who does the Radio Reader on NPR is one in
+the same with the lefty who pitched briefly for the Jints in '64 & '65?
+
+Just curious.
+
+--->Paul, spending too much time reading the baseball encyclopedia
+--------------------------------------------------------------------------------
+           We will stretch no farm animal beyond its natural length
+
+  paula@koufax.cv.hp.com   Paul Andresen  Hewlett-Packard  (503)-750-3511
+
+    home: 3006 NW McKinley    Corvallis, OR 97330       (503)-752-8424
+                            A SABR member since 1979

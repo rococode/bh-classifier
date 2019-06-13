@@ -1,0 +1,33 @@
+0.531413102136 0.468586897864 0.0628262042723 False
+prediction: hockey for data\test\rec.sport.baseball-full\105042
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| even     |    -8.44 |   -10.03 |    1.59 | **    |
+| closer   |   -10.05 |    -8.93 |   -1.12 | **    |
+| computer |   -10.05 |    -9.34 |   -0.71 |       |
+| jim      |   -10.05 |    -9.34 |   -0.71 |       |
+| stats    |   -10.05 |    -9.34 |   -0.71 |       |
+| could    |    -9.36 |   -10.03 |    0.68 |       |
+| probably |    -9.36 |   -10.03 |    0.68 |       |
+| writes   |    -7.75 |    -8.24 |    0.49 |       |
+| players  |    -7.65 |    -8.09 |    0.43 |       |
+| think    |    -8.26 |    -8.65 |    0.39 |       |
+From: jmann@vineland.pubs.stratus.com (Jim Mann)
+Subject: Re: ALL-TIME PEAK PLAYERS
+
+In article <1993Apr20.202808.11395@alleg.edu>  
+luriem@alleg.edu(Michael Lurie) The Liberalizer writes:
+> 
+> Very interesting, Gehrig below bonds and schmidt. RICKY HENDERSON?  
+He  
+> could steal bases, but his hitting stats are not even close to  
+dimmagio's.
+> uhhhh. Where is Winfield?
+
+Henderson's stat's are probably closer to DiMaggio's than you
+think.
+
+--
+Jim Mann            
+Stratus Computer   jmann@vineland.pubs.stratus.com  
+

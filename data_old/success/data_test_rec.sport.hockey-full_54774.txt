@@ -1,0 +1,36 @@
+0.660959445673 0.339040554327 0.321918891347 True
+prediction: hockey for data\test\rec.sport.hockey-full\54774
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| however |   -10.11 |    -8.43 |   -1.68 | **    |
+| th      |   -10.11 |    -8.65 |   -1.46 | **    |
+| teams   |    -8.72 |   -10.04 |    1.32 | **    |
+| know    |    -9.41 |    -8.43 |   -0.99 |       |
+| would   |    -7.54 |    -8.43 |    0.89 |       |
+| games   |    -8.16 |    -8.94 |    0.78 |       |
+| spot    |   -10.11 |    -9.34 |   -0.76 |       |
+| b       |    -9.41 |   -10.04 |    0.62 |       |
+| fall    |    -9.41 |   -10.04 |    0.62 |       |
+| pool    |    -9.41 |   -10.04 |    0.62 |       |
+From: tervio@katk.Helsinki.FI (TERVI| MARKO J)
+Subject: Re: switzerland at WC93
+
+In article <1993Apr23.113132.690@vms.huji.ac.il> hechel@vms.huji.ac.il writes:
+
+
+>  does anybody know if this WC is the qualification tournement for
+>the olympic games '94 in Lillehammer or are some teams already
+>qualified for them.
+
+>hopp schwiiz
+>           daniel
+
+The top 11 teams of this tournament will play in the Olympics next year.
+The last team of this tournament, top two of pool B (Great Britain and 
+Poland) and the winner of pool C (Latvia) will play for the last Olympic 
+spot next fall.
+  However, if next year's hosts Norway were to finish 12th (which would be 
+no surprise), then it's the 11th team of pool A that will have to play in 
+the qualification tournament.  
+
+    Marko Tervio

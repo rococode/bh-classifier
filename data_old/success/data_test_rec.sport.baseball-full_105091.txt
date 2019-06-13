@@ -1,0 +1,41 @@
+0.000115678334211 0.999884321666 0.999768643332 True
+prediction: baseball for data\test\rec.sport.baseball-full\105091
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| question |    -8.43 |   -10.11 |    1.68 | **    |
+| run      |    -8.65 |   -10.11 |    1.46 | **    |
+| got      |    -8.94 |   -10.11 |    1.17 | **    |
+| says     |    -8.94 |   -10.11 |    1.17 | **    |
+| tied     |   -10.04 |    -9.01 |   -1.03 | **    |
+| never    |    -8.65 |    -7.8  |   -0.85 |       |
+| one      |    -8.65 |    -7.8  |   -0.85 |       |
+| games    |    -8.94 |    -8.16 |   -0.78 |       |
+| ago      |    -9.34 |   -10.11 |    0.76 |       |
+| ahead    |    -9.34 |   -10.11 |    0.76 |       |
+From: rickert@NeXTwork.Rose-Hulman.Edu (John H. Rickert)
+Subject: Re: Gotta a Question....
+
+In article <47844@sdcc12.ucsd.edu> demers@cs.ucsd.edu (David DeMers) writes:
+>In article <cjkuo.68.0@symantec.com>, cjkuo@symantec.com (Jimmy Kuo) writes:
+> |> gt0523e@prism.gatech.EDU (Michael Andre Mule) writes:
+> ....
+> |> >>What is the maximum runs allowed before a stopper can get credit for a
+> |> >>relief? i.e. if a stopper comes in with a 5 run lead does he getcredit
+> |> >> with the save.
+> |> >If you come in and pitch the last three innings,and your team was ahead 
+> |> >when you got out there and wins the game, you get a save.
+> |> Sort'a correct. If you pitched at least 3 innings,entered with your team 
+> |> in the lead, was the pitcher when the game ended,the game was never tied 
+> |> during your stint, and your team won, you get a save.
+> Well, the rulebook says that in the opinion of the scorer, you must have
+> "pitched effectively" for your 3 innings - this save is not automatic,
+> unlike the others.
+
+Someone in SABR actually looked at these games a few years ago 
+and found that the official scorer awarded the save in every one 
+of the games - even those in which the pitcher had pitched badly 
+(allowing 4 or 5 runs).
+
+seeing, hearing (my two sense worth)
+john rickert
+rickert@nextwork.rose-hulman.edu

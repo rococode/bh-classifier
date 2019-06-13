@@ -1,0 +1,26 @@
+0.37550512725 0.62449487275 0.2489897455 False
+prediction: baseball for data\test\rec.sport.hockey-full\54764
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| come      |    -8.43 |   -10.07 |    1.64 | **    |
+| draft     |   -10.04 |    -8.46 |   -1.58 | **    |
+| first     |    -8.65 |   -10.07 |    1.42 | **    |
+| say       |    -8.65 |   -10.07 |    1.42 | **    |
+| pick      |   -10.04 |    -8.97 |   -1.07 | **    |
+| round     |   -10.04 |    -8.97 |   -1.07 | **    |
+| currently |    -9.34 |   -10.07 |    0.73 |       |
+| deal      |    -9.34 |   -10.07 |    0.73 |       |
+| mike      |    -9.34 |   -10.07 |    0.73 |       |
+| playing   |    -8.65 |    -9.38 |    0.73 |       |
+From: Mike D'Amico <miked77@bnr.ca>
+Subject: Senators sign top draft picks
+
+Reports in Ottawa today say that the Senators have come to a verbal
+agreement with last seasons first pick and 2nd overall choice Alexei
+Yashin on a 5 year deal. As well the Senators have signed their second
+round pick Chad Penney who is currently playing for the Sault Ste. Marie
+Greyhounds in the Ontario Junior league playoffs.
+
+Mike D'Amico
+BNR
+Ottawa, Ontario

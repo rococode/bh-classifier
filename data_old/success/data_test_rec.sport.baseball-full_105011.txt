@@ -1,0 +1,33 @@
+0.147636037906 0.852363962094 0.704727924187 True
+prediction: baseball for data\test\rec.sport.baseball-full\105011
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| roger   |   -10.04 |    -8.5  |   -1.54 | **    |
+| lot     |    -8.65 |   -10.11 |    1.46 | **    |
+| thats   |    -8.65 |   -10.11 |    1.46 | **    |
+| either  |   -10.04 |    -9.01 |   -1.03 | **    |
+| fame    |   -10.04 |    -9.01 |   -1.03 | **    |
+| hall    |   -10.04 |    -9.01 |   -1.03 | **    |
+| good    |    -8.94 |    -8.16 |   -0.78 |       |
+| address |    -9.34 |   -10.11 |    0.76 |       |
+| history |    -9.34 |   -10.11 |    0.76 |       |
+| ken     |    -9.34 |   -10.11 |    0.76 |       |
+From: kubey@sgi.com (Ken Kubey)
+Subject: Re: DAVE KINGMAN FOR THE HALL OF FAME
+
+In article <1993Apr16.011653.7403@Princeton.EDU> roger@astro.princeton.edu (Roger Lustig) writes:
+>
+>As for Ryan, is his W-L better than Morris'?  That's what a lot of voters
+>tend to look at.  And Morris *was* awfully good for a decade, and doesn't
+>lead MLB history in walks allowed, either.
+
+Despite walks and loses, Ryan deserves to be in the Hall of Fame (IMHO)
+based only on his ho-hitters.  The strike-out records are an extra.
+
+What do people think about Andre "400 HR" Dawson for the HOF?
+
+----------------------------------------------------------------------------
+Name:       Ken Kubey  or  QB   |  Reading, editing or printing of this text
+Address:    kubey@sgi.com       |  without the express written consent of
+Disclaimer: the usual           |  Major League Baseball is prohibited.
+----------------------------------------------------------------------------

@@ -1,0 +1,26 @@
+0.513520574432 0.486479425568 0.0270411488644 False
+prediction: hockey for data\test\rec.sport.baseball-full\105154
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| going    |   -10.05 |    -8.11 |   -1.94 | **    |
+| list     |    -8.44 |   -10.05 |    1.61 | **    |
+| make     |   -10.05 |    -8.44 |   -1.61 | **    |
+| john     |    -8.95 |   -10.05 |    1.1  | **    |
+| ill      |   -10.05 |    -8.95 |   -1.09 | **    |
+| yankee   |   -10.05 |    -8.95 |   -1.09 | **    |
+| complete |    -9.35 |   -10.05 |    0.7  |       |
+| got      |    -9.35 |    -8.67 |   -0.69 |       |
+| go       |    -8.44 |    -7.97 |   -0.47 |       |
+| one      |    -8.44 |    -8.67 |    0.23 |       |
+From: "John O. Kim" <jk5x+@andrew.cmu.edu>
+Subject: NEW Yankees Mailing List!!!
+
+Hi all,
+
+	I got tired of waiting for a mailing list so I am going to make one....
+just send me your complete e-mail address on your message and I'll send
+you a confirmation and the Yankee mailing list address
+
+-john
+
+GO YANKEES!!!

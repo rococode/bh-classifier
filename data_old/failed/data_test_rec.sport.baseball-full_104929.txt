@@ -1,0 +1,40 @@
+0.999985012402 1.49875980972e-05 0.999970024804 False
+prediction: hockey for data\test\rec.sport.baseball-full\104929
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| win    |    -6.71 |    -9.34 |    2.64 | **    |
+| roger  |    -8.5  |   -10.04 |    1.54 | **    |
+| id     |   -10.11 |    -8.65 |   -1.46 | **    |
+| lot    |   -10.11 |    -8.65 |   -1.46 | **    |
+| run    |   -10.11 |    -8.65 |   -1.46 | **    |
+| world  |    -8.72 |   -10.04 |    1.32 | **    |
+| braves |   -10.11 |    -8.94 |   -1.17 | **    |
+| much   |   -10.11 |    -8.94 |   -1.17 | **    |
+| red    |   -10.11 |    -8.94 |   -1.17 | **    |
+| easier |    -9.01 |   -10.04 |    1.03 | **    |
+From: roger@crux.Princeton.EDU (Roger Lustig)
+Subject: Re: Braves Pitching UpdateDIR
+
+In article <1993Apr15.214032.1@acad.drake.edu> sbp002@acad.drake.edu writes:
+
+>> Not clear to me at all.  I'd certainly rather have a team who was winning
+>> 4-1 games than 2-1 games.  In the 2-1 game, luck is going to play a much
+>> bigger role than in the 4-1 game. 
+
+>But you still need the pitching staff to hold the opposing team to
+>one run.
+
+Not if you've scored four runs, you don't!  Why strain even the best pitching
+staff?  Why not make it easier for them?  
+
+In the 2-1 game, the best pitching staff in the world can't compensate
+for a blown call, a bad hop, a gust of wind.  Winning close is the 
+wrong way to win; both keeping opposing runs down AND scoring a lot 
+yourself are insurance against the "Shit happens" aspect of baseball.
+
+Not every great teamhas even *good* pitching.  The Big Red Machine of
+the 70's was league-average in pitching.  But somehow, Rose-Morgan-Bench-
+Perez-etc. managed to win 100 games more than once, peaking at 108.
+
+Roger
+

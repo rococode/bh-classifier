@@ -1,0 +1,31 @@
+0.42270657595 0.577293424051 0.154586848101 True
+prediction: baseball for data\test\rec.sport.baseball-full\105072
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| im         |    -9.35 |    -7.59 |   -1.76 | **    |
+| hes        |   -10.04 |    -8.47 |   -1.57 | **    |
+| better     |    -8.66 |   -10.08 |    1.42 | **    |
+| work       |   -10.04 |    -8.69 |   -1.35 | **    |
+| great      |    -9.35 |    -8.29 |   -1.06 | **    |
+| year       |    -9.35 |    -8.47 |   -0.88 |       |
+| address    |    -9.35 |   -10.08 |    0.73 |       |
+| ba         |    -9.35 |   -10.08 |    0.73 |       |
+| career     |    -9.35 |   -10.08 |    0.73 |       |
+| definitely |    -9.35 |   -10.08 |    0.73 |       |
+From: tedward@cs.cornell.edu (Edward [Ted] Fischer)
+Subject: Re: Winfield
+
+In article <1993Apr23.212336.19002@alleg.edu> luriem@alleg.edu(Michael Lurie) The Liberalizer writes:
+
+Do you have a better e-mail address, Mr. Lurie?  I'm afraid I can't
+get the short version to work.
+
+In any case, on Winfield.  Yes, his career BA is a mere .285.  He
+didn't beat this until his sixth year in the majors, and has only
+topped it once since 1988.  His peak was in the early '80s, and
+included some rather impressive seasons.  But then he's also had
+other scattered great performances (like 1988 and 1992).  Definitely
+*not* a smooth career curve!
+
+Cheers,
+-Valentine

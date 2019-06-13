@@ -1,0 +1,38 @@
+0.000180847798133 0.999819152202 0.999638304404 True
+prediction: baseball for data\test\rec.sport.baseball-full\105151
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| fans   |    -8.25 |   -10.11 |    1.86 | **    |
+| root   |    -8.65 |   -10.11 |    1.46 | **    |
+| hear   |   -10.04 |    -9.01 |   -1.03 | **    |
+| know   |    -8.43 |    -9.41 |    0.99 |       |
+| good   |    -8.94 |    -8.16 |   -0.78 |       |
+| chance |    -9.34 |   -10.11 |    0.76 |       |
+| even   |    -8.65 |    -9.41 |    0.76 |       |
+| lose   |    -9.34 |   -10.11 |    0.76 |       |
+| must   |    -9.34 |   -10.11 |    0.76 |       |
+| ok     |    -9.34 |   -10.11 |    0.76 |       |
+From: writingctr@leo.bsuvc.bsu.edu
+Subject: Re: CUB fever.
+
+
+In article <kingoz.735285670@camelot>, kingoz@camelot.bradley.edu (Orin Roth) writes:
+> 
+>    CUB fever is hitting me again. I'm beginning to think they have a 
+>    chance this year. (what the heck am i thinking?)
+>    Sorry. Just a moment of incompetence.
+>    I'll be ok. Really. 
+>    Orin.
+>    Bradley U.
+> 
+> --
+> I'm really a jester in disguise!                                   
+I hear ya!  Then again, we must remember that we are indeed Cub fans, and
+that the Cubs will eventually blow it.  After all, the Cubs are the easiest
+team in the National League to root for.  No Pressure.  You know they will
+lose eventually.  Oh well, I suppose we must have faith.  After all, they
+do look pretty good, and they don't even have Sandberg back yet.  
+
+CUBS IN '93!!!!!
+
+CHA

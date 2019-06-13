@@ -1,0 +1,35 @@
+0.564677005212 0.435322994788 0.129354010424 False
+prediction: hockey for data\test\rec.sport.baseball-full\105083
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| anyone    |   -10.06 |    -8.24 |   -1.82 | **    |
+| past      |   -10.06 |    -8.65 |   -1.42 | **    |
+| baseball  |   -10.06 |    -8.93 |   -1.13 | **    |
+| thanks    |   -10.06 |    -8.93 |   -1.13 | **    |
+| wondering |   -10.06 |    -8.93 |   -1.13 | **    |
+| able      |    -8.96 |   -10.03 |    1.07 | **    |
+| list      |    -8.96 |   -10.03 |    1.07 | **    |
+| mailing   |    -8.96 |   -10.03 |    1.07 | **    |
+| player    |    -8.96 |   -10.03 |    1.07 | **    |
+| players   |    -8.45 |    -9.34 |    0.88 |       |
+From: scott@asd.com (Scott Barman)
+Subject: Re: Jewish Baseball Players?
+
+In article <15APR93.14691229.0062@lafibm.lafayette.edu> VB30@lafibm.lafayette.edu (VB30) writes:
+>Just wondering.  A friend and I were talking the other day, and
+>we were (for some reason) trying to come up with names of Jewish
+>baseball players, past and present.  We weren't able to come up
+>with much, except for Sandy Koufax, (somebody) Stankowitz, and
+>maybe John Lowenstein.  Can anyone come up with any more.  I know
+>it sounds pretty lame to be racking our brains over this, but
+>humor us.  Thanks for your help.
+>
+
+Oh... I forgot... Art Shamsky, former Red and Mets player.  Batted .301
+between injuries in 1969 (fell short of qualifying for Top 10 because of
+injuries and platoon with Ron Swoboda; no Swobo wasn't Jewish).
+-- 
+scott barman    | Mets Mailing List (feed the following into your shell):
+scott@asd.com   |            mail mets-request@asd.com <<!
+                |            subscribe
+ Let's Go Mets! |            !

@@ -1,0 +1,27 @@
+0.413559451963 0.586440548037 0.172881096073 False
+prediction: baseball for data\test\rec.sport.hockey-full\54532
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| move    |   -10.04 |    -8.94 |   -1.1  | **    |
+| pens    |   -10.04 |    -9.35 |   -0.7  |       |
+| every   |    -9.35 |   -10.04 |    0.69 |       |
+| thrown  |    -9.35 |   -10.04 |    0.69 |       |
+| im      |    -8.43 |    -8.94 |    0.51 |       |
+| really  |    -8.43 |    -8.94 |    0.51 |       |
+| hes     |    -8.94 |    -9.35 |    0.4  |       |
+| subject |    -7.56 |    -7.64 |    0.08 |       |
+| answer  |   -10.04 |   -10.04 |   -0    |       |
+| bowmans |   -10.04 |   -10.04 |   -0    |       |
+From: jake@rambler.Eng.Sun.COM (Jason Cockroft)
+Subject: Re: Pens fans reactions
+
+
+>I'm really impressed with Bowman's coaching tactics - he's had an answer for
+>every move that Brooks has thrown at the Pens.
+>
+>Susan Dart
+
+Such as?
+
+-jake. 
+

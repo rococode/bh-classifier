@@ -1,0 +1,32 @@
+0.377453988713 0.622546011287 0.245092022575 False
+prediction: baseball for data\test\rec.sport.hockey-full\54709
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| winnipeg |   -10.04 |    -8.95 |   -1.09 | **    |
+| article  |    -7.84 |    -8.66 |    0.82 |       |
+| tom      |    -9.34 |   -10.05 |    0.71 |       |
+| writes   |    -7.96 |    -8.66 |    0.71 |       |
+| bill     |   -10.04 |    -9.36 |   -0.68 |       |
+| dallas   |   -10.04 |    -9.36 |   -0.68 |       |
+| division |   -10.04 |    -9.36 |   -0.68 |       |
+| put      |    -8.65 |    -8.95 |    0.3  |       |
+| play     |    -8.94 |    -8.66 |   -0.27 |       |
+| would    |    -7.64 |    -7.85 |    0.21 |       |
+From: b_hart@odin.dev.macsch.com (Bill Hart)
+Subject: Re: If Oilers go to Hamilton
+
+
+In article <1993Apr26.023650.16749@spang.Camosun.BC.CA>, ua256@freenet.Victoria.BC.CA (Tom Moffat) writes:
+|>
+|>
+|>If the Oilers move to Hamilton what division will they play in .
+|>-- 
+|>Tom Moffat
+|>Victoria B.C.
+|>Canada
+|>
+As a guess, Hamilton would be put into the Midwest, with either
+Winnipeg or Dallas moving to the Pacific.
+
+Bill
+b_hart@macsch.com

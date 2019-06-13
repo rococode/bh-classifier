@@ -1,0 +1,33 @@
+0.556182416497 0.443817583503 0.112364832994 False
+prediction: hockey for data\test\rec.sport.baseball-full\105035
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| starting |    -8.94 |   -10.04 |    1.1  | **    |
+| game     |    -8.43 |    -7.33 |   -1.1  | **    |
+| pitcher  |   -10.04 |    -8.94 |   -1.1  | **    |
+| post     |   -10.04 |    -8.94 |   -1.1  | **    |
+| twins    |   -10.04 |    -8.94 |   -1.1  | **    |
+| article  |    -7.74 |    -8.66 |    0.92 |       |
+| writes   |    -7.55 |    -8.43 |    0.88 |       |
+| year     |    -8.65 |    -7.85 |   -0.81 |       |
+| bones    |    -9.35 |   -10.04 |    0.7  |       |
+| came     |    -9.35 |   -10.04 |    0.7  |       |
+From: macomber@sctc.com (Chuck Macomber)
+Subject: Re: Twins Update 4-22
+
+paul@csd4.csd.uwm.edu (Paul R Krueger) writes:
+
+>In article <1993Apr23.151050.8995@sctc.com> macomber@sctc.com (Chuck Macomber) writes:
+
+
+>>
+>>Wednesday's game marked the first opposing left-handed starting pitcher for the
+>>Twins this year (Rickey Bones).   
+>   Nice post Chuck, but you made just one mistake. Bones is a right-handed
+>   pitcher. However, Hrbek's grand slam came off Graehme Lloyd, a lefty.
+
+>   --salty
+
+My mistake.  
+
+-- Chuck

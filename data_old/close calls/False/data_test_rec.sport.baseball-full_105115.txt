@@ -1,0 +1,33 @@
+0.538064277249 0.461935722751 0.076128554499 False
+prediction: hockey for data\test\rec.sport.baseball-full\105115
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| still    |   -10.05 |    -8.65 |   -1.4  | **    |
+| one      |    -8.1  |    -9.34 |    1.24 | **    |
+| actually |   -10.05 |    -8.94 |   -1.11 | **    |
+| well     |   -10.05 |    -8.94 |   -1.11 | **    |
+| first    |    -8.26 |    -9.34 |    1.09 | **    |
+| hold     |    -8.95 |   -10.04 |    1.09 | **    |
+| question |    -8.95 |   -10.04 |    1.09 | **    |
+| really   |    -8.95 |   -10.04 |    1.09 | **    |
+| game     |    -7.56 |    -8.43 |    0.86 |       |
+| bad      |   -10.05 |    -9.34 |   -0.71 |       |
+From: hamkins@geisel.csl.uiuc.edu (Jon Hamkins)
+Subject: Re: Triva question on Bosio's No-hitter
+
+wall@cc.swarthmore.edu (Matthew Wall) writes:
+
+>I don't actually have the answer to this one.
+
+>Bosio, after walking the first two batters, retired 27-straight for a
+>"back-end" perfect game.
+
+Well, there were 27 outs in a row with no hits or walks in between, but
+really, he only retired 26 batters in a row.  The first out of the game
+was the front end of a double play.  Still counts as a back-end perfect
+game in my book, though. 
+
+Congrats to Chris Bosio.  Too bad the Brewers couldn't hold on to him.
+
+     ----Jon Hamkins  (hamkins@uiuc.edu)
+         University of Illionois

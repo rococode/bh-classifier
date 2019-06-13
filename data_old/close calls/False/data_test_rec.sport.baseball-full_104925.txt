@@ -1,0 +1,50 @@
+0.585559018375 0.414440981625 0.171118036751 False
+prediction: hockey for data\test\rec.sport.baseball-full\104925
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| stadium    |   -10.05 |    -8.26 |   -1.78 | **    |
+| h          |   -10.05 |    -8.45 |   -1.6  | **    |
+| r          |   -10.05 |    -8.45 |   -1.6  | **    |
+| gets       |    -8.66 |   -10.05 |    1.4  | **    |
+| e          |   -10.05 |    -8.67 |   -1.38 | **    |
+| losing     |   -10.05 |    -8.67 |   -1.38 | **    |
+| big        |    -8.95 |   -10.05 |    1.11 | **    |
+| radio      |    -8.95 |   -10.05 |    1.11 | **    |
+| times      |    -8.95 |   -10.05 |    1.11 | **    |
+| washington |    -8.95 |   -10.05 |    1.11 | **    |
+Subject: Re: Sparky Anderson Gets win #2000, Tigers beat A's
+From: tim@cs.cosc.georgetown.edu (Tim Snyder)
+
+In article <ragraca.734906386@vela.acs.oakland.edu> ragraca@vela.acs.oakland.edu (Randy A. Graca) writes:
+>Tigers' manager Sparky Anderson gets his 2,000th career win as moments ago,
+>the Tigers completed a two game sweep over the Oakland A's at Tiger Stadium
+>by beating the A's 3-2. Here are the highlights:
+>				R    H   E    
+>             Oakland		2    9   0
+>	     Detroit            3    7   1
+>
+> [game description deleted]
+>
+>In the post game interview (on WJR radio in Detroit), Sparky Anderson said
+>its one of the few times he's gotten emotional in his managing career.  It
+>was a big moment for him, and I'm sure all of us Tiger fans are unanimously
+>very happy for him.  And what a way to get number 2,000!.
+>
+> [woofing deleted]
+>--Randy
+>
+
+In another post-game interview, LaRussa claimed that Sparky was "the
+best manager in basebal," explaining that to be part of the history
+of Sparky softened the blow of losing.
+
+Go Tigers!!!
+ Tim
+
+ Timothy Law Snyder
+ Department of Computer Science
+ Reiss 225
+ Georgetown University
+ Washington, DC 20057
+
+tim@normal.georgetown.edu

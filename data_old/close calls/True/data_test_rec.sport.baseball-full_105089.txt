@@ -1,0 +1,25 @@
+0.484323769378 0.515676230622 0.0313524612435 True
+prediction: baseball for data\test\rec.sport.baseball-full\105089
+| word        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| baerga      |    -9.34 |   -10.06 |    0.73 |       |
+| certainly   |    -9.34 |   -10.06 |    0.73 |       |
+| actually    |   -10.03 |    -9.37 |   -0.66 |       |
+| case        |   -10.03 |    -9.37 |   -0.66 |       |
+| picks       |   -10.03 |    -9.37 |   -0.66 |       |
+| hes         |    -9.34 |    -8.97 |   -0.37 |       |
+| might       |    -9.34 |    -8.97 |   -0.37 |       |
+| alomar      |   -10.03 |   -10.06 |    0.04 |       |
+| closed      |   -10.03 |   -10.06 |    0.04 |       |
+| defensively |   -10.03 |   -10.06 |    0.04 |       |
+From: kime@mongoose.torolab.ibm.com (Edward Kim)
+Subject: Re: Ind. Source Picks Baerga Over Alomar: Case Closed 
+
+> That's a joke!  (Alomar might not be a gold-glover, but he's certainly
+> no worse than Baerga defensively.)
+Actually Alomar is a two-time gold-glover (91-92).
+
+> 
+> -Valentine
+
+Edk

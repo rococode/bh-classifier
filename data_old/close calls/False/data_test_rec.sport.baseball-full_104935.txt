@@ -1,0 +1,35 @@
+0.55288108444 0.44711891556 0.105762168881 False
+prediction: hockey for data\test\rec.sport.baseball-full\104935
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| games  |    -7.67 |    -9.34 |    1.67 | **    |
+| time   |    -9.37 |    -7.73 |   -1.64 | **    |
+| braves |   -10.06 |    -8.65 |   -1.42 | **    |
+| next   |    -7.98 |    -9.34 |    1.35 | **    |
+| starts |   -10.06 |    -8.93 |   -1.13 | **    |
+| longer |    -8.96 |   -10.03 |    1.07 | **    |
+| bit    |   -10.06 |    -9.34 |   -0.72 |       |
+| greg   |   -10.06 |    -9.34 |   -0.72 |       |
+| good   |    -7.98 |    -8.65 |    0.66 |       |
+| ny     |    -9.37 |   -10.03 |    0.66 |       |
+From: "Dennis G Parslow" <p00421@psilink.com>
+Subject: Greg Maddux Run Support
+
+I know, you all were saying "Ha!  The Braves score a few runs for 
+Maddux, that'll shut that guy up."
+
+But no,  I think we'll just keep track a bit longer...
+
+Last  outing: 5 runs.
+
+Total to date:  8 runs, 4 games
+
+Braves record in Maddux's starts:  2-2
+
+See ya next time.
+
+Dennis
+
+Dennis Parslow                    That better be a Korean good 
+Troy, NY 12180                    luck symbol!  -Remo Williams
+p00421@psilink.com

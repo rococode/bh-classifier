@@ -1,0 +1,38 @@
+0.564375120911 0.435624879089 0.128750241822 True
+prediction: hockey for data\test\rec.sport.hockey-full\54738
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| st      |    -8.25 |   -10.05 |    1.8  | **    |
+| detroit |    -8.65 |   -10.05 |    1.4  | **    |
+| maybe   |   -10.04 |    -8.66 |   -1.38 | **    |
+| year    |    -8.94 |    -7.56 |   -1.38 | **    |
+| make    |   -10.04 |    -8.95 |   -1.09 | **    |
+| vs      |   -10.04 |    -8.95 |   -1.09 | **    |
+| david   |    -9.35 |    -8.44 |   -0.91 |       |
+| see     |    -9.35 |    -8.44 |   -0.91 |       |
+| canucks |    -9.35 |   -10.05 |    0.7  |       |
+| chance  |    -9.35 |   -10.05 |    0.7  |       |
+From: howarth@sbctri.sbc.com (David Howarth)
+Subject: Re: Winnipeg vs. Vancouver
+
+In article <C63p9q.205@unixhub.SLAC.Stanford.EDU>,
+grogers@ravel.SLAC.Stanford.EDU (Greg Rogers) wrote:
+> 
+> I feel
+> they have a good chance to make it out of the Smythe, and a 50-50 shot at
+> Detroit (I can't see them losing to St. Louis).  
+
+Gee, they lost to St. Louis twice this year. Maybe you should have your
+eyes checked. 8^)
+
+> Go Canucks
+> 
+> Greg
+
+Go Blues....the Rodney Dangerfield team....They get no respect....except
+in Chicago mabee...
+
+     /\   David Howarth                              howarth@sbctri.sbc.com
+    ///\   Southwestern Bell Technology Resources Inc.
+   ///  \   Advanced Technology Laboratory
+  ///    \   1010 Pine, Rm 635  St. Louis,  MO.  63101 

@@ -1,0 +1,42 @@
+0.999999572293 4.27707400764e-07 0.999999144585 True
+prediction: hockey for data\test\rec.sport.hockey-full\54365
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| hockey   |    -7.22 |   -10.04 |    2.82 | **    |
+| fans     |   -10.11 |    -8.25 |   -1.86 | **    |
+| division |    -8.72 |   -10.04 |    1.32 | **    |
+| st       |    -8.72 |   -10.04 |    1.32 | **    |
+| red      |   -10.11 |    -8.94 |   -1.17 | **    |
+| cup      |    -9.01 |   -10.04 |    1.03 | **    |
+| played   |    -9.01 |   -10.04 |    1.03 | **    |
+| state    |    -9.01 |   -10.04 |    1.03 | **    |
+| tied     |    -9.01 |   -10.04 |    1.03 | **    |
+| games    |    -8.16 |    -8.94 |    0.78 |       |
+From: farenebt@logic.camp.clarkson.edu (Droopy)
+Subject: AHL Playoff results
+
+AHL PLAYOFF SCORES-- FIRST ROUND	(home team in CAPS)
+================================
+
+GAMES PLAYED ON TUES, 4/20
+-------------------------
+Rochester 6	UTICA 4
+Fredericton at Cape Breton
+
+SERIES STATI (plural of status? :)
+----------------------------------
+Adirondack leads CDI, 3-0
+Providence tied w/Springfield, 2-2
+Binghamton tied w/Baltimore, 1-1
+Rochester leads Utica, 2-1
+St John's leads Moncton, 2-0
+Cape Breton tied w/Fredericton, 1-1
+
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    + Bri Farenell			farenebt@craft.camp.clarkson.edu   +
+    + AHL, ECAC and Boston Bruins contact for rec.sport.hockey		   +
+    + Adirondack Red Wings, Calder Cup Champs: '81  '86  '89  '92	   +
+    + Clarkson Hockey, ECAC Tournament Champs: '66  '91  '93		   +
+    + Glens Falls High Hockey, NY Division II State Champs: '90  '91       +
+    + AHL fans: join the AHL mailing list: ahl-news-request@andrew.cmu.edu +
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

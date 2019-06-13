@@ -1,0 +1,33 @@
+0.9296608437358276 0.07033915626416053 0.859321687471667 True
+prediction: hockey for data\test\rec.sport.hockey-full\54248
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| ny       |    -7.22 |   -10.06 |    2.84 | **    |
+| playoff  |    -8.44 |   -10.06 |    1.62 | **    |
+| change   |   -10.05 |    -8.67 |   -1.38 | **    |
+| team     |    -7.35 |    -8.45 |    1.1  | **    |
+| caps     |   -10.05 |    -8.96 |   -1.09 | **    |
+| coming   |   -10.05 |    -8.96 |   -1.09 | **    |
+| play     |    -7.66 |    -8.67 |    1.02 | **    |
+| isles    |    -9.36 |   -10.06 |    0.7  |       |
+| anything |   -10.05 |    -9.37 |   -0.69 |       |
+| mark     |   -10.05 |    -9.37 |   -0.69 |       |
+From: nhmas@gauss.med.harvard.edu (Mark Shneyder 432-4219)
+Subject: Upcoming TV schedule
+
+Hey,guess what's coming to ESPN for a change? A playoff which doesn't
+involve the Pens. Not that there is anything wrong with that...
+
+ESPN games :
+
+Thursday  Game3 Pens at Devils at 7:30(Gary Thorne and Bill Clement)
+Saturday  Game4 Caps at NY Isles at 7:30(Tom Mees and John Davidson)
+
+ABC game :
+
+Sunday    Game4 Pens at Devils at 1:00 (Gary Thorne and Bill Clement)
+
+ESPN named its #2 broadcast team on Tuesday. It paired Tom Mees(play by
+play) with John Davidson(analyst).
+
+-PPV Mark

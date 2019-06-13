@@ -1,0 +1,27 @@
+0.581467632842 0.418532367158 0.162935265683 True
+prediction: hockey for data\test\rec.sport.hockey-full\54542
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| really  |   -10.04 |    -8.1  |   -1.95 | **    |
+| boston  |   -10.04 |    -8.66 |   -1.39 | **    |
+| b       |    -7.56 |    -8.94 |    1.39 | **    |
+| playoff |    -8.66 |   -10.04 |    1.39 | **    |
+| bruins  |    -8.94 |   -10.04 |    1.1  | **    |
+| team    |    -8.25 |    -7.27 |   -0.98 |       |
+| think   |    -7.85 |    -8.66 |    0.81 |       |
+| would   |    -8.43 |    -7.65 |   -0.79 |       |
+| brian   |   -10.04 |    -9.35 |   -0.69 |       |
+| hell    |   -10.04 |    -9.35 |   -0.69 |       |
+From: sesrock@andy.bgsu.edu (Stuart Esrock)
+Subject: Re: Bruins
+
+joe13+@pitt.edu (Joseph B Stiehm) writes:
+> 
+> Come on Boston, where the hell are you? Seven wins in a row and what, choke?
+
+Ah well, another Brian Sutter team is ground into the dirt with intensity
+during the regular season and then is burned out by playoff time.
+Yah Fuhr has been awesome so far, but really you'd think Sutter would have
+learned his lesson about pushing his team too far during the regular season.
+
+Stuart Esrock   Bowling Green State U.   "How bout them Blues!!!"

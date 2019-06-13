@@ -1,0 +1,33 @@
+0.983951537292 0.0160484627081 0.967903074584 False
+prediction: hockey for data\test\rec.sport.baseball-full\105146
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| like    |    -9.41 |    -8.25 |   -1.17 | **    |
+| much    |   -10.11 |    -8.94 |   -1.17 | **    |
+| comment |    -9.01 |   -10.04 |    1.03 | **    |
+| feel    |    -9.01 |   -10.04 |    1.03 | **    |
+| talking |    -9.01 |   -10.04 |    1.03 | **    |
+| us      |    -9.01 |   -10.04 |    1.03 | **    |
+| one     |    -7.8  |    -8.65 |    0.85 |       |
+| games   |    -8.16 |    -8.94 |    0.78 |       |
+| time    |    -8.72 |    -7.96 |   -0.76 |       |
+| wasting |   -10.11 |    -9.34 |   -0.76 |       |
+Subject: Re: speeding up games
+From: rbd@flash.ece.uc.edu (Bobby Davis)
+
+In article <rudyC5wCsG.G6A@netcom.com> rudy@netcom.com (Rudy Wade) writes:
+>I feel that talking about speeding up baseball games, is like trying
+>to keep signal to noise ratio high on rec.sports.baseball.  No matter
+>how much you talk about it, or how reasonable your arguments, there
+>will always be people who quote an entire article (with signatures!)
+>to make a one line comment, reply or woof.  Whether through their
+>stupidity, denseness or excitement and overeagerness to bless us with
+>their insight, no matter what is said, they will always keep doing it.
+>
+>Same with ballgames.  No matter how much it might benefit the game for
+>the umpires to enforce the rules and for the players/managers/coaches
+>to stop wasting our time -- it just ain't gonna happen.
+>
+>Rudy.
+
+I agree.

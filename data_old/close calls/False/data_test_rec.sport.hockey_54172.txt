@@ -1,0 +1,23 @@
+0.448114691182 0.551885308818 0.103770617635 False
+prediction: baseball for data\test\rec.sport.hockey\54172
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| goals    |    -9.72 |    -7.05 |   -2.67 | **    |
+| stats    |    -7.64 |    -9.69 |    2.05 | **    |
+| given    |    -7.93 |    -9.69 |    1.76 | **    |
+| points   |    -8.62 |    -7.05 |   -1.57 | **    |
+| several  |    -8.33 |    -9.69 |    1.36 | **    |
+| four     |    -7.77 |    -9    |    1.22 | **    |
+| least    |    -9.72 |    -8.59 |   -1.13 | **    |
+| world    |    -9.02 |    -8.08 |   -0.95 |       |
+| probably |    -7.77 |    -8.59 |    0.82 |       |
+| people   |    -8.11 |    -7.29 |   -0.82 |       |
+From: neath@brazil.psych.purdue.edu (Ian Neath)
+Subject: Re: Final Regular Season Individual Goalie Stats
+
+What about including points?  Probably no goals (at least against
+opponents) but there have been several assists given.
+
+--
+      Ian Neath        | There are four kinds of people in this world:
+neath@psych.purdue.edu | cretins, fools, morons and lunatics - U. Eco

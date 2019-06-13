@@ -1,0 +1,22 @@
+0.465720700401 0.534279299599 0.0685585991987 True
+prediction: baseball for data\test\rec.sport.baseball-full\105107
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| league     |    -8.96 |    -7.97 |   -0.99 |       |
+| way        |    -8.96 |    -7.97 |   -0.99 |       |
+| game       |    -7.75 |    -8.66 |    0.9  |       |
+| lets       |    -9.36 |   -10.04 |    0.68 |       |
+| padres     |    -9.36 |   -10.04 |    0.68 |       |
+| play       |    -8.67 |    -8.25 |   -0.42 |       |
+| name       |    -8.96 |    -9.35 |    0.39 |       |
+| affiliate  |   -10.06 |   -10.04 |   -0.01 |       |
+| california |   -10.06 |   -10.04 |   -0.01 |       |
+| cucamunga  |   -10.06 |   -10.04 |   -0.01 |       |
+From: lynch@hpcc01.corp.hp.com (Howard Lynch)
+Subject: Re: Let's play the name game!
+
+>San Francisco Quakes
+----------
+
+By the way, Quakes is the nickname for the Padres affiliate
+in the California League:  the Rancho Cucamunga Quakes!

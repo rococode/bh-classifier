@@ -1,0 +1,33 @@
+0.430199926252 0.569800073748 0.139600147495 True
+prediction: baseball for data\test\rec.sport.baseball-full\105088
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| much    |   -10.03 |    -8.66 |   -1.38 | **    |
+| real    |    -8.93 |   -10.04 |    1.11 | **    |
+| think   |    -8.42 |    -7.64 |   -0.78 |       |
+| fan     |    -9.34 |   -10.04 |    0.7  |       |
+| week    |    -9.34 |   -10.04 |    0.7  |       |
+| depends |   -10.03 |    -9.35 |   -0.68 |       |
+| tape    |   -10.03 |    -9.35 |   -0.68 |       |
+| david   |    -8.93 |    -9.35 |    0.41 |       |
+| new     |    -8.93 |    -9.35 |    0.41 |       |
+| writes  |    -8.24 |    -7.84 |   -0.4  |       |
+From: dwarner@journalism.indiana.edu (David J.)
+Subject: Re: Omar Vizquel - GRAND SALAMI?
+
+Cheryl Marks writes
+> 
+> Do you think Omar's grand slam is the result of his new fan club?  Last week 
+> a banner appeared in the Kingdome:    
+> 
+> 	OLDER WOMEN FOR OMAR  
+
+That depends.  Just how much older were they?
+ 
+> Cheryl
+
+--
+David J.(dwarner@journalism.indiana.edu)*****Blue Riddle Productions 1993
+*-------------------------------It's on.--------------------------------*
+***"THE RAP IS AN ART EP" is coming out on tape -- this time for real.***
+*------------------------E-mail me for the 411.-------------------------*

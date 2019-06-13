@@ -1,0 +1,36 @@
+0.519464071895 0.480535928105 0.0389281437902 True
+prediction: hockey for data\test\rec.sport.hockey-full\54541
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| next   |    -8.42 |   -10.03 |    1.61 | **    |
+| year   |    -8.42 |   -10.03 |    1.61 | **    |
+| others |   -10.03 |    -8.65 |   -1.39 | **    |
+| season |   -10.03 |    -8.93 |   -1.1  | **    |
+| may    |    -8.93 |   -10.03 |    1.1  | **    |
+| theres |    -8.93 |   -10.03 |    1.1  | **    |
+| either |   -10.03 |    -9.34 |   -0.69 |       |
+| end    |   -10.03 |    -9.34 |   -0.69 |       |
+| giants |   -10.03 |    -9.34 |   -0.69 |       |
+| make   |   -10.03 |    -9.34 |   -0.69 |       |
+From: chuq@apple.com (Chuq Von Rospach)
+Subject: Re: SHARKS: Kingston Fired!!!
+
+spiegel@sgi413.msd.lmsc.lockheed.com (Mark Spiegel) writes:
+
+>  Gaetz may or may not be back next
+>	year, but in either event the Sharks have to pick up others.
+
+Gaetz won't be back. There's been rumors he was officially released right at
+the end of the season when his contract expired, but I haven't seen
+confirmation. It was clear from my talks with the Sharks doctors that he
+wasn't going to make it for a while, and the Sharks would have to sign him
+to a contract, which given his problems competing at the IHL level this
+spring, doesn't make sense. 
+
+-- 
+ Chuq "IMHO" Von Rospach, ESD Support & Training (DAL/AUX) =+= chuq@apple.com
+   Member, SFWA =+= Editor, OtherRealms =+=  GEnie: MAC.BIGOT =+= ALink:CHUQ 
+  Minor League fans: minors-request@medraut.apple.com (San Jose Giants: A/1/9)
+  San Francisco Giants fans: giants-request@medraut.apple.com (The Stick?NOT!)
+   San Jose Sharks fans: sharks-request@medraut.apple.com (New seat: 127/TBD)
+

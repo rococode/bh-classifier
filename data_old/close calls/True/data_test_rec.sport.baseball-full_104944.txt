@@ -1,0 +1,31 @@
+0.381870479451 0.618129520549 0.236259041098 True
+prediction: baseball for data\test\rec.sport.baseball-full\104944
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| anyone |   -10.09 |    -8.66 |   -1.43 | **    |
+| get    |    -7.69 |    -8.95 |    1.26 | **    |
+| please |   -10.09 |    -8.95 |   -1.14 | **    |
+| andrew |    -8.99 |   -10.05 |    1.06 | **    |
+| email  |   -10.09 |    -9.35 |   -0.74 |       |
+| would  |    -8.14 |    -7.41 |   -0.74 |       |
+| want   |    -8.7  |    -9.35 |    0.65 |       |
+| work   |    -9.4  |   -10.05 |    0.65 |       |
+| know   |    -8.01 |    -8.44 |    0.43 |       |
+| anyway |    -8.99 |    -9.35 |    0.36 |       |
+From: kilpat@oasys.dt.navy.mil (Andrew Kilpatrick)
+Subject: I Want AllStar Tickets !
+
+
+I want All-Star Tickets does anyone know how I can get
+some?
+
+Are they for public sale or are they sold out?
+
+Or do you just have to work for a company with some
+
+Anyway any answers would be appreciated.
+
+Please E-mail me.
+
+Thanks,
+Andrew

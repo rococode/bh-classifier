@@ -1,0 +1,39 @@
+0.493945026034 0.506054973966 0.0121099479311 False
+prediction: baseball for data\test\rec.sport.hockey-full\54556
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| better     |    -8.1  |   -10.05 |    1.95 | **    |
+| hockey     |   -10.04 |    -8.26 |   -1.79 | **    |
+| minnesota  |   -10.04 |    -8.26 |   -1.79 | **    |
+| playoffs   |   -10.04 |    -8.44 |   -1.6  | **    |
+| difference |    -8.66 |   -10.05 |    1.39 | **    |
+| right      |    -8.66 |   -10.05 |    1.39 | **    |
+| first      |    -8.94 |    -7.56 |   -1.38 | **    |
+| nhl        |   -10.04 |    -8.66 |   -1.38 | **    |
+| high       |    -8.94 |   -10.05 |    1.1  | **    |
+| wins       |    -8.94 |   -10.05 |    1.1  | **    |
+From: Robbie Po <RAP115@psuvm.psu.edu>
+Subject: Re: Goodbye, good riddance, get lost 'Stars
+
+In article <DT642B1w165w@sms.business.uwo.ca>, s4lawren@sms.business.uwo.ca
+(Stephen Lawrence) says:
+>        Goodbye Minnesota,...you never earned the right to have an NHL
+>franchise in the first place!
+>        Hope you enjoy your Twin city wide mania for HIGH SCHOOL HOCKEY
+>(hey, by the way my old pee wee team is having a reunion in Regina, care
+>to come up and film the event?)
+>        Yee haa Golden Gophers
+>Whatta weird town!!!!!
+   --Minnesota definitely deserves an NHL franchise!!!  You'll see the
+Minnesota Whalers pretty soon, so fear not Minnesota fans.  No Norm Green,
+'cept for the team color (sorry, bad pun!)
+
+   --What a difference two years makes!  Minnesota finished 29-37-14 in 1992
+and made the finals.  They finish with a better record at  38-38-10 thi year
+and move to Dallas.  Every team in the playoffs has a winning record!!!
+Finally!!!  It's about time, NHL!!!
+-------------------------------------------------------------------------
+** Robbie Po **          PGH PENGUINS!!!    "It won't be easy, but it
+Contact for the '93-'94  '91 STANLEY CUP    will have greater rewards.
+Penn State Lady Lions    '92 CHAMPIONS      Mountains and Valleys are
+rap115@psuvm.psu.edu     11 STRAIGHT WINS!  better than nothing at all!"

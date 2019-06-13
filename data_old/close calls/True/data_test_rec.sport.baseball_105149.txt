@@ -1,0 +1,21 @@
+0.419415133593 0.580584866407 0.161169732814 True
+prediction: baseball for data\test\rec.sport.baseball\105149
+| word        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| help        |    -8.36 |    -8.72 |    0.36 |       |
+| like        |    -7.66 |    -8.02 |    0.36 |       |
+| appreciated |    -9.45 |    -9.41 |   -0.04 |       |
+| chicago     |    -9.45 |    -9.41 |   -0.04 |       |
+| cubbies     |    -9.45 |    -9.41 |   -0.04 |       |
+| cubs        |    -9.45 |    -9.41 |   -0.04 |       |
+| id          |    -8.76 |    -8.72 |   -0.04 |       |
+| join        |    -9.45 |    -9.41 |   -0.04 |       |
+| list        |    -9.45 |    -9.41 |   -0.04 |       |
+| mailing     |    -9.45 |    -9.41 |   -0.04 |       |
+From: jmelchi@sage.cc.purdue.edu (moi)
+Subject: cubbies
+
+    Is there a Chicago Cubs mailing list??  If so, I'd like to join.
+Any help appreciated....
+
+

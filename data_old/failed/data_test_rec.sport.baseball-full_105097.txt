@@ -1,0 +1,41 @@
+0.812004719249 0.187995280751 0.624009438499 False
+prediction: hockey for data\test\rec.sport.baseball-full\105097
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| win     |    -6.71 |    -9.34 |    2.64 | **    |
+| also    |   -10.11 |    -8.25 |   -1.86 | **    |
+| may     |    -8.5  |   -10.04 |    1.54 | **    |
+| run     |   -10.11 |    -8.65 |   -1.46 | **    |
+| either  |    -9.01 |   -10.04 |    1.03 | **    |
+| russell |    -9.01 |   -10.04 |    1.03 | **    |
+| one     |    -7.8  |    -8.65 |    0.85 |       |
+| base    |   -10.11 |    -9.34 |   -0.76 |       |
+| close   |   -10.11 |    -9.34 |   -0.76 |       |
+| inning  |   -10.11 |    -9.34 |   -0.76 |       |
+From: peltz-russell@cs.yale.edu (Russell Peltz)
+Subject: Re: How does a pitcher get a save?
+
+In article <mjones.735602185@fenway> mjones@donald.aix.kingston.ibm.com writes:
+>mikef@bvc.edu writes:
+
+>For the record, there are two ways that a reliever can get a save:
+>He must finish the game and either
+>1. have entered the game with the tying run on base, at bat, or on deck.
+>2. have pitched at least three innings effectively.
+>A pitcher may not get a win and a save in the same game.
+>
+
+Close, but there's a number 3 also:
+
+3. have entered the game with no more than a 3 run lead and pitched
+   at least one inning.
+
+If a pitcher finishes a game which his team has won, does not get the win,
+and satisfies at least one of the three requirements, he gets a save.
+
+-Rusty
+-- 
+------------------------------------------------------------------------------
+Russell Peltz                                       peltz-russell@cs.yale.edu
+P.O. Box 3838 Y.S.             
+New Haven, CT 06520            

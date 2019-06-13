@@ -1,0 +1,17 @@
+0.516014153271 0.483985846729 0.0320283065418 True
+prediction: hockey for data\test\rec.sport.hockey-full\54273
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| th      |   -10.11 |    -8.65 |   -1.46 | **    |
+| believe |   -10.11 |    -9.34 |   -0.76 |       |
+| draft   |    -9.41 |   -10.04 |    0.62 |       |
+| nhl     |    -9.41 |   -10.04 |    0.62 |       |
+| june    |   -10.11 |   -10.04 |   -0.07 |       |
+| subject |    -7.71 |    -7.64 |   -0.07 |       |
+| weekend |   -10.11 |   -10.04 |   -0.07 |       |
+From: anthonyp@sco.COM (Anthony Picilaidis)
+Subject: NHL Draft
+
+
+ 
+I believe the NHL Draft is on or the June 18th weekend.

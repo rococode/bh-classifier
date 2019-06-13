@@ -1,0 +1,33 @@
+0.999998753363 1.24663707371e-06 0.999997506726 True
+prediction: hockey for data\test\rec.sport.hockey-full\54295
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| habs    |    -8.32 |   -10.04 |    1.72 | **    |
+| however |   -10.11 |    -8.43 |   -1.68 | **    |
+| fuhr    |    -8.5  |   -10.04 |    1.54 | **    |
+| may     |    -8.5  |   -10.04 |    1.54 | **    |
+| ot      |    -8.72 |   -10.04 |    1.32 | **    |
+| beat    |    -9.01 |   -10.04 |    1.03 | **    |
+| came    |   -10.11 |    -9.34 |   -0.76 |       |
+| first   |    -9.01 |    -8.25 |   -0.76 |       |
+| lead    |   -10.11 |    -9.34 |   -0.76 |       |
+| back    |    -9.41 |   -10.04 |    0.62 |       |
+From: vzhivov@superior.carleton.ca (Vladimir Zhivov)
+Subject: Sabres!!! Sweep.
+
+It's over - the Sabres came back to beat the Bruins in OT 6-5 tonight
+to sweep the series. A beautiful goal by Brad May (Lafontaine set him
+up while lying down on the ice) ended it. Fuhr left the game game with
+an injured shoulder and Lafontaine was banged up as well; however, the
+Sabres will get a week's rest so injuries should not be a problem.
+
+Montreal edged Quebec 3-2 to square their series, which seems to be
+headed for Game 7. The Habs dominated the first two periods and were
+unlucky to only have a 2-2 tie after 40 minutes. However, an early
+goal by Brunet in the 3rd won it.
+
+The Islanders won their 3rd OT game of the series on a goal by Ray
+Ferraro 4-3; the Caps simply collapsed after taking a 3-0 lead in the
+2nd. The Isles' all-time playoff OT record is now 28-7.
+
+- Vlad the Impaler

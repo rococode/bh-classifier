@@ -1,0 +1,28 @@
+0.588544778969 0.411455221031 0.177089557939 True
+prediction: hockey for data\test\rec.sport.hockey-full\54259
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| espn        |    -8.65 |   -10.04 |    1.39 | **    |
+| game        |    -8.43 |    -7.33 |   -1.1  | **    |
+| many        |    -8.94 |    -7.85 |   -1.1  | **    |
+| series      |    -9.35 |    -8.25 |   -1.1  | **    |
+| article     |    -7.74 |    -8.66 |    0.92 |       |
+| writes      |    -7.55 |    -8.43 |    0.88 |       |
+| interesting |    -9.35 |   -10.04 |    0.7  |       |
+| thumbs      |    -9.35 |   -10.04 |    0.7  |       |
+| oh          |   -10.04 |    -9.35 |   -0.69 |       |
+| thursday    |   -10.04 |    -9.35 |   -0.69 |       |
+From: msanfrat@cs.ucsd.edu (Mike Sanfratello)
+Subject: Re: ESPN Thumbs Up your $%#@*!!
+
+In article <1993Apr20.214505.6925@wkuvx1.bitnet> kozloce@wkuvx1.bitnet writes:
+>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUGGGGGGGGGGGGGGGG!
+>
+>(Oh guess what the score is now 7-0 penguins! Switch games you $%&*#@!!!)
+> [...]
+
+and guess which game ESPN is showing in my area on Thursday - yep,
+Pens-Devils.  There are so many other interesting series, who cares
+about Mario???
+
+mike

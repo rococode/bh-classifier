@@ -1,0 +1,35 @@
+0.52346414148 0.47653585852 0.0469282829609 False
+prediction: hockey for data\test\rec.sport.baseball-full\105084
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| lets     |    -8.94 |   -10.04 |    1.1  | **    |
+| list     |    -8.94 |   -10.04 |    1.1  | **    |
+| night    |    -8.94 |   -10.04 |    1.1  | **    |
+| scott    |    -8.94 |   -10.04 |    1.1  | **    |
+| game     |    -8.43 |    -7.33 |   -1.1  | **    |
+| got      |   -10.04 |    -8.94 |   -1.1  | **    |
+| read     |   -10.04 |    -8.94 |   -1.1  | **    |
+| article  |    -7.74 |    -8.66 |    0.92 |       |
+| writes   |    -7.55 |    -8.43 |    0.88 |       |
+| colorado |    -9.35 |   -10.04 |    0.7  |       |
+From: scott@asd.com (Scott Barman)
+Subject: Re: Sid Fernandez?
+
+In article <1993Apr15.145914.1575@csi.jpl.nasa.gov> cub@csi.jpl.nasa.gov (Ray Miller) writes:
+>I read this morning that Sid Fernandez left last nights' game with stiffness
+>in his shoulder. Does anyone have any information as to the extent of the
+>injury (if indeed there is one), or weather the cold air in Colorado just got
+>his joints a little stiff?
+>
+>Thanks for the help...
+
+All they said on the radio that he developed stiffness in the shoulder
+after throwing a curveball that didn't loosen.  Because of the cold
+night in Denver they decided to remove him from the game rather than
+let him pitch.  He is expected to pitch his next turn in the rotation
+(expected to be April 20, at Shea vs the Giants).
+-- 
+scott barman    | Mets Mailing List (feed the following into your shell):
+scott@asd.com   |            mail mets-request@asd.com <<!
+                |            subscribe
+ Let's Go Mets! |            !

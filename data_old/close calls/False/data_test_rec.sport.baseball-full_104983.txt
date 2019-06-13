@@ -1,0 +1,36 @@
+0.60146838924 0.39853161076 0.202936778481 False
+prediction: hockey for data\test\rec.sport.baseball-full\104983
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| teams     |    -8.26 |   -10.04 |    1.78 | **    |
+| least     |   -10.05 |    -8.43 |   -1.62 | **    |
+| list      |    -8.66 |   -10.04 |    1.38 | **    |
+| article   |    -8.95 |    -8.25 |   -0.7  |       |
+| city      |   -10.05 |    -9.35 |   -0.7  |       |
+| ever      |   -10.05 |    -9.35 |   -0.7  |       |
+| one       |    -8.95 |    -8.25 |   -0.7  |       |
+| outside   |   -10.05 |    -9.35 |   -0.7  |       |
+| robert    |   -10.05 |    -9.35 |   -0.7  |       |
+| broadcast |    -9.36 |   -10.04 |    0.68 |       |
+From: SSVKJ@tjuvm.tju.edu (KEN JOHNSTON)
+Subject: Re: Professional Sports on FM Radio
+
+In article <C5y9wt.Gpw@news.udel.edu>
+philly@ravel.udel.edu (Robert C Hite) writes:
+ 
+>
+>In article <1993Apr23.123208.1@tesla.njit.edu> slutsky@tesla.njit.edu writes:
+>>I am curious to known if there are any professional sports teams whose
+>>games are regularly broadcast on an FM station.  The only one I am
+>>aware of is WYSP in Philadelphia who carries the Eagles' games.
+>>
+>>If you respond to me I will summarize for the list.
+>>
+>
+>WIP is the REAL home of the Eagles.  Merril Reese and the Birds on
+>FM radio...what a joke.
+>
+At least we can hear the "joke" more than 100 yards outside city limits now.
+Will WIP ever strngthen their signal????????
+>
+Ken

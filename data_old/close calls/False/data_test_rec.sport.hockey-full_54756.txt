@@ -1,0 +1,36 @@
+0.432155825035 0.567844174965 0.13568834993 False
+prediction: baseball for data\test\rec.sport.hockey-full\54756
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| since  |   -10.03 |    -7.97 |   -2.07 | **    |
+| pens   |   -10.03 |    -8.1  |   -1.93 | **    |
+| bonds  |    -8.24 |   -10.05 |    1.81 | **    |
+| money  |    -8.42 |   -10.05 |    1.62 | **    |
+| real   |    -8.65 |   -10.05 |    1.4  | **    |
+| fan    |   -10.03 |    -8.66 |   -1.37 | **    |
+| year   |    -8.09 |    -9.35 |    1.27 | **    |
+| bad    |    -8.93 |   -10.05 |    1.11 | **    |
+| barry  |    -8.93 |   -10.05 |    1.11 | **    |
+| home   |    -8.93 |   -10.05 |    1.11 | **    |
+From: Mamatha Devineni Ratnam <mr47+@andrew.cmu.edu>
+Subject: Real FAns
+
+
+
+There was a discussion about how real fans were ones who respect their teams
+no matter ow bad they are. That's bullshit. Anyone who would follow the
+Pens or the Pirates in parts of the early eighties on a devoted basis are
+losers. It's OK to follow and be concerned about your home team. But
+to  give them respect even when it is clear the management and the players suck
+should not be required of a true fan.A  true fan would follow the team in
+troubled times to the extent that they could discuss how to improve the team.
+
+When I visit PIttsburgh, I'll refuse to go to a Pirates game since I think
+the management has given PIttsburgh a team which could have been much better
+even if they couldn't sign Barry Bonds. Lert's say the Pens start doing to
+their own team what the Oilers have done this year and what the Whalers have
+done in recent years, I would be hard pressed to show much enthusiasm for the
+team. I'll still follow it and bitch about it. But I won't waste my
+money on mediocre teams.
+
+-P{ravin Ratnam

@@ -1,0 +1,43 @@
+0.446742245655 0.553257754345 0.10651550869 True
+prediction: baseball for data\test\rec.sport.baseball-full\104966
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| runs      |    -8.08 |   -10.05 |    1.97 | **    |
+| made      |   -10.03 |    -8.67 |   -1.36 | **    |
+| good      |    -9.34 |    -8.11 |   -1.23 | **    |
+| important |    -8.93 |   -10.05 |    1.12 | **    |
+| makes     |    -8.93 |   -10.05 |    1.12 | **    |
+| assists   |   -10.03 |    -8.96 |   -1.07 | **    |
+| gives     |   -10.03 |    -8.96 |   -1.07 | **    |
+| play      |    -8.64 |    -7.75 |   -0.89 |       |
+| actually  |    -9.34 |   -10.05 |    0.72 |       |
+| almost    |    -9.34 |   -10.05 |    0.72 |       |
+From: jmann@vineland.pubs.stratus.com (Jim Mann)
+Subject: Re: Apology for Article
+
+In article <GRABINER.93Apr23112924@germain.harvard.edu>  writes:
+> But it is subject to all kinds of bias, and is almost completely  
+useless
+> for first basemen.  From the raw stats, there is no way to tell  
+which of
+> a first baseman's putouts were made on throws from other fielders,  
+and
+> which were made on his own plays; likewise, you can't tell whether  
+a
+> double play was 6-4-3 or 3-6-3.  Fielding Runs thus gives a first
+> baseman no credit for putouts or double plays, only for assists and
+> errors.  
+
+But ingnoring putouts is biased in yet another way. Range is
+not the only thing that makes a good firstbaseman. The ability
+to field all sorts of balls thrown to him: digging some out of the
+dirt, stretching for others, and so forth is important. Thus, 
+putouts do provide some information.  Maybe what we need is a
+comparision of how many balls were thrown to the area of the
+first baseman vs. how many he actually got.
+
+
+--
+Jim Mann            
+Stratus Computer   jmann@vineland.pubs.stratus.com  
+

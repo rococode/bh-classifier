@@ -1,0 +1,39 @@
+0.412420064046 0.587579935954 0.175159871907 False
+prediction: baseball for data\test\rec.sport.hockey-full\54523
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| hockey   |   -10.05 |    -8.25 |   -1.8  | **    |
+| nhl      |   -10.05 |    -8.25 |   -1.8  | **    |
+| rd       |   -10.05 |    -8.44 |   -1.62 | **    |
+| really   |    -8.45 |   -10.05 |    1.6  | **    |
+| leafs    |   -10.05 |    -8.66 |   -1.4  | **    |
+| player   |   -10.05 |    -8.66 |   -1.4  | **    |
+| damn     |    -8.67 |   -10.05 |    1.38 | **    |
+| must     |    -8.67 |   -10.05 |    1.38 | **    |
+| valuable |    -8.67 |   -10.05 |    1.38 | **    |
+| fighting |   -10.05 |    -8.95 |   -1.11 | **    |
+Subject: More Hart trophy stuff....
+From: caldwell8102@mtroyal.ab.ca
+
+In article <1r4bkvINN5nm@abyss.West.Sun.COM>, dvb@ick (David Van Beveren) writes:
+>  
+> When you think of the NHL, who comes to mind? Gilmour? Gretzky? Mario?
+> .. ah... did I mention Mario? If you said Gretzky, you haven't really
+> been following along, have you. If you said Gilmour, you are a true
+> Maynard. 
+> 
+> I don't even think the selection of the HArt deserves serious discussion on
+> this group. It is a no-brainer.
+
+While I agree that Lemieux deserves the Hart, it is far from a "no-brainer". 
+The Hart trophy goes to the player most valuable to his team, not to the best
+player in the league. So your above arguement is really worthless. 
+
+The Pens without Mario are still a damn good hockey team. The Leafs without 
+Gilmour would have been fighting Tampa Bay for the 3rd pick. 
+
+Like I said, Mario deserves it, IMHO. But it is a very close race and a 
+Gilmour victory would not surprise me. I dislike Doug Gilmour with a passion, 
+but I must concede that he is extremely valuable to the Leafs.
+
+								Alan

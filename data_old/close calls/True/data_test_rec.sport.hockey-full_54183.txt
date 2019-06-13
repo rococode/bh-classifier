@@ -1,0 +1,41 @@
+0.607311332822 0.392688667178 0.214622665643 True
+prediction: hockey for data\test\rec.sport.hockey-full\54183
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| hockey  |    -8.46 |   -10.04 |    1.58 | **    |
+| like    |    -7.76 |    -8.94 |    1.18 | **    |
+| anyone  |   -10.07 |    -8.94 |   -1.12 | **    |
+| better  |   -10.07 |    -8.94 |   -1.12 | **    |
+| group   |   -10.07 |    -8.94 |   -1.12 | **    |
+| canada  |    -8.97 |   -10.04 |    1.07 | **    |
+| special |    -8.97 |   -10.04 |    1.07 | **    |
+| stop    |    -8.97 |   -10.04 |    1.07 | **    |
+| article |    -8.46 |    -7.74 |   -0.72 |       |
+| bad     |   -10.07 |    -9.35 |   -0.72 |       |
+From: lee139@gaul.csd.uwo.ca (Steve Lee)
+Subject: STOP MAYNARD BASHING!!!! (was Re: Roger Maynard)
+
+In article <1993Apr16.213024.8698@sol.UVic.CA> gballent@hudson.UVic.CA writes:
+>Does anyone recieve annoying email from Roger Maynard whenever they post an
+>article telling them to leave him alon and stop posting to the group??
+>These emails are filled with insults- more than are usual in Roger's posts
+>and have little if any hockey info.
+>I have recieved two in the last 2 days.
+>I am just wondering if I am special or Roger trys to bully everyone who
+>disagrees with him.
+>
+>Gregmeister
+>
+
+You can't be serious!  I and many of my colleagues have not received any
+bad e-mails from Roger, in fact, Roger happens to have answered most if not
+all of my hockey questions and curiosities, so before you start flaming
+at me or Roger, better re-consider your nasty attitude towards Roger and the
+like!
+
+
+-------------------------------------------------------------------------------
+Steve Lee      *      University of Western Ontario      *      London, Canada 
+                      lee139@obelix.gaul.csd.uwo.ca          
+_______________________________________________________________________________
+

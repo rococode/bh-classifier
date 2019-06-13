@@ -1,0 +1,16 @@
+0.408190048284 0.591809951716 0.183619903432 True
+prediction: baseball for data\test\rec.sport.baseball-full\104905
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| baseball |    -8.93 |   -10.06 |    1.13 | **    |
+| players  |    -9.34 |    -8.45 |   -0.88 |       |
+| bilinsky |   -10.03 |   -10.06 |    0.03 |       |
+| bo       |   -10.03 |   -10.06 |    0.03 |       |
+| jewish   |   -10.03 |   -10.06 |    0.03 |       |
+| subject  |    -7.63 |    -7.67 |    0.03 |       |
+From: marty@howdy.wustl.edu (Marty Olevitch)
+Subject: Re: Jewish Baseball Players?
+
+Bo Bilinsky?
+
+

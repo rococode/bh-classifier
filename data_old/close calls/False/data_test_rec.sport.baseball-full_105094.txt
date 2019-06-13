@@ -1,0 +1,15 @@
+0.584094475529 0.415905524471 0.168188951058 False
+prediction: hockey for data\test\rec.sport.baseball-full\105094
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| b           |    -7.56 |    -9.34 |    1.78 | **    |
+| players     |   -10.04 |    -8.93 |   -1.11 | **    |
+| best        |    -8.94 |    -8.65 |   -0.3  |       |
+| career      |   -10.04 |   -10.03 |   -0.01 |       |
+| mattingly   |   -10.04 |   -10.03 |   -0.01 |       |
+| rerealltime |   -10.04 |   -10.03 |   -0.01 |       |
+| subject     |    -7.64 |    -7.63 |   -0.01 |       |
+From: drm6640@tesla.njit.edu
+Subject: RE:Re:ALL-TIME BEST PLAYERS
+
+1B Career:  DON MATTINGLY!!!!!!!!

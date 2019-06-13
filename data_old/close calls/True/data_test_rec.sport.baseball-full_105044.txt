@@ -1,0 +1,28 @@
+0.420970763149 0.579029236851 0.158058473702 True
+prediction: baseball for data\test\rec.sport.baseball-full\105044
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| players  |    -8.96 |    -7.16 |   -1.8  | **    |
+| think    |    -9.37 |    -7.85 |   -1.51 | **    |
+| scott    |   -10.06 |    -8.66 |   -1.39 | **    |
+| baseball |    -8.67 |   -10.05 |    1.38 | **    |
+| believe  |    -8.67 |   -10.05 |    1.38 | **    |
+| go       |    -8.96 |    -7.75 |   -1.21 | **    |
+| list     |    -8.45 |    -9.36 |    0.91 |       |
+| writes   |    -8.67 |    -7.97 |   -0.7  |       |
+| fact     |    -8.67 |    -9.36 |    0.68 |       |
+| lets     |    -9.37 |   -10.05 |    0.68 |       |
+From: scott@asd.com (Scott Barman)
+Subject: Re: Jewish Baseball Players?
+
+In article <1993Apr16.133818.1452@blurt.oswego.edu> ma_ind25@blurt.oswego.edu writes:
+>I believe that Rusty Staub was also a jewish ball-player
+
+Rust Staub is NOT Jewish.
+In fact, I think his father was a minister.
+
+-- 
+scott barman    | Mets Mailing List (feed the following into your shell):
+scott@asd.com   |            mail mets-request@asd.com <<!
+                |            subscribe
+ Let's Go Mets! |            !

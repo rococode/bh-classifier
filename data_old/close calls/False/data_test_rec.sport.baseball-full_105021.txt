@@ -1,0 +1,32 @@
+0.584229090058 0.415770909942 0.168458180116 False
+prediction: hockey for data\test\rec.sport.baseball-full\105021
+| word             |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------------|----------|----------|---------|-------|
+| play             |    -7.84 |    -9.33 |    1.49 | **    |
+| watching         |    -8.94 |   -10.03 |    1.09 | **    |
+| mattingly        |   -10.04 |    -9.33 |   -0.71 |       |
+| writes           |    -8.65 |    -7.95 |   -0.71 |       |
+| first            |    -9.35 |   -10.03 |    0.68 |       |
+| good             |    -9.35 |    -8.93 |   -0.42 |       |
+| article          |    -8.25 |    -8.08 |   -0.17 |       |
+| aprnscclehighedu |   -10.04 |   -10.03 |   -0.01 |       |
+| aprteslanjitedu  |   -10.04 |   -10.03 |   -0.01 |       |
+| baseballalways   |   -10.04 |   -10.03 |   -0.01 |       |
+From: luriem@alleg.edu(Michael Lurie) The Liberalizer
+Subject: Re: BEST FIRST BASEMEN...
+
+In article <1993Apr22.144327.52161@ns1.cc.lehigh.edu>  
+ch00@ns1.cc.lehigh.edu (Chris Hartzell) writes:
+> In article <1993Apr20.102857.1@tesla.njit.edu>, drm6640@tesla.njit.edu  
+writes:
+> >DON MATTINGLY IS THE BEST FIRST BASEMAN IN THE HISTORY OF  
+BASEBALL.....ALWAYS
+> >HAS BEEN.....ALWAYS WILL BE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+> 
+> Don is good - but so was Keith Hernandez....I just heard Don talk about  
+how he
+> learned how to be a good fielder by talking and watching Keith play....
+
+
+
+JT SNOW

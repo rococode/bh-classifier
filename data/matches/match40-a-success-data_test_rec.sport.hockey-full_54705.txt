@@ -1,0 +1,46 @@
+0.9999999999998863 1.1695777144130322e-13 0.9999999999997694 True
+prediction: hockey for data\test\rec.sport.hockey-full\54705
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| ny      |    -7.22 |   -10.06 |    2.84 | **    |
+| leads   |    -7.66 |   -10.06 |    2.4  | **    |
+| cup     |    -7.75 |   -10.06 |    2.31 | **    |
+| wings   |    -7.97 |   -10.06 |    2.09 | **    |
+| series  |    -8.11 |   -10.06 |    1.95 | **    |
+| hockey  |    -8.26 |   -10.06 |    1.8  | **    |
+| got     |   -10.05 |    -8.27 |   -1.79 | **    |
+| playoff |    -8.44 |   -10.06 |    1.62 | **    |
+| played  |    -8.67 |   -10.06 |    1.39 | **    |
+| results |    -8.67 |   -10.06 |    1.39 | **    |
+From: farenebt@craft.camp.clarkson.edu (Droopy)
+Subject: AHL playoff results (concrete)
+
+Well, I got the scores for Sat's games...
+
+AHL PLAYOFF SCORES-- FIRST ROUND	(home team in CAPS)
+================================
+		
+GAMES PLAYED ON SAT, 4/24
+-------------------------
+BALTIMORE 3	Binghamton 1
+ROCHESTER 3	Utica 2
+SPRINGFIELD 4	Providence 3
+		
+===================================================================
+SERIES STATI (plural of status? :)
+----------------------------------
+Adirondack defeated CDI, 4-0
+Springfield defeated Providence, 4-2
+Binghamton tied w/Baltimore, 2-2
+Rochester defeated Utica, 4-1
+St John's leads Moncton, 3-1
+Cape Breton defeated Fredericton, 4-1
+			
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    + Bri Farenell			farenebt@craft.camp.clarkson.edu   +
+    + AHL, ECAC and Boston Bruins contact for rec.sport.hockey		   +
+    + Adirondack Red Wings, Calder Cup Champs: '81  '86  '89  '92	   +
+    + Clarkson Hockey, ECAC Tournament Champs: '66  '91  '93		   +
+    + Glens Falls High Hockey, NY Division II State Champs: '90  '91       +
+    + AHL fans: join the AHL mailing list: ahl-news-request@andrew.cmu.edu +
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

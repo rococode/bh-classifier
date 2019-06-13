@@ -1,0 +1,33 @@
+0.999928581163 7.14188373326e-05 0.999857162325 True
+prediction: hockey for data\test\rec.sport.hockey-full\54780
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| sure      |    -8.16 |   -10.04 |    1.88 | **    |
+| st        |    -8.72 |   -10.04 |    1.32 | **    |
+| got       |   -10.11 |    -8.94 |   -1.17 | **    |
+| trade     |   -10.11 |    -8.94 |   -1.17 | **    |
+| louis     |    -9.01 |   -10.04 |    1.03 | **    |
+| would     |    -7.54 |    -8.43 |    0.89 |       |
+| could     |    -8.5  |    -9.34 |    0.85 |       |
+| good      |    -8.16 |    -8.94 |    0.78 |       |
+| concerned |   -10.11 |    -9.34 |   -0.76 |       |
+| valuable  |   -10.11 |    -9.34 |   -0.76 |       |
+From: hallg@lead.egr.msu.edu (Gregory Hall)
+Subject: Re: Wings News and Playoff Thoughts
+
+
+|> As far as Cheveldae is concerned, he is a decent goalie.  The most logical
+|> trade in the offseason to me would be between Detroit and NY Rangers.  I'm sure
+|> if Beezer would be traded he would enjoy the opportunity to go back to his
+|> roots in Detroit.  He would be a valuable asset to the Wings and Perhaps the
+|> Rangers could get a Zombo in return?  Beezer got a few good years in him and
+|> the opportunity to get a fresh start would energize his play.
+|> 
+
+Only problem is that Zombo was traded to St. Louis last year for goalie
+Vincent Riendeau.
+
+I think that while Chevy is not among the elite class of goalies, he is
+adequate given the offensive firepower of the Wings.
+
+Greg

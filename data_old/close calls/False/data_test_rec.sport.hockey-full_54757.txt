@@ -1,0 +1,32 @@
+0.443920955178 0.556079044822 0.112158089644 False
+prediction: baseball for data\test\rec.sport.hockey-full\54757
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| vancouver |   -10.03 |    -8.25 |   -1.78 | **    |
+| would     |    -7.83 |    -9.35 |    1.51 | **    |
+| make      |   -10.03 |    -8.66 |   -1.38 | **    |
+| real      |    -8.93 |   -10.04 |    1.11 | **    |
+| say       |    -8.93 |   -10.04 |    1.11 | **    |
+| winnipeg  |   -10.03 |    -8.94 |   -1.09 | **    |
+| short     |    -9.34 |   -10.04 |    0.7  |       |
+| vs        |    -9.34 |   -10.04 |    0.7  |       |
+| anyways   |   -10.03 |    -9.35 |   -0.68 |       |
+| perhaps   |   -10.03 |    -9.35 |   -0.68 |       |
+From: umward10@news.cc.umanitoba.ca (Derek Ward)
+Subject: Re: Winnipeg vs. Vancouver
+
+David Downie (dave@downie.commerce.ubc.ca) wrote:
+: 
+: Speaking of Paddock--what's he doing slagging Sandlak?  If Sandlak puts  
+: his mind to it, he can be a physical presence and waking him up might be a  
+: real mistake.
+
+	Isn't Sandbag out with an injury now anyways?  Perhaps Paddock
+meant to say that Momesso was the cheap short artist.  After all, that
+would make more sense.
+
+--
+  ___   ___  ___   ___                     _  _  ___   ______
+ / ./  /_   /__/  /_   /_./   | | Wpg   __// |_   |    \ 
+/_/   /__  /  \  /__  /  \    | |      |__/  |_   |  __/     in '93!
+umward10@ccu.umanitoba.ca <-> Computer Science <-> U of Manitoba 

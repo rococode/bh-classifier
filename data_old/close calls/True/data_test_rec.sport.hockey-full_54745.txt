@@ -1,0 +1,30 @@
+0.546200795972 0.453799204028 0.092401591945 True
+prediction: hockey for data\test\rec.sport.hockey-full\54745
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| world      |   -10.06 |    -8.64 |   -1.43 | **    |
+| th         |   -10.06 |    -8.92 |   -1.14 | **    |
+| cup        |    -8.96 |   -10.02 |    1.06 | **    |
+| look       |   -10.06 |    -9.33 |   -0.73 |       |
+| canada     |    -9.37 |   -10.02 |    0.65 |       |
+| eventually |    -9.37 |   -10.02 |    0.65 |       |
+| final      |    -9.37 |   -10.02 |    0.65 |       |
+| last       |    -8.68 |    -9.33 |    0.65 |       |
+| certainly  |    -8.96 |    -9.33 |    0.37 |       |
+| writes     |    -7.66 |    -7.82 |    0.16 |       |
+From: pjotr@ludd.luth.se (Peter Sj|str|m)
+Subject: Re: WC/Finland
+
+In <1993Apr25.220033.7284@math.ucla.edu> dstein@oak.math.ucla.edu (David Stein) writes:
+
+>Jarkko Ketolainen writes:
+
+>>Disaster! Finland was beaten by Czech 1-3 (0-0,1-1,0-2).
+>>Finland will be 4th of pool B and will most certainly meet Canada in the
+>>quarter final on wednesday 28th.
+
+>  Look at the situation positively... the Finns can now kick Canada out! :-)
+
+	They did last world cup and eventually lost tp Sweden in the final!
+
+		/Peter

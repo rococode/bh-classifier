@@ -1,0 +1,40 @@
+1.44236530131e-05 0.999985576347 0.999971152694 True
+prediction: baseball for data\test\rec.sport.baseball-full\104946
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| hit      |    -7.96 |   -10.11 |    2.15 | **    |
+| th       |    -8.65 |   -10.11 |    1.46 | **    |
+| paul     |   -10.04 |    -8.72 |   -1.32 | **    |
+| much     |    -8.94 |   -10.11 |    1.17 | **    |
+| order    |    -8.94 |   -10.11 |    1.17 | **    |
+| tim      |    -8.94 |   -10.11 |    1.17 | **    |
+| williams |   -10.04 |    -9.01 |   -1.03 | **    |
+| want     |    -8.43 |    -9.41 |    0.99 |       |
+| good     |    -8.94 |    -8.16 |   -0.78 |       |
+| balls    |    -9.34 |   -10.11 |    0.76 |       |
+From: timothy@lamar.ColoState.EDU (Timothy Cree)
+Subject: Re: Why is Barry Bonds not batting 4th?
+
+In article <1993Apr22.192035.23822@hpcvaac.cv.hp.com> paula@koufax.cv.hp.com (Paul Andresen) writes:
+>|> >In article <1993Apr21.032427.22464@leland.Stanford.EDU>, punjabi@leland.Stanford.EDU (sanjeev punjabi) writes:
+>|> >
+>|> >(2)   Having Bonds batting behind Williams means that Matt will get
+>|> >      more good pitches to hit.  This is important since he struggles
+>|> >      so much with breaking balls.  Opposing pitchers don't want to
+>|> >      walk Williams to get to Bonds.
+>
+>I have to wonder if this "good hitter behind you" argument is really valid.
+>Has anyone done a study on this. 
+>
+>  paula@koufax.cv.hp.com   Paul Andresen  Hewlett-Packard  (503)-750-3511
+>
+
+	You want a study? Look at Matt Williams the year after
+	Mitchell was gone. Look no further. Not a scientific
+	study, but it'll show the truth for Matt. Besides, Bonds
+	_wants_ to bat 5th
+					Tim
+	If you want an actual analysis of batting order, look up
+	"Analysis of Baseball Batting Order by Monte Carlo Simulation"
+	by Freeze, _Journal of the Operations Research Scoiety
+	of America_, no.22, 1975

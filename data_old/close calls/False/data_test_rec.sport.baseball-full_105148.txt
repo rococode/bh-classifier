@@ -1,0 +1,28 @@
+0.533132257808 0.466867742192 0.0662645156166 False
+prediction: hockey for data\test\rec.sport.baseball-full\105148
+| word            |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------------|----------|----------|---------|-------|
+| players         |    -7.58 |    -8.23 |    0.65 |       |
+| writes          |    -7.66 |    -7.82 |    0.16 |       |
+| b               |   -10.06 |   -10.02 |   -0.04 |       |
+| ban             |   -10.06 |   -10.02 |   -0.04 |       |
+| best            |    -9.37 |    -9.33 |   -0.04 |       |
+| bomb            |   -10.06 |   -10.02 |   -0.04 |       |
+| career          |   -10.06 |   -10.02 |   -0.04 |       |
+| drmteslanjitedu |   -10.06 |   -10.02 |   -0.04 |       |
+| gehrig          |   -10.06 |   -10.02 |   -0.04 |       |
+| ironman         |   -10.06 |   -10.02 |   -0.04 |       |
+From: steven@advtech.uswest.com ( Steve Novak)
+Subject: Re: Re:ALL-TIME BEST PLAYERS
+
+> = drm6640@tesla.njit.edu writes:
+
+>1B Career:  DON MATTINGLY!!!!!!!!
+
+Lou Gehrig, IRONMAN 
+
+-- 
++-+-+-+-+-+-+-+
+| Steve Novak |    |"Ban the Bomb!"  "Ban the POPE!!"| 
++-+-+-+-+-+-+-+
+steven@advtech.USWest.Com

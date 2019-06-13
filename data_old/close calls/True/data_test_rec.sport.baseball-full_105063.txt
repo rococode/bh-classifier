@@ -1,0 +1,37 @@
+0.409312560101 0.590687439899 0.181374879797 True
+prediction: baseball for data\test\rec.sport.baseball-full\105063
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| alomar  |    -8.44 |   -10.07 |    1.63 | **    |
+| jays    |    -8.66 |   -10.07 |    1.4  | **    |
+| b       |    -8.95 |   -10.07 |    1.12 | **    |
+| blue    |    -8.95 |   -10.07 |    1.12 | **    |
+| pitcher |    -8.95 |   -10.07 |    1.12 | **    |
+| player  |    -9.35 |    -8.27 |   -1.08 | **    |
+| ab      |    -9.35 |   -10.07 |    0.71 |       |
+| hitter  |    -8.66 |    -9.37 |    0.71 |       |
+| another |   -10.05 |    -9.37 |   -0.67 |       |
+| assure  |   -10.05 |    -9.37 |   -0.67 |       |
+From: <RVESTERM@vma.cc.nd.edu>
+Subject: Re: Jack Morris
+
+In article <1993Apr20.004746.13007@ramsey.cs.laurentian.ca>,
+maynard@ramsey.cs.laurentian.ca (Roger Maynard) says:
+>
+>To say that one player is better than another is to be able to say ab-
+>solutely  that  player A's team would have played better with player B
+>in their lineup.  Sheer speculation.  Impossible to ascertain.
+>
+
+to take this to its, er, "logical" conclusion, it is impossible to
+ascertain whether or not i am a better hitter than roberto alomar,
+or a better pitcher than juan guzman, or a better center fielder than
+devon white.  after all, if i were on the blue jays, can you really
+prove that they wouldn't have won the world series in both 1991 AND
+1992?
+
+while i thank you, mister maynard, for your faith in my atheletic
+prowess, i can assure you that your faith is misplaced.
+
+bob vesterman.
+

@@ -1,0 +1,29 @@
+0.547281641832 0.452718358168 0.0945632836649 True
+prediction: hockey for data\test\rec.sport.hockey-full\54557
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| starting  |    -8.94 |   -10.04 |    1.1  | **    |
+| barrasso  |    -9.35 |   -10.04 |    0.7  |       |
+| neck      |    -9.35 |   -10.04 |    0.7  |       |
+| beat      |   -10.04 |    -9.35 |   -0.69 |       |
+| either    |   -10.04 |    -9.35 |   -0.69 |       |
+| following |   -10.04 |    -9.35 |   -0.69 |       |
+| ralph     |    -9.35 |    -8.66 |   -0.69 |       |
+| way       |    -8.09 |    -8.66 |    0.56 |       |
+| hes       |    -9.35 |    -8.94 |   -0.4  |       |
+| even      |    -8.65 |    -8.94 |    0.29 |       |
+From: Robert Angelo Pleshar <rp16+@andrew.cmu.edu>
+Subject: Re: Bernie Nicholls - What a man!
+
+from Matthew Rush:
+>but he's starting to push it over the edge IMHO.  Of course,
+>Holik's chop to Barrasso's neck wasn't too sportsmanlike either.
+>It seems that he was following the "The only way to beat the
+>Penguins is to injure them" philosophy.
+
+It's pretty obvious that Holik's hitting Barrasso was an accident. He
+was even apologizing for it immediately before the Penguins all jumped
+on him.
+
+Ralph
+

@@ -1,0 +1,39 @@
+0.608256123267 0.391743876733 0.216512246534 False
+prediction: hockey for data\test\rec.sport.baseball-full\105069
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| game    |   -10.02 |    -7.95 |   -2.07 | **    |
+| tie     |    -8.08 |   -10.03 |    1.95 | **    |
+| know    |    -8.41 |   -10.03 |    1.62 | **    |
+| came    |    -8.92 |   -10.03 |    1.11 | **    |
+| article |    -8.92 |    -7.83 |   -1.09 | **    |
+| win     |    -8.41 |    -9.34 |    0.92 |       |
+| example |    -9.33 |   -10.03 |    0.7  |       |
+| leading |    -9.33 |   -10.03 |    0.7  |       |
+| man     |    -9.33 |   -10.03 |    0.7  |       |
+| thats   |    -9.33 |   -10.03 |    0.7  |       |
+From: poiriera@woods.ulowell.edu
+Subject: Re: How does a pitcher get a save?
+
+In article <1993Apr23.135139.18749@newshub.ariel.yorku.ca>, cs902060@ariel.yorku.ca (GEOFFREY E DIAS) writes:
+> 
+> 	The subject line says it all. What is the rule that qualifies
+> a pitcher as making a save?
+>
+
+---------------------------------------------------------------------------------
+	As far as I know, a save opportunity is when it is 7th inning or
+beyond, and the batter on deck can either tie or win the ball game.
+	For example If it is the bottom of the 8th inning and Clemens is
+pithching. The Red Sox are leading 4-1 and Clemens has just givin up a hit. So,
+there is a man on first, the batter, and the batter on deck could tie the game
+with a homer.  If Jeff Russel came in, (The Red Sox reliever), and finished the
+game without allowing the tieing or losing run to score, he would get the save
+and Clemens would get the win.                     
+                                                Thats how I beleive it works.
+
+						Hope I could help,
+							-THE COWBOY-
+
+
+						

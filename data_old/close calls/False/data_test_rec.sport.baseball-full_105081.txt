@@ -1,0 +1,56 @@
+0.610789358749 0.389210641251 0.221578717498 False
+prediction: hockey for data\test\rec.sport.baseball-full\105081
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| team    |    -6.92 |    -9.37 |    2.45 | **    |
+| teams   |    -7.41 |    -9.37 |    1.95 | **    |
+| time    |    -8.26 |   -10.06 |    1.8  | **    |
+| hit     |   -10.05 |    -8.27 |   -1.78 | **    |
+| player  |    -8.44 |   -10.06 |    1.62 | **    |
+| think   |    -7.85 |    -9.37 |    1.51 | **    |
+| know    |    -8.66 |   -10.06 |    1.39 | **    |
+| playing |    -8.66 |   -10.06 |    1.39 | **    |
+| scott   |    -8.66 |   -10.06 |    1.39 | **    |
+| trivia  |    -8.66 |   -10.06 |    1.39 | **    |
+From: daplurad@ugcs.caltech.edu (David Plurad)
+Subject: Re: Some baseball trivia
+
+In article <texdude.735595914@cs1.bradley.edu> texdude@cs1.bradley.edu (Philip Allen) writes:
+>
+>Who holds the record for most career strikeouts while playing for one team?
+>Who holds the record for most career strikeouts for the Rangers?
+>(Hint: Nolan Ryan isn't either)
+>
+>What two pitchers have over 100 career saves for two different teams?
+>
+>Who is the only player to hit 300 or more career home runs and steal 300 or 
+>more career bases for the same team?
+>
+>No fair peeking at your baseball stats....
+>
+>
+>Phil Allen
+>texdude@cs1.bradley.edu
+
+I'll post my guesses to some of these and other trivia questions posted.
+
+For most career K's with one team, if it's not Ryan, perhaps Steve Carlton.
+With the Rangers, Hough was there for a long time.
+
+In the 100 saves department...Maybe Lee Smith(he should have at least
+a hundred with the Cubbies, maybe enough with either the RSox or Cards.)
+Then maybe, Gossage?(NYY and SD), Fingers (MIL, OAK)
+
+Don't know about the homers/steals dept.
+
+In some other article,(Mets trivia), it could be Tim Leary in at least
+the losing to all teams, maybe beating all of 'em too.  Probably Seaver
+and Koosman fit too.
+
+And in Randy Johnson's no-hitter, I think it was Scott Bradley, the
+other half of the old Mariner catching platoon, who was behind the plate
+that night.
+
+David Plurad
+
+

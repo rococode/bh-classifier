@@ -1,0 +1,38 @@
+0.999666379815 0.000333620185417 0.999332759629 True
+prediction: hockey for data\test\rec.sport.hockey-full\54253
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| hockey    |    -7.22 |   -10.04 |    2.82 | **    |
+| win       |    -6.71 |    -9.34 |    2.64 | **    |
+| teams     |    -8.72 |   -10.04 |    1.32 | **    |
+| order     |   -10.11 |    -8.94 |   -1.17 | **    |
+| espn      |    -9.01 |   -10.04 |    1.03 | **    |
+| want      |    -9.41 |    -8.43 |   -0.99 |       |
+| could     |    -8.5  |    -9.34 |    0.85 |       |
+| according |   -10.11 |    -9.34 |   -0.76 |       |
+| correct   |   -10.11 |    -9.34 |   -0.76 |       |
+| allen     |    -9.41 |   -10.04 |    0.62 |       |
+From: kkeller@mail.sas.upenn.edu (Keith Keller)
+Subject: Re: Devils and Islanders tiebreaker????
+
+In article <C5LFA4.E10@murdoch.acc.Virginia.EDU> cal2d@csissun11.ee.Virginia.EDU (Craig Allen Lorie) writes:
+>According to the hockey gurus over at ESPN, should the Islanders win tonite
+>the two teams will have the same record, but the Devils will be playing the
+>Penguins.  This is because the Islanders have won the season series against
+>the Devils.  I think the rules for deciding a tie breaker include:
+>
+>1.  season series
+>2.  goals against
+>3.  goals for
+>
+>in this order (correct me if I'm wrong).  Anyone have anything to add?
+
+I think that they go to divisional records before goals, but I could be
+wrong, too.
+
+--
+    Keith Keller				LET'S GO RANGERS!!!!!
+						LET'S GO QUAKERS!!!!!
+	kkeller@mail.sas.upenn.edu		IVY LEAGUE CHAMPS!!!!
+
+            "When I want your opinion, I'll give it to you." 

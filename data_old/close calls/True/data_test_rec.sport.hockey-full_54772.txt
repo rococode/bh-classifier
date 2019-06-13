@@ -1,0 +1,27 @@
+0.57432047505 0.42567952495 0.148640950099 True
+prediction: hockey for data\test\rec.sport.hockey-full\54772
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| canada      |    -9.38 |   -10.04 |    0.66 |       |
+| austria     |   -10.07 |   -10.04 |   -0.03 |       |
+| italy       |   -10.07 |   -10.04 |   -0.03 |       |
+| italysweden |   -10.07 |   -10.04 |   -0.03 |       |
+| l           |   -10.07 |   -10.04 |   -0.03 |       |
+| pool        |   -10.07 |   -10.04 |   -0.03 |       |
+| russia      |   -10.07 |   -10.04 |   -0.03 |       |
+| subject     |    -7.68 |    -7.64 |   -0.03 |       |
+| sweden      |   -10.07 |   -10.04 |   -0.03 |       |
+| switzerland |   -10.07 |   -10.04 |   -0.03 |       |
+From: golf@phoenix.oulu.fi (Jouko Kylmaoja)
+Subject: WC, pool A
+
+210493
+Italy-Sweden 2-6 (0-1,1-2,1-3)
+                       W D L             
+	Canada      2  2 0 0  6-1  4
+	Sweden      3  2 0 1  8-6  4
+	Russia      2  1 1 0  6-4  3
+ 	Italy	    3  1 1 1  5-8  3
+	----------------------------
+	Austria	    2  0 0 2  2-5  0
+	Switzerland 2  0 0 2  0-3  0

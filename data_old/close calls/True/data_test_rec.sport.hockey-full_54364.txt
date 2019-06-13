@@ -1,0 +1,49 @@
+0.584668449094 0.415331550906 0.169336898188 True
+prediction: hockey for data\test\rec.sport.hockey-full\54364
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| hockey  |    -7.74 |   -10.09 |    2.35 | **    |
+| cup     |    -7.97 |   -10.09 |    2.12 | **    |
+| many    |   -10.05 |    -8.48 |   -1.57 | **    |
+| thought |   -10.05 |    -8.48 |   -1.57 | **    |
+| anyone  |    -8.66 |   -10.09 |    1.43 | **    |
+| year    |    -8.44 |    -7.05 |   -1.39 | **    |
+| didnt   |   -10.05 |    -8.7  |   -1.34 | **    |
+| able    |    -8.95 |   -10.09 |    1.14 | **    |
+| always  |    -8.95 |   -10.09 |    1.14 | **    |
+| penalty |    -8.95 |   -10.09 |    1.14 | **    |
+From: maynard@ramsey.cs.laurentian.ca (Roger Maynard)
+Subject: Re: Stan Fischler, 4/24
+
+In <1993Apr25.170303.19486@alchemy.chem.utoronto.ca> golchowy@alchemy.chem.utoronto.ca (Gerald Olchowy) writes:
+
+>Wayne made his own bed...choosing McNall over Sather and hockey
+>destiny...he should sleep in it instead of whining.  Ego got
+
+Absolute nonsense.  The decision that was made was Pocklington's.  He chose 
+20 mill over Gretzky.  If Gretzky wasn't upset about not being able to win
+a cup in LA then I submit that he wasn't worth the 20 mill.
+
+>the best of him...he thought the supporting cast in Edmonton
+>didn't matter...that he was the show himself.
+
+How do you know what he thinks (or thought)?  The only "thought" that I
+can see that you have revealed is your own.  You don't like Gretzky.
+Big deal.
+
+>Now, my only complaint about Lemieux is that he dives too much...
+>but last year Patrick convinced him twice to accept Bowman and hockey
+>destiny, rather than his ego.
+
+The real purpose of diving is not merely an attempt to draw a penalty.  What
+the player is trying to do is make the checkers keep their distance so the
+ref won't be fooled.  I can't imagine why anyone would expect someone like
+Lemieux to change his game.  Why don't you pick on 1 dimensional over-rated
+type like Hull and Salami. 
+
+
+-- 
+
+cordially, as always,                      maynard@ramsey.cs.laurentian.ca 
+                                           "So many morons...
+rm                                                   ...and so little time." 

@@ -1,0 +1,21 @@
+0.392497088525 0.607502911475 0.215005822949 True
+prediction: baseball for data\test\rec.sport.baseball-full\105116
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| net      |   -10.03 |    -8.68 |   -1.35 | **    |
+| need     |   -10.03 |    -8.97 |   -1.06 | **    |
+| right    |    -9.34 |   -10.06 |    0.73 |       |
+| thank    |    -9.34 |   -10.06 |    0.73 |       |
+| yankees  |    -9.34 |   -10.06 |    0.73 |       |
+| post     |    -8.93 |    -9.37 |    0.44 |       |
+| away     |   -10.03 |   -10.06 |    0.04 |       |
+| schedule |   -10.03 |   -10.06 |    0.04 |       |
+| someone  |   -10.03 |   -10.06 |    0.04 |       |
+| subject  |    -7.63 |    -7.67 |    0.04 |       |
+From: amacal@pica.mil (Ariel)
+Subject: Yankees Schedule
+
+Can someone in this net post a Yankee Schedule?
+I need this right away.
+
+																												Thank You

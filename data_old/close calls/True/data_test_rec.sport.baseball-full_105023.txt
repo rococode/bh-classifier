@@ -1,0 +1,35 @@
+0.439587800828 0.560412199172 0.120824398344 True
+prediction: baseball for data\test\rec.sport.baseball-full\105023
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| batting   |    -8.94 |   -10.05 |    1.11 | **    |
+| ted       |    -8.94 |   -10.05 |    1.11 | **    |
+| think     |    -8.94 |    -7.86 |   -1.09 | **    |
+| broadcast |   -10.04 |    -8.95 |   -1.09 | **    |
+| bases     |    -9.35 |   -10.05 |    0.7  |       |
+| bonds     |    -9.35 |   -10.05 |    0.7  |       |
+| frank     |    -9.35 |   -10.05 |    0.7  |       |
+| last      |    -8.25 |    -8.95 |    0.7  |       |
+| winfield  |    -9.35 |   -10.05 |    0.7  |       |
+| yount     |    -9.35 |   -10.05 |    0.7  |       |
+From: luriem@alleg.edu(Michael Lurie) The Liberalizer
+Subject: Re: 200 SBs & 200 HRs
+
+In article <C5ws3K.HqC@odin.corp.sgi.com> dans@fore.csd.sgi.com (Dan  
+Steinman) writes:
+> Last night on the Giants/Mets radio broadcast Hank and Ted were  
+discussing the fact that there were only 16 players who had ever hit 200  
+homeruns and stolen 200 bases in their career (while HoJo was batting).   
+Anyone have a list?  Not as easy as it sounds to come up with all of them.   
+I couldn't.  Mays, Mantle, Aaron, Henderson, Morgan, Bonds (Dad), ???   
+Frank Robinson?  Molitor?  Yount?  Guessing now.  I'd be interested to see  
+the whole list.
+> 
+> 
+> -- 
+> 
+> Thanks,
+>          Dan
+> 
+
+Ya think Winfield is on it?

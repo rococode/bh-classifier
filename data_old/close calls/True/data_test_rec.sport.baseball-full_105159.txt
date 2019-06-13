@@ -1,0 +1,35 @@
+0.400474708479 0.599525291521 0.199050583043 True
+prediction: baseball for data\test\rec.sport.baseball-full\105159
+| word        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| overall     |   -10.04 |    -8.95 |   -1.09 | **    |
+| career      |    -9.34 |   -10.05 |    0.71 |       |
+| players     |    -7.55 |    -7.97 |    0.42 |       |
+| subject     |    -7.47 |    -7.65 |    0.18 |       |
+| best        |    -9.34 |    -9.36 |    0.01 |       |
+| mattingly   |   -10.04 |   -10.05 |    0.01 |       |
+| rerealltime |   -10.04 |   -10.05 |    0.01 |       |
+From: drm6640@tesla.njit.edu
+Subject: RE:Re:ALL-TIME BEST PLAYERS
+
+Overall (career)
+1.	Don Mattingly
+2.	Don Mattingly
+3.	Don Mattingly
+4.	Don Mattingly
+5.	Don Mattingly
+6.	Don Mattingly
+7.	Don Mattingly
+8.	Don Mattingly
+9.	Don Mattingly
+10.	Don Mattingly
+11.	Don Mattingly
+.
+.
+.
+.
+.
+.
+.
+.
+50.	Don Mattingly

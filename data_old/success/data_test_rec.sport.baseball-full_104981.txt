@@ -1,0 +1,39 @@
+prediction: baseball for data\test\rec.sport.baseball-full\104981
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| clemens   |    -7.64 |   -10.04 |    2.39 | **    |
+| ws        |    -8.25 |   -10.04 |    1.79 | **    |
+| world     |    -8.43 |   -10.04 |    1.61 | **    |
+| full      |    -8.66 |   -10.04 |    1.38 | **    |
+| well      |    -8.66 |   -10.04 |    1.38 | **    |
+| line      |   -10.04 |    -8.94 |   -1.1  | **    |
+| game      |    -7.33 |    -8.43 |    1.1  | **    |
+| series    |    -8.25 |    -9.35 |    1.1  | **    |
+| sox       |    -8.94 |   -10.04 |    1.1  | **    |
+| therefore |    -8.94 |   -10.04 |    1.1  | **    |
+From: joec@hilbert.cyprs.rain.com ( Joe Cipale)
+Subject: Re: Old Predictions to laugh at...
+
+In article <wilbanks.734921387@spot.Colorado.EDU> wilbanks@spot.Colorado.EDU (Kokopeli) writes:
+>
+>My prediction: The Red Sox-Cubs Series and Vikings-Broncos SuperBore will
+>occur at the end of the world.
+>
+So, which one will officially be the end of the world? ;)
+
+I can see the end of the WS now:
+"Well folks, here it is.  Bottom of the ninth; bases loaded; Full count on
+Sandberg in this 1-1 game.  Clemens winds, heres the pitch.  Swung on and it is a 
+line drive to center.  Zupcic moves to his left. He's there and.....
+*****ZOT******
+
+ 
+===============================================================================
+| joec@godot.cyprs.rain.com     |WARNING: Elvis impersonating can be hazardous|
+| joec@ursula.ee.pdx.edu        |         to your health -- it sure won't help|
+|                               |         your reputation.                    |
++-------------------------------+---------------------------------------------+
+| I bike, therefore I am!       | Go Red Sox!            Go Celtics!          |
+|                               | Go Seahawks!           Go Sonics!           |
+===============================================================================
+

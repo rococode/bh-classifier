@@ -1,0 +1,21 @@
+0.598851526947 0.401148473053 0.197703053895 False
+prediction: hockey for data\test\rec.sport.baseball-full\105149
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| list        |    -8.94 |   -10.04 |    1.1  | **    |
+| help        |   -10.04 |    -9.35 |   -0.69 |       |
+| id          |   -10.04 |    -9.35 |   -0.69 |       |
+| chicago     |    -9.35 |   -10.04 |    0.69 |       |
+| appreciated |   -10.04 |   -10.04 |   -0    |       |
+| cubbies     |   -10.04 |   -10.04 |   -0    |       |
+| cubs        |   -10.04 |   -10.04 |   -0    |       |
+| join        |   -10.04 |   -10.04 |   -0    |       |
+| like        |    -8.43 |    -8.43 |   -0    |       |
+| mailing     |   -10.04 |   -10.04 |   -0    |       |
+From: jmelchi@sage.cc.purdue.edu (moi)
+Subject: cubbies
+
+    Is there a Chicago Cubs mailing list??  If so, I'd like to join.
+Any help appreciated....
+
+

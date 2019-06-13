@@ -1,0 +1,27 @@
+0.618798235645 0.381201764355 0.237596471291 True
+prediction: hockey for data\test\rec.sport.hockey-full\54532
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| really   |    -8.11 |    -9.34 |    1.23 | **    |
+| brooks   |   -10.05 |    -9.34 |   -0.71 |       |
+| move     |   -10.05 |    -9.34 |   -0.71 |       |
+| pens     |    -9.36 |   -10.03 |    0.68 |       |
+| hes      |    -9.36 |    -8.93 |   -0.42 |       |
+| answer   |   -10.05 |   -10.03 |   -0.02 |       |
+| bowmans  |   -10.05 |   -10.03 |   -0.02 |       |
+| coaching |   -10.05 |   -10.03 |   -0.02 |       |
+| dart     |   -10.05 |   -10.03 |   -0.02 |       |
+| every    |   -10.05 |   -10.03 |   -0.02 |       |
+From: jake@rambler.Eng.Sun.COM (Jason Cockroft)
+Subject: Re: Pens fans reactions
+
+
+>I'm really impressed with Bowman's coaching tactics - he's had an answer for
+>every move that Brooks has thrown at the Pens.
+>
+>Susan Dart
+
+Such as?
+
+-jake. 
+

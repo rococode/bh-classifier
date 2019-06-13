@@ -1,0 +1,19 @@
+0.468488017508 0.531511982492 0.0630239649846 False
+prediction: baseball for data\test\rec.sport.hockey-full\54758
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| ball    |    -8.44 |   -10.02 |    1.58 | **    |
+| nhl     |   -10.05 |    -8.64 |   -1.41 | **    |
+| brett   |   -10.05 |    -9.33 |   -0.72 |       |
+| e       |   -10.05 |    -9.33 |   -0.72 |       |
+| send    |    -9.35 |   -10.02 |    0.67 |       |
+| would   |    -8.66 |    -8.92 |    0.26 |       |
+| subject |    -7.65 |    -7.54 |   -0.11 |       |
+| letter  |   -10.05 |   -10.02 |   -0.02 |       |
+| renhl   |   -10.05 |   -10.02 |   -0.02 |       |
+| wanted  |   -10.05 |   -10.02 |   -0.02 |       |
+From: ballb@carr113.alleg.edu (Brett Ball)
+Subject:  Re:NHL letter
+
+If you wanted to send your own letter to the NHL where would you send it?
+Brett E. Ball

@@ -1,0 +1,38 @@
+prediction: baseball for data\test\rec.sport.baseball-full\104942
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| game      |    -7.33 |    -8.43 |    1.1  | **    |
+| would     |    -7.56 |    -8.65 |    1.1  | **    |
+| year      |    -7.85 |    -8.65 |    0.81 |       |
+| canada    |   -10.04 |    -9.35 |   -0.7  |       |
+| friends   |   -10.04 |    -9.35 |   -0.7  |       |
+| michael   |   -10.04 |    -9.35 |   -0.7  |       |
+| old       |   -10.04 |    -9.35 |   -0.7  |       |
+| ottawa    |   -10.04 |    -9.35 |   -0.7  |       |
+| play      |    -8.94 |    -8.25 |   -0.7  |       |
+| something |   -10.04 |    -9.35 |   -0.7  |       |
+From: mgoddard@ehd.hwc.ca (Michael Goddard)
+Subject: Looking for: Strategic Boardgame for Baseball
+
+Last year my nine year old son fell in love with baseball and now
+likes to play and to follow the professionals.  I would like to buy
+him a board game so he can catch a glimpse of and practise a little of
+the managerial stragegy.  I am not looking for a computer game or any
+type of game where manual dexterity determines the winner.  I am after
+something that he and his friends can spread out over a table on a
+rainy day and spend some thoughtful time over.
+
+I would appreciate the names of any recommended games.  I don't follow
+this newsgroup, so e-mail responses would be ideal.
+
+                                                ....[MIchael]
+
+-- 
+MGODDARD@EHD.HWC.CA : Michael Goddard : (613) 954-0169 : Fax (613) 952-9798
+B9, Environmental Health Centre, Tunney's Pasture, Ottawa, Canada,  K1A 0L2
+
+
+-- 
+MGODDARD@EHD.HWC.CA : Michael Goddard : (613) 954-0169 : Fax (613) 952-9798
+B9, Environmental Health Centre, Tunney's Pasture, Ottawa, Canada,  K1A 0L2
+

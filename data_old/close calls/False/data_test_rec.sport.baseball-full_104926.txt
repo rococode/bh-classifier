@@ -1,0 +1,31 @@
+0.535756316648 0.464243683352 0.0715126332966 False
+prediction: hockey for data\test\rec.sport.baseball-full\104926
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| bob     |    -7.86 |   -10.08 |    2.22 | **    |
+| call    |   -10.06 |    -8.69 |   -1.37 | **    |
+| pick    |    -8.11 |    -9.38 |    1.27 | **    |
+| case    |   -10.06 |    -8.98 |   -1.08 | **    |
+| home    |   -10.06 |    -8.98 |   -1.08 | **    |
+| opener  |   -10.06 |    -8.98 |   -1.08 | **    |
+| three   |    -9.37 |    -8.29 |   -1.08 | **    |
+| another |    -9.37 |   -10.08 |    0.71 |       |
+| ask     |    -9.37 |   -10.08 |    0.71 |       |
+| l       |    -9.37 |   -10.08 |    0.71 |       |
+From: cmk@athena.mit.edu (Charles M Kozierok)
+Subject: Re: Yankees win home opener
+
+In article <93105.124117RVESTERM@vma.cc.nd.edu> <RVESTERM@vma.cc.nd.edu> writes:
+} In article <1993Apr14.175545.3528@alleg.edu>, millits@yankee.org (Sam
+} Millitello) says:
+} 
+} i'm telling you, sam, three l's.  call up mom and ask.
+} 
+} bob vesterman.
+} 
+yeah, and in case even that isn't enough to prompt boy genius
+"Sam" to pick up a paper and see how "his" name is spelled,
+here's another hint: the single "L" comes between the two "I"s...
+
+-*-
+charles

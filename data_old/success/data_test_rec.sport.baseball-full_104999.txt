@@ -1,0 +1,35 @@
+0.00213734846637 0.997862651534 0.995725303067 True
+prediction: baseball for data\test\rec.sport.baseball-full\104999
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| area   |    -8.65 |   -10.11 |    1.46 | **    |
+| like   |    -8.25 |    -9.41 |    1.17 | **    |
+| see    |    -9.34 |    -8.32 |   -1.03 | **    |
+| know   |    -8.43 |    -9.41 |    0.99 |       |
+| want   |    -8.43 |    -9.41 |    0.99 |       |
+| one    |    -8.65 |    -7.8  |   -0.85 |       |
+| cant   |    -8.65 |    -9.41 |    0.76 |       |
+| even   |    -8.65 |    -9.41 |    0.76 |       |
+| long   |    -9.34 |   -10.11 |    0.76 |       |
+| ticket |    -9.34 |   -10.11 |    0.76 |       |
+From: akamholz@jhunix.hcf.jhu.edu (Andrew E Kamholz)
+Subject: Re: Camden Yards
+
+In article <1993Apr23.035220.21801@uvm.edu> luh@med.uvm.edu (Eddy Luh) writes:
+>Anyone know how I can get some tickets to see the
+>birds at Camden yards. . .more specifically, anyone
+>have confidence in any particular ticket agencies in
+>the New England/New York area that will be fair 
+>about prices?
+
+Tickets are very hard to get, even at the box office at Camden Yards.
+If you really want to see a game here (I go to school in Baltimore),
+price should not be an issue. Tickets go up to $15, but you should be willing
+to go as high as $20-25 if you really want to come.
+
+
+-- 
+["Men go crazy in      ] Andrew Kamholz ["Something in me, dark and sticky   ] 
+[ congregations but    ] (410)-516-3052 [ All the time it's getting strong   ] 
+[ they only get better }-----STING      [ No way of dealing with this feeling] 
+[ one by one."         ] PETER GABRIEL--{ Can't go on like this too long."   ]

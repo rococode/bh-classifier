@@ -1,0 +1,39 @@
+0.999796583079 0.000203416921086 0.999593166158 True
+prediction: hockey for data\test\rec.sport.hockey-full\54510
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| hockey |    -7.22 |   -10.04 |    2.82 | **    |
+| fan    |   -10.11 |    -7.96 |   -2.15 | **    |
+| id     |   -10.11 |    -8.65 |   -1.46 | **    |
+| like   |    -9.41 |    -8.25 |   -1.17 | **    |
+| much   |   -10.11 |    -8.94 |   -1.17 | **    |
+| arena  |    -9.01 |   -10.04 |    1.03 | **    |
+| feel   |    -9.01 |   -10.04 |    1.03 | **    |
+| see    |    -8.32 |    -9.34 |    1.03 | **    |
+| stars  |    -9.01 |   -10.04 |    1.03 | **    |
+| state  |    -9.01 |   -10.04 |    1.03 | **    |
+From: hunter@nsslsun.nssl.uoknor.edu (Steve Hunter)
+Subject: Minnesota Shame?
+
+I'm a hockey fan from way back, and maintain an interest as best I can
+here in the hockey hinterlands (Oklahoma).  I'm hoping I can get a
+reading from some of you about the move of the North Stars to Dallas.
+
+I've been under the impression that Minnesota was one of, or possibly,
+THE hockey state in the U.S.  So why is the team moving to a city in
+Texas?  Is it that the owner is a greedy, self-serving profiteer, or
+were the Stars really not making a profit?  Or was the city or whoever
+owned the arena doing some price gouging?
+
+As much as I'd like to see the NHL only a 3 hour drive from me, I
+can't help but feel for the people in Minnesota, unless they truly
+didn't support the team.  
+
+Opinions, please.
+
+Steve Hunter
+National Weather Service
+NEXRAD radar group
+Norman, OK
+
+

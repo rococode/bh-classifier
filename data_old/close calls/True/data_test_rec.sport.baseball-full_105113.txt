@@ -1,0 +1,28 @@
+0.440264117119 0.559735882881 0.119471765761 True
+prediction: baseball for data\test\rec.sport.baseball-full\105113
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| history |    -8.95 |   -10.07 |    1.12 | **    |
+| pitched |    -8.95 |   -10.07 |    1.12 | **    |
+| seattle |    -8.95 |   -10.07 |    1.12 | **    |
+| tigers  |    -8.95 |   -10.07 |    1.12 | **    |
+| ever    |   -10.05 |    -8.97 |   -1.08 | **    |
+| go      |    -9.35 |    -8.46 |   -0.9  |       |
+| two     |    -8.26 |    -8.97 |    0.71 |       |
+| ii      |   -10.05 |    -9.37 |   -0.67 |       |
+| oh      |   -10.05 |    -9.37 |   -0.67 |       |
+| writes  |    -8.1  |    -7.43 |   -0.67 |       |
+From: cmk@athena.mit.edu (Charles M Kozierok)
+Subject: Re: Bosox go down in smoke II (Seattle 7-0) ...
+
+In article <franjion.735593116@spot.Colorado.EDU> franjion@spot.Colorado.EDU (John Franjione) writes:
+} dietz@parody.Data-IO.COM (Kent Dietz) writes:
+} 
+} >Oh, yea, and Chris Bosio pitched a NO-HITTER.  One over the minimum, two
+} 
+} Have there ever been any other no-hitters in Mariner history?
+
+Randy Johnson, June 2, 1990 against the Tigers.
+
+-*-
+charles

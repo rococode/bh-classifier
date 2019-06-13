@@ -1,0 +1,43 @@
+0.416994678331 0.583005321669 0.166010643337 False
+prediction: baseball for data\test\rec.sport.hockey-full\54722
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| nhl    |   -10.04 |    -8.43 |   -1.61 | **    |
+| better |    -8.66 |   -10.04 |    1.39 | **    |
+| thanks |   -10.04 |    -8.66 |   -1.39 | **    |
+| told   |    -8.94 |   -10.04 |    1.1  | **    |
+| get    |   -10.04 |    -8.94 |   -1.1  | **    |
+| thing  |   -10.04 |    -8.94 |   -1.1  | **    |
+| last   |    -7.96 |    -8.94 |    0.98 |       |
+| team   |    -7.27 |    -8.25 |    0.98 |       |
+| one    |    -8.94 |    -7.96 |   -0.98 |       |
+| know   |    -7.85 |    -8.66 |    0.81 |       |
+From: MLINDROOS@FINABO.ABO.FI (Marcus Lindroos INF)
+Subject: Re: Caps moving ?????
+
+In <berger.735512230@chaos.cs.brandeis.edu> berger@chaos.cs.brandeis.edu writes:
+
+> I've heard rumors recently from reliable sources that Abe Polin, the
+> moron who owns the Washington Capitals is looking to move the team
+> after this season or next.  Milwaukee was mentioned as the team's
+> potential destination.  The person who told me this is strongly
+> affiliated with the NHL and has been extremely accurate in the past
+> with news of this sort.  Does anyone know if this is so or has
+> heard anything of the sort?  With Baltimore's AHL team gone, that would
+> leave the area with only an ECHL franchise in Baltimore- not good.
+> Thanks
+> 
+>    David
+
+WHY!!! DC/Baltimore is one of the top media markets (=the only thing the NHL
+seems to care about these days), they've been doing far better than the NBA
+Bullets at the gate for the last five years. The team has been a perennial
+contender and fan support has been good to excellent . . . Why should Pollin
+move to city that's five times smaller but has as many teams in other pro
+sports. I don't get it...  
+ 
+> -- 
+> 
+> 					David
+
+MARCU$

@@ -1,0 +1,37 @@
+0.470223138099 0.529776861901 0.0595537238013 False
+prediction: baseball for data\test\rec.sport.hockey-full\54285
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| hockey   |   -10.04 |    -8.09 |   -1.96 | **    |
+| bruins   |   -10.04 |    -8.94 |   -1.11 | **    |
+| cup      |   -10.04 |    -8.94 |   -1.11 | **    |
+| watching |   -10.04 |    -8.94 |   -1.11 | **    |
+| close    |    -8.94 |   -10.03 |    1.09 | **    |
+| division |    -8.94 |   -10.03 |    1.09 | **    |
+| future   |    -8.94 |   -10.03 |    1.09 | **    |
+| bet      |   -10.04 |    -9.34 |   -0.7  |       |
+| pens     |   -10.04 |    -9.34 |   -0.7  |       |
+| say      |    -9.35 |    -8.65 |   -0.7  |       |
+From: drozinst@db.erau.edu (Drozinski Tim)
+Subject: Re: Ulf and all...
+
+"William K. Willis" <ww1a+@andrew.cmu.edu> writes:
+
+>Richard Wernick writes:
+
+><stuff deleted> ... If the Bruins get to meet Pittsburgh in the near
+>future, you can bet Neely will have his day.  The sight of watching Ulf
+>turtle up like the coward he is, is worth almost as much as a Stanley
+>Cup. ... <stuff deleted>
+
+How much do you watch and follow hockey?  The Pens and Bruins will be in the
+same division next season, which will give Neeley plenty of opportunity
+to whine about Ulf.
+>     All I can say is, I'm glad that you are satisfied with seeing Ulf
+>"turtle up" as a substitute for the Stanley Cup, because that's as close
+>as the Bruins are going to come to the Stanley Cup for a while. 
+
+********************************************************************************Tim Drozinski
+drozinst@db.erau.edu
+"Chew electric death, snarling cur!"    Spaceman Spiff
+

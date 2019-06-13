@@ -1,0 +1,39 @@
+0.418362079844 0.581637920156 0.163275840312 True
+prediction: baseball for data\test\rec.sport.baseball\104948
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| going   |    -9.45 |    -7.62 |   -1.84 | **    |
+| right   |    -7.66 |    -9.41 |    1.75 | **    |
+| watch   |    -9.45 |    -7.8  |   -1.65 | **    |
+| lead    |    -7.84 |    -9.41 |    1.57 | **    |
+| think   |    -8.36 |    -6.84 |   -1.51 | **    |
+| go      |    -8.36 |    -6.92 |   -1.43 | **    |
+| get     |    -8.07 |    -9.41 |    1.34 | **    |
+| first   |    -7.06 |    -8.31 |    1.26 | **    |
+| every   |    -7.51 |    -8.72 |    1.21 | **    |
+| improve |    -9.45 |    -8.31 |   -1.14 | **    |
+From: tedward@cs.cornell.edu (Edward [Ted] Fischer)
+Subject: Re: Why is Barry Bonds not batting 4th?
+
+In article <1r93di$car@apple.com> chuq@apple.com (Chuq Von Rospach) writes:
+>
+>Some folks like to argue about theoretical details. I prefer to watch teams
+>win. When the Giants slip to third, then we can talk about how to re-arrange
+>the batting order. Until then, I think it's stupid to focus on what's wrong,
+>for the simple fact that IT'S WORKING AS IT IS.
+
+This is a fine strategy if you expect to run away with the division.
+But the Giants are going to need every break they can get, if they
+want too hold that lead.  I don't think they can afford to be
+lackadaisical, and say "well it has worked pretty well so far, and
+while we might be able to improve the results, we don't think it is
+worth the risk".
+
+>Mostly, though, the Giants are winning, and frankly, as long as that
+>continues, it's rather silly to second-guess their strategy. But evidently,
+>some folks would rather be right than be first.
+
+The two tend to go hand in hand...
+
+Cheers,
+-Valentine

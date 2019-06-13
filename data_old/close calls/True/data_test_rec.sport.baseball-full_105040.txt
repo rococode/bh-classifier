@@ -1,0 +1,26 @@
+0.404662333574 0.595337666426 0.190675332851 True
+prediction: baseball for data\test\rec.sport.baseball-full\105040
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| stats    |    -8.24 |   -10.04 |    1.8  | **    |
+| bos      |   -10.03 |    -8.25 |   -1.78 | **    |
+| league   |   -10.03 |    -8.25 |   -1.78 | **    |
+| pitching |    -8.64 |   -10.04 |    1.4  | **    |
+| steve    |    -8.93 |   -10.04 |    1.11 | **    |
+| year     |    -8.64 |    -8.43 |   -0.21 |       |
+| babe     |   -10.03 |   -10.04 |    0.01 |       |
+| babes    |   -10.03 |   -10.04 |    0.01 |       |
+| best     |   -10.03 |   -10.04 |    0.01 |       |
+| cg       |   -10.03 |   -10.04 |    0.01 |       |
+From: stevet@eskimo.com (Steven Thornton)
+Subject: Re: Babe's pitching
+
+
+Babe Ruth's lifetime pitching stats (selected):
+
+94-46, .671. 2.28 ERA. 163 G, 107 CG, 17 SHO, 10.6 RAT.
+
+Best year: 1916, Bos: 23-12, 1.75 ERA (led league) or
+           1917, Bos: 24-13, 2.01 ERA
+
+Steve Thornton   stevet@eskimo.com

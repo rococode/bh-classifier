@@ -1,0 +1,53 @@
+0.593041100899 0.406958899101 0.186082201799 True
+prediction: hockey for data\test\rec.sport.hockey-full\54306
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| scored |    -7.86 |   -10.06 |    2.2  | **    |
+| blue   |    -8.96 |   -10.06 |    1.1  | **    |
+| sorry  |   -10.06 |    -8.96 |   -1.1  | **    |
+| dare   |    -9.36 |   -10.06 |    0.7  |       |
+| apr    |   -10.06 |    -9.37 |   -0.69 |       |
+| gmt    |   -10.06 |    -9.37 |   -0.69 |       |
+| read   |   -10.06 |    -9.37 |   -0.69 |       |
+| since  |    -9.36 |    -8.67 |   -0.69 |       |
+| go     |    -8.45 |    -7.86 |   -0.59 |       |
+| game   |    -7.17 |    -7.66 |    0.49 |       |
+From: steven.kipling@freddy.ersys.edmonton.ab.ca (Steven Kipling) 
+Subject: Re: Test...Please ignore
+
+ -=> Quoting Ohandley@betsy.gsfc.nasa. to All <=-
+
+ Oh> From: ohandley@betsy.gsfc.nasa.gov
+ Oh> Newsgroups: rec.sport.hockey
+ Oh> Subject: Test...Please ignore
+ Oh> Message-ID: <1993Apr21.180741@betsy.gsfc.nasa.gov>
+ Oh> Date: Wed, 21 Apr 1993 22:07:41 GMT
+ Oh> Reply-To: ohandley@betsy.gsfc.nasa.gov
+
+ Oh> This is a test.....Please ignore.
+
+
+ Oh> =======================================================================
+ Oh> ========
+ Oh> =======================================================================
+ Oh> ========
+
+
+      OK I will ignore this message
+      since it is only a test.
+      wow, Montreal just scored to go up
+      1 - 0 in game 4 of their series, oh sorry
+      I was supposed to ignore this message wasn't I
+
+
+      bye for now.
+
+
+      Steve
+
+
+
+
+... DONT YOU DARE READ THIS TAGLINE!!!!!!!
+___ Blue Wave/QWK v2.12
+                                                      

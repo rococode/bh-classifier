@@ -1,0 +1,40 @@
+0.940412432209 0.0595875677908 0.880824864419 True
+prediction: hockey for data\test\rec.sport.hockey-full\54194
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| also    |   -10.11 |    -8.25 |   -1.86 | **    |
+| players |    -8.72 |   -10.04 |    1.32 | **    |
+| st      |    -8.72 |   -10.04 |    1.32 | **    |
+| like    |    -9.41 |    -8.25 |   -1.17 | **    |
+| feel    |    -9.01 |   -10.04 |    1.03 | **    |
+| many    |    -9.01 |   -10.04 |    1.03 | **    |
+| one     |    -7.8  |    -8.65 |    0.85 |       |
+| best    |    -8.16 |    -8.94 |    0.78 |       |
+| first   |    -9.01 |    -8.25 |   -0.76 |       |
+| goes    |   -10.11 |    -9.34 |   -0.76 |       |
+From: rbeskost@adam.East.Sun.COM (Richard Beskosty - Sun BOS Systems Product Assurance)
+Subject: Re: Goalie mask poll
+
+In article 93158@hydra.gatech.EDU, gtd597a@prism.gatech.EDU (Hrivnak) writes:
+> 
+> 	Here is an update on the Goalie mask poll...
+> 	First, since so many people gave me their 3 best, I decided to
+> give 3 pts for their favorite, 2 pts for 2nd, 1 for 3rd. If you e-mailed
+> a response with only one, I gave it 3 pts. Please feel free to send me
+> your 2 other favorites, if you only sent one before. 
+> 	Also, votes are still welcome! Any mask you like will do, as I 
+> have received votes for players not in the NHL. Please mention what team
+> they play for, though.
+> 	So here are the up-to-date results so far:
+> 
+> 
+
+
+My vote goes to Andy Moog 1st, Belfour 2nd, Vanbiesbrouck 3rd
+
+The Bruin's are hot at just the right time !!!!!
+
+
+rich beskosty
+
+rbeskost@east.sun.com

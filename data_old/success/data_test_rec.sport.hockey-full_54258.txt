@@ -1,0 +1,43 @@
+0.999273755529 0.000726244471167 0.998547511058 True
+prediction: hockey for data\test\rec.sport.hockey-full\54258
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| mon        |    -6.67 |    -9.34 |    2.67 | **    |
+| however    |   -10.11 |    -8.43 |   -1.68 | **    |
+| teams      |    -8.72 |   -10.04 |    1.32 | **    |
+| like       |    -9.41 |    -8.25 |   -1.17 | **    |
+| would      |    -7.54 |    -8.43 |    0.89 |       |
+| games      |    -8.16 |    -8.94 |    0.78 |       |
+| earlier    |   -10.11 |    -9.34 |   -0.76 |       |
+| pittsburgh |   -10.11 |    -9.34 |   -0.76 |       |
+| wrote      |   -10.11 |    -9.34 |   -0.76 |       |
+| chicago    |    -9.41 |   -10.04 |    0.62 |       |
+From: ragraca@vela.acs.oakland.edu (Randy A. Graca)
+Subject: Re: Radio stations
+
+co398@cleveland.Freenet.Edu (Theodore G. Benjamin) writes:
+
+
+>In messge 51890 on Mon Apr 19 15:46:40 1993, greanias@texas.mitre.org (Steve Greanias) wrote:
+
+>>        I do not have cable and on the nights the Caps don't 
+>>play, I would like to tune in other games.  Does anyone have a 
+>>list of the radio stations which broadcast the games for the NHL
+>>teams?
+
+>Here are the ones I can remember offhand:
+
+>     KDKA    1020 AM   Pittsburgh Penguins
+
+Lori, the regular Penguins poster here on rec.sport.hockey, indicated to me
+via e-mail that on the nights that Pirates baseball and Penguins playoff 
+games coincide, the Pens will be covered on WDVE FM (102.5).
+
+>     WABC     770 AM   New Jersey Devils
+>     WBBM     780 AM   Chicago Blackhawks
+>     WJM (?)  720 AM   Detroit Redwings
+      ^^^^     ^^^^
+This is WJR in Detroit and it's 760 AM. However, as I neglected to mention in
+my earlier response to this thread,  on the nights when the Tigers baseball
+games coincide with the Wings' playoff games, the Wings will be carried on
+WLLZ FM (98.7).

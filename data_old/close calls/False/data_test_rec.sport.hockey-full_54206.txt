@@ -1,0 +1,33 @@
+0.482710477271 0.517289522729 0.0345790454576 False
+prediction: baseball for data\test\rec.sport.hockey-full\54206
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| new       |   -10.04 |    -8.65 |   -1.39 | **    |
+| jack      |    -8.66 |   -10.04 |    1.38 | **    |
+| san       |    -8.66 |   -10.04 |    1.38 | **    |
+| well      |    -8.66 |   -10.04 |    1.38 | **    |
+| ive       |   -10.04 |    -8.94 |   -1.1  | **    |
+| ticket    |    -8.94 |   -10.04 |    1.1  | **    |
+| writes    |    -8.43 |    -7.55 |   -0.88 |       |
+| announced |   -10.04 |    -9.35 |   -0.7  |       |
+| different |    -9.35 |    -8.65 |   -0.7  |       |
+| fired     |   -10.04 |    -9.35 |   -0.7  |       |
+From: chuq@apple.com (Chuq Von Rospach)
+Subject: Re: SHARKS: Jack Feirerra (was Re: SHARKS: Kingston Fired!!!)
+
+mre@teal.Eng.Sun.COM (Mike Eisler) writes:
+
+>I've been a loyal ticket holder, since day 1 (literally) in spring of
+>'90 when the team was announced.  and I'm not getting that loyalty
+>returned.
+
+Well, so are we, and we see it completely different than you. Guess it's a
+matter of perspective.
+
+-- 
+ Chuq "IMHO" Von Rospach, ESD Support & Training (DAL/AUX) =+= chuq@apple.com
+   Member, SFWA =+= Editor, OtherRealms =+=  GEnie: MAC.BIGOT =+= ALink:CHUQ 
+  Minor League fans: minors-request@medraut.apple.com (San Jose Giants: A/1/9)
+  San Francisco Giants fans: giants-request@medraut.apple.com (The Stick?NOT!)
+   San Jose Sharks fans: sharks-request@medraut.apple.com (New seat: 127/TBD)
+

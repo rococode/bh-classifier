@@ -1,0 +1,27 @@
+0.471035385296 0.528964614704 0.0579292294079 False
+prediction: baseball for data\test\rec.sport.hockey-full\54309
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| hell      |    -8.28 |   -10.08 |    1.79 | **    |
+| islanders |   -10.08 |    -8.47 |   -1.61 | **    |
+| dont      |    -8.69 |   -10.08 |    1.39 | **    |
+| know      |    -7.77 |    -8.69 |    0.92 |       |
+| win       |    -8.47 |    -9.38 |    0.92 |       |
+| third     |    -8.47 |    -7.59 |   -0.87 |       |
+| capitals  |    -9.38 |   -10.08 |    0.69 |       |
+| man       |    -9.38 |   -10.08 |    0.69 |       |
+| go        |    -8.28 |    -7.59 |   -0.69 |       |
+| living    |   -10.08 |    -9.38 |   -0.69 |       |
+From: jsmilla@emory.edu (Joshua S. Millard)
+Subject: Islanders win Third in OT
+
+Don't know who scored, but the Isles (28-7 franchise record in
+playoff OT games) took game four by a score of 4-3 for their
+third consecutive OT win over the Capitals tonight at Uniondale.
+If you know, please post who scored for a Isles fan living in
+Atlanta:Hockey Hell.
+
+Lord Stan's a Uniondale Man!  GO ISLES!
+
+JSM.
+

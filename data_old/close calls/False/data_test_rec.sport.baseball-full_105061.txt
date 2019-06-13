@@ -1,0 +1,49 @@
+0.554436252848 0.445563747153 0.108872505695 False
+prediction: hockey for data\test\rec.sport.baseball-full\105061
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| bob      |    -7.96 |   -10.04 |    2.08 | **    |
+| get      |   -10.04 |    -8.1  |   -1.94 | **    |
+| run      |   -10.04 |    -8.25 |   -1.79 | **    |
+| night    |    -8.94 |   -10.04 |    1.1  | **    |
+| perhaps  |    -8.94 |   -10.04 |    1.1  | **    |
+| starting |    -8.94 |   -10.04 |    1.1  | **    |
+| real     |   -10.04 |    -8.94 |   -1.1  | **    |
+| would    |    -8.65 |    -7.56 |   -1.1  | **    |
+| article  |    -7.74 |    -8.66 |    0.92 |       |
+| know     |    -8.43 |    -9.35 |    0.92 |       |
+From: pcollac@pyrnova.mis.pyramid.com (Paul Collacchi)
+Subject: Re: Geronimo Pena?
+
+In article <1r3ejr$7tb@meaddata.meaddata.com>, daves@meaddata.com (Dave
+Spencer) writes:
+|> In article <1r20avINNb6q@cronkite.Central.Sun.COM>,
+bobn@hawkwind.central.Sun.COM (Bob Netherton) writes:
+|> |> In article <1993Apr20.013653.1@eagle.wesleyan.edu>,
+dhart@eagle.wesleyan.edu writes:
+|> |> |> 
+|> |> |> 
+|> |> |> Hey...I've noticed that Luis Alicea is starting at 2nd for the
+Cardinals
+|> |> |> instead of Geronimo Pena.  Is Pena hurt, or was he just benched
+for poor
+|> |> |> performance?  Anyone know?
+|> |> 
+|> |> After a quick start, Pena has been stuck in a rut.  Torre gave Alicea
+|> |> the start to try to get Pena out of whatever funk he is in.  It has
+|> |> worked in the past.
+|> |> 
+|> 
+|>    And it has worked again. Pena went 3 for 3 last night against Colorado.
+|> 
+
+Without opening this up for a sabermetric flame war, I would like to
+question the notion that "sitting a rested player down" has any real
+effect on his long-term performance.  Sure, if a man is tired and needs
+real rest, then taking a break might be a constructive act.  Perhaps if
+a man is mentally "strained", then sitting him down might help to the
+extent that that helps him relax.  But I would like to suggest that
+in the long run, players do slump, and benching is probably irrelevant.
+
+Paul Collacchi
+

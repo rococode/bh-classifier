@@ -1,0 +1,33 @@
+0.342632693006 0.657367306994 0.314734613987 False
+prediction: baseball for data\test\rec.sport.hockey-full\54530
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| bob     |   -10.04 |    -7.47 |   -2.57 | **    |
+| fans    |    -8.25 |   -10.11 |    1.86 | **    |
+| players |   -10.04 |    -8.72 |   -1.32 | **    |
+| like    |    -8.25 |    -9.41 |    1.17 | **    |
+| mike    |    -8.94 |   -10.11 |    1.17 | **    |
+| says    |    -8.94 |   -10.11 |    1.17 | **    |
+| going   |   -10.04 |    -9.01 |   -1.03 | **    |
+| know    |    -8.43 |    -9.41 |    0.99 |       |
+| never   |    -8.65 |    -7.8  |   -0.85 |       |
+| one     |    -8.65 |    -7.8  |   -0.85 |       |
+From: mre@teal.Eng.Sun.COM (Mike Eisler)
+Subject: Re: LET'S GO BUFFALO!
+
+In article <93111.205214RAP115@psuvm.psu.edu> Robbie Po <RAP115@psuvm.psu.edu> writes:
+>In article <AfpIKNm00WBLI1isJ1@andrew.cmu.edu>, "William K. Willis"
+><ww1a+@andrew.cmu.edu> says:
+>>
+>>     You know, I never really appreciated them before!
+>
+>Looks like Bob Errey's ring really sparkles in that locker room, and everyone
+>else wants one, too! :-)  Correct me if I'm wrong though, (just through
+
+No, Fuhr's 5 rings out sparkle Errey's. And doesn't Bob have 2 rings?
+-- 
+Mike Eisler, mre@Eng.Sun.Com  ``Not only are they [Leafs] the best team, but
+ their fans are even more intelligent and insightful than Pittsburgh's.  Their
+ players are mighty bright, too.  I mean, he really *was* going to get his
+ wallet back, right?'' Jan Brittenson 3/93, on Leaf/Pen woofers in
+ rec.sport.hockey

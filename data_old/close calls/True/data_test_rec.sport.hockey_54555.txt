@@ -1,0 +1,31 @@
+0.60774183611 0.39225816389 0.215483672221 True
+prediction: hockey for data\test\rec.sport.hockey\54555
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| pens       |    -7.62 |    -9.45 |    1.84 | **    |
+| gets       |    -9.41 |    -7.66 |   -1.75 | **    |
+| wins       |    -9.41 |    -7.84 |   -1.57 | **    |
+| pittsburgh |    -8.02 |    -9.45 |    1.43 | **    |
+| get        |    -9.41 |    -8.07 |   -1.34 | **    |
+| somebody   |    -9.41 |    -8.36 |   -1.05 | **    |
+| tied       |    -9.41 |    -8.36 |   -1.05 | **    |
+| beat       |    -8.72 |    -9.45 |    0.74 |       |
+| breaking   |    -8.72 |    -9.45 |    0.74 |       |
+| lions      |    -8.72 |    -9.45 |    0.74 |       |
+From: Robbie Po <RAP115@psuvm.psu.edu>
+Subject: Re: Devils and Islanders tiebreaker????
+
+In article <C5LDI2.77u@odin.corp.sgi.com>, enolan@sharkbite.esd.sgi.com (Ed
+Nolan) says:
+>If the Islanders beat the Devils tonight, they would finish with
+>identical records.  Who's the lucky team that gets to face the Penguins
+>in the opening round?   Also, can somebody list the rules for breaking
+>ties.
+      As I recall, the Penguins and Devils tied for third place last year
+with identical records, as well.  Poor Devils -- they always get screwed.
+Yet, they should put a scare into Pittsburgh.  They always do!  Pens in 7.
+-------------------------------------------------------------------------
+** Robbie Po **          PGH PENGUINS!!!    "It won't be easy, but it
+Contact for the '93-'94  '91 STANLEY CUP    will have greater rewards.
+Penn State Lady Lions    '92 CHAMPIONS      Mountains and Valleys are
+rap115@psuvm.psu.edu     11 STRAIGHT WINS!  better than nothing at all!"

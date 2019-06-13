@@ -1,0 +1,34 @@
+0.517255335719 0.482744664281 0.0345106714385 False
+prediction: hockey for data\test\rec.sport.baseball-full\105028
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| boston   |    -8.26 |   -10.03 |    1.77 | **    |
+| mlb      |   -10.05 |    -8.65 |   -1.4  | **    |
+| red      |    -8.66 |   -10.03 |    1.37 | **    |
+| april    |   -10.05 |    -9.34 |   -0.71 |       |
+| key      |   -10.05 |    -9.34 |   -0.71 |       |
+| official |   -10.05 |    -9.34 |   -0.71 |       |
+| theyre   |   -10.05 |    -9.34 |   -0.71 |       |
+| job      |    -9.36 |   -10.03 |    0.68 |       |
+| ok       |    -9.36 |   -10.03 |    0.68 |       |
+| place    |    -9.36 |   -10.03 |    0.68 |       |
+From: wall@cc.swarthmore.edu (Matthew Wall)
+Subject: Rules on-line?
+
+Well, I'm finally about to key in the official rules for the archives, but
+before I do, I will ask again...
+
+does anybody have the official MLB rules in electronic format?
+
+Just trying to save myself a ton of work...no, they don't scan well because
+of the ridiculous format they're printed in.
+
+thanks
+
+- Matt
+
+
+
+Matt Wall * wall@cc.swarthmore.edu * Hey, I gotta job here, OK?
+---------------------------------------------------------------
+April 6, 1993: Boston Red Sox seize first place.

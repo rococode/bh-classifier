@@ -1,0 +1,31 @@
+0.530550252337 0.469449747663 0.0611005046746 True
+prediction: hockey for data\test\rec.sport.hockey\54245
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| hockey      |    -6.98 |    -9.72 |    2.74 | **    |
+| goal        |    -7.39 |    -9.72 |    2.33 | **    |
+| get         |    -9    |    -7.01 |   -1.99 | **    |
+| canada      |    -7.9  |    -9.02 |    1.13 | **    |
+| explain     |    -8.59 |    -9.72 |    1.13 | **    |
+| game        |    -6.74 |    -5.83 |   -0.92 |       |
+| interviewed |    -9    |    -9.72 |    0.72 |       |
+| stars       |    -8.3  |    -9.02 |    0.72 |       |
+| talk        |    -9    |    -9.72 |    0.72 |       |
+| care        |    -9.69 |    -9.02 |   -0.66 |       |
+From: ua256@freenet.Victoria.BC.CA (Tom Moffat)
+Subject: Interview guests
+
+
+Have you ever noticed that after a hockey player has been interviewed
+in between periods on a tv game. That they usually get a goal or
+an assist. can you explain this or is it that they usually talk 
+to stars more than regular players which explains the hight 
+percentage of results after.
+
+Just wondering how everybody else thinks about this or if they dont 
+care about this trivial nonsense.
+ttyl  Tom
+-- 
+Tom Moffat
+Victoria B.C.
+Canada

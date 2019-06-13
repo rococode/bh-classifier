@@ -1,0 +1,29 @@
+0.566571423562 0.433428576438 0.133142847124 False
+prediction: hockey for data\test\rec.sport.baseball-full\104951
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| one        |    -8.65 |   -10.05 |    1.41 | **    |
+| starting   |   -10.04 |    -8.96 |   -1.08 | **    |
+| twins      |   -10.04 |    -8.96 |   -1.08 | **    |
+| first      |    -8.94 |    -8.11 |   -0.83 |       |
+| came       |    -9.34 |   -10.05 |    0.71 |       |
+| however    |    -9.34 |   -10.05 |    0.71 |       |
+| opposing   |    -9.34 |   -10.05 |    0.71 |       |
+| lefthanded |   -10.04 |    -9.36 |   -0.67 |       |
+| article    |    -7.73 |    -8.26 |    0.53 |       |
+| game       |    -7.96 |    -8.45 |    0.49 |       |
+From: paul@csd4.csd.uwm.edu (Paul R Krueger)
+Subject: Re: Twins Update 4-22
+
+In article <1993Apr23.151050.8995@sctc.com> macomber@sctc.com (Chuck Macomber) writes:
+
+
+>
+>Wednesday's game marked the first opposing left-handed starting pitcher for the
+>Twins this year (Rickey Bones).   
+   Nice post Chuck, but you made just one mistake. Bones is a right-handed
+   pitcher. However, Hrbek's grand slam came off Graehme Lloyd, a lefty.
+
+   --salty
+
+

@@ -1,0 +1,33 @@
+0.544510010134 0.455489989866 0.0890200202686 True
+prediction: hockey for data\test\rec.sport.hockey-full\54704
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| nhl      |    -7.72 |   -10.04 |    2.33 | **    |
+| mark     |    -7.81 |    -9.35 |    1.54 | **    |
+| long     |   -10.11 |    -8.66 |   -1.46 | **    |
+| writes   |    -9.01 |    -7.56 |   -1.46 | **    |
+| cant     |    -8.73 |   -10.04 |    1.32 | **    |
+| playoffs |    -8.73 |   -10.04 |    1.32 | **    |
+| everyone |   -10.11 |    -8.94 |   -1.17 | **    |
+| article  |    -8.73 |    -7.84 |   -0.88 |       |
+| gets     |   -10.11 |    -9.35 |   -0.76 |       |
+| believe  |    -8.5  |    -8.94 |    0.44 |       |
+From: nhmas@gauss.med.harvard.edu (Mark Shneyder 432-4219)
+Subject: Re: NHL LETTER (***QUITE LONG***)
+
+In article <1993Apr26.054446.29764@sol.ctr.columbia.edu> phoenix@startide.ctr.columbia.edu (Ali Lemer) writes:
+>
+>Hey, everyone, didja hear that? We're "fanatics" now! Cool! Can we get our
+>own 1400-acre compound, replete with weapon and ammo caches? Who wants a
+>barbeque?
+>
+>
+>-- Ali.
+
+I can't believe sh*t like this gets any attention in this group during
+the playoffs.
+
+Ali,you're a blabbering moron. At least you could've waited 'till
+the end of the playoffs to start your dumb letter campaign.
+
+-PPV Mark

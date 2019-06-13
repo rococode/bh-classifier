@@ -1,0 +1,47 @@
+0.580711059103 0.419288940897 0.161422118205 False
+prediction: hockey for data\test\rec.sport.baseball-full\104931
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| play   |    -6.9  |    -9.35 |    2.45 | **    |
+| first  |    -7.51 |    -9.35 |    1.84 | **    |
+| home   |   -10.08 |    -8.25 |   -1.83 | **    |
+| games  |    -8.47 |    -6.75 |   -1.72 | **    |
+| think  |    -7.68 |    -9.35 |    1.67 | **    |
+| could  |    -8.47 |   -10.04 |    1.57 | **    |
+| made   |    -8.69 |   -10.04 |    1.35 | **    |
+| murphy |    -8    |    -9.35 |    1.35 | **    |
+| late   |   -10.08 |    -8.95 |   -1.13 | **    |
+| mets   |   -10.08 |    -8.95 |   -1.13 | **    |
+From: roger@crux.Princeton.EDU (Roger Lustig)
+Subject: Re: New Home for the Bosox!!!
+
+In article <1993Apr15.132741.11322@scott.skidmore.edu> jrogoff@scott.skidmore.edu (jay rogoff) writes:
+
+>> I agree, though I'd also be happy with a stadium that looks
+>> like new Comiskey. The new park was also made for baseball.
+>> Unlike Three Rivers, the Vet, Riverfront, etc., it's not a
+>> football park in which they also play baseball.
+
+>While we're on the multipurpose subject, let's not forget Shea, which
+>was designed to accommodate both the Mets & Jets.  It was the first
+>stadium (I think) to have the box seats on rollers so they could be
+>oriented at right angles for baseball & in parallel for football.
+
+Not the first.  RFK, olim DC Stadium, was built 2 years earlier.
+Nowadays they don't move the seats back for the few exhibition
+games; but the 3rd-base/LF lower deck used to move.  It was all 
+metal, which was pretty noisy on Bat Day.
+
+>Of course, with the Jets gone to Jersey (and a truly good football
+>stadium), the Mets are saddled with a multipurpose stadium where,
+>because it's circular, the seats are almost always too far from the
+>action.  The Mets announcers--Kiner & Murphy in particular--have
+>always hyped it as "beautiful Shea
+>Stadium," a tipoff to how unbeautiful it truly is.
+
+It's vastly better than it was before they fixed it, though.  Back in
+the late 70's it was a *dump*.
+
+Roger (don't you*like* jet noise?)
+
+

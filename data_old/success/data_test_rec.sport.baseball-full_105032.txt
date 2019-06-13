@@ -1,0 +1,32 @@
+3.06040205329e-07 0.99999969396 0.99999938792 True
+prediction: baseball for data\test\rec.sport.baseball-full\105032
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| ball   |    -7.47 |   -10.11 |    2.63 | **    |
+| also   |    -8.25 |   -10.11 |    1.86 | **    |
+| may    |   -10.04 |    -8.5  |   -1.54 | **    |
+| roger  |   -10.04 |    -8.5  |   -1.54 | **    |
+| take   |   -10.04 |    -8.72 |   -1.32 | **    |
+| away   |    -8.94 |   -10.11 |    1.17 | **    |
+| much   |    -8.94 |   -10.11 |    1.17 | **    |
+| know   |    -8.43 |    -9.41 |    0.99 |       |
+| one    |    -8.65 |    -7.8  |   -0.85 |       |
+| could  |    -9.34 |    -8.5  |   -0.85 |       |
+From: <HEALEY@QUCDN.QueensU.CA>
+Subject: Re: HBP? BB? BIG-CAT?
+
+The original poster wanted to know how the Big Cat looked. I was also at
+the Saturday game in Montreal (Apr 17) that Rockies won 9-1. I haven't
+paid much attention to Gallarraga since he left the Expos but his stance
+seemed to be MUCH different. He stands more erect and very open, with his
+left foot pointing to 3rd base. I'm wondering if this is a recent change
+in stance for him? Andres had one glaring weakness as a hitter. He could
+always be fooled by a curve ball low and away. If this is indeed a new
+stance for him, maybe he is not being fooled as easily? As for his patience,
+
+Dennis Martinez definitely did not have his good stuff. If he was grooving
+pitches to Andres, you can hardly fault him for drilling them (which he did!).
+Does Andres generally start hot or cold? Does it take until May for most
+pitchers to have confidence in that curve ball low and away?
+
+Roger Healey

@@ -1,0 +1,42 @@
+0.999603519543 0.00039648045658 0.999207039087 True
+prediction: hockey for data\test\rec.sport.hockey-full\54765
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| van     |    -6.74 |   -10.04 |    3.3  | **    |
+| however |   -10.11 |    -8.43 |   -1.68 | **    |
+| paul    |    -8.72 |   -10.04 |    1.32 | **    |
+| around  |    -9.01 |   -10.04 |    1.03 | **    |
+| follow  |    -9.01 |   -10.04 |    1.03 | **    |
+| want    |    -9.41 |    -8.43 |   -0.99 |       |
+| best    |    -8.16 |    -8.94 |    0.78 |       |
+| games   |    -8.16 |    -8.94 |    0.78 |       |
+| good    |    -8.16 |    -8.94 |    0.78 |       |
+| even    |    -9.41 |    -8.65 |   -0.76 |       |
+From: yatrou@INRS-Telecom.Uquebec.CA (Paul Yatrou)
+Subject: Re: Stewart homered the Wings!!
+
+In <andy.bgsu.edu-250493225109@m248-100.bgsu.edu> andy.bgsu.edu (Ryan ) writes:
+
+>  Paul Stewart called *the* single worst game I've seen this year.
+> Federov's major was obvious, and I don't dispute it.  
+>However, Chaisson's penalty shouldn't even have been a penalty, let alone
+> a major and a game misconduct.
+>
+
+I don't "notice" refs and linesmen until the playoffs come around, and
+yes I have to agree that Stewart called the *two* worst games I've seen
+so far (Mtl-Quebec game 1, and last nights Toronto-Detroit game).
+
+What's the scoop on this guy? Is he the latest incarnation of
+KERRY FRASER??? Just because you are boneheadedly stubborn doesn't
+make you a good ref!!! Making the right call does...
+
+My votes for:
+Best Ref: Van Hellemond
+Most Improved: Koharski
+Worst: Paul Stewart
+
+(Oops, I don't really want to start a best/worst ref thread so don't
+follow up ;-)
+
+Paul Yatrou.

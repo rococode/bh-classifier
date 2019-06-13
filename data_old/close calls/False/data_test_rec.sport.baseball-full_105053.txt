@@ -1,0 +1,21 @@
+0.598045071211 0.401954928789 0.196090142422 False
+prediction: hockey for data\test\rec.sport.baseball-full\105053
+| word          |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------------|----------|----------|---------|-------|
+| would         |    -7.98 |    -8.42 |    0.44 |       |
+| go            |    -8.27 |    -8.42 |    0.15 |       |
+| autobiography |   -10.06 |   -10.03 |   -0.03 |       |
+| carpool       |   -10.06 |   -10.03 |   -0.03 |       |
+| catholic      |   -10.06 |   -10.03 |   -0.03 |       |
+| devout        |   -10.06 |   -10.03 |   -0.03 |       |
+| everyday      |   -10.06 |   -10.03 |   -0.03 |       |
+| hernandez     |   -10.06 |   -10.03 |   -0.03 |       |
+| kieth         |   -10.06 |   -10.03 |   -0.03 |       |
+| mass          |   -10.06 |   -10.03 |   -0.03 |       |
+From: scordova@epas.utoronto.ca (Stephen Cordova)
+Subject: Rusty's religion
+
+As I recall from Kieth Hernandez' 'auto'biography, Rusty is a devout
+Roman Catholic.  Kieth and Rusty would carpool to Shea everyday but
+Sunday, when Rusty would go to mass.
+SC

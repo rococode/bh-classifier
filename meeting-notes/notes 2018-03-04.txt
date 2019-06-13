@@ -1,0 +1,48 @@
+left align everything
+
++ hockey label looks like a button. Just have model decided in-line with bold or something
+
+consistent font sizes
+
+drop the instructions about clicking words - only on the first one, when they're learning (practice / training email)
+
+specify "click 3 words to highlight in blue and select as most important"
+
+put both before (yellow and blue) - 
+
+
+
+The model decided this email is about HOCKEY, which may or may not be correct.
+
+words hl in yelo were most important to the model for making this decision
+
+pls provide fedback to the model by clicking three words to highlight in blue that **u**[italics] think are most important for deciding the correct category of this email, baseball or hockey"
+
+
+Green box: You have chosen 0 out of 3 words: 
+
+separate "help us improve" with proceed to next
+
+proceed to next email button, separately - below the how many words chosen, unless they have exactly 3
+
+wording change: To help us improve this survey, please let us know: Was the model's DECISION in this case correct? yes no unsure
+
+black bg popup display
+
+alert: If you change your mind on a word, you can click it again to deselect it.
+
+lighter blue highlight instead of underline
+
+select 3 **different** words
+
+BUG FIX: splice (clicking words sometimes causes other words to be removed as well)
+
+highlight just the word that's clicked  - disable click on same word (alert with "pls choose different one")
+
+what's the mean/median length of emails
+
+choose emails that are reasonably identifiable
+
+on-boarding / practice run
+
+randomize training set, check for what the usual accuracy is (close to 77%?)

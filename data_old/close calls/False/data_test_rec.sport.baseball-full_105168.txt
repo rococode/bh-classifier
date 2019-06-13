@@ -1,0 +1,30 @@
+0.577582978262 0.422417021738 0.155165956524 False
+prediction: hockey for data\test\rec.sport.baseball-full\105168
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| bob     |    -8.26 |   -10.04 |    1.78 | **    |
+| john    |   -10.05 |    -8.65 |   -1.39 | **    |
+| back    |    -8.66 |   -10.04 |    1.38 | **    |
+| players |    -7.97 |    -9.35 |    1.38 | **    |
+| majors  |   -10.05 |    -8.94 |   -1.11 | **    |
+| well    |    -8.95 |    -7.96 |   -0.99 |       |
+| article |    -8.95 |    -8.25 |   -0.7  |       |
+| braves  |   -10.05 |    -9.35 |   -0.7  |       |
+| hit     |   -10.05 |    -9.35 |   -0.7  |       |
+| lost    |   -10.05 |    -9.35 |   -0.7  |       |
+From: rickert@NeXTwork.Rose-Hulman.Edu (John H. Rickert)
+Subject: Re: Players Rushed to Majors
+
+In article <93122@hydra.gatech.EDU> re4@prism.gatech.EDU (RUSSELL EARNEST)  
+writes:
+> This brings back the long suffering memories of pre-chop Braves fans who
+> kept being promised the Bob Horner - Dale Murphy back to back power slam.  
+> Who could stop that?  Guess we'll never know.
+
+Why not? Horner played 130 games in 1985 and hit 27 HR.
+Murphy played 162 and hit 37.
+In 1986 Horner hit 27 in 141 games and Murphy hit 29 in 160 games.
+(and the Braves lost 96 and 89 games).
+
+john rickert
+rickert@nextwork.rose-hulman.edu

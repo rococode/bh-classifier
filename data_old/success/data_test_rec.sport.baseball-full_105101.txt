@@ -1,0 +1,30 @@
+4.84557498748e-07 0.999999515442 0.999999030885 True
+prediction: baseball for data\test\rec.sport.baseball-full\105101
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| ball    |    -7.47 |   -10.11 |    2.63 | **    |
+| fly     |    -8.25 |   -10.11 |    1.86 | **    |
+| infield |    -8.43 |   -10.11 |    1.68 | **    |
+| l       |   -10.04 |    -8.5  |   -1.54 | **    |
+| run     |    -8.65 |   -10.11 |    1.46 | **    |
+| e       |   -10.04 |    -8.72 |   -1.32 | **    |
+| rule    |    -8.94 |   -10.11 |    1.17 | **    |
+| soon    |    -8.94 |   -10.11 |    1.17 | **    |
+| tim     |    -8.94 |   -10.11 |    1.17 | **    |
+| caught  |    -8.43 |    -9.41 |    0.99 |       |
+From: fls@keynes.econ.duke.edu (Forrest Smith)
+Subject: Re: Infield Fly Rule
+
+In article <1qmrciINNoin@gap.caltech.edu> shippert@cco.caltech.edu (Tim Shippert) writes:
+[about the infield fly rule]
+>So, if he's feeling lucky, your runner at second can sprint for glory
+>as soon as the ball is popped up.  If it isn't caught, he's probably scored
+>a run.  If it is, he's probably headed for AAA.  
+>
+	Unless he's Deion Sanders, in which case he just heads back to the
+dugout and waits for his next base-running-blunder opportunity.
+-- 
+@econ.duke.edu     fls@econ.duke.edu     fls@econ.duke.edu    fls@econ.duke.
+s  To my correspondents:  My email has been changed.                       e
+l                         My new address is:  fls@econ.duke.edu            d
+f            If mail bounces, try fls@raphael.acpub.duke.edu               u

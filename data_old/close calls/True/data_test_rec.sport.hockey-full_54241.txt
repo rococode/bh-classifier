@@ -1,0 +1,47 @@
+0.615534245299 0.384465754701 0.231068490597 True
+prediction: hockey for data\test\rec.sport.hockey-full\54241
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| back     |   -10.04 |    -8.11 |   -1.94 | **    |
+| might    |   -10.04 |    -8.26 |   -1.78 | **    |
+| season   |   -10.04 |    -8.44 |   -1.6  | **    |
+| l        |    -8.65 |   -10.05 |    1.4  | **    |
+| playoffs |    -8.94 |   -10.05 |    1.11 | **    |
+| bob      |    -9.35 |    -8.26 |   -1.09 | **    |
+| charge   |   -10.04 |    -8.95 |   -1.09 | **    |
+| ed       |    -9.35 |   -10.05 |    0.7  |       |
+| ie       |    -9.35 |   -10.05 |    0.7  |       |
+| losing   |    -9.35 |   -10.05 |    0.7  |       |
+From: gld@cunixb.cc.columbia.edu (Gary L Dare)
+Subject: Stan Fischler, 4/16 (Keenan stuff!)
+
+
+* The Keenan hiring is precipitated by the loss of an anticipated $5M
+in playoff revenue and fears of losing season ticket-holders (!), plus
+Paramount chief Stan Jaffe's chip against the Flyers over l'Affaire
+Lindros last autumn.  Add to this that Neilsen might return as an
+assistant coach [Gerald, what'd I say earlier today??], and Roger
+conferred with Jaffe on the hiring.  This hiring by Jaffe went over
+the head of MSG, Inc. (Par. subsidiary) head Bob Gutkowski and over
+the head and the protests of Pres./GM Neil Smith.
+
+* MSG is making the announcement on Saturday to get back at the
+Islanders for making the playoffs (i.e., steal the press).
+
+* Flyers owner Ed Snyder is livid and beside himself over this.
+
+* Keenan will make up to $900,000/yr.
+
+* Gary Bettman has appointed an independent consul to look at
+Gil Stein's admission into the Hall of Fame.
+
+* New crease colours, rather than blue?
+
+* The Oilers will charge to eat in the Press Room next year.
+
+gld
+--
+~~~~~~~~~~~~~~~~~~~~~~~~ Je me souviens ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gary L. Dare
+> gld@columbia.EDU 			GO  Winnipeg Jets  GO!!!
+> gld@cunixc.BITNET			Selanne + Domi ==> Stanley

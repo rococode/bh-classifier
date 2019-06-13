@@ -1,0 +1,29 @@
+0.536720454318 0.463279545682 0.0734409086353 False
+prediction: hockey for data\test\rec.sport.baseball-full\104918
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| game    |    -7.35 |    -8.92 |    1.57 | **    |
+| world   |   -10.06 |    -8.64 |   -1.43 | **    |
+| make    |    -8.96 |   -10.02 |    1.06 | **    |
+| vs      |    -8.96 |   -10.02 |    1.06 | **    |
+| account |   -10.06 |    -9.33 |   -0.73 |       |
+| al      |   -10.06 |    -9.33 |   -0.73 |       |
+| c       |   -10.06 |    -9.33 |   -0.73 |       |
+| longer  |   -10.06 |    -9.33 |   -0.73 |       |
+| last    |    -8.68 |    -9.33 |    0.65 |       |
+| series  |    -8.96 |    -8.41 |   -0.55 |       |
+From: rja@mahogany126.cray.com (Russ Anderson)
+Subject: Re: NL vs. AL?
+
+
+In article <C5Dxqp.Hoo@news.rich.bnr.ca>, bratt@crchh7a9.NoSubdomain.NoDomain (John Bratt) writes:
+
+> How about game length?  I don't know if this is a valid statement or not, 
+> but AL games sure seem to last a lot longer.
+
+Make sure to take the Sutcliff, Fisk, ect. factor into account.
+
+-- 
+Russ Anderson    |  Disclaimer: Any statements are my own and do not reflect
+------------------              upon my employer or anyone else.  (c) 1993
+EX-Twins' Jack Morris, 10 innings pitched, 0 runs (World Series MVP!)

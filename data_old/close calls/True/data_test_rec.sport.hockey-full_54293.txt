@@ -1,0 +1,43 @@
+0.595784820138 0.404215179862 0.191569640275 True
+prediction: hockey for data\test\rec.sport.hockey-full\54293
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| lost       |   -10.05 |    -7.56 |   -2.49 | **    |
+| university |    -7.97 |   -10.05 |    2.07 | **    |
+| might      |   -10.05 |    -8.1  |   -1.95 | **    |
+| goal       |    -8.26 |   -10.05 |    1.78 | **    |
+| rd         |    -8.26 |   -10.05 |    1.78 | **    |
+| teams      |    -7.75 |    -9.35 |    1.6  | **    |
+| city       |   -10.05 |    -8.66 |   -1.39 | **    |
+| take       |    -8.67 |   -10.05 |    1.38 | **    |
+| bit        |   -10.05 |    -8.95 |   -1.11 | **    |
+| got        |   -10.05 |    -8.95 |   -1.11 | **    |
+From: BGK2 <BGK2@MUSICB.MCGILL.CA>
+Subject: HABS TIE SERIES AT 2 !!!!!!!
+
+YAHOOOOOOOOO!
+
+The Habs tied this sucker at 2 and the teams now head for Quebec
+City to play game 5.  BTW, final score was Habs 3-Nords 2.
+
+The score might be a bit misleading.  The Habs dominated the game
+from the 5:00 mark of the first and then on.  The score should have
+been 8-2 if it weren't for some miraculous save from a Ron Hextall
+(bastard!).  He's the reason the score was as close.  Habs winning
+goal was scored by Benoit Brunet at 1:07 of the 3rd.
+
+Roy had an OK game.  He made the first save (one way or another)
+and the defense was there to clear any rebounds.
+
+This just in, ESPN radio reports that the Bruins lost 6-5 in OT.
+YAHOOOOOOOOOOO!!!  Those suckers got what they deserved.
+
+Life is just great!!!! Now if my finals would go just as well!
+
+Nick (I'll take off my town crier hat now)
+
+---
+ The Czar of Mainframe Computing
+ <BGK2@MUSICB.MCGILL.CA>
+ McGill University
+

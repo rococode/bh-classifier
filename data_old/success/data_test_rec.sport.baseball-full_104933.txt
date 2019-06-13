@@ -1,0 +1,41 @@
+0.00128913887947 0.998710861121 0.997421722241 True
+prediction: baseball for data\test\rec.sport.baseball-full\104933
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| also    |    -8.25 |   -10.11 |    1.86 | **    |
+| roger   |   -10.04 |    -8.5  |   -1.54 | **    |
+| players |   -10.04 |    -8.72 |   -1.32 | **    |
+| much    |    -8.94 |   -10.11 |    1.17 | **    |
+| talking |   -10.04 |    -9.01 |   -1.03 | **    |
+| us      |   -10.04 |    -9.01 |   -1.03 | **    |
+| know    |    -8.43 |    -9.41 |    0.99 |       |
+| one     |    -8.65 |    -7.8  |   -0.85 |       |
+| good    |    -8.94 |    -8.16 |   -0.78 |       |
+| ago     |    -9.34 |   -10.11 |    0.76 |       |
+From: roger@crux.Princeton.EDU (Roger Lustig)
+Subject: Re: Jewish Baseball Players?
+
+In article <15APR93.14691229.0062@lafibm.lafayette.edu> VB30@lafibm.lafayette.edu (VB30) writes:
+>Just wondering.  A friend and I were talking the other day, and
+>we were (for some reason) trying to come up with names of Jewish
+>baseball players, past and present.  We weren't able to come up
+>with much, except for Sandy Koufax, (somebody) Stankowitz, and
+>maybe John Lowenstein.  Can anyone come up with any more.  I know
+>it sounds pretty lame to be racking our brains over this, but
+>humor us.  Thanks for your help.
+
+Stankiewicz?  I doubt it.
+
+Koufax was one of two Jewish HOFs: the other is Hank Greenberg.
+
+Other good players: Buddy Myer, Johnny Kling, Norm and Larry Sherry,
+Ken Holtzman, Saul Rogovin, Ed Reulbach.  
+
+There have been over 150 Jewish major leaguers.  A few years ago there
+was an article about someone who keeps track of this in Spy magazine;
+the article was entitled "Jews on First," of course.
+
+There have also been at least two books on the subject.
+
+Roger
+

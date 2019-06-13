@@ -1,0 +1,32 @@
+1.36601492979e-12 0.999999999999 0.999999999997 True
+prediction: baseball for data\test\rec.sport.baseball-full\105055
+| word            |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------------|----------|----------|---------|-------|
+| la              |    -9.34 |    -6.67 |   -2.67 | **    |
+| spanish         |    -8.43 |   -10.11 |    1.68 | **    |
+| anyway          |    -8.94 |   -10.11 |    1.17 | **    |
+| braves          |    -8.94 |   -10.11 |    1.17 | **    |
+| red             |    -8.94 |   -10.11 |    1.17 | **    |
+| sox             |    -8.94 |   -10.11 |    1.17 | **    |
+| spanishspeaking |    -8.94 |   -10.11 |    1.17 | **    |
+| know            |    -8.43 |    -9.41 |    0.99 |       |
+| want            |    -8.43 |    -9.41 |    0.99 |       |
+| games           |    -8.94 |    -8.16 |   -0.78 |       |
+From: mm36@prism.gatech.EDU (Michael J. Minardi)
+Subject: Re: baseball in Spanish
+
+In article <116085@bu.edu> icop@csa.bu.edu (Antonio Pera) writes:
++>
++>	Recently, I heard the Red Sox on WROL a Spanish-speaking radio station.
++>I thought it was so unreal. The Red Sox in Spanish? Anyway, I want to find
++>out how widespread this is? Being a NY native, I know the scMets are on in
++>Spanish but not the Yankmes. I wuold think that LA,SD,Texas and Fla are on
++>in Spanish. Are there any Spanish-speaking networks or is this a local
+
+The braves day games are broadcast is Spanish on a station called "La
+Favorita".  (the station has a daytime liscence only).
+-- 
+MINARDI,MICHAEL J
+Georgia Institute of Technology, Atlanta Georgia, 30332
+uucp:	  ...!{decvax,hplabs,ncar,purdue,rutgers}!gatech!prism!mm36
+Internet: mm36@prism.gatech.edu

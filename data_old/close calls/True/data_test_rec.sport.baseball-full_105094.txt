@@ -1,0 +1,15 @@
+0.482156800233 0.517843199767 0.0356863995338 True
+prediction: baseball for data\test\rec.sport.baseball-full\105094
+| word        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| b           |   -10.06 |    -8.67 |   -1.39 | **    |
+| players     |    -7.76 |    -8.96 |    1.2  | **    |
+| career      |    -9.37 |   -10.06 |    0.69 |       |
+| best        |    -8.96 |    -8.45 |   -0.51 |       |
+| subject     |    -7.57 |    -7.66 |    0.08 |       |
+| mattingly   |   -10.06 |   -10.06 |   -0    |       |
+| rerealltime |   -10.06 |   -10.06 |   -0    |       |
+From: drm6640@tesla.njit.edu
+Subject: RE:Re:ALL-TIME BEST PLAYERS
+
+1B Career:  DON MATTINGLY!!!!!!!!

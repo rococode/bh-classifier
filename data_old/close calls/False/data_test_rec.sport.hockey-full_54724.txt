@@ -1,0 +1,29 @@
+0.491787148848 0.508212851152 0.0164257023037 False
+prediction: baseball for data\test\rec.sport.hockey-full\54724
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| period |   -10.04 |    -6.52 |   -3.52 | **    |
+| think  |    -8.1  |   -10.05 |    1.95 | **    |
+| second |    -9.35 |    -7.56 |   -1.79 | **    |
+| third  |    -9.35 |    -7.56 |   -1.79 | **    |
+| first  |    -8.94 |    -7.56 |   -1.38 | **    |
+| night  |   -10.04 |    -8.66 |   -1.38 | **    |
+| much   |    -8.1  |    -9.35 |    1.26 | **    |
+| scored |    -8.94 |   -10.05 |    1.1  | **    |
+| well   |    -8.94 |   -10.05 |    1.1  | **    |
+| point  |    -8.43 |    -9.35 |    0.92 |       |
+From: golf@phoenix.oulu.fi (Jouko Kylmaoja)
+Subject: Finland-Norway in WC
+
+	Finns had to do their best last night when they played against Norway
+in world champs. After two periods the score was still 0-0. This game was 
+quite much similar to the first game Finland played  (against France).
+The norwegian goalie was very good and a bit lucky, too. In the third period
+Juha Riihij{rvi scored 1-0 from a rebound, the time was around 5 mins or so.
+The second goal was scored by Kari Harila, who shot straight from a faceoff
+behind the Nowwegian goalie. Saku Koivu, the 18-year-old center got his first
+point of this tournament. Saku Koivu played very well througout the game and he
+was awarded the best player of the game- prize. Despite the fact that he is
+quite small in size he handles the puck very well and is a fast skater. 
+I think that we will hear from this guy in the future.
+

@@ -1,0 +1,39 @@
+0.428700209848 0.571299790152 0.142599580303 False
+prediction: baseball for data\test\rec.sport.hockey-full\54184
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| play       |   -10.03 |    -7.65 |   -2.38 | **    |
+| change     |    -8.93 |   -10.05 |    1.11 | **    |
+| happens    |    -8.93 |   -10.05 |    1.11 | **    |
+| heard      |    -8.93 |   -10.05 |    1.11 | **    |
+| flames     |   -10.03 |    -8.95 |   -1.08 | **    |
+| playoff    |   -10.03 |    -8.95 |   -1.08 | **    |
+| last       |    -8.42 |    -9.35 |    0.93 |       |
+| definitely |    -9.34 |   -10.05 |    0.71 |       |
+| hell       |    -9.34 |   -10.05 |    0.71 |       |
+| making     |    -9.34 |   -10.05 |    0.71 |       |
+From: rhirji@undergrad.math.uwaterloo.ca (Rahim Hirji)
+Subject: Re: Flames Question
+
+In article <C5HtrB.ICE@ccu.umanitoba.ca> clhawth@ccu.umanitoba.ca (Timothy Chesley) writes:
+>I heard a little while back that Gary Roberts would be returning to play
+>in Calgary's last regular season game.  Can anybody confirm this??
+>He'll be a big help to the Flames in the playoffs and may change my
+>playoff pool strategy.
+
+
+Roberts played in last night game against the Sharks and got a goal (38th)
+and an assist.
+
+This definitely bolsters Calgary's chances in the playoffs.
+
+
+							Rahim Hirji
+
+
+ 
+-- 
+				     |  Rahim Hirji
+ Life is what happens while you are  |  Actuarial Science
+ making other plans		     |  rhirji@descartes.uwaterloo.ca
+				     |  University of Waterloo

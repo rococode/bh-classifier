@@ -1,0 +1,34 @@
+0.314372993916 0.685627006084 0.371254012168 False
+prediction: baseball for data\test\rec.sport.hockey-full\54243
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| win    |    -9.34 |    -6.71 |   -2.64 | **    |
+| sure   |   -10.04 |    -8.16 |   -1.88 | **    |
+| also   |    -8.25 |   -10.11 |    1.86 | **    |
+| may    |   -10.04 |    -8.5  |   -1.54 | **    |
+| potvin |   -10.04 |    -8.72 |   -1.32 | **    |
+| got    |    -8.94 |   -10.11 |    1.17 | **    |
+| like   |    -8.25 |    -9.41 |    1.17 | **    |
+| period |   -10.04 |    -9.01 |   -1.03 | **    |
+| style  |   -10.04 |    -9.01 |   -1.03 | **    |
+| know   |    -8.43 |    -9.41 |    0.99 |       |
+From: brifre1@ac.dal.ca
+Subject: Leafs win! (thank you Potvin)
+
+It's about time the boys got it together!!
+They were outworked and outplayed by the Wings in the first two games.
+But Burns must have kicked their behinds cause they sure came out in full
+gear (or is that high gear?) in game 3.  Except for a 10-15 minute stretch
+in the 2nd period, they outskated and outworked the Wings.  Please don't
+flame this statement 'cos you know it's true!  I have to admit that 
+goaltending was the key.  Potvin kept the Leafs ahead during the sleepy
+stretch the Leafs went through in the 2nd.  He also kept the rebounds to a
+minimum, something that cost Cheveldae 2 goals.  Clark even looked like
+he had stopped moping (first star!), although I still don't know why he
+was so flat in games 1 and 2.
+
+If the Leafs play the same style and can keep the pace they had in game
+3, they may actually have a chance of winning this series (a slim chance, 
+but a chance....I'm no RM.....where is he anyways? haha).
+
+Barfly

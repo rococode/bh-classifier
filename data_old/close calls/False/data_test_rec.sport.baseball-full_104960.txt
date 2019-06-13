@@ -1,0 +1,47 @@
+0.566687433026 0.433312566974 0.133374866051 False
+prediction: hockey for data\test\rec.sport.baseball-full\104960
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| sox      |   -10.05 |    -8.25 |   -1.8  | **    |
+| teams    |    -8.44 |   -10.04 |    1.6  | **    |
+| times    |    -8.67 |   -10.04 |    1.38 | **    |
+| must     |   -10.05 |    -8.94 |   -1.11 | **    |
+| red      |   -10.05 |    -8.94 |   -1.11 | **    |
+| tv       |   -10.05 |    -8.94 |   -1.11 | **    |
+| couple   |    -8.95 |   -10.04 |    1.09 | **    |
+| missed   |    -8.95 |   -10.04 |    1.09 | **    |
+| baseball |    -9.36 |    -8.43 |   -0.93 |       |
+| email    |    -9.36 |    -8.43 |   -0.93 |       |
+From: wall@cc.swarthmore.edu (Matthew Wall)
+Subject: Re: mlb.c
+
+In article <5086@cvbnetPrime.COM>, cvalcour@ptex.Prime.COM (Sorry I missed
+the posting) wrote:
+> 
+> Could some kind soul please email me a copy of mlb.c
+> 
+> Thanks
+> Chris V.
+> ------------------------------------------------------
+> cvalcour@ptex.Prime.COM
+> ------------------------------------------------------
+
+
+mlb.c is archived on the Internet Baseball Archive
+
+anoymous ftp to eucalyptus.cc.swarthmore.edu (130.58.67.44)
+you must use your full email / username id as a password
+
+cd ./baseball/schedules
+
+it's filed as mlb-schedule-program.c for clarity
+
+schedules pre-generated for east-coast times are there as text files as
+well, and a couple of teams' TV schedules -- please send me more TV info if
+you have it on other teams.
+
+- matt
+
+Matt Wall * wall@cc.swarthmore.edu * Hey, I gotta job here, OK?
+---------------------------------------------------------------
+April 6, 1993: Boston Red Sox seize first place.

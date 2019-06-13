@@ -1,0 +1,23 @@
+0.8500809473036102 0.14991905269638148 0.7001618946072287 False
+prediction: hockey for data\test\rec.sport.baseball-full\105167
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| everyone  |    -8.67 |   -10.06 |    1.39 | **    |
+| best      |    -8.67 |    -9.37 |    0.7  |       |
+| meant     |   -10.05 |    -9.37 |   -0.69 |       |
+| said      |    -9.36 |    -8.96 |   -0.4  |       |
+| article   |    -8.67 |    -8.96 |    0.29 |       |
+| one       |    -7.97 |    -8.27 |    0.29 |       |
+| might     |    -8.96 |    -8.67 |   -0.28 |       |
+| first     |    -7.97 |    -7.86 |   -0.11 |       |
+| apologize |   -10.05 |   -10.06 |    0.01 |       |
+| apology   |   -10.05 |   -10.06 |    0.01 |       |
+From: drm6640@tesla.njit.edu
+Subject: Apology for Article
+
+It's me again!
+
+I apologize to everyone out there whom I might have pissed off with that one
+article about Don Mattingly.  When I said he was the best first basemam in
+history I meant FIELDING first baseman.  Which he is.  No one can argue with
+that.  

@@ -1,0 +1,33 @@
+0.582156924707 0.417843075293 0.164313849414 False
+prediction: hockey for data\test\rec.sport.baseball-full\105082
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| know    |   -10.05 |    -7.95 |   -2.09 | **    |
+| mets    |   -10.05 |    -8.65 |   -1.4  | **    |
+| list    |    -8.66 |   -10.03 |    1.37 | **    |
+| us      |   -10.05 |    -8.93 |   -1.11 | **    |
+| first   |    -8.26 |    -9.34 |    1.08 | **    |
+| mailing |    -8.95 |   -10.03 |    1.08 | **    |
+| players |    -8.26 |    -9.34 |    1.08 | **    |
+| hit     |   -10.05 |    -9.34 |   -0.71 |       |
+| lame    |   -10.05 |    -9.34 |   -0.71 |       |
+| talking |   -10.05 |    -9.34 |   -0.71 |       |
+From: scott@asd.com (Scott Barman)
+Subject: Re: Jewish Baseball Players?
+
+In article <15APR93.14691229.0062@lafibm.lafayette.edu> VB30@lafibm.lafayette.edu (VB30) writes:
+>Just wondering.  A friend and I were talking the other day, and
+>we were (for some reason) trying to come up with names of Jewish
+>baseball players, past and present.  We weren't able to come up
+>with much, except for Sandy Koufax, (somebody) Stankowitz, and
+>maybe John Lowenstein.  Can anyone come up with any more.  I know
+>it sounds pretty lame to be racking our brains over this, but
+>humor us.  Thanks for your help.
+
+Wasn't Ron Bloomberg, the former Yankee who got the first base hit
+by a Designated Hitter, Jewish??
+-- 
+scott barman    | Mets Mailing List (feed the following into your shell):
+scott@asd.com   |            mail mets-request@asd.com <<!
+                |            subscribe
+ Let's Go Mets! |            !

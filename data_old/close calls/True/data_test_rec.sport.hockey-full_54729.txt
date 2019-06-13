@@ -1,0 +1,30 @@
+0.607937592533 0.392062407467 0.215875185066 True
+prediction: hockey for data\test\rec.sport.hockey-full\54729
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| april  |    -7    |   -10.04 |    3.04 | **    |
+| number |   -10.04 |    -8.43 |   -1.61 | **    |
+| nhl    |    -8.43 |   -10.04 |    1.61 | **    |
+| red    |    -9.35 |    -8.25 |   -1.1  | **    |
+| told   |   -10.04 |    -8.94 |   -1.1  | **    |
+| team   |    -8.25 |    -7.27 |   -0.98 |       |
+| would  |    -8.43 |    -7.65 |   -0.79 |       |
+| bad    |    -9.35 |    -8.66 |   -0.69 |       |
+| beat   |   -10.04 |    -9.35 |   -0.69 |       |
+| happen |   -10.04 |    -9.35 |   -0.69 |       |
+Subject: Another travesty at the Joe Louis
+From: caldwell8102@mtroyal.ab.ca
+
+(Detroit, April 21)
+
+Most knowledgable observers once again watched in shock as the Detroit Red
+Wings again beat the best goaltender in the world six times en route to 
+another easy victory over the best team in the NHL. 
+
+For the best goaltender in the world, Felix Potvin, six was a bad number as
+he surrendered six goals and collected six minutes in penalties in reponse
+to the goon tactics employed by the inferior Red Wings team. 
+
+								Alan
+
+P.S. We told you this would happen, Roger. Didn't we? I love it.....

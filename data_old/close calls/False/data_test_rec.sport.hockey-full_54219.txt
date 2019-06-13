@@ -1,0 +1,46 @@
+0.375289570705 0.624710429295 0.249420858589 False
+prediction: baseball for data\test\rec.sport.hockey-full\54219
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| nhl     |   -10.04 |    -7.3  |   -2.74 | **    |
+| hockey  |   -10.04 |    -7.59 |   -2.45 | **    |
+| history |    -8.25 |   -10.07 |    1.82 | **    |
+| bet     |    -8.94 |   -10.07 |    1.13 | **    |
+| better  |    -8.94 |   -10.07 |    1.13 | **    |
+| lot     |    -8.25 |    -9.38 |    1.13 | **    |
+| cup     |   -10.04 |    -8.97 |   -1.07 | **    |
+| let     |   -10.04 |    -8.97 |   -1.07 | **    |
+| player  |    -9.34 |    -8.28 |   -1.07 | **    |
+| way     |    -8.43 |    -9.38 |    0.95 |       |
+From: huot@cray.com (Tom Huot)
+Subject: Re: Ulf and all...
+
+Richard Wernick (richard@amc.com) wrote:
+: You should be ashamed to call yourself an Ulf Samuelson fan. Anybody who plays
+: the way he does, does not belong in the NHL. There have been cheap shot artists
+: through the history of the game, but a lot of them have been talanted players.
+: Bobby Clarke, Kenny Linsemen, Pie McKenzie, Chris Chelios etc.. but nobody has been
+: out right as dirty a cheapshot coward as Ulf. Violence in hockey has got to be curbed
+: and players like (Should have been a Women) Samuelson don't belong. When players
+: like Ulf, who's main purpose is to injure the better players in the league is allowed
+: to continue, and the league won't stop it, the players should. A Christian Pro 1000
+: aluminum stick directed at his ugly head should do the trick nicely. If the Bruins get
+: a chance to meet Pittsburgh in the near future, you can bet Neely will have his day.
+: The sight of watching Ulf turtle up like the coward he is, is worth almost as much as a
+: Stanely Cup. This wimp of a player almost ruined the career of one the best right wingers
+: in the game. If you are to remove Ulf Samuelson from the lineup, the Penguins would not
+: even notice he's gone. He's an eyesore on the game of hockey.
+
+
+: Rich
+
+
+Thank you for your extremely lucid and well thought out observation.
+Now when you get back on your medication, please let us know how you
+are feeling. 
+Thank you,
+--
+_____________________________________________________________________________
+Tom Huot        			       
+huot@cray.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

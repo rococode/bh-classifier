@@ -1,0 +1,22 @@
+0.407036735195 0.592963264805 0.185926529611 False
+prediction: baseball for data\test\rec.sport.hockey-full\54549
+| word        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| games       |    -6.75 |    -8.47 |    1.72 | **    |
+| even        |    -9.35 |    -8.13 |   -1.22 | **    |
+| know        |    -8.66 |    -7.88 |   -0.78 |       |
+| anyone      |   -10.04 |    -9.39 |   -0.66 |       |
+| would       |    -8.95 |    -8.29 |   -0.66 |       |
+| subject     |    -7.65 |    -7.51 |   -0.13 |       |
+| binghampton |   -10.04 |   -10.08 |    0.03 |       |
+| msg         |   -10.04 |   -10.08 |    0.03 |       |
+| nice        |   -10.04 |   -10.08 |    0.03 |       |
+| playoff     |   -10.04 |   -10.08 |    0.03 |       |
+Subject: Binghampton Rangers Playoff Games
+From: kwolfer@eagle.wesleyan.edu
+
+Does anyone know if MSG will televise any of the Binghampton Rangers playoff
+games.  Even taped replays would be nice?
+
+
+

@@ -1,0 +1,34 @@
+0.405193101821 0.594806898179 0.189613796359 False
+prediction: baseball for data\test\rec.sport.hockey-full\54290
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| wings   |   -10.05 |    -8.65 |   -1.4  | **    |
+| people  |    -8.66 |   -10.04 |    1.38 | **    |
+| article |    -8.11 |    -8.94 |    0.84 |       |
+| fans    |    -8.95 |    -8.25 |   -0.7  |       |
+| mean    |   -10.05 |    -9.35 |   -0.7  |       |
+| says    |    -8.66 |    -9.35 |    0.68 |       |
+| one     |    -7.97 |    -8.43 |    0.46 |       |
+| subject |    -7.65 |    -7.48 |   -0.18 |       |
+| writes  |    -8.26 |    -8.43 |    0.17 |       |
+| think   |    -8.11 |    -8.25 |    0.14 |       |
+From: Andy <2893684@QUCDN.QueensU.CA>
+Subject: Re: ? Octopus
+
+
+In article <16BB6EA2A.LMARSHA@cms.cc.wayne.edu>, LMARSHA@cms.cc.wayne.edu
+(Laurie Marshall) says:
+>
+>In article <C5ssL4.EBs@spk.hp.com>
+>filipows@spk.hp.com (Dennis Filipowski) writes:
+>
+>>
+>
+>  Door attendants at the Joe Louis Arena have been checking fans for
+>octopuses (sp?), as they are NOT allow in the Arena.  I want to know
+>where these people are hiding these octopuses.  Everytime I've been to
+>the Joe they checked my purse and that's the only place I can think of
+>putting one.  Any other Wings fans out there know of ways to sneak
+>these octopuses into the Joe?
+
+You mean they don't strip-search you and do cavity  checks!? THE FOOLS!!

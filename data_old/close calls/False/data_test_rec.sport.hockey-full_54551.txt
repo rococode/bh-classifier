@@ -1,0 +1,41 @@
+0.495626908342 0.504373091658 0.00874618331573 False
+prediction: baseball for data\test\rec.sport.hockey-full\54551
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| get    |    -7.96 |   -10.05 |    2.09 | **    |
+| first  |   -10.04 |    -8.66 |   -1.38 | **    |
+| hockey |   -10.04 |    -8.66 |   -1.38 | **    |
+| series |    -8.09 |    -9.35 |    1.26 | **    |
+| im     |    -9.35 |    -8.1  |   -1.25 | **    |
+| bad    |    -8.94 |   -10.05 |    1.11 | **    |
+| sooner |    -8.94 |   -10.05 |    1.11 | **    |
+| two    |    -8.94 |   -10.05 |    1.11 | **    |
+| going  |    -9.35 |    -8.26 |   -1.09 | **    |
+| imho   |   -10.04 |    -8.95 |   -1.09 | **    |
+From: The Always Fanatical: Patrick Ellis <IO11330@MAINE.MAINE.EDU>
+Subject: Re: BUFFALO 4, Boston 0: Defense!!
+
+I'm personally expecting Moog.  Blue played fairly decent (alright
+spectacular at times) in his 1/2 a game but Moog has the experience.
+What Did Blue have going for him, nothing, What would happen in a Tie
+game, the prssure is then on the Goal tender to insure that you keep the
+puck out (at the very least until your team scores)  Blue didn't face that
+kind of pressure on Tuesday.  The Bruins will come out storming that
+is for sure.  I really think that this series is up to Buffalo, Boston
+(except for two bad passes in game one) really hasn't played that bad
+,  As a believer is statistics, you know that your going to get the
+puck by fuhr sooner or later, just keep shooting.  There game plan is
+sound but they need to take the lead first, and control the tempo.....
+
+               IMHO
+                      Pat Ellis
+
+P.S.  GO BRUINS    GO UMAINE BLACK BEARS    42-1-2       NUMBER 1......
+
+                   HOCKEY EAST REGULARS SEASON CHAMPIONS.....
+                   HOCKEY EAST TOURNAMENT CHAMPIONS>......
+                   PAUL KARIYA, HOBEY BAKER AWARD WINNER.......
+         NCAA DIV. 1 HOCKEY TOURNAMENT CHAMPIONS!!!!!!!!!!!!!!!!!!!
+
+
+                    M-A-I-N-E      GGGGOOOOOOO    BBBLLLUUEEEE!

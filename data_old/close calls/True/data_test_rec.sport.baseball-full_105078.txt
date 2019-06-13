@@ -1,0 +1,47 @@
+0.381889450968 0.618110549032 0.236221098065 True
+prediction: baseball for data\test\rec.sport.baseball-full\105078
+| word        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| giants      |    -8.42 |   -10.04 |    1.62 | **    |
+| pitching    |    -8.42 |   -10.04 |    1.62 | **    |
+| would       |    -7.83 |    -9.35 |    1.51 | **    |
+| john        |   -10.03 |    -8.66 |   -1.38 | **    |
+| make        |   -10.03 |    -8.66 |   -1.38 | **    |
+| ive         |    -8.93 |   -10.04 |    1.11 | **    |
+| could       |    -9.34 |   -10.04 |    0.7  |       |
+| every       |    -9.34 |   -10.04 |    0.7  |       |
+| information |    -9.34 |   -10.04 |    0.7  |       |
+| stadium     |    -9.34 |   -10.04 |    0.7  |       |
+From: doctor8@jhuvms.hcf.jhu.edu (Jason Abner Miller)
+Subject: Re: John Franco
+
+In article <1993Apr23.174759.182922@zeus.calpoly.edu>, jplee@cymbal.calpoly.edu (Jason Lee) writes...
+>What's with John Franco?  The Mets are hardly using him.  
+
+	Don't worry.  This is a perfectly normal state of affairs.  Had they
+actually been using him, you should be worried.
+
+>I heard he was completely recovered, but now I'm not so sure.
+
+	He's recovered totally from his injury.  That's why he's not
+pitching...so he can rest his arm enough that he can get injured again
+pitching on 38 days rest and then have fun dining in the Diamond Club in
+Shea Stadium while AY struggles every day out there...
+
+>If there is anybody out there with information about Franco, I would
+>appreciate it if you could drop me a line.
+
+	I've be quite happy to drop John Franco, just the same.
+	Bring back Randy Myers!
+	No, better make that...Bring Back Neil Allen!
+
+> 
+>-- 
+>Jason Lee   jplee@oboe.calpoly.edu   jlee@cash.busfac.calpoly.edu    SF Giants
+>e ^ i*pi + 1 = 0    The most beautiful equation in mathematics.      Magic
+>For all sad words of tongue and pen, the saddest are these:          Number:
+>     "It might have been."            John Greenleaf Whittier        148
+
+Jason A. Miller
+"some doctor guy"
+Tanana:  1-0, 1.50

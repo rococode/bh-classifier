@@ -1,0 +1,35 @@
+0.556306185381 0.443693814619 0.112612370762 True
+prediction: hockey for data\test\rec.sport.hockey-full\54531
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| saves     |    -7.66 |   -10.05 |    2.39 | **    |
+| year      |   -10.05 |    -8.25 |   -1.8  | **    |
+| mean      |   -10.05 |    -8.44 |   -1.62 | **    |
+| back      |   -10.05 |    -8.66 |   -1.39 | **    |
+| team      |    -7.66 |    -8.95 |    1.29 | **    |
+| still     |   -10.05 |    -8.95 |   -1.11 | **    |
+| based     |    -8.96 |   -10.05 |    1.09 | **    |
+| bruins    |    -8.96 |   -10.05 |    1.09 | **    |
+| buffalo   |    -8.96 |   -10.05 |    1.09 | **    |
+| something |    -9.36 |    -8.44 |   -0.92 |       |
+From: bson@gnu.ai.mit.edu (Jan Brittenson)
+Subject: Re: BUFFALO 4, Boston 0: Defense!!
+
+In article <1r49s8$q8b@hsdndev.harvard.edu> nhmas@gauss.med.harvard.edu (Mark Shneyder 432-4219) writes:
+
+ > Bruins have never come back to win after falling behind 2-0 in
+ > their entire 68-year history.
+
+   Which doesn't mean much since the statistics are mostly based on
+the 5-game playoff format. But, yes, it looks dark for the B's. What a
+disappointment.
+
+   Still, I think the problem is mental. They needed the saves Blue
+came up with, perhaps he can offer something to mentally rally around.
+
+   Who do you think gets the start in game three? I hope it is going
+to be Blue. If the team can rally around him, maybe Moog can too.
+
+--
+						-- Jan Brittenson
+						   bson@gnu.ai.mit.edu

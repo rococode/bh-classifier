@@ -1,0 +1,35 @@
+0.606243651376 0.393756348624 0.212487302752 False
+prediction: hockey for data\test\rec.sport.baseball-full\105105
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| shot      |    -8.49 |   -10.06 |    1.57 | **    |
+| believe   |   -10.1  |    -8.67 |   -1.43 | **    |
+| get       |    -7.54 |    -8.96 |    1.42 | **    |
+| new       |    -8.02 |    -9.37 |    1.34 | **    |
+| valentine |   -10.1  |    -8.96 |   -1.14 | **    |
+| came      |    -8.31 |    -9.37 |    1.05 | **    |
+| feet      |    -9    |   -10.06 |    1.05 | **    |
+| home      |    -9    |   -10.06 |    1.05 | **    |
+| agree     |   -10.1  |    -9.37 |   -0.74 |       |
+| always    |   -10.1  |    -9.37 |   -0.74 |       |
+From: tedward@cs.cornell.edu (Edward [Ted] Fischer)
+Subject: Re: Best Homeruns
+
+In article <1qn6tqINNmnf@senator-bedfellow.MIT.EDU> cmk@athena.mit.edu (Charles M Kozierok) writes:
+>
+>the best home run i have *ever* seen came off, believe it or not,
+>Roger Clemens (sorry, Val) a couple of years ago. he threw a ball to
+>Incaviglia which was literally at Inky's neck, and he absolutely 
+>hammered the crap out of it. after the swing, Clemens nonchalantly
+>motioned for a new ball--he didn't even turn around to look, or
+>even get upset. the ball hit the lights in the left-field standard,
+>some 70 or so feet about the Green Monster (over 100 feet above the
+>ground total!)
+>
+>truly an amazing shot.
+
+I agree.  Home runs off Clemens are always memorable.  Kinda like
+eclipses and hurricanes.  They don't happen very often.
+
+Cheers,
+-Valentine

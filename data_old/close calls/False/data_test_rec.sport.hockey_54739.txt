@@ -1,0 +1,31 @@
+0.401520997899 0.598479002101 0.196958004202 False
+prediction: baseball for data\test\rec.sport.hockey\54739
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| roenick |    -9.72 |    -7.61 |   -2.11 | **    |
+| louis   |    -9.02 |    -7.05 |   -1.98 | **    |
+| david   |    -8.11 |    -9.69 |    1.58 | **    |
+| bell    |    -8.33 |    -9.69 |    1.36 | **    |
+| right   |    -7.64 |    -9    |    1.36 | **    |
+| saw     |    -8.33 |    -9.69 |    1.36 | **    |
+| st      |    -8.11 |    -6.98 |   -1.13 | **    |
+| belfour |    -9.72 |    -8.59 |   -1.13 | **    |
+| rm      |    -9.72 |    -8.59 |   -1.13 | **    |
+| love    |    -8.62 |    -9.69 |    1.07 | **    |
+From: howarth@sbctri.sbc.com (David Howarth)
+Subject: Re: Maybe next year Hawks
+
+In article <1993Apr26.125444.5073@vax.cns.muskingum.edu>,
+jbrown@vax.cns.muskingum.edu wrote:
+> 
+> Belfour played well, but I hardly saw any offense from any hawk.  What I want
+> to know is where was Roenick.  
+
+As far as I can tell, he was right next to Bassen!
+
+Don't you guys love it when people like me come out of the woodwork...8^)
+
+     /\   David Howarth                              howarth@sbctri.sbc.com
+    ///\   Southwestern Bell Technology Resources Inc.
+   ///  \   Advanced Technology Laboratory
+  ///    \   1010 Pine, Rm 635  St. Louis,  MO.  63101 

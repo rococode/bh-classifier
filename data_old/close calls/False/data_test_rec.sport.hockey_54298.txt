@@ -1,0 +1,24 @@
+0.412045302927 0.587954697073 0.175909394146 False
+prediction: baseball for data\test\rec.sport.hockey\54298
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| wins       |    -7.15 |    -9    |    1.84 | **    |
+| contribute |    -9.72 |    -8.08 |   -1.64 | **    |
+| sport      |    -8.11 |    -9.69 |    1.58 | **    |
+| boston     |    -8.62 |    -7.2  |   -1.42 | **    |
+| comeback   |    -8.33 |    -9.69 |    1.36 | **    |
+| less       |    -8.33 |    -9.69 |    1.36 | **    |
+| four       |    -7.77 |    -9    |    1.22 | **    |
+| go         |    -7.42 |    -6.47 |   -0.95 |       |
+| changing   |    -9.72 |    -9    |   -0.72 |       |
+| finished   |    -9.02 |    -8.3  |   -0.72 |       |
+From: lzuo@byron.u.washington.edu (Joseph)
+Subject: Great comeback for Sabres, despit changing goalie !
+
+Bufflo Sabres has just finished their great four wins over Boston. All
+Sabres players contribute to those great wins but those talent players
+including Mogily, Fuhr, Kemhlev and Lafontin impressed me most. Their 
+skills showed the art of sport, not like the garbage speech from the
+coach's corner.
+
+Go ! Make hocky popular, make hocky more exciting but less violent ! 

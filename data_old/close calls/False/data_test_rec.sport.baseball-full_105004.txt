@@ -1,0 +1,42 @@
+0.599266232185 0.400733767815 0.198532464371 False
+prediction: hockey for data\test\rec.sport.baseball-full\105004
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| team     |    -7.29 |    -8.94 |    1.65 | **    |
+| baseball |   -10.07 |    -8.66 |   -1.41 | **    |
+| people   |   -10.07 |    -8.66 |   -1.41 | **    |
+| around   |    -8.68 |   -10.04 |    1.36 | **    |
+| better   |   -10.07 |    -8.94 |   -1.12 | **    |
+| group    |   -10.07 |    -8.94 |   -1.12 | **    |
+| local    |   -10.07 |    -8.94 |   -1.12 | **    |
+| man      |    -8.97 |   -10.04 |    1.07 | **    |
+| special  |    -8.97 |   -10.04 |    1.07 | **    |
+| stick    |    -8.97 |   -10.04 |    1.07 | **    |
+From: fester@island.COM (Mike Fester)
+Subject: Re: Bonilla
+
+In article <1993Apr21.012139.13444@Princeton.EDU> roger@astro.princeton.edu (Roger Lustig) writes:
+
+>When I say "black," I mean US-born black people for the purposes of this
+>discussion.  Hispanic players were in baseball before 1947, and one 
+>team in the 50's signed lots of hispanics because they went over better
+>with the local audience than blacks did.  
+
+What about black hispanics?
+
+>>And why would more hispanics stick around than blacks?
+>
+>Don't know.  But remember: this is the country that had special racial
+			    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+>laws for one group and one group only: blacks.  Our national history 
+ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Man, you had better do some SERIOUS reading. I really, really doubt that you
+meant to say this.
+
+Mike
+-- 
+Disclaimer - These opiini^H^H damn! ^H^H ^Q ^[ .... :w  :q  :wq  :wq! ^d  ^X ^?
+exit X Q  ^C ^? :quitbye  CtrlAltDel   ~~q  :~q  logout  save/quit :!QUIT
+^[zz ^[ZZZZZZ ^vi  man vi ^@  ^L  ^[c  ^# ^E ^X ^I ^T ? help  helpquit ^D  ^d !!
+man help ^C ^c :e! help exit ?Quit ?q CtrlShftDel "Hey, what does Stop L1A d..."

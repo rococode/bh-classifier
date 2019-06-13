@@ -1,0 +1,33 @@
+0.04418762529765616 0.9558123747023602 0.9116247494047041 False
+prediction: baseball for data\test\rec.sport.hockey-full\54775
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| lot     |    -8.67 |   -10.05 |    1.38 | **    |
+| caps    |    -8.96 |   -10.05 |    1.09 | **    |
+| know    |    -8.11 |    -8.96 |    0.84 |       |
+| think   |    -7.86 |    -8.67 |    0.8  |       |
+| mile    |   -10.06 |    -9.36 |   -0.7  |       |
+| nothing |   -10.06 |    -9.36 |   -0.7  |       |
+| read    |   -10.06 |    -9.36 |   -0.7  |       |
+| would   |    -8.67 |    -7.97 |   -0.7  |       |
+| area    |    -9.37 |   -10.05 |    0.69 |       |
+| move    |    -9.37 |   -10.05 |    0.69 |       |
+From: bm562@cleveland.Freenet.Edu (Richard L. Trionfo)
+Subject: Re: Caps moving ?????
+
+
+   Why would Pollin want to move the Caps, because I think he
+owns the Cap Centre.  I know they don't sell out all of their 
+games, but they draw a lot more than the Bullets.  If you
+had the situation that Abe had, would you move if you were
+guaranteed that anyone who went to the games would have to 
+park at the stadium, because there has been nothing within
+a half mile, until the recent construction in
+the area.
+   Can they win a game in OT again.
+       Rich
+-- 
+  "You've read the hat, now see the movie."
+                   -Imus in the morning 
+  "A blurb? You're a blurb!"
+                   -Seinfeld

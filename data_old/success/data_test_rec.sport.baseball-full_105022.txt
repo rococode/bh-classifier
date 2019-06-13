@@ -1,0 +1,44 @@
+prediction: baseball for data\test\rec.sport.baseball-full\105022
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| people  |   -10.04 |    -7.84 |   -2.2  | **    |
+| get     |    -8.1  |   -10.04 |    1.94 | **    |
+| put     |   -10.04 |    -8.65 |   -1.39 | **    |
+| closer  |    -8.66 |   -10.04 |    1.38 | **    |
+| well    |    -8.66 |   -10.04 |    1.38 | **    |
+| better  |    -8.1  |    -9.35 |    1.25 | **    |
+| lets    |   -10.04 |    -8.94 |   -1.1  | **    |
+| could   |    -8.94 |   -10.04 |    1.1  | **    |
+| post    |    -8.94 |   -10.04 |    1.1  | **    |
+| article |    -8.66 |    -7.74 |   -0.92 |       |
+From: luriem@alleg.edu(Michael Lurie) The Liberalizer
+Subject: Re: ALL-TIME PEAK PLAYERS
+
+In article <C5w2LE.JpK@ucdavis.edu> ez027993@dale.ucdavis.edu (Gary Built  
+Like Villanueva Huckabay) writes:
+> (Michael Lurie) The Liberalizer writes:
+> >> Henderson's stat's are probably closer to DiMaggio's than you
+> >> think.
+> 
+> >Then give me NUMBERS MAN!!!!!
+> >Winfield could WHIP henderson's butt.
+> 
+> Well, you're absolutely, completely dead wrong, but thanks for playing.
+> As soon as I get to my office, I'll be happy to post Rickey and Dave's
+> career lines.  Both are very fine players, but Henderson has  
+consistently
+> been better.
+> 
+> As for Rickey 'slacking' due to his contract problems this year -- any
+> comments?  Considering he's basically picked up the entire team and put
+> them on his back, I think he deserves a little slack, and I think he
+> deserves a 4-year extension at $6M per year.  Quickly.
+> 
+
+
+
+
+I was upset at people dissing winfield. Henderson is the better player.  
+WINFIELD can come close though. Lets see what rickey does for the rest of  
+his career. People forget how good winny was in the 80's, and also how  
+great rickey was.

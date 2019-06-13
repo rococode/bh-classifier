@@ -1,0 +1,35 @@
+prediction: baseball for data\test\rec.sport.baseball-full\105039
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| morris   |    -7    |   -10.04 |    3.04 | **    |
+| hockey   |   -10.04 |    -8.25 |   -1.8  | **    |
+| jack     |    -8.66 |   -10.04 |    1.38 | **    |
+| going    |   -10.04 |    -8.94 |   -1.1  | **    |
+| john     |   -10.04 |    -8.94 |   -1.1  | **    |
+| complete |    -8.94 |   -10.04 |    1.1  | **    |
+| post     |    -8.94 |   -10.04 |    1.1  | **    |
+| would    |    -7.56 |    -8.65 |    1.1  | **    |
+| back     |    -9.35 |    -8.43 |   -0.92 |       |
+| writes   |    -8.43 |    -7.55 |   -0.88 |       |
+From: bonvicin@vxcrna.cern.ch
+Subject: Re: Jack Morris
+
+franjion@spot.Colorado.EDU (John Franjione) writes:
+
+>>-Valentine
+>>(No, I'm not going to be cordial.  Roger Maynard is a complete and
+>>total dickhead.  Send me e-mail if you insist on details.)
+>
+>In fact, he's a complete and total dickhead on at least 2 newsgroups
+>(this one and rec.sport.hockey).  Since hockey season is almost over,
+>he's back to being a dickhead in r.s.bb.
+
+I was in fact going to suggest that Roger take his way of discussion over
+to r.s.football.pro. There this kind of hormone-only reasoning is the
+standard. Being he canadian, and hockey what it is, I would have suggested
+that r.s.h would work too. It is important in a thread that everyone
+involved use the same body part to produce a post (brain being the organ
+of choice here).
+
+G. Bonvicini
+bonvicin@cernvm.cern.ch

@@ -1,0 +1,31 @@
+0.536908047429 0.463091952571 0.0738160948585 False
+prediction: hockey for data\test\rec.sport.baseball-full\105008
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| anyone      |    -8.27 |   -10.05 |    1.77 | **    |
+| cubs        |   -10.07 |    -8.66 |   -1.4  | **    |
+| national    |   -10.07 |    -8.66 |   -1.4  | **    |
+| information |   -10.07 |    -9.35 |   -0.71 |       |
+| list        |    -9.37 |   -10.05 |    0.67 |       |
+| mailing     |    -9.37 |   -10.05 |    0.67 |       |
+| league      |    -9.37 |    -8.95 |   -0.42 |       |
+| anything    |    -8.97 |    -9.35 |    0.39 |       |
+| please      |    -8.97 |    -9.35 |    0.39 |       |
+| chicago     |    -8.27 |    -8.1  |   -0.17 |       |
+Subject: Cubs mailing list
+From: andrew@dark.side.of.the.moon.uoknor.edu (Chihuahua Charlie)
+
+
+	Is there anyone out there running a Chicago National
+	League Ballclub list?  If so, please send me information
+	on it to...
+			andrew@aardvark.ucs.uoknor.edu
+
+	Thanks!
+
+|\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/|
+|O|  _    |  Chihuahua Charlie              |  OU is not responsible   |O|
+|O| | |   |  Academic User Services         |  for anything anywhere,  |O|
+|O| ||||  |  The University of Oklahoma     |  except for that one     |O|
+|O|  |_|  |  andrew@aardvark.ucs.uoknor.edu |  incident where 200...   |O|
+|O|____________________________________________________________________|O|

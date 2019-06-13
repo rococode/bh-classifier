@@ -1,0 +1,25 @@
+0.590832801409 0.409167198591 0.181665602817 False
+prediction: hockey for data\test\rec.sport.baseball-full\105089
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| certainly   |   -10.05 |    -9.34 |   -0.71 |       |
+| actually    |    -9.36 |   -10.03 |    0.68 |       |
+| thats       |    -9.36 |   -10.03 |    0.68 |       |
+| hes         |    -9.36 |    -8.93 |   -0.42 |       |
+| case        |    -8.95 |    -9.34 |    0.39 |       |
+| subject     |    -7.57 |    -7.64 |    0.07 |       |
+| alomar      |   -10.05 |   -10.03 |   -0.02 |       |
+| baerga      |   -10.05 |   -10.03 |   -0.02 |       |
+| closed      |   -10.05 |   -10.03 |   -0.02 |       |
+| defensively |   -10.05 |   -10.03 |   -0.02 |       |
+From: kime@mongoose.torolab.ibm.com (Edward Kim)
+Subject: Re: Ind. Source Picks Baerga Over Alomar: Case Closed 
+
+> That's a joke!  (Alomar might not be a gold-glover, but he's certainly
+> no worse than Baerga defensively.)
+Actually Alomar is a two-time gold-glover (91-92).
+
+> 
+> -Valentine
+
+Edk

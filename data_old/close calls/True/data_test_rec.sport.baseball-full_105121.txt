@@ -1,0 +1,39 @@
+0.494065167251 0.505934832749 0.0118696654974 True
+prediction: baseball for data\test\rec.sport.baseball-full\105121
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| division |   -10.05 |    -8.26 |   -1.78 | **    |
+| news     |    -8.44 |   -10.05 |    1.62 | **    |
+| damn     |   -10.05 |    -8.44 |   -1.6  | **    |
+| final    |   -10.05 |    -8.44 |   -1.6  | **    |
+| believe  |    -8.66 |   -10.05 |    1.39 | **    |
+| id       |    -8.66 |   -10.05 |    1.39 | **    |
+| like     |    -9.35 |    -7.97 |   -1.38 | **    |
+| internet |    -8.95 |   -10.05 |    1.11 | **    |
+| thats    |    -8.95 |   -10.05 |    1.11 | **    |
+| bob      |   -10.05 |    -8.96 |   -1.09 | **    |
+From: sweda@css.itd.umich.edu (Sean Sweda)
+Subject: Royals final run total...
+
+
+I've been saying this for quite some time, but being absent from the
+net for a while I figured I'd stick my neck out a bit...
+
+The Royals will set the record for fewest runs scored by an AL
+team since the inception of the DH rule.  (p.s. any ideas what this is?)
+
+They will fall easily short of 600 runs, that's for damn sure.  I can't
+believe these media fools picking them to win the division (like our
+Tom Gage of the Detroit News claiming Herk Robinson is some kind of
+genius for the trades/aquisitions he's made)
+
+c-ya
+
+Sean
+
+
+--
+Sean Sweda                                      sweda@css.itd.umich.edu
+CSS/ITD Consultant			   President, Bob Sura Fan Club
+GM/Manager Motor City Marauders
+Internet Baseball League				   "play ball!"	

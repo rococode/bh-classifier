@@ -1,0 +1,36 @@
+9.32906711476e-05 0.999906709329 0.999813418658 True
+prediction: baseball for data\test\rec.sport.baseball-full\104965
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| ball    |    -7.47 |   -10.11 |    2.63 | **    |
+| hit     |    -7.96 |   -10.11 |    2.15 | **    |
+| brown   |   -10.04 |    -8.32 |   -1.72 | **    |
+| field   |    -8.94 |   -10.11 |    1.17 | **    |
+| glove   |    -8.94 |   -10.11 |    1.17 | **    |
+| several |    -8.94 |   -10.11 |    1.17 | **    |
+| beat    |   -10.04 |    -9.01 |   -1.03 | **    |
+| final   |   -10.04 |    -9.01 |   -1.03 | **    |
+| many    |   -10.04 |    -9.01 |   -1.03 | **    |
+| would   |    -8.43 |    -7.54 |   -0.89 |       |
+From: pb6755@csc.albany.edu (BROWN PHILIP H)
+Subject: bosio's no-hitter
+
+I watched the final inning of Bosio's no-hitter with several people at
+work. After Vizquel made that barehanded grab of the chopper up the
+middle, someone remarked that if he had fielded it with his glove, he
+wouldn't have had time to throw Riles out. Yet, the throw beat Riles
+by about two steps. I wonder how many others who watched the final out
+think Vizquel had no choice but to make the play with his bare hand.
+Does anybody think Vizquel was wrong to field the ball barehanded? And
+if he failed to field it cleanly, would it (or should it) have been an
+error or a hit? (Judging from Bosio's grimace when the ball bounced
+past him, he must have thought it would go through for a hit.) Whether
+Vizquel was right or wrong, he certainly made one hell of a play.
+
+
+
+--
+--------------------------
+Phil Brown                |
+aka pb6755@csc.albany.edu |
+--------------------------

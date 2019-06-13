@@ -1,0 +1,28 @@
+0.620310309542 0.379689690458 0.240620619084 True
+prediction: hockey for data\test\rec.sport.hockey-full\54763
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| think  |   -10.04 |    -7.49 |   -2.55 | **    |
+| oilers |    -8.09 |   -10.06 |    1.96 | **    |
+| around |   -10.04 |    -8.27 |   -1.77 | **    |
+| nhl    |    -8.65 |   -10.06 |    1.41 | **    |
+| change |   -10.04 |    -8.96 |   -1.08 | **    |
+| go     |    -9.35 |    -8.27 |   -1.08 | **    |
+| guess  |   -10.04 |    -8.96 |   -1.08 | **    |
+| play   |    -7.74 |    -8.45 |    0.71 |       |
+| years  |    -8.65 |    -9.37 |    0.71 |       |
+| name   |   -10.04 |    -9.37 |   -0.67 |       |
+From: Andy <2893684@QUCDN.QueensU.CA>
+Subject: Re: If Oilers go to Hamilton
+
+In article <1993Apr26.023650.16749@spang.Camosun.BC.CA>,
+ua256@freenet.Victoria.BC.CA (Tom Moffat) says:
+>
+>If the Oilers move to Hamilton what division will they play in .
+
+And won't they have to change their name to the "Steelers" or something.
+The only significant deposits of oil around Hamilton are those caused by
+the tire fire a  few years back.
+
+Then again if the NBA can have the Utah Jazz or the L.A. Lakers (think about
+it, what lakes are in L.A.) then I guess the NHL can have the Hamilton Oilers.

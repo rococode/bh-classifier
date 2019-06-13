@@ -1,0 +1,55 @@
+0.418149550322 0.581850449678 0.163700899357 True
+prediction: baseball for data\test\rec.sport.baseball-full\104997
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| many    |   -10.05 |    -8.11 |   -1.94 | **    |
+| see     |    -8.25 |   -10.05 |    1.8  | **    |
+| however |   -10.05 |    -8.44 |   -1.6  | **    |
+| id      |    -8.66 |   -10.05 |    1.39 | **    |
+| like    |    -9.35 |    -7.97 |   -1.38 | **    |
+| think   |    -8.1  |    -9.36 |    1.26 | **    |
+| right   |    -8.95 |   -10.05 |    1.11 | **    |
+| still   |    -8.25 |    -9.36 |    1.11 | **    |
+| thats   |    -8.95 |   -10.05 |    1.11 | **    |
+| wait    |    -8.95 |   -10.05 |    1.11 | **    |
+From: dedwards@serenity.EBay.Sun.COM (David Edwards)
+Subject: Re: Strike zone width 23"" (was Re: Jose Canseco's
+
+
+In article 2bd51686@atlas.nafb.trw.com, mspede@atlas.nafb.trw.com () writes:
+ 
+>> Well, it's just studying tape, frame by frame.  That's all.  The biggest
+>> thing that you notice, however, is how bastardized the strike zone has 
+>> become.  Death to the umpires' union!  The plate is 17" (+1") across,
+>> not 23"!  Call the high strikes strikes, and quit calling pitches 3"
+>> outside strikes -- they're balls!
+>> 
+>  Speaking of this 23" wide strike zone....
+>
+>  I'd sure like to see cameras placed in each major league park such that 
+>  an overview shot of home plate is available.  CBS had this during the
+>  WS, or did I just dream it.
+>
+>  Then again, players/managers must not be too upset with the current 23"
+>  wide strike zone.
+>
+>  Mark Pede
+>
+
+
+
+
+Wait a minute.  If I read the rules right. A stike is ANY portion of the ball 
+over ANY portion of the plate.
+
+
+Given that the ball is ~ 2.9 "" in diameter.  This sez that the zone width
+is ~= 17 + (2 * 2.9)  or 22.8 "" . While this is still less than the 23 "
+number given.  I can forgive any UMP for misjudging .2" on an object moving
+at 85 to 100 miles per hour many times not in a straight line.
+
+I think the Umpires Union has a great grasp of the rules!!!
+
+
+David Edwards
+

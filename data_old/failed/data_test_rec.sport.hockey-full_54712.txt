@@ -1,0 +1,34 @@
+0.246017864537 0.753982135463 0.507964270927 False
+prediction: baseball for data\test\rec.sport.hockey-full\54712
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| fan     |    -7.96 |   -10.11 |    2.15 | **    |
+| man     |    -8.43 |   -10.11 |    1.68 | **    |
+| finally |   -10.04 |    -8.72 |   -1.32 | **    |
+| head    |   -10.04 |    -8.72 |   -1.32 | **    |
+| ot      |   -10.04 |    -8.72 |   -1.32 | **    |
+| world   |   -10.04 |    -8.72 |   -1.32 | **    |
+| ever    |    -9.34 |    -8.16 |   -1.18 | **    |
+| got     |    -8.94 |   -10.11 |    1.17 | **    |
+| brian   |   -10.04 |    -9.01 |   -1.03 | **    |
+| cup     |   -10.04 |    -9.01 |   -1.03 | **    |
+From: admiral@jhunix.hcf.jhu.edu (Steve C Liu)
+Subject: Caps postseason fortunes
+
+Okay, the Caps AGAIN are about to break out the golf clubs but before they
+do, does anyone have the history of the Washington Capitals' futility
+record in the playoffs? I remember that Terry's first year was the first
+year that the Caps finally made it to the third round but before under
+Brian, I noticed that every other year the Caps got to the second round
+and the years in between they didn't make it past the first round. Is this
+trend continuning? 
+The Admiral, a hopeless Caps fan.
+P.S. We still remember that 3 OT loss to the Islanders! Aurggghhhhhhhhh!
+____________________________________________________________________________
+|Admiral Steve C. Liu          Internet Address: admiral@jhunix.hcf.jhu.edu|
+|1993 World Champions  - Baltimore Orioles - Why Not? - Series in the Yards|
+|         1992-1993 Stanley Cup Champions -  Washington Capitals           |
+|*****The Bangles are the greatest female rock band that ever existed!*****|
+|   This sig has been brought to you by... Frungy! The Sport of Kings!     |
+|"My God man, drilling holes through his head is not the answer!" Dr. McCoy|
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

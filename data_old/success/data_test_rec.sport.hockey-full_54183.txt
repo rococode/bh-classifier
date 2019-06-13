@@ -1,0 +1,41 @@
+0.999999008696 9.91304258568e-07 0.999998017391 True
+prediction: hockey for data\test\rec.sport.hockey-full\54183
+| word         |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------------|----------|----------|---------|-------|
+| hockey       |    -7.22 |   -10.04 |    2.82 | **    |
+| roger        |    -8.5  |   -10.04 |    1.54 | **    |
+| leave        |   -10.11 |    -8.65 |   -1.46 | **    |
+| like         |    -9.41 |    -8.25 |   -1.17 | **    |
+| aprsoluvicca |    -9.01 |   -10.04 |    1.03 | **    |
+| little       |    -9.01 |   -10.04 |    1.03 | **    |
+| many         |    -9.01 |   -10.04 |    1.03 | **    |
+| maynard      |    -9.01 |   -10.04 |    1.03 | **    |
+| posting      |    -9.01 |   -10.04 |    1.03 | **    |
+| answered     |   -10.11 |    -9.34 |   -0.76 |       |
+From: lee139@gaul.csd.uwo.ca (Steve Lee)
+Subject: STOP MAYNARD BASHING!!!! (was Re: Roger Maynard)
+
+In article <1993Apr16.213024.8698@sol.UVic.CA> gballent@hudson.UVic.CA writes:
+>Does anyone recieve annoying email from Roger Maynard whenever they post an
+>article telling them to leave him alon and stop posting to the group??
+>These emails are filled with insults- more than are usual in Roger's posts
+>and have little if any hockey info.
+>I have recieved two in the last 2 days.
+>I am just wondering if I am special or Roger trys to bully everyone who
+>disagrees with him.
+>
+>Gregmeister
+>
+
+You can't be serious!  I and many of my colleagues have not received any
+bad e-mails from Roger, in fact, Roger happens to have answered most if not
+all of my hockey questions and curiosities, so before you start flaming
+at me or Roger, better re-consider your nasty attitude towards Roger and the
+like!
+
+
+-------------------------------------------------------------------------------
+Steve Lee      *      University of Western Ontario      *      London, Canada 
+                      lee139@obelix.gaul.csd.uwo.ca          
+_______________________________________________________________________________
+

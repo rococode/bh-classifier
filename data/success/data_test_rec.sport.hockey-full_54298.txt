@@ -1,0 +1,24 @@
+0.9997733058287237 0.00022669417126943935 0.9995466116574543 True
+prediction: hockey for data\test\rec.sport.hockey-full\54298
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| players  |    -8.67 |   -10.06 |    1.39 | **    |
+| wins     |    -8.67 |   -10.06 |    1.39 | **    |
+| boston   |    -8.11 |    -9.37 |    1.26 | **    |
+| fuhr     |    -8.96 |   -10.06 |    1.1  | **    |
+| sabres   |    -8.96 |   -10.06 |    1.1  | **    |
+| exciting |    -9.36 |   -10.06 |    0.7  |       |
+| less     |   -10.05 |    -9.37 |   -0.69 |       |
+| skills   |   -10.05 |    -9.37 |   -0.69 |       |
+| like     |    -8.44 |    -7.86 |   -0.58 |       |
+| great    |    -9.36 |    -8.96 |   -0.4  |       |
+From: lzuo@byron.u.washington.edu (Joseph)
+Subject: Great comeback for Sabres, despit changing goalie !
+
+Bufflo Sabres has just finished their great four wins over Boston. All
+Sabres players contribute to those great wins but those talent players
+including Mogily, Fuhr, Kemhlev and Lafontin impressed me most. Their 
+skills showed the art of sport, not like the garbage speech from the
+coach's corner.
+
+Go ! Make hocky popular, make hocky more exciting but less violent ! 

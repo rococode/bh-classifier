@@ -1,0 +1,24 @@
+0.525777431943 0.474222568057 0.0515548638859 False
+prediction: hockey for data\test\rec.sport.baseball-full\105017
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| article |    -8.92 |    -7.83 |   -1.09 | **    |
+| david   |    -9.33 |   -10.03 |    0.7  |       |
+| second  |    -9.33 |   -10.03 |    0.7  |       |
+| thanks  |    -9.33 |   -10.03 |    0.7  |       |
+| true    |    -9.33 |   -10.03 |    0.7  |       |
+| around  |   -10.02 |    -9.34 |   -0.68 |       |
+| really  |    -8.92 |    -9.34 |    0.41 |       |
+| many    |    -9.33 |    -8.93 |   -0.4  |       |
+| time    |    -9.33 |    -8.93 |   -0.4  |       |
+| team    |    -8.08 |    -7.73 |   -0.35 |       |
+From: luriem@alleg.edu(Michael Lurie) The Liberalizer
+Subject: Re: Winfield's spot on THE ALL TIME GREATS TEAM
+
+In article <C5wEwD.Kto@murdoch.acc.Virginia.EDU>  
+drw3l@delmarva.evsc.Virginia.EDU (David Robert Walker) writes:
+
+
+Thanks for the numbers, they portray a true image in many ways, I accept  
+them...the first ones, and the second. IS winfield BA really only around  
+280.

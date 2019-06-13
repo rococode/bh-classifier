@@ -1,0 +1,25 @@
+0.380984917774 0.619015082226 0.238030164452 True
+prediction: baseball for data\test\rec.sport.baseball-full\105090
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| year       |    -7.66 |    -8.95 |    1.29 | **    |
+| time       |    -8.11 |    -9.36 |    1.25 | **    |
+| art        |   -10.06 |    -9.36 |   -0.7  |       |
+| david      |   -10.06 |    -9.36 |   -0.7  |       |
+| email      |   -10.06 |    -9.36 |   -0.7  |       |
+| could      |    -7.98 |    -8.67 |    0.69 |       |
+| interested |    -9.37 |   -10.05 |    0.69 |       |
+| im         |    -8.96 |    -8.44 |   -0.52 |       |
+| coming     |   -10.06 |   -10.05 |   -0.01 |       |
+| ep         |   -10.06 |   -10.05 |   -0.01 |       |
+From: dwarner@journalism.indiana.edu (David J.)
+Subject: mlb.c
+
+Could some kind soul out there e-mail me the 411 on where I can find the mlb.c  
+program?  I'm interested in some road trips this year....
+
+--
+David J.(dwarner@journalism.indiana.edu)*****Blue Riddle Productions 1993
+*-------------------------------It's on.--------------------------------*
+***"THE RAP IS AN ART EP" is coming out on tape -- this time for real.***
+*------------------------E-mail me for the 411.-------------------------*

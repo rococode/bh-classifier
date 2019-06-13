@@ -1,0 +1,39 @@
+0.450480964958 0.549519035042 0.0990380700832 False
+prediction: baseball for data\test\rec.sport.hockey-full\54544
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| playoff   |   -10.05 |    -8.25 |   -1.8  | **    |
+| season    |    -8.44 |   -10.04 |    1.6  | **    |
+| getting   |   -10.05 |    -8.94 |   -1.11 | **    |
+| ice       |   -10.05 |    -8.94 |   -1.11 | **    |
+| note      |   -10.05 |    -8.94 |   -1.11 | **    |
+| comes     |    -8.95 |   -10.04 |    1.09 | **    |
+| providing |    -8.95 |   -10.04 |    1.09 | **    |
+| teams     |    -8.26 |    -9.35 |    1.09 | **    |
+| think     |    -7.97 |    -8.94 |    0.97 |       |
+| last      |    -7.75 |    -8.65 |    0.91 |       |
+From: sesrock@andy.bgsu.edu (Stuart Esrock)
+Subject: Re: Joseph and Blues Shut down WartHAwks Blues up 2-0
+
+cr292@cleveland.Freenet.Edu (Jim Schenk) writes:
+> 
+> One last point, Darryl Sutter is getting badly out coached by Bob Berry.  The
+> madder Darryl gets the more he reminds me of Brian.  The Hawks are
+> quickly loosing thier focus, I don't think the Blues will win in 4 but you
+> never know
+
+Not to Sutter bash or anything since I idolized them as players....
+you sure would think the Sutters would learn something about burning out their
+teams in the regular season.....just too much intensity during the regular 
+season.  I earlier posted a note about Brian and got to thinking after I read
+this item.....gee both Sutters won their divisions and now both have lost 
+home ice advantage and are getting smoked in their opening series in the
+playoffs.  Kind of makes you wonder.......
+
+Bottom line....man it is great to be smoking the WartHawks!!!!!
+Agreed Jim.....this has been damn sweet, so far.  About the only thing
+that comes close to this is shutting up all the Maple Laugh fans....Detroit
+has completely kicked their asses so far.  But, I will stick with the
+Blues for providing the best playoff tonic so far.
+
+Stuart Esrock  Bowling Green State U.  "Go you Blues!!!"
