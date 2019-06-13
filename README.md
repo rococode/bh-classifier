@@ -42,6 +42,8 @@ You can probably ignore data-old.
 
 ### run.py <a name="runpy"></a>
 
+The Naive Bayes classifier for binary email classification. It's kind of messy, but you may not need to run it since we already have the selected emails (in `explanationstudy/src/main/resources/`'s test, train, and practice folders). If you do need to run it again, let me know and I can walk you through it.
+
 ### Java Maven Projects<a name="projects"></a>
 
 Two Maven projects. See the `voiceinteraction` repo for more details on setup (if you are reading this way in the future and don't have access, send me a message).
@@ -53,6 +55,8 @@ Pulls out various data from the database. Tables in the database (which is share
 ### /explanationstudy<a name="explanationstudy"></a>
 
 Runs the web server containing the testbed. If you run it locally you can see it at `localhost:80`. Similar setup to the explanation study - keeps track of a `UserSession` for each user and steps them through progressively.
+
+Emails are contained in and loaded from `src/main/resources/`. Loading is done in `Email.java`. There's some stuff with resource packing in JARs vs. running locally that is handled there that you don't need to worry about.
 
 ### Misc Files<a name="miscfiles"></a>
 
