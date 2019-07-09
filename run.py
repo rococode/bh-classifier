@@ -4,6 +4,7 @@ import os
 import re
 import statistics
 from shutil import copyfile
+import sys
 
 import nltk
 import numpy as np
@@ -20,10 +21,15 @@ scores = []
 nltk.download('stopwords')
 nltk.download('punkt')
 
-train_path = "data" + os.sep + "train"
-test_path = "data" + os.sep + "test"
+train_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "train"
+test_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "test"
 hockey = 'rec.sport.hockey-full'
 baseball = 'rec.sport.baseball-full'
+
+# added by me
+feedback_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "feedback"
+feedback_hockey = 'feedback_hockey'
+feedback_baseball = 'feedback_baseball'
 
 vocab = set()
 
@@ -69,8 +75,42 @@ def load_tokens(path, category, vocab):
     return token_lists, file_names, lens
 
 
+# added by me
+def add_tokens(path, category, vocab, token_lists, file_names, lens):
+    # token_lists = []
+    # file_names = []
+    # lens = []
+    for name in tqdm(os.listdir(os.path.join(path, category))):
+        full_path = os.path.join(path, category, name)
+        with io.open(full_path, "r", encoding="latin-1") as f:
+            lines = f.readlines()
+            # skip headers and empty lines
+            # lines = [x.strip() for x in lines if len(x.strip()) > 0 and x.find("From:") == -1 and x.find("Subject:") == -1]
+            lines = [x.strip() for x in lines if len(x.strip()) > 0 and x.find("From:") == -1]
+            lines = '\n'.join(lines)
+            # tokens = nltk.word_tokenize(lines)
+            tokens = lines.split()
+            tokens = [clean_word(x) for x in tokens if clean_word(x) is not None]
+            # tokens = [x for x in tokens if x not in stopwords.words('english')]
+            # tokens = [x.strip() for x in tokens if len(x.strip()) > 0]
+            token_lists.append(tokens)
+            file_names.append(full_path)
+            lens.append(len(tokens))
+            # for t in tokens:
+            #     vocab.add(t)
+    # return token_lists, file_names, lens
+
+
+# added these 3 lines just to check if args work
+# f = open("user_trained.txt", "a+")  # added by me
+# userid = sys.argv[1]
+# f.write(f"user [{userid}]")
+# f.close()
+
 otrain_hockey, otrain_hockey_names, otrain_hockey_lens = load_tokens(train_path, hockey, vocab)
+# add_tokens(feedback_path, feedback_hockey, vocab, otrain_hockey, otrain_hockey_names, otrain_hockey_lens)  # added by me
 otrain_baseball, otrain_baseball_names, otrain_baseball_lens = load_tokens(train_path, baseball, vocab)
+# add_tokens(feedback_path, feedback_baseball, vocab, otrain_baseball, otrain_baseball_names, otrain_baseball_lens)  # added by me
 test_hockey, test_hockey_names, test_hockey_lens = load_tokens(test_path, hockey, vocab)
 test_baseball, test_baseball_names, test_baseball_lens = load_tokens(test_path, baseball, vocab)
 
@@ -103,7 +143,6 @@ test_baseball = to_id(test_baseball, name="test_baseball")
 
 # for _ in range(0, 50):
 for _ in [1]:
-
     import random
 
     combined = list(zip(otrain_hockey, otrain_hockey_names, otrain_hockey_lens))
@@ -117,10 +156,12 @@ for _ in [1]:
     train_hockey = otrain_hockey[:10]
     train_hockey_names = otrain_hockey_names[:10]
     train_hockey_lens = otrain_hockey_lens[:10]
+    add_tokens(feedback_path, feedback_hockey, vocab, train_hockey, train_hockey_names, train_hockey_lens)  # added by me
 
     train_baseball = otrain_baseball[:10]
     train_baseball_names = otrain_baseball_names[:10]
     train_baseball_lens = otrain_baseball_lens[:10]
+    add_tokens(feedback_path, feedback_baseball, vocab, train_baseball, train_baseball_names, train_baseball_lens)  # added by me
 
     print("sample 3", train_baseball_names[0:3])
     print("sample test 3", test_baseball_names[0:3])
@@ -181,7 +222,7 @@ for _ in [1]:
         p2 = "p(w|b)" if prediction == 0 else "p(w|h)"
         # print('\t\t'.join(["word", p1, p2, "delta"]))
         res = []
-        for tup in prints[:10]:
+        for tup in prints[:10]:  # SOMETHING HAPPENING AROUND HERE -- SHOULD I CHANGE THIS TO REFLECT THE ADDITIONAL FILES, ANYWHERE FROM [10, 20]
             delta = round(tup[1] - tup[2], 2)
             sig = ""
             if abs(delta) > 1:
@@ -199,9 +240,9 @@ for _ in [1]:
     probs_tmp = [[i, a, b, abs(a - b), tNames[i], preds[i] == ty[i]] for i, a, b, diff in probs if diff < 0.25]
     probs = [[i, a, b, abs(a - b), tNames[i], preds[i] == ty[i]] for i, a, b, diff in probs]
 
-    for i, a, b, diff, name, correct in probs_tmp:
+    for i, a, b, diff, name, correct in tqdm(probs_tmp):
         print(name, correct, diff)
-        failed_dir = "data" + os.sep + "close calls"
+        failed_dir = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "close calls"
         if not os.path.exists(failed_dir):
             os.makedirs(failed_dir)
         if not os.path.exists(failed_dir + os.sep + str(True)):
@@ -242,7 +283,7 @@ for _ in [1]:
     print("MEAN of TEST: " + str(statistics.mean(tLens)))
 
     ct_match_len = 0
-    for i in tLens:
+    for i in tqdm(tLens):
         if 30 < i < 120:
             ct_match_len += 1
     print("match count:", ct_match_len, "/", len(tLens))
@@ -251,8 +292,8 @@ for _ in [1]:
 
     print("lens: ", len(tNames), len(preds))
 
-    failed_dir = "data" + os.sep + "failed"
-    success_dir = "data" + os.sep + "success"
+    failed_dir = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "failed"
+    success_dir = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "success"
     if not os.path.exists(success_dir):
         os.makedirs(success_dir)
 
@@ -404,7 +445,11 @@ for _ in [1]:
                         f2.write(lines)
             prediction = preds[i]
 
+    f = open("user_trained.txt", "a+")  # added by me
+    # userid = sys.argv[1]
+    # print(f"user [{userid}]")
     print("score", correct, incorrect)
+    # f.write(f"score{correct}{incorrect}\n")
 
     # print("params", clf.get_params())
     # feature_log_prob = p(xi | y)
@@ -412,5 +457,9 @@ for _ in [1]:
     print("feature_log_prob shape", clf.feature_log_prob_.shape)
 
 print("SCORES:", scores)
+f.write(f"SCORES: {scores}\n")
 print("MEDIAN of SCORES: " + str(statistics.median(scores)))
+f.write(f"MEDIAN OF SCORES: {str(statistics.median(scores))}\n")
 print("MEAN of SCORES: " + str(statistics.mean(scores)))
+f.write(f"MEAN OF SCORES: {str(statistics.mean(scores))}\n\n")
+f.close()
