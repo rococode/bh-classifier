@@ -1,17 +1,17 @@
-1.0 1.9774660252856373e-17 1.0 True
+1.0 1.5498011329419625e-17 1.0 True
 prediction: hockey for data\test\rec.sport.hockey-full\54361
 | word         |   p(w|h) |   p(w|b) |   delta | **?   |
 |--------------|----------|----------|---------|-------|
-| rangers      |    -7.86 |   -10.06 |    2.2  | **    |
-| philadelphia |    -7.97 |   -10.06 |    2.09 | **    |
-| wings        |    -7.97 |   -10.06 |    2.09 | **    |
-| hartford     |    -8.11 |   -10.06 |    1.95 | **    |
-| playoff      |    -8.44 |   -10.06 |    1.62 | **    |
-| playoffs     |    -8.44 |   -10.06 |    1.62 | **    |
-| brindamour   |    -8.67 |   -10.06 |    1.39 | **    |
-| norris       |    -8.67 |   -10.06 |    1.39 | **    |
-| sanderson    |    -8.67 |   -10.06 |    1.39 | **    |
-| greg         |   -10.05 |    -8.67 |   -1.38 | **    |
+| philadelphia |    -7.96 |   -10.04 |    2.08 | **    |
+| rangers      |    -7.96 |   -10.04 |    2.08 | **    |
+| wings        |    -7.96 |   -10.04 |    2.08 | **    |
+| hartford     |    -8.09 |   -10.04 |    1.95 | **    |
+| playoff      |    -8.43 |   -10.04 |    1.61 | **    |
+| playoffs     |    -8.43 |   -10.04 |    1.61 | **    |
+| brindamour   |    -8.65 |   -10.04 |    1.39 | **    |
+| norris       |    -8.65 |   -10.04 |    1.39 | **    |
+| sanderson    |    -8.65 |   -10.04 |    1.39 | **    |
+| greg         |   -10.04 |    -8.66 |   -1.38 | **    |
 From: nlu@Xenon.Stanford.EDU (Nelson Lu)
 Subject: Possible Canadian WC Team?
 

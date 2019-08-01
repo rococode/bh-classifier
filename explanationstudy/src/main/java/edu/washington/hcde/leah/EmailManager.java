@@ -104,8 +104,11 @@ public class EmailManager {
         dir = iterate("train");
 //        Enumeration<URL> iter = loader.getResources("train");
 //        File trainDir = new File(iter.nextElement().toURI());
+        if (dir == null) System.out.println("oops");
+        System.out.println("here");
         for (File f : dir) {
             log.info("Trying " + f.getName());
+            System.out.println("trying " + f.getName());
             if (f.getName().endsWith(".txt")) {
                 train.add(Email.fromFile(f));
             }
@@ -118,6 +121,7 @@ public class EmailManager {
         for (File f : dir) {
             if (f.getName().endsWith(".txt")) {
                 test.add(Email.fromFile(f));
+                System.out.println("test email: " + test.get(test.size()-1).toString());
             }
         }
         log.info("Loaded " + test.size() + " test emails.");

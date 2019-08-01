@@ -183,17 +183,19 @@ public class Launcher {
                     session.mode = "pintro";
                     break;
                 case "intro1":
-                    session.mode = "intro2";
+                    session.mode = "intro2";  // <-- go back to this one
                     // instant skip for quick debugging
-//                    session.mode = "train";
+//                    session.mode = "practice";
                     break;
                 case "intro2":
-                    session.mode = "intro3";
+//                    session.mode = "intro3";
+//                    session.mode = "openq2";
+                    session.mode = "demographics"; // skipping old "Keep in Mind" page
                     break;
-                case "intro3":
-                    session.mode = "demographics";
-//                    session.mode = "openq";
-                    break;
+//                case "intro3": // old "Keep in Mind" page
+//                    session.mode = "demographics";
+////                    session.mode = "openq";
+//                    break;
                 case "pintro":
                     session.mode = "practice";
                     break;
@@ -209,25 +211,30 @@ public class Launcher {
                     handleEmail(req, session, "train", "train-" + session.trainIdx);
                     session.loadNextEmail();
                     if (session.finishedTrain()) {
-                        session.mode = "tinstructions";
+//                        session.mode = "tinstructions";
+                        session.mode = "openq";
                     } else {
                         session.mode = "train";
                     }
                     break;
                 case "tinstructions":
                     session.mode = "test";
-                    DBManager.savePerf(session,
-                            req.queryParams("perf"),
-                            req.queryParams("perf_why"));
+//                    DBManager.savePerf(session,
+//                            req.queryParams("perf"),
+//                            req.queryParams("perf_why"));
                     break;
                 case "test":
                     handleEmail(req, session, "test", "test-" + session.testIdx);
                     session.loadNextEmail();
                     if (session.finishedTest()) {
-                        session.mode = "openq";
+//                        session.mode = "openq"; <-- commented out 7/22
+                        session.mode = "complete";
                     } else {
                         session.mode = "test";
                     }
+                    break;
+                case "openqinstructions":
+                    session.mode = "openq";
                     break;
                 case "openq":
                     log.info("openq for " + session.getUUID());
@@ -236,21 +243,39 @@ public class Launcher {
 //                        log.info(s + ": " + req.queryParams(s));
 //                    }
 //                    log.info("params: " + req.params().toString());
-                    DBManager.saveFinal(
+                    DBManager.saveFinal1(
                             session,
                             req.queryParams("how_decide"),
+                            req.queryParams("acc_1"),
                             req.queryParams("perceived_accuracy"),
                             req.queryParams("understanding"),
-                            req.queryParams("teaming"),
+                            req.queryParams("expectation_alignment"),
+                            req.queryParams("accuracy_standard"),
+                            req.queryParams("accuracy_standard_why"),
                             req.queryParams("frustration"),
                             req.queryParams("frustration_why"),
                             req.queryParams("trust"),
                             req.queryParams("trust_why"),
                             req.queryParams("recommend"),
                             req.queryParams("recommend_why"),
+                            req.queryParams("fdbk_importance"),
+                            req.queryParams("fdbk_importance_why"),
+                            req.queryParams("fdbk_importance_what"),
                             req.queryParams("overall")
                     );
-                    session.mode = "complete";
+                    session.mode = "openq2";
+                    break;
+                case "openq2":
+                    log.info("openq2 for " + session.getUUID());
+                    DBManager.saveFinal2(session,
+                            req.queryParams("learn"),
+                            req.queryParams("learn_why"),
+                            req.queryParams("perf"),
+                            req.queryParams("perf_why"),
+                            req.queryParams("acc_2")
+                    );
+//                    session.mode = "complete"; <-- commented out 7/22
+                    session.mode = "tinstructions";
                     break;
                 default:
                     log.info("WARNING: unrecognized mode " + session.mode + " for " + session);
@@ -313,16 +338,21 @@ public class Launcher {
         String sender = session.currentEmail.sender;
         String subject = session.currentEmail.subject;
         String email = session.currentEmail.content;
+        String testtype = session.currentEmail.testtype;
+        System.out.println("injecting sender " + sender);
+        System.out.println("injecting testtype " + testtype);
         JSONObject o = new JSONObject();
         o.put("sender", sender);
         o.put("subject", subject);
         o.put("id", session.mode.equals("complete") ? session.getUUID().toString() : "");
         o.put("email", email);
+        o.put("testtype", testtype);
         o.put("pred", session.currentEmail.pred);
         o.put("curr_idx", (session.finishedTrain() ? session.testIdx : session.trainIdx));
         o.put("total_idx", session.finishedTrain() ? session.totalTest : session.totalTrain);
         o.put("explain_words", session.currentEmail.words);
         o.put("mode", mode + session.condition);
+        System.out.println("o = " + o.toString());
         return sb.toString().replace("\"@DATA_INJECTION@\"", o.toString());
     }
 

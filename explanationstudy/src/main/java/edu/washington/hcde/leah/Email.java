@@ -18,7 +18,24 @@ public class Email {
     public final String pred;
     public final String[] words;
 
-    Email(String id, String subject, String sender, String content, String pred, List<String> words) {
+    public final String testtype; // added (null if it's not a test email)
+
+//    Email(String id, String subject, String sender, String content, String pred, List<String> words) {
+//        this.id = id;
+//        this.subject = subject;
+//        this.sender = sender;
+//        this.content = content.trim();
+//        this.pred = pred;
+//        // convert to json representation
+////        this.words = "[\"" + String.join("\", \"", words) + "\"]";
+//        this.words = new String[words.size()];
+//        for (int k = 0; k < this.words.length; k++) {
+//            this.words[k] = words.get(k);
+//        }
+//    }
+
+    // constructor for Test emails
+    Email(String id, String subject, String sender, String content, String pred, List<String> words, String testtype) {
         this.id = id;
         this.subject = subject;
         this.sender = sender;
@@ -30,6 +47,7 @@ public class Email {
         for (int k = 0; k < this.words.length; k++) {
             this.words[k] = words.get(k);
         }
+        this.testtype = testtype;
     }
 
     @Override
@@ -43,6 +61,7 @@ public class Email {
                 + this.content.substring(0, Math.min(50, this.content.length()))
                 + "\n\tPredicted: "
                 + this.pred
+                + "\n\tTestType: " + this.testtype // added
                 + "\n\tBest Words: "
                 + this.words;
     }
@@ -95,6 +114,18 @@ public class Email {
         if (words.size() != CHOSEN_WORDS || content.toString().trim().length() == 0) {
             throw new RuntimeException("Bad email parse " + id);
         }
-        return new Email(id, subject, sender, content.toString(), pred, words);
+
+        // added this part to help identify test emails as same or similar
+        String testtype = "";
+        System.out.println("email: " + f.getName());
+        if (f.getName().contains("same")) {
+            System.out.println("same");
+            testtype = "same";
+        } else if (f.getName().contains("similar")) {
+            System.out.println("similar");
+            testtype = "similar";
+        }
+
+        return new Email(id, subject, sender, content.toString(), pred, words, testtype); // added testtype
     }
 }

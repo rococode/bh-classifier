@@ -92,13 +92,67 @@ public class DBManager {
         }
     }
 
-    public static void savePerf(UserSession session, String perf, String perf_why) {
-        String query = "INSERT INTO exp_perf (id, perf, perf_why) VALUES (?, ?, ?)";
+//    public static void savePerf(UserSession session, String perf, String perf_why) {
+//        String query = "INSERT INTO exp_perf (id, perf, perf_why) VALUES (?, ?, ?)";
+//        try (Connection conn = DriverManager.getConnection(url, props)) {
+//            PreparedStatement stmt = conn.prepareStatement(query);
+//            stmt.setObject(1, session.getUUID());
+//            stmt.setString(2, perf);
+//            stmt.setString(3, perf_why);
+//            log.info("Executing " + stmt.toString());
+//            stmt.execute();
+//        } catch (SQLException e) {
+//            System.out.println(query);
+//            e.printStackTrace();
+//        }
+//    }
+
+//    public static void saveFinal(UserSession session, String how_decide, String perceived_accuracy, String understanding, String teaming, String frustration, String frustration_why, String trust, String trust_why, String recommend, String recommend_why, String overall) {
+//        String query = "INSERT INTO exp_openq (id, how_decide, perceived_accuracy, understanding, teaming, frustration, frustration_why, trust, trust_why, recommend, recommend_why, overall) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+//        try (Connection conn = DriverManager.getConnection(url, props)) {
+//            PreparedStatement stmt = conn.prepareStatement(query);
+//            stmt.setObject(1, session.getUUID());
+//            stmt.setString(2, how_decide);
+//            stmt.setString(3, perceived_accuracy);
+//            stmt.setString(4, understanding);
+//            stmt.setString(5, teaming);
+//            stmt.setString(6, frustration);
+//            stmt.setString(7, frustration_why);
+//            stmt.setString(8, trust);
+//            stmt.setString(9, trust_why);
+//            stmt.setString(10, recommend);
+//            stmt.setString(11, recommend_why);
+//            stmt.setString(12, overall);
+//            log.info("Executing " + stmt.toString());
+//            stmt.execute();
+//        } catch (SQLException e) {
+//            System.out.println(query);
+//            e.printStackTrace();
+//        }
+//    }
+
+    public static void saveFinal1(UserSession session, String how_decide, String estimated_accuracy_1, String perceived_accuracy, String understanding, String expectation_alignment, String accuracy_standard, String accuracy_standard_why, String frustration, String frustration_why, String trust, String trust_why, String recommend, String recommend_why, String fdbk_importance, String fdbk_importance_why, String fdbk_importance_what, String overall) {
+        String query = "INSERT INTO exp_openq1 (id, how_decide, estimated_accuracy_1, perceived_accuracy, understanding, expectation_alignment, accuracy_standard, accuracy_standard_why, frustration, frustration_why, trust, trust_why, recommend, recommend_why, fdbk_importance, fdbk_importance_why, fdbk_importance_what, overall) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
         try (Connection conn = DriverManager.getConnection(url, props)) {
             PreparedStatement stmt = conn.prepareStatement(query);
             stmt.setObject(1, session.getUUID());
-            stmt.setString(2, perf);
-            stmt.setString(3, perf_why);
+            stmt.setString(2, how_decide);
+            stmt.setString(3, estimated_accuracy_1);
+            stmt.setString(4, perceived_accuracy);
+            stmt.setString(5, understanding);
+            stmt.setString(6, expectation_alignment);
+            stmt.setString(7, accuracy_standard);
+            stmt.setString(8, accuracy_standard_why);
+            stmt.setString(9, frustration);
+            stmt.setString(10, frustration_why);
+            stmt.setString(11, trust);
+            stmt.setString(12, trust_why);
+            stmt.setString(13, recommend);
+            stmt.setString(14, recommend_why);
+            stmt.setString(15, fdbk_importance);
+            stmt.setString(16, fdbk_importance_why);
+            stmt.setString(17, fdbk_importance_what);
+            stmt.setString(18, overall);
             log.info("Executing " + stmt.toString());
             stmt.execute();
         } catch (SQLException e) {
@@ -107,22 +161,16 @@ public class DBManager {
         }
     }
 
-    public static void saveFinal(UserSession session, String how_decide, String perceived_accuracy, String understanding, String teaming, String frustration, String frustration_why, String trust, String trust_why, String recommend, String recommend_why, String overall) {
-        String query = "INSERT INTO exp_openq (id, how_decide, perceived_accuracy, understanding, teaming, frustration, frustration_why, trust, trust_why, recommend, recommend_why, overall) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+    public static void saveFinal2(UserSession session, String learn, String learn_why, String perf, String perf_why, String est_acc2) {
+        String query = "INSERT INTO exp_openq2 (id, expected_learn, expected_learn_why, expected_improve, expected_improve_why, estimated_accuracy_2) VALUES (?, ?, ?, ?, ?, ?)";
         try (Connection conn = DriverManager.getConnection(url, props)) {
             PreparedStatement stmt = conn.prepareStatement(query);
             stmt.setObject(1, session.getUUID());
-            stmt.setString(2, how_decide);
-            stmt.setString(3, perceived_accuracy);
-            stmt.setString(4, understanding);
-            stmt.setString(5, teaming);
-            stmt.setString(6, frustration);
-            stmt.setString(7, frustration_why);
-            stmt.setString(8, trust);
-            stmt.setString(9, trust_why);
-            stmt.setString(10, recommend);
-            stmt.setString(11, recommend_why);
-            stmt.setString(12, overall);
+            stmt.setString(2, learn);
+            stmt.setString(3, learn_why);
+            stmt.setString(4, perf);
+            stmt.setString(5, perf_why);
+            stmt.setString(6, est_acc2);
             log.info("Executing " + stmt.toString());
             stmt.execute();
         } catch (SQLException e) {

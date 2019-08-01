@@ -9,6 +9,16 @@ public class Launcher {
 //        DBManager.parseOpenQ();
 //        DBManager.parseOpenQ();
 //        DBManager.getVals();
-        DBManager.getOpenQNoCondition();
+//        DBManager.getOpenQNoCondition();
+
+        WordExtracter.initialize();
+//        WordExtracter.extractWords();
+//        WordExtracter.matchWords();
+//        WordExtracter.compareWords();
+//        WordExtracter.compareInstance();
+        WordExtracter.compareNoFeedback();
+
+//        SelectionProcess.initialize();
+//        SelectionProcess.countWordsSelected();
     }
 }

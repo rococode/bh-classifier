@@ -13,7 +13,7 @@ import java.util.*;
 //import org.python.core.PyObject;
 //import org.python.util.PythonInterpreter;
 
-public class FeatureFeedbackIncorporater1 {
+public class InstanceFeedbackIncorporater {
 
 //    private static void safePut(Map<String, List<String>> map, String key, String value) {
 //        if (!map.containsKey(key)) {
@@ -29,8 +29,8 @@ public class FeatureFeedbackIncorporater1 {
 
     public static void main(String[] args) {
         initialize();
-        setupFeatureFeedback();
-        applyFeatureFeedback();
+        setupInstanceFeedback();
+        applyInstanceFeedback();
     }
 
     public static void initialize() {
@@ -47,7 +47,7 @@ public class FeatureFeedbackIncorporater1 {
         }
     }
 
-    public static void setupFeatureFeedback() {
+    public static void setupInstanceFeedback() {
         // get 60 users with feature-level feedback
         String query = "select a.condition, a.id, b.email, b.instance, b.real_label, b.real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.created < '2019-06-01 00:00:00' and (a.condition = '_instance' or a.condition = '_instance_explain') and b.mode = 'train';";
 
@@ -102,7 +102,7 @@ public class FeatureFeedbackIncorporater1 {
         }
     }
 
-    public static void applyFeatureFeedback() {
+    public static void applyInstanceFeedback() {
         // for each user:
         // identify their labels for the 10 emails (in resources\\train)
         // copy the 10 emails to the appropriate folder (hockey or baseball in data\\feedback)
@@ -143,8 +143,10 @@ public class FeatureFeedbackIncorporater1 {
                 }
 
                 try {
-                    String[] cmd = {"C:\\Users\\Melissa Birchfield\\AppData\\Local\\Programs\\Python\\Python37\\python.exe", "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\run.py", "hello"};
+                    String[] cmd = {"C:\\Users\\Melissa Birchfield\\AppData\\Local\\Programs\\Python\\Python37\\python.exe", "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\run.py", user.getKey(), entry.getKey()};
+                    System.out.println(Arrays.toString(cmd));
                     Process p = Runtime.getRuntime().exec(cmd);
+                    System.out.println("hey");
                     try {
                         BufferedReader bfr = new BufferedReader(new InputStreamReader(p.getErrorStream()));
                         BufferedReader bfr2 = new BufferedReader(new InputStreamReader(p.getInputStream()));
@@ -155,7 +157,9 @@ public class FeatureFeedbackIncorporater1 {
                         while ((line = bfr2.readLine()) != null) {
                             System.out.println("Python Output [Input]: " + line);
                         }
+                        System.out.println("hey 2");
                         p.waitFor();
+                        System.out.println("hey 3");
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
