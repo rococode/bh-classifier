@@ -497,15 +497,6 @@ for _ in [1]:
                 print("idx", idx, match_names1[idx], match_names2[idx], match_scores[idx])
                 j = tNames.index(match_names2[idx])
                 idx += 1
-        # else:
-        #     print("oops", tNames[i])
-
-        # for j in range(len(preds)):
-        #     if i != j and tNames[i] in match_names1 and tNames[j] in match_names2:
-        #         idx = match_names1.index(tNames[i])
-        #         idx2 = match_names2.index(tNames[j])
-        #         if idx == idx2:
-        #             print("idx", idx, "idx2", idx2, tNames[i], tNames[j], match_scores[idx])
                 dest_dir = "data" + os.sep + "matches3"
                 if not os.path.exists(dest_dir):
                     os.makedirs(dest_dir)
