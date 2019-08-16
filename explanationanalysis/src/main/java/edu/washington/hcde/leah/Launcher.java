@@ -5,18 +5,15 @@ import java.util.Random;
 public class Launcher {
 
     public static void main(String[] args) {
-        DBManager.initialize();
-//        DBManager.parseOpenQ();
+//        DBManager.initialize();
 //        DBManager.parseOpenQ();
 //        DBManager.getVals();
 //        DBManager.getOpenQNoCondition();
 
-        WordExtracter.initialize();
-//        WordExtracter.extractWords();
-//        WordExtracter.matchWords();
-//        WordExtracter.compareWords();
-//        WordExtracter.compareInstance();
-        WordExtracter.compareNoFeedback();
+        FeedbackExtracter.initialize();
+        FeedbackExtracter.compareFeature();
+        FeedbackExtracter.compareInstance();
+        FeedbackExtracter.compareNoFeedback();
 
 //        SelectionProcess.initialize();
 //        SelectionProcess.countWordsSelected();

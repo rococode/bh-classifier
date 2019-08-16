@@ -24,7 +24,7 @@
                     return Object(m.a)(a, e), Object(o.a)(a, [{
                         key: "clean",
                         value: function(e) {
-                            return e = (e = (e = (e = e.trim()).replace(/[^0-9a-zA-Z\-']/g, "")).replace(/\./, "")).toLowerCase()
+                            return e = (e = (e = (e = e.trim()).replace(/[^a-zA-Z\']/g, "")).replace(/\./, "")).toLowerCase()
                         }
                     }, {
                         key: "check",
@@ -121,14 +121,14 @@
                             }, l.a.createElement("div", {
                                 className: "email"
                             }, this.props.pred.length > 0 && l.a.createElement("div", {
+                                className: "email-header"
+                            }, l.a.createElement("div", {
                                 className: "email-subject"
-                            }, this.props.pred === "baseball" ? l.a.createElement("div", {
+                            }, "Subject: ", e), l.a.createElement("div", {className: "email-pred"}, this.props.pred === "baseball" ? l.a.createElement("div", {
                                 className: "badge-b"
-                            }, "Model Prediction: " + this.props.pred) : l.a.createElement("div", {
+                            }, "Model Decision: " + this.props.pred) : l.a.createElement("div", {
                                 className: "badge-h"
-                            }, "Model Prediction: " + this.props.pred)), l.a.createElement("div", {
-                                className: "email-subject"
-                            }, "Subject: ", e), l.a.createElement("div", {
+                            }, "Model Decision: " + this.props.pred))), l.a.createElement("div", {
                                 className: "email-message"
                             }, a)))
                         }
@@ -143,7 +143,7 @@
                         value: function() {
                             var e = 0 == F[0] ? "selected" : "",
                                 a = 1 == F[0] ? "selected" : "";
-                            return l.a.createElement("div", {
+                            return P.indexOf("instance") > -1 ? l.a.createElement("div", {
                                 className: "feedback-instance"
                             }, l.a.createElement("div", {
                                 className: "feedback-instance-label"
@@ -157,7 +157,21 @@
                                 onClick: function() {
                                     F[0] = 0, A.forceUpdate()
                                 }
-                            }, "Incorrect"))
+                            }, "Incorrect")) : l.a.createElement("div", {
+                                className: "feedback-instance"
+                            }, l.a.createElement("div", {
+                                className: "feedback-instance-label"
+                            }, "Please tell the model whether it should associate these three words with hockey or baseball."), l.a.createElement("div", {
+                                className: "survey-button-h horizontal-margin survey-hockey " + a,
+                                onClick: function() {
+                                    F[0] = 1, A.forceUpdate()
+                                }
+                            }, "Hockey"), l.a.createElement("div", {
+                                className: "survey-button-b horizontal-margin survey-baseball " + e,
+                                onClick: function() {
+                                    F[0] = 0, A.forceUpdate()
+                                }
+                            }, "Baseball"))
                         }
                     }]), a
                 }(l.a.Component),
@@ -177,12 +191,12 @@
                             }, l.a.createElement("div", {
                                 className: "feedback-instance-label"
                             }, "First, do you think this email is about hockey or baseball?"), l.a.createElement("div", {
-                                className: "feedback-instance-button feedback-instance-hockey " + e,
+                                className: "survey-button-h horizontal-margin feedback-instance-hockey " + e,
                                 onClick: function() {
                                     q[0] = 0, A.forceUpdate()
                                 }
                             }, "Hockey"), l.a.createElement("div", {
-                                className: "feedback-instance-button feedback-instance-baseball " + a,
+                                className: "survey-button-b horizontal-margin feedback-instance-baseball " + a,
                                 onClick: function() {
                                     q[0] = 1, A.forceUpdate()
                                 }
@@ -191,12 +205,12 @@
                             }, l.a.createElement("div", {
                                 className: "feedback-instance-label"
                             }, "Second, what do you think the model will decide this email is about?"), l.a.createElement("div", {
-                                className: "feedback-instance-button feedback-instance-correct " + t,
+                                className: "survey-button-h horizontal-margin feedback-instance-correct " + t,
                                 onClick: function() {
                                     F[0] = 0, A.forceUpdate()
                                 }
                             }, "Hockey"), l.a.createElement("div", {
-                                className: "feedback-instance-button feedback-instance-incorrect " + n,
+                                className: "survey-button-b horizontal-margin feedback-instance-incorrect " + n,
                                 onClick: function() {
                                     F[0] = 1, A.forceUpdate()
                                 }
@@ -212,11 +226,12 @@
                         key: "render",
                         value: function() {
                             console.log("testtype: " + tt);
+                            console.log("testaccuracy: " + ta);
                             return l.a.createElement("div", {
                                 className: "pred"
                             }, l.a.createElement("span", {
                                 className: "pred-q"
-                            }, (0 == P.indexOf("practice") || 0 == P.indexOf("train")) ? "The model decided that this email is about " : (tt === "same" ? "In the previous phase, the model decided that this email was about " : "This email is similar to an email in the previous phase that the model decided was about ")), this.props.pred === "baseball" ? l.a.createElement("span", {
+                            }, (0 == P.indexOf("practice") || 0 == P.indexOf("train")) ? "The model decided that this email is about " : (tt === "same" ? "In Phase 2, the model " + (ta === "T" ? "correctly" : "incorrectly") + " decided that this email was about " : "This email contains many of the same words as an email that you reviewed in Phase 2, which the model " + (ta === "T" ? "correctly" : "incorrectly") + " decided was about ")), this.props.pred === "baseball" ? l.a.createElement("span", {
                                 className: "badge-b"
                             }, this.props.pred) : l.a.createElement("span", {
                                 className: "badge-h"
@@ -257,40 +272,40 @@
                         key: "render",
                         value: function() {
                             var e = this,
-                                a = _ || -1 != F[0] || 3 == O.length;
+                                a = P.indexOf("feature") > -1 ? (-1 != F[0] && 3 == O.length) : _ || -1 != F[0] || 3 == O.length;
                             return this.props.test && (a = -1 != F[0]), l.a.createElement(l.a.Fragment, null, t = (l.a.createElement("span", {
                                 className: "survey"
-                            }, l.a.createElement(l.a.Fragment, null, "To help our research team interpret your evaluation later, please let us know: Do ", l.a.createElement("em", null, "you"), " think that this email is about hockey or baseball?"), l.a.createElement("div", {
+                            }, l.a.createElement(l.a.Fragment, null, l.a.createElement("strong", null, "To help our research team interpret your evaluation later"), ", please let us know: Do ", l.a.createElement("em", null, "you"), " think that this email is about hockey or baseball?"), l.a.createElement("div", {
                                 className: "invis-divider"
                             }), l.a.createElement("div", {
-                                className: "survey-button horizontal-margin survey-hockey" + ("correct" == this.state.currChoice ? "selected" : ""),
+                                className: "survey-button-h horizontal-margin survey-hockey" + ("correct" == this.state.currChoice ? "selected" : ""),
                                 id: "hockeyButton",
                                 onClick: function() {
                                     fdbk = "hockey";
                                     document.getElementById("proceedButton").className = "us-button next-email " + ((a && (fdbk !== "")) ? "ready" : "")
-                                    document.getElementById("hockeyButton").className = "survey-button horizontal-margin survey-hockey " + ("correct" === e.state.currChoice ? "" : "selected")
-                                    document.getElementById("baseballButton").className = "survey-button horizontal-margin survey-baseball " + ("incorrect" !== e.state.currChoice ? "" : "selected")
-                                    document.getElementById("unsureButton").className = "survey-button horizontal-margin survey-unsure " + ("unsure" !== e.state.currChoice ? "" : "selected")
+                                    document.getElementById("hockeyButton").className = "survey-button-h horizontal-margin survey-hockey " + ("correct" === e.state.currChoice ? "" : "selected")
+                                    document.getElementById("baseballButton").className = "survey-button-b horizontal-margin survey-baseball " + ("incorrect" !== e.state.currChoice ? "" : "selected")
+                                    document.getElementById("unsureButton").className = "survey-button-u horizontal-margin survey-unsure " + ("unsure" !== e.state.currChoice ? "" : "selected")
                                 }
                             }, "Hockey"), l.a.createElement("div", {
-                                className: "survey-button horizontal-margin survey-baseball" + ("incorrect" == this.state.currChoice ? "selected" : ""),
+                                className: "survey-button-b horizontal-margin survey-baseball" + ("incorrect" == this.state.currChoice ? "selected" : ""),
                                 id: "baseballButton",
                                 onClick: function() {
                                     fdbk = "baseball";
                                     document.getElementById("proceedButton").className = "us-button next-email " + ((a && (fdbk !== "")) ? "ready" : "")
-                                    document.getElementById("hockeyButton").className = "survey-button horizontal-margin survey-hockey " + ("correct" !== e.state.currChoice ? "" : "selected")
-                                    document.getElementById("baseballButton").className = "survey-button horizontal-margin survey-baseball " + ("incorrect" === e.state.currChoice ? "" : "selected")
-                                    document.getElementById("unsureButton").className = "survey-button horizontal-margin survey-unsure " + ("unsure" !== e.state.currChoice ? "" : "selected")
+                                    document.getElementById("hockeyButton").className = "survey-button-h horizontal-margin survey-hockey " + ("correct" !== e.state.currChoice ? "" : "selected")
+                                    document.getElementById("baseballButton").className = "survey-button-b horizontal-margin survey-baseball " + ("incorrect" === e.state.currChoice ? "" : "selected")
+                                    document.getElementById("unsureButton").className = "survey-button-u horizontal-margin survey-unsure " + ("unsure" !== e.state.currChoice ? "" : "selected")
                                 }
                             }, "Baseball"), l.a.createElement("div", {
-                                className: "survey-button horizontal-margin survey-unsure" + ("unsure" == this.state.currChoice ? "selected" : ""),
+                                className: "survey-button-u horizontal-margin survey-unsure" + ("unsure" == this.state.currChoice ? "selected" : ""),
                                 id: "unsureButton",
                                 onClick: function() {
                                     fdbk = "unsure";
                                     document.getElementById("proceedButton").className = "us-button next-email " + ((a && (fdbk !== "")) ? "ready" : "");
-                                    document.getElementById("hockeyButton").className = "survey-button horizontal-margin survey-hockey " + ("correct" !== e.state.currChoice ? "" : "selected")
-                                    document.getElementById("baseballButton").className = "survey-button horizontal-margin survey-baseball " + ("incorrect" !== e.state.currChoice ? "" : "selected")
-                                    document.getElementById("unsureButton").className = "survey-button horizontal-margin survey-unsure " + ("unsure" === e.state.currChoice ? "" : "selected")
+                                    document.getElementById("hockeyButton").className = "survey-button-h horizontal-margin survey-hockey " + ("correct" !== e.state.currChoice ? "" : "selected")
+                                    document.getElementById("baseballButton").className = "survey-button-b horizontal-margin survey-baseball " + ("incorrect" !== e.state.currChoice ? "" : "selected")
+                                    document.getElementById("unsureButton").className = "survey-button-u horizontal-margin survey-unsure " + ("unsure" === e.state.currChoice ? "" : "selected")
                                 }
                             }, "Not Sure"))), u = l.a.createElement("div", {
                                 className: "us-button next-email " + ((a && (fdbk !== "")) ? "ready" : ""),
@@ -310,6 +325,7 @@
                 k = ["habs", "forever", "fuhr", "may", "ot"],
                 x = "Hockey",
                 tt = "SAME",
+                ta = "T",
                 O = [],
                 F = [-1],
                 q = [-1];
@@ -325,7 +341,7 @@
             "@DATA_INJECTION@" == T && (T = void 0);
             var P = void 0,
                 S = "abc";
-            if (T) {console.log("hey " + T.testtype); x = T.pred ? T.pred : "", w = T.sender, S = T.id, y = T.subject, N = T.email, tt = T.testtype ? T.testtype : "", k = T.explain_words, P = T.mode, j = T.curr_idx, I = T.total_idx;}
+            if (T) x = T.pred ? T.pred : "", w = T.sender, S = T.id, y = T.subject, N = T.email, tt = T.testtype ? T.testtype : "", ta = T.testaccuracy ? T.testaccuracy : "", k = T.explain_words, P = T.mode, j = T.curr_idx, I = T.total_idx;
             else {
                 (P = function(e) {
                     e = e.split("+").join(" ");
@@ -334,11 +350,11 @@
                 }(document.location.search).mode) || (P = "failed")
             } - 1 == P.indexOf("feature") && -1 == P.indexOf("instance") && P.indexOf("explain");
             var A, _ = -1 == P.indexOf("feature") && -1 == P.indexOf("instance");
-
             function M(e) {
                 var a = "./next?feedback=" + encodeURIComponent(e);
-                P.indexOf("feature") > -1 ? a += "&chosen=" + encodeURIComponent(JSON.stringify(O)) : P.indexOf("instance") > -1 && (a += "&instance=" + encodeURIComponent(1 == F[0] ? "instance_yes" : "instance_no")), location.href = a
+                P.indexOf("feature") > -1 ? a += "&chosen=" + encodeURIComponent(JSON.stringify(O)) + "&instance=" + encodeURIComponent(1 == F[0] ? "instance_yes" : "instance_no") : P.indexOf("instance") > -1 && (a += "&instance=" + encodeURIComponent(1 == F[0] ? "instance_yes" : "instance_no")), location.href = a
             }
+
             var Y = function(e) {
                 function a(e) {
                     var t;
@@ -354,9 +370,9 @@
                 }, {
                     key: "render",
                     value: function() {
-                        var e = l.a.createElement(l.a.Fragment, null, "You will see some highlighted words that help ", l.a.createElement("strong", null, "explain"), " how the model made its decision. The model considers the highlighted words to be ", l.a.createElement("strong", null, "most important"), " in its decision."),
-                            a = l.a.createElement(l.a.Fragment, null, "You will be asked to ", l.a.createElement("strong", null, "give feedback"), " to the model on each decision that it makes. To do this, you will tell the model whether it is right or wrong."),
-                            t = l.a.createElement(l.a.Fragment, null, "You will be asked to ", l.a.createElement("strong", null, "give feedback"), " to the model on each decision that it makes. To do this, you will select the 3 words that you consider to be most important for correctly classifying the email as a hockey or baseball email."),
+                        var e = l.a.createElement(l.a.Fragment, null, "You will see three highlighted words that help ", l.a.createElement("strong", null, "explain"), " how the model made each decision. The highlighted words were the ", l.a.createElement("strong", null, "most important"), " to the model when deciding if the email was about hockey or baseball."),
+                            a = l.a.createElement(l.a.Fragment, null, "You will be asked to help the model improve by ", l.a.createElement("strong", null, "giving feedback"), " to the model on each decision that it makes. To do this, you will tell the model whether it is right or wrong."),
+                            t = l.a.createElement(l.a.Fragment, null, "You will be asked to help the model improve by ", l.a.createElement("strong", null, "giving feedback"), " to the model on each decision that it makes. To do this, you will select the three most important words that you think the model should use to decide if the email is about hockey or baseball."),
                             n = this,
                             i = l.a.createElement("div", {
                                 className: "full-instructions",
@@ -383,7 +399,7 @@
                                 className: "fi-header"
                             }, "Instructions"), l.a.createElement("div", {
                                 className: "instructions"
-                            }, "This study is designed to explore how people understand machine learning (ML) models. ML models are computer programs that analyze data and learn to make decisions related to the data."), l.a.createElement("div", {
+                            }, "This study is designed to explore how people understand machine learning models. Machine learning models are computer programs that analyze data and learn to make decisions related to the data."), l.a.createElement("div", {
                                 className: "invis-divider"
                             }), l.a.createElement("div", {
                                 className: "instructions"
@@ -391,39 +407,25 @@
                                 className: "invis-divider"
                             }), l.a.createElement("div", {
                                 className: "instructions"
-                            }, "For this task, you will interact with a machine learning model that has learned to decide if emails are about hockey or baseball. This model is designed to help a person quickly sort through many emails about hockey and baseball."), l.a.createElement("div", {
+                            }, "For this task, you will interact with a machine learning model that has been trained to decide if emails are about hockey or baseball. This model is designed to help a person quickly sort through many emails about hockey and baseball."), l.a.createElement("div", {
                                 className: "invis-divider"
                             }), l.a.createElement("div", {
                                 className: "fi-header"
                             }, "Task Introduction"), l.a.createElement("div", {
                                 className: "instructions"
-                            }, "Imagine that your boss has assigned you the tedious job of sorting the emails in his/her inbox. It\u2019s too much for you to do yourself, so you are trying out a machine learning model that is designed to help you finish the job quickly. You are evaluating the model to see if it is worthwhile to add to your workflow."), l.a.createElement("div", {
+                            }, "Imagine that your boss has assigned you the tedious job of sorting the thousands of emails in his/her inbox. It\u2019s too much for you to do yourself, so you are trying out a machine learning model that is designed to help you finish the job quickly. In this task, you will evaluate the model to see if it is worthwhile to add to your workflow."), l.a.createElement("div", {
                                 className: "invis-divider"
                             }), l.a.createElement("div", {
                                 className: "instructions"
-                            }, "The task has ", l.a.createElement("strong", null, "three steps"), ":"), l.a.createElement("ol", null, l.a.createElement("li", null, "You will see a practice email to familiarize yourself with the task layout."), l.a.createElement("li", null, "You will see a series of 20 emails with the model's decisions. Do your best to ", l.a.createElement("strong", null, "learn how the model is making its decisions"), ". What kinds of emails does it get right or wrong?"), l.a.createElement("li", null, P.indexOf("feature") > -1 || P.indexOf("instance") > -1 ? "the model will have adjusted itself based on the feedback you gave it. Then, it will make new decisions on a set of 4 emails that were seen in Phase 2." : "The model will make new decisions on a set of 4 emails that were seen in Phase 2.", " You will be asked to ", l.a.createElement("strong", null, "tell us what you think the model will decide"), " for each of these emails.")), P.indexOf("explain") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
-                                className: "invis-divider"
-                            }), l.a.createElement("div", {
-                                className: "instructions"
-                            }, e)), P.indexOf("instance") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
-                                className: "invis-divider"
-                            }), l.a.createElement("div", {
-                                className: "instructions"
-                            }, a)), P.indexOf("feature") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
-                                className: "invis-divider"
-                            }), l.a.createElement("div", {
-                                className: "instructions"
-                            }, t)), l.a.createElement("div", {
+                            }, "This task has ", l.a.createElement("strong", null, "three phases"), ":"), l.a.createElement("ol", null, l.a.createElement("li", null, "You will see a practice email to familiarize yourself with the task layout."), l.a.createElement("li", null, "You will see a series of 20 emails with the model's decisions.", P.indexOf("explain") > -1 && " You will see three highlighted words that help explain how the model made each decision.", (P.indexOf("feature") > -1 || P.indexOf("instance") > -1) && " For each email, you will provide feedback to the model by ", P.indexOf("feature") > -1 && "selecting the three most important words that you think the model should use to decide if the email is about baseball or hockey.", P.indexOf("instance") > -1 && "telling the model whether its decision is right or wrong."), l.a.createElement("li", null, P.indexOf("feature") > -1 || P.indexOf("instance") > -1 && "The model will have incorporated the feedback you gave in Phase 2. ", "You will be asked to evaluate the model's performance and usefulness.")), l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
                                 className: "invis-divider"
                             }), l.a.createElement("div", {
                                 className: "fi-header"
                             }, "Keep in mind..."), l.a.createElement("div", {
                                 className: "instructions"
-                            }, "Improving the quality of the model is very important in this study. For this reason, we will award you a ", l.a.createElement("strong", null, "bonus of up to $2"), " based on how well you do in predicting the model\u2019s decisions in the second step. Try your best!"), l.a.createElement("div", {
+                            }, "Evaluating the quality of the model is very important in this study. For this reason, we will award at least half of the workers on this task a ", l.a.createElement("strong", null, "bonus of $2"), " based on how thoroughly they evaluate the model's performance and usefulness in the last phase. Try your best!"), l.a.createElement("div", {
                                 className: "invis-divider"
-                            }), l.a.createElement("div", {
-                                className: "instructions"
-                            }, "At the end of the study, we will ask you about your thoughts on the model and its performance and usefulness."))));
+                            })))));
                         if (0 == P.indexOf("demographics")) return l.a.createElement("div", {
                             className: "wrap"
                         }, l.a.createElement("div", {
@@ -577,46 +579,13 @@
                         }), l.a.createElement("div", {
                             className: "instructions"
                         }, "What is your gender?"), l.a.createElement("div", {
-                            className: "demographic-radio"
-                        }, l.a.createElement("input", {
-                            type: "radio",
+                            className: "demographic-textarea"
+                        }, l.a.createElement("textarea", {
+                            rows: 1,
+                            id: "gender",
                             name: "gender",
-                            id: "gender-1",
-                            value: "gender-female",
                             required: !0
-                        }), l.a.createElement("label", {
-                            htmlFor: "gender-1"
-                        }, l.a.createElement("span", null, "Female"))), l.a.createElement("div", {
-                            className: "demographic-radio"
-                        }, l.a.createElement("input", {
-                            type: "radio",
-                            name: "gender",
-                            id: "gender-2",
-                            value: "gender-male",
-                            required: !0
-                        }), l.a.createElement("label", {
-                            htmlFor: "gender-2"
-                        }, l.a.createElement("span", null, "Male"))), l.a.createElement("div", {
-                            className: "demographic-radio"
-                        }, l.a.createElement("input", {
-                            type: "radio",
-                            name: "gender",
-                            id: "gender-3",
-                            value: "gender-not-say",
-                            required: !0
-                        }), l.a.createElement("label", {
-                            htmlFor: "gender-3"
-                        }, l.a.createElement("span", null, "Prefer not to say"))), l.a.createElement("div", {
-                            className: "demographic-radio"
-                        }, l.a.createElement("input", {
-                            type: "radio",
-                            name: "gender",
-                            id: "gender-4",
-                            value: "gender-other",
-                            required: !0
-                        }), l.a.createElement("label", {
-                            htmlFor: "gender-4"
-                        }, l.a.createElement("span", null, "Other"))), l.a.createElement("div", {
+                        })), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
@@ -847,15 +816,15 @@
                             className: "inner-wrap2"
                         }, l.a.createElement("h1", null, "Welcome"), l.a.createElement("div", {
                             className: "instructions"
-                        }, "This study is designed to explore how people understand machine learning (ML) models. ML models are computer programs that analyze data and learn to make decisions related to the data."), l.a.createElement("div", {
+                        }, "This study is designed to explore how people understand machine learning models. Machine learning models are computer programs that analyze data and learn to make decisions related to the data."), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
-                        }, "You do not need to know anything about ML models to do this task."), l.a.createElement("div", {
+                        }, "You do not need to know anything about machine learning models to do this task."), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
-                        }, "For this task, you will interact with an ML model that has learned to decide if emails are about hockey or baseball. This model is designed to help a person quickly sort through many emails about hockey and baseball."), l.a.createElement("a", {
+                        }, "For this task, you will interact with a machine learning model that has been trained to decide if emails are about hockey or baseball. This model is designed to help a person quickly sort through many emails about hockey and baseball."), l.a.createElement("a", {
                             className: "standard-button",
                             href: "./next"
                         }, "Next"))));
@@ -867,23 +836,23 @@
                             className: "inner-wrap2"
                         }, l.a.createElement("h1", null, "Task Introduction"), l.a.createElement("div", {
                             className: "instructions"
-                        }, "Imagine that your boss has assigned you the tedious job of sorting the emails in his/her inbox. It's too much for you to do yourself, so you are trying out a machine learning model that is designed to help you finish the job quickly. You are evaluating the model to see if it is worthwhile to add to your workflow."), l.a.createElement("div", {
+                        }, "Imagine that your boss has assigned you the tedious job of sorting the thousands of emails in his/her inbox. It's too much for you to do yourself, so you are trying out a machine learning model that is designed to help you finish the job quickly. In this task, you will evaluate the model to see if it is worthwhile to add to your workflow."), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
-                        }, "The task has ", l.a.createElement("strong", null, "three phases"), ":"), l.a.createElement("div", {
+                        }, "This task has ", l.a.createElement("strong", null, "three phases"), ":"), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
                         }, l.a.createElement("strong", null, "Phase 1: Practice")), l.a.createElement("div", {
                             className: "instructions"
-                        }, "In Phase 1, you will see a practice email to familiarize yourself with the task layout."), l.a.createElement("div", {
+                        }, "You will see a practice email to familiarize yourself with the task layout."), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
                         }, l.a.createElement("strong", null, "Phase 2: Interact")), l.a.createElement("div", {
                             className: "instructions"
-                        }, "In Phase 2, you will see a series of 20 emails with the model\u2019s decision for each one. Do your best to understand how the model is making its decisions. What kinds of emails does it get right or wrong?"), P.indexOf("explain") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
+                        }, "You will see a series of 20 emails with the model\u2019s decision for each one. Do your best to understand how the model is making its decisions. What kinds of emails does it get right or wrong?"), P.indexOf("explain") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
@@ -895,21 +864,19 @@
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
-                        }, t)), l.a.createElement("div", {
+                        }, t)), (P.indexOf("feature") > -1 || P.indexOf("instance") > -1) && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
+                            className: "invis-divider"
+                        }), l.a.createElement("div", {
+                            className: "instructions"
+                        }, "After you provide feedback for ", l.a.createElement("strong", null, "all"), " 20 emails in this phase, the model will incorporate your feedback for future decisions. It will not incorporate your feedback after each email.")), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
                         }, l.a.createElement("strong", null, "Phase 3: Evaluate")), l.a.createElement("div", {
                             className: "instructions"
-                        }, "In Phase 3, you will evaluate the model. ", (P.indexOf("feature") > -1 || P.indexOf("instance") > -1) && "The model will have adjusted itself based on the feedback you gave it in Phase 2.", " We will ask you about your thoughts on the model and its performance and usefulness, as well as whether you would use this model for your hypothetical job.", P.indexOf("explain") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
+                        }, "You will evaluate the model. We will ask you about your thoughts on the model and its performance and usefulness, as well as whether you would use this model for your hypothetical job.", P.indexOf("explain") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
                             className: "invis-divider"
-                        }), l.a.createElement("div", {
-                            className: "instructions"
-                        }, "The highlighted words shown in Phase 2 (Interact) will ", l.a.createElement("strong", null, "NOT"), " appear in Phase 3 (Evaluate)."))), l.a.createElement("div", {
-                            className: "invis-divider"
-                        }), "We will award you a ", l.a.createElement("strong", null, "bonus of up to $2"), " based on the thoroughness of your evaluation.", l.a.createElement("div", {
-                            className: "invis-divider"
-                        }), l.a.createElement("a", {
+                        }))), l.a.createElement("a", {
                             className: "standard-button right-margin",
                             href: "./back"
                         }, "Back"), l.a.createElement("a", {
@@ -926,11 +893,9 @@
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
-                        }, "Improving the quality of the model is very important in this study. For this reason, we will award you a ", l.a.createElement("strong", null, "bonus of up to $2"), " based on how well your feedback and/or suggestions would improve the model. Try your best!"), l.a.createElement("div", {
+                        }, "Evaluating the quality of the model is very important in this study. For this reason, we will award at least half of the workers on this task a ", l.a.createElement("strong", null, "bonus of $2"), " based on how thoroughly they evaluate the model's performance and usefulness in the last phase. Try your best!"), l.a.createElement("div", {
                             className: "invis-divider"
-                        }), l.a.createElement("div", {
-                            className: "instructions"
-                        }, "At the end of the study, we will ask you about your thoughts on the model and its performance and usefulness, as well as whether you would use this model for your hypothetical job."), l.a.createElement("a", {
+                        }), l.a.createElement("a", {
                             className: "standard-button right-margin",
                             href: "./back"
                         }, "Back"), l.a.createElement("a", {
@@ -949,7 +914,7 @@
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
-                        }, "Remember, the highlighted words are the most important ones considered by the model and help explain how the model made its decision.")), P.indexOf("instance") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
+                        }, "Remember, the highlighted words are the most important to the model's decision.")), P.indexOf("instance") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
@@ -967,13 +932,13 @@
                             className: "inner-wrap"
                         }, l.a.createElement("div", {
                             className: "inner-wrap2"
-                        }, l.a.createElement("h1", null, "Phase 2 of 3: Interact"), l.a.createElement("div", {
+                        }, l.a.createElement("h1", null, "Phase 2 of 3: Interact with the Model"), l.a.createElement("div", {
                             className: "instructions"
-                        }, "You will now be shown a series of 20 emails. For each email, you will also see the decision made by the ML model."), P.indexOf("explain") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
+                        }, "You will now be shown a series of 20 emails. For each email, you will also see the decision made by the machine learning model."), P.indexOf("explain") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
-                        }, "You will see some highlighted words that help explain how the model makes each decision. The model considers the highlighted words to be most important in its decision.")), P.indexOf("instance") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
+                        }, "You will see three highlighted words that were the most important to the model when deciding if each email is about hockey or baseball.")), P.indexOf("instance") > -1 && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
@@ -981,13 +946,11 @@
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
-                        }, "To help the model improve in the next phase, you will be asked to give feedback on each decision that it makes. To do this, you will select the 3 words that you consider to be most important for correctly deciding if the email is about hockey or baseball.")), l.a.createElement("div", {
+                        }, "To help the model improve in the next phase, you will be asked to give feedback on each decision that it makes. To do this, you will select the three most important words that you think the model should use to decide if the email is about hockey or baseball.")), l.a.createElement("div", {
                             className: "invis-divider"
                         }), (P.indexOf("feature") > -1 || P.indexOf("instance") > -1) && l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
-                            className: "invis-divider"
-                        }), l.a.createElement("div", {
                             className: "instructions"
-                        }, "Remember, you will receive a ", l.a.createElement("strong", null, "bonus of up to $2"), " based on your evaluation of the model in Phase 3, so take this chance to understand what the model is doing!")), l.a.createElement("a", {
+                        }, "Please note: only after you provide feedback for ", l.a.createElement("strong", null, "all 20 emails"), " in this phase, will the model incorporate that feedback for future decisions.")), l.a.createElement("a", {
                             className: "standard-button",
                             href: "./next"
                         }, "Next"))));
@@ -997,32 +960,24 @@
                             className: "inner-wrap"
                         }, l.a.createElement("div", {
                             className: "inner-wrap2"
-                        }, this.state.showInstructions && i, l.a.createElement("div", {
+                        }, this.state.showInstructions && i, l.a.createElement("div", {className: "email-main-header"}, l.a.createElement("span", {
+                            className: "main-header"
+                        }, 0 == P.indexOf("practice") ? "Practice Email" : 0 == P.indexOf("train") ? "Email " + j + " of " + I : tt === "same" ? "An email from Phase 2" : "An email similar to one from Phase 2", l.a.createElement("span", {
                             className: "show-instructions-button",
                             onClick: function() {
                                 n.setState({
                                     showInstructions: !0
                                 })
                             }
-                        }, "Show Instructions"), l.a.createElement("div", {
-                            className: "main-header"
-                        }, 0 == P.indexOf("practice") ? "Practice Email" : "Email " + j + " of " + I), l.a.createElement(f, {
+                        }, "Show Instructions"))), l.a.createElement("div", {
+                            className: "invis-divider"
+                        }), l.a.createElement(f, {
                             pred: x
                         }), P.indexOf("explain") > -1 && l.a.createElement("div", {
                             className: "explain-info"
                         }, "Words highlighted in ", l.a.createElement("span", {
                             className: "explain-info-hl"
-                        }, "yellow"), " were most important to the model for making this decision."), P.indexOf("feature") > -1 && l.a.createElement("div", {
-                            className: "explain-info"
-                        }, "Please provide feedback ", l.a.createElement("strong", null, "to the model"), " by clicking three words to highlight in ", l.a.createElement("span", {
-                            className: "explain-info-hl-blue"
-                        }, "blue"), " that ", l.a.createElement("em", null, "you"), " think are most important for deciding the correct category of this email: baseball or hockey."), P.indexOf("explain") > -1 && l.a.createElement("div", {
-                            className: "explain-info"
-                        }, P.indexOf("feature") > -1 && ("You may select any words, including ones that are already highlighted in ", l.a.createElement("span", {
-                            className: "explain-info-hl"
-                        }, "yellow"), "."), P.indexOf("feature") > -1 && " If you change your mind on a word, you can click it again to deselect it."), l.a.createElement("div", {
-                            className: "invis-divider"
-                        }), l.a.createElement(p, {
+                        }, "yellow"), " were most important to the model for making this decision."), l.a.createElement(p, {
                             pred: x,
                             subject: y,
                             sender: w,
@@ -1030,7 +985,23 @@
                             explain: P.indexOf("explain") > -1 ? k : [],
                             redraw: this.redraw,
                             feedback: P.indexOf("feature") > -1
-                        }), P.indexOf("instance") > -1 && l.a.createElement(E, null), P.indexOf("feature") > -1 && l.a.createElement(b, null), l.a.createElement("div", {
+                        }), P.indexOf("feature") > -1 && l.a.createElement("div", {
+                            className: "explain-info"
+                        }, "Please provide feedback ", l.a.createElement("strong", null, "to the model"), " by clicking three words to highlight in ", l.a.createElement("span", {
+                            className: "explain-info-hl-blue"
+                        }, "blue"), " that ", l.a.createElement("em", null, "you"), " think are most important for deciding the correct category of this email: baseball or hockey."), P.indexOf("feature") > -1 && P.indexOf("explain") > -1 && l.a.createElement("div", {
+                            className: "explain-info"
+                        }, "You may select any words, including ones that are already highlighted in ", l.a.createElement("span", {
+                            className: "explain-info-hl"
+                        }, "yellow"), ". If you change your mind on a word, you can click it again to deselect it."), P.indexOf("feature") > -1 && P.indexOf("explain") == -1 && l.a.createElement("div", {
+                            className: "explain-info"
+                        }, "If you change your mind on a word, you can click it again to deselect it."), l.a.createElement("div", {
+                            className: "invis-divider"
+                        }), P.indexOf("feature") > -1 && l.a.createElement(b, null), P.indexOf("feature") > -1 && l.a.createElement("div", {
+                            className: "invis-divider"
+                        }), (P.indexOf("instance") > -1 || P.indexOf("feature") > -1) && l.a.createElement(E, null), (P.indexOf("instance") > -1 || P.indexOf("feature") > -1) && l.a.createElement("div", {
+                            className: "invis-divider"
+                        }), (P.indexOf("instance") > -1 || P.indexOf("feature") > -1) && P.indexOf("train") > -1 && l.a.createElement("div", {className: "explain-info"}, "Remember, the model will not incorporate your feedback until after you have reviewed all 20 emails."), l.a.createElement("HR"), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement(g, {
                             practice: 0 == P.indexOf("practice"),
@@ -1047,7 +1018,9 @@
                             action: "./next"
                         }, l.a.createElement("h1", null, "Evaluate: Test Emails"), l.a.createElement("div", {
                             className: "instructions"
-                        }, P.indexOf("instance") > -1 || P.indexOf("feature") > -1 ? "The model has now incorporated the feedback that you provided in the previous phase. It has made new decisions on a set of 4 emails." : "The model has made new decisions on a set of 4 emails.", " For each email, we want to know whether ", l.a.createElement("strong", null, "you"), " think the model will correctly decide if the email is about hockey or baseball."), l.a.createElement("input", {
+                        }, (P.indexOf("instance") > -1 || P.indexOf("feature") > -1) && "Reminder: the model has incorporated the feedback that you provided in Phase 2. ", P.indexOf("instance") > -1 || P.indexOf("feature") > -1 && l.a.createElement("div", {
+                            className: "invis-divider"
+                        }), "The model has made new decisions on a set of 4 emails. For each email, we want to know whether ", l.a.createElement("strong", null, "you"), " think the model will correctly decide if the email is about hockey or baseball."), l.a.createElement("input", {
                             type: "submit",
                             className: "standard-button",
                             value: "Next"
@@ -1062,16 +1035,18 @@
                             action: "./next"
                         }, l.a.createElement("div", {
                             className: "radio-instructions"
+                        }, (P.indexOf("feature") > -1 || P.indexOf("instance") > -1) && "The model has incorporated your feedback from the previous phase to update its decision-making about future emails."), l.a.createElement("div", {
+                            className: "radio-instructions"
                         }, "Now that you have had time to review the model, we will ask you to evaluate it for the hypothetical task your boss has assigned you."), l.a.createElement("div", {
                             className: "radio-instructions"
-                        }, "Remember, you will receive a bonus of up to $2 based on ", l.a.createElement("strong", null, "how thoroughly you evaluate the model"), "."), l.a.createElement("div", {
+                        }, "Remember, you could receive a bonus of $2 based on ", l.a.createElement("strong", null, "how thoroughly you evaluate the model"), "."), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("input", {
                             type: "submit",
                             className: "standard-button",
                             value: "Next"
                         })))));
-                        if (0 == P.indexOf("openq2")) return l.a.createElement("div", {
+                        if (0 == P.indexOf("openq3")) return l.a.createElement("div", {
                             className: "wrap"
                         }, l.a.createElement("div", {
                             className: "inner-wrap"
@@ -1079,13 +1054,13 @@
                             className: "inner-wrap2"
                         }, l.a.createElement("h1", null, "Evaluate: Future Performance"), l.a.createElement("div", {
                             className: "instructions"
-                        }, "Please respond to the following questions:"), l.a.createElement("div", {
+                        }, l.a.createElement("strong", null, "Please respond to the following questions:")), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("form", {
                             action: "./next"
                         }, l.a.createElement("div", {
                             className: "radio-instructions"
-                        }, "18. Do you think the model learned from the 20 emails in the previous phase?"), l.a.createElement("div", {
+                        }, "15. Do you think the model learned from the 20 emails in the previous phase?"), l.a.createElement("div", {
                             className: "radioset"
                         }, l.a.createElement("span", {
                             className: "radioset-inner"
@@ -1141,17 +1116,18 @@
                             value: "learn-7"
                         }), "Strongly Agree"))), l.a.createElement("div", {
                             className: "radio-instructions-min"
-                        }, "19. Why do you feel that way?"), l.a.createElement("textarea", {
+                        }, "16. Why do you feel that way?"), l.a.createElement("textarea", {
                             className: "openq",
                             rows: 5,
                             id: "learn_why",
                             name: "learn_why",
+                            maxlength: "550",
                             required: !0
                         }), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "radio-instructions"
-                        }, "20. If the model were now shown another set of emails, how well do you think it would categorize them?"), l.a.createElement("div", {
+                        }, "17. If the model were now shown another set of emails, how well do you think it would categorize them?"), l.a.createElement("div", {
                             className: "radioset"
                         }, l.a.createElement("span", {
                             className: "radioset-inner"
@@ -1209,26 +1185,13 @@
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "radio-instructions-min"
-                        }, "21. Why do you feel that way?"), l.a.createElement("textarea", {
+                        }, "18. Why do you feel that way?"), l.a.createElement("textarea", {
                             className: "openq",
                             rows: 5,
                             id: "perf_why",
                             name: "perf_why",
+                            maxlength: "550",
                             required: !0
-                        }), l.a.createElement("div", {
-                            className: "invis-divider"
-                        }), l.a.createElement("div", {
-                            className: "radio-instructions"
-                        }, "22. If the model were now shown another set of emails, please give your best estimation of what its accuracy would be, as a percentage."), l.a.createElement("input", {
-                            className: "openq",
-                            rows: 1,
-                            id: "acc_2",
-                            name: "acc_2",
-                            required: !0,
-                            type: "number",
-                            min: 0,
-                            max: 100,
-                            step: 1.0
                         }), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("input", {
@@ -1242,20 +1205,22 @@
                             className: "inner-wrap"
                         }, l.a.createElement("div", {
                             className: "inner-wrap2"
-                        }, this.state.showInstructions && i, l.a.createElement("div", {
+                        }, this.state.showInstructions && i, l.a.createElement("div", {className: "email-main-header"}, l.a.createElement("span", {
+                            className: "main-header"
+                        }, tt === "same" ? "An email from Phase 2" : "An email similar to one in Phase 2"), l.a.createElement("span", {
                             className: "show-instructions-button",
                             onClick: function() {
                                 n.setState({
                                     showInstructions: !0
                                 })
                             }
-                        }, "Show Instructions"), l.a.createElement("div", {
-                            className: "main-header"
-                        }, "Email " + j + " of " + I), l.a.createElement(f, {
+                        }, "Show Instructions")), l.a.createElement("div", {
+                            className: "invis-divider"
+                        }), l.a.createElement(f, {
                             pred: x
                         }), l.a.createElement("div", {
                             className: "explain-info"
-                        }, "Tell us if you think the model will correctly predict whether this email is about hockey or baseball."), l.a.createElement(p, {
+                        }, "Tell us if you think the model will correctly decide whether this email is about hockey or baseball."), l.a.createElement(p, {
                             pred: "",
                             subject: y,
                             sender: w,
@@ -1271,8 +1236,8 @@
                             },
                             className: "us-button next-email " + (-1 != F[0] && -1 != q[0] ? "ready" : "")
                         }, "Next"))));
-                        if (0 == P.indexOf("openq")) {
-                            var r = 3,
+                        if (0 == P.indexOf("openq2")) {
+                            var r = 4,
                                 s = [],
                                 o = function(e) {
                                     return function(a) {
@@ -1343,25 +1308,129 @@
                                             rows: 5,
                                             id: t + "_why",
                                             name: t + "_why",
+                                            maxlength: "550",
+                                            required: !0
+                                        }))), r += 1
+                                    }
+                                };
+                            return s.push(l.a.createElement("div", {
+                                className: "radio-instructions"
+                            }, l.a.createElement("div", {
+                                className: "invis-divider"
+                            }), l.a.createElement("strong", null, "Remember that you are evaluating this model to help you quickly sort your boss's sport-related emails. Please keep this scenario in mind as you respond to these hypothetical situations:"))), [
+                                ["accuracy_standard", "It is acceptable for the model to make a few mistakes."],
+                                ["frustration", "I would feel frustrated if I were to use this model to automatically sort my boss's emails."],
+                                ["trust", "I would trust this model to correctly categorize my boss's emails that are about hockey or baseball."],
+                                ["recommend", "I would use this model to help me sort my boss's emails."],
+                                ["fdbk_importance", "If I were to use this model, it would be important to have the ability to provide feedback to improve it."]
+                            ].forEach(o(!0)), l.a.createElement("div", {
+                                className: "wrap"
+                            }, l.a.createElement("div", {
+                                className: "inner-wrap"
+                            }, l.a.createElement("div", {
+                                className: "inner-wrap2"
+                            }, l.a.createElement("h1", null, "Evaluate: Hypothetical Scenarios"), l.a.createElement("form", {
+                                action: "./next"
+                            }, s, l.a.createElement("div", {
+                                className: "invis-divider"
+                            }), l.a.createElement("div", {
+                                className: "radio-instructions"
+                            }, r + ". Overall, how did you feel about the experience of using this model?"), l.a.createElement("textarea", {
+                                className: "openq",
+                                rows: 5,
+                                id: "overall",
+                                name: "overall",
+                                maxlength: "550",
+                                required: !0
+                            }), l.a.createElement("div", {
+                                className: "invis-divider"
+                            }), l.a.createElement("input", {
+                                type: "submit",
+                                className: "standard-button",
+                                value: "Next"
+                            })))))
+                        }
+                        if (0 == P.indexOf("openq")) {
+                            var r = 2,
+                                s = [],
+                                o = function(e) {
+                                    return function(a) {
+                                        var t = a[0],
+                                            n = a[1];
+                                        s.push(l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
+                                            className: "invis-divider"
+                                        }), l.a.createElement("div", {
+                                            className: "radio-instructions"
+                                        }, r + ". " + n), l.a.createElement("div", {
+                                            className: "radioset"
+                                        }, l.a.createElement("span", {
+                                            className: "radioset-inner"
+                                        }, l.a.createElement("label", {
+                                            htmlFor: t + "-1"
+                                        }, l.a.createElement("input", {
+                                            type: "radio",
+                                            name: t,
+                                            id: t + "-1",
+                                            value: t + "-1",
+                                            required: !0
+                                        }), "Strongly Disagree"), l.a.createElement("label", {
+                                            htmlFor: t + "-2"
+                                        }, l.a.createElement("input", {
+                                            type: "radio",
+                                            name: t,
+                                            id: t + "-2",
+                                            value: t + "-2"
+                                        }), "Disagree"), l.a.createElement("label", {
+                                            htmlFor: t + "-3"
+                                        }, l.a.createElement("input", {
+                                            type: "radio",
+                                            name: t,
+                                            id: t + "-3",
+                                            value: t + "-3"
+                                        }), "Slightly Disagree"), l.a.createElement("label", {
+                                            htmlFor: t + "-4"
+                                        }, l.a.createElement("input", {
+                                            type: "radio",
+                                            name: t,
+                                            id: t + "-4",
+                                            value: t + "-4"
+                                        }), "Neutral"), l.a.createElement("label", {
+                                            htmlFor: t + "-5"
+                                        }, l.a.createElement("input", {
+                                            type: "radio",
+                                            name: t,
+                                            id: t + "-5",
+                                            value: t + "-5"
+                                        }), "Slightly Agree"), l.a.createElement("label", {
+                                            htmlFor: t + "-6"
+                                        }, l.a.createElement("input", {
+                                            type: "radio",
+                                            name: t,
+                                            id: t + "-6",
+                                            value: t + "-6"
+                                        }), "Agree"), l.a.createElement("label", {
+                                            htmlFor: t + "-7"
+                                        }, l.a.createElement("input", {
+                                            type: "radio",
+                                            name: t,
+                                            id: t + "-7",
+                                            value: t + "-7"
+                                        }), "Strongly Agree"))))), e && s.push(l.a.createElement(l.a.Fragment, null, l.a.createElement("div", {
+                                            className: "radio-instructions-min"
+                                        }, ++r + ". Why do you feel that way?"), l.a.createElement("textarea", {
+                                            className: "openq",
+                                            rows: 5,
+                                            id: t + "_why",
+                                            name: t + "_why",
+                                            maxlength: "550",
                                             required: !0
                                         }))), r += 1
                                     }
                                 };
                             return [
                                 ["perceived_accuracy", "The model is able to distinguish between hockey and baseball emails."],
-                                ["understanding", "I understand how this model makes decisions."],
-                                ["expectation_alignment", "I was surprised by how the model performed."]
-                            ].forEach(o(!1)), s.push(l.a.createElement("div", {
-                                className: "radio-instructions"
-                            }, l.a.createElement("div", {
-                                className: "invis-divider"
-                            }), l.a.createElement("strong", null, "Remember that you are evaluating this model to help you quickly sort your boss's emails. Please keep this scenario in mind as you respond to these hypothetical situations:"))), [
-                                ["accuracy_standard", "It is acceptable for the model to make a few mistakes."],
-                                ["frustration", "I would feel frustrated if I were to use this model to help sort the emails in this scenario."],
-                                ["trust", "I would trust this model to correctly make decisions in this scenario."],
-                                ["recommend", "I would use this model to help me in this scenario going forward."],
-                                ["fdbk_importance", "If I were to use this model, it would be important to have the ability to provide feedback to improve it."]
-                            ].forEach(o(!0)), l.a.createElement("div", {
+                                ["understanding", "I understand how this model makes decisions."]
+                            ].forEach(o(!1)), l.a.createElement("div", {
                                 className: "wrap"
                             }, l.a.createElement("div", {
                                 className: "inner-wrap"
@@ -1380,46 +1449,9 @@
                                 rows: 5,
                                 id: "how_decide",
                                 name: "how_decide",
+                                maxlength: "550",
                                 required: !0
-                            }), l.a.createElement("div", {
-                                className: "invis-divider"
-                            }), l.a.createElement("div", {
-                                className: "radio-instructions"
-                            }, "2. Please give your best estimation of the model's accuracy, as a percentage."), l.a.createElement("input", {
-                                className: "openq",
-                                rows: 1,
-                                id: "acc_1",
-                                name: "acc_1",
-                                required: !0,
-                                type: "number",
-                                min: 0,
-                                max: 100,
-                                step: 1.0
-                            }), l.a.createElement("div", {
-                                className: "invis-divider"
-                            }), l.a.createElement("div", {
-                                className: "radio-instructions"
-                            }, l.a.createElement("strong", null, "Please respond to the following statements:")), s, l.a.createElement("div", {
-                                className: "invis-divider"
-                            }), l.a.createElement("div", {
-                                className: "radio-instructions"
-                            }, r + ". If providing feedback ", l.a.createElement("strong", null, "is"), " important to you, please explain what kind of feedback you'd want to be able to provide."), l.a.createElement("textarea", {
-                                className: "openq",
-                                rows: 5,
-                                id: "fdbk_importance_what",
-                                name: "fdbk_importance_what",
-                                required: !0
-                            }), l.a.createElement("div", {
-                                className: "invis-divider"
-                            }), l.a.createElement("div", {
-                                className: "radio-instructions"
-                            }, "17. Overall, how did you feel about the experience of using this model?"), l.a.createElement("textarea", {
-                                className: "openq",
-                                rows: 5,
-                                id: "overall",
-                                name: "overall",
-                                required: !0
-                            }), l.a.createElement("div", {
+                            }), s, l.a.createElement("div", {
                                 className: "invis-divider"
                             }), l.a.createElement("input", {
                                 type: "submit",
@@ -1439,7 +1471,7 @@
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"
-                        }, "Based on your performance, you will receive a full $2 bonus. Great job!"), l.a.createElement("div", {
+                        }, "Based on your evaluation, you will receive a full $2 bonus. Great job!"), l.a.createElement("div", {
                             className: "invis-divider"
                         }), l.a.createElement("div", {
                             className: "instructions"

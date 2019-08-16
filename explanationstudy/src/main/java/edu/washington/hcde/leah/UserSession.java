@@ -9,7 +9,7 @@ import java.util.UUID;
 
 public class UserSession {
 
-    private static final String CONDITIONS = "_instance_explain";
+    private static final String CONDITIONS = "_instance";
 
     public final String localid;
     public String condition = CONDITIONS;

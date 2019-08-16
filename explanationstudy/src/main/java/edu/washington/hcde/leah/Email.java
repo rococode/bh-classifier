@@ -19,6 +19,7 @@ public class Email {
     public final String[] words;
 
     public final String testtype; // added (null if it's not a test email)
+    public final String testaccuracy;
 
 //    Email(String id, String subject, String sender, String content, String pred, List<String> words) {
 //        this.id = id;
@@ -35,7 +36,7 @@ public class Email {
 //    }
 
     // constructor for Test emails
-    Email(String id, String subject, String sender, String content, String pred, List<String> words, String testtype) {
+    Email(String id, String subject, String sender, String content, String pred, List<String> words, String testtype, String testaccuracy) {
         this.id = id;
         this.subject = subject;
         this.sender = sender;
@@ -48,6 +49,7 @@ public class Email {
             this.words[k] = words.get(k);
         }
         this.testtype = testtype;
+        this.testaccuracy = testaccuracy;
     }
 
     @Override
@@ -62,6 +64,7 @@ public class Email {
                 + "\n\tPredicted: "
                 + this.pred
                 + "\n\tTestType: " + this.testtype // added
+                + "\n\tTestAccuracy: " + this.testaccuracy // added
                 + "\n\tBest Words: "
                 + this.words;
     }
@@ -117,15 +120,54 @@ public class Email {
 
         // added this part to help identify test emails as same or similar
         String testtype = "";
+        String testaccuracy = "";
         System.out.println("email: " + f.getName());
         if (f.getName().contains("same")) {
             System.out.println("same");
             testtype = "same";
+            if (f.getName().contains("failed")) {
+                testaccuracy = "F";
+                if (f.getName().contains("-h-")) {
+                    pred = "baseball";
+                    System.out.println("baseball: " + f.getName());
+                } else if (f.getName().contains("-b-")) {
+                    pred = "hockey";
+                    System.out.println("hockey: " + f.getName());
+                }
+            } else if (f.getName().contains("success")) {
+                testaccuracy = "T";
+                if (f.getName().contains("-h-")) {
+                    pred = "hockey";
+                    System.out.println("hockey: " + f.getName());
+                } else if (f.getName().contains("-b-")) {
+                    pred = "baseball";
+                    System.out.println("baseball: " + f.getName());
+                }
+            }
         } else if (f.getName().contains("similar")) {
             System.out.println("similar");
             testtype = "similar";
+            if (f.getName().contains("failed")) {
+                testaccuracy = "F";
+                if (f.getName().contains("-h-")) {
+                    pred = "baseball";
+                    System.out.println("baseball: " + f.getName());
+                } else if (f.getName().contains("-b-")) {
+                    pred = "hockey";
+                    System.out.println("hockey: " + f.getName());
+                }
+            } else if (f.getName().contains("success")) {
+                testaccuracy = "T";
+                if (f.getName().contains("-h-")) {
+                    pred = "hockey";
+                    System.out.println("hockey: " + f.getName());
+                } else if (f.getName().contains("-b-")) {
+                    pred = "baseball";
+                    System.out.println("baseball: " + f.getName());
+                }
+            }
         }
 
-        return new Email(id, subject, sender, content.toString(), pred, words, testtype); // added testtype
+        return new Email(id, subject, sender, content.toString(), pred, words, testtype, testaccuracy); // added testtype
     }
 }

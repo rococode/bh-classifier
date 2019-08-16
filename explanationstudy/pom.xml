@@ -26,7 +26,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.washington.hcde.leah.edu.washington.hcde.leah.Launcher</mainClass>
+                            <mainClass>edu.washington.hcde.leah.Launcher</mainClass>
                         </manifest>
                         <manifestEntries>
                             <Built-By>Ron</Built-By>

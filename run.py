@@ -26,7 +26,7 @@ test_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" +
 hockey = 'rec.sport.hockey-full'
 baseball = 'rec.sport.baseball-full'
 
-# added by me
+# incorporate instance-level feedback
 feedback_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "feedback"
 feedback_hockey = 'feedback_hockey'
 feedback_baseball = 'feedback_baseball'
@@ -75,7 +75,7 @@ def load_tokens(path, category, vocab):
     return token_lists, file_names, lens
 
 
-# added by me
+# incorporating instance-level feedback
 def add_tokens(path, category, vocab, token_lists, file_names, lens):
     # token_lists = []
     # file_names = []
@@ -100,11 +100,11 @@ def add_tokens(path, category, vocab, token_lists, file_names, lens):
             #     vocab.add(t)
     # return token_lists, file_names, lens
 
-
+# incorporating feature-level feedback
 # condition = sys.argv[1]
 # userid = sys.argv[2]
-# num_total = int(sys.argv[3])
-# num_hockey = int(sys.argv[4])
+# num_total = int(sys.argv[3]) # should be 3 * 20 = 60
+# num_hockey = int(sys.argv[4]) # should be multiple of 3
 # chosen_hockey = []
 # chosen_baseball = []
 
@@ -122,14 +122,8 @@ def add_tokens(path, category, vocab, token_lists, file_names, lens):
 # print("chosen hockey", chosen_hockey, file=sys.stderr)
 # print("chosen baseball", chosen_baseball, file=sys.stderr)
 
-# chosen_hockey = ['goal', 'goals', 'goalie', 'leaf', 'wings', 'jets', 'pollin', 'islanders', 'montreal', 'sabres', 'stanley', 'cup', 'ice', 'nhl', 'rangers', 'ahl', 'capsisles', 'puck', 'bruins', 'zubov', 'kovalev', 'bullets', 'hockey', 'quebec', 'montreal']
-# chosen_baseball = ['all-star', 'worrell', 'dl', 'throw', 'throwing', 'mlb', 'ball', 'sox', 'strikeouts', 'pitcher', 'bases', 'baseball', 'hit', 'dodger', 'bullpen', 'yanks', 'phillies', 'strike', 'homerun', 'hr', 'inning']
-
-chosen_hockey = ['goal', 'goalie', 'leaf', 'wings', 'jets', 'pollin', 'islanders', 'montreal', 'sabres', 'stanley', 'cup', 'ice', 'nhl', 'rangers', 'ahl', 'capsisles', 'puck', 'bruins', 'zubov', 'kovalev', 'bullets', 'hockey', 'quebec', 'montreal']
-chosen_baseball = ['era', 'cardinals', 'orioles', 'all-star', 'worrell', 'dl', 'throw', 'throwing', 'mlb', 'sox', 'ball', 'strikeouts', 'pitcher', 'bases', 'baseball', 'hit', 'dodger', 'bullpen', 'yanks', 'phillies', 'strike', 'homerun', 'hr', 'inning']
-print("num hockey words: ", len(chosen_hockey))
-print("num baseball words: ", len(chosen_baseball))
-
+# print("num hockey words: ", len(chosen_hockey))
+# print("num baseball words: ", len(chosen_baseball))
 
 
 otrain_hockey, otrain_hockey_names, otrain_hockey_lens = load_tokens(train_path, hockey, vocab)
@@ -180,12 +174,16 @@ for _ in [1]:
     train_hockey = otrain_hockey[:training_num]
     train_hockey_names = otrain_hockey_names[:training_num]
     train_hockey_lens = otrain_hockey_lens[:training_num]
-    add_tokens(feedback_path, feedback_hockey, vocab, train_hockey, train_hockey_names, train_hockey_lens)  # added by me
+
+    # add instance-level feedback
+    add_tokens(feedback_path, feedback_hockey, vocab, train_hockey, train_hockey_names, train_hockey_lens)
 
     train_baseball = otrain_baseball[:training_num]
     train_baseball_names = otrain_baseball_names[:training_num]
     train_baseball_lens = otrain_baseball_lens[:training_num]
-    add_tokens(feedback_path, feedback_baseball, vocab, train_baseball, train_baseball_names, train_baseball_lens)  # added by me
+
+    # add instance-level feedback
+    add_tokens(feedback_path, feedback_baseball, vocab, train_baseball, train_baseball_names, train_baseball_lens)
 
     print("sample 3", train_baseball[0:3], file=sys.stderr)
     print("sample names 3", train_baseball_names[0:3], file=sys.stderr)
@@ -211,6 +209,8 @@ for _ in [1]:
 
     print("shape of clf.feature_log_prob_", clf.feature_log_prob_.shape, file=sys.stderr)
 
+    # incorporate feature-level feedback
+    # adjust_weight = 0.2  # adjust by 20%
     # for i in tqdm(range(len(chosen_hockey))):
     #     # print("word_index ", word_index, file=sys.stderr)
     #     # print("word is ", vocab_lookup[word_index], file=sys.stderr)
@@ -218,14 +218,14 @@ for _ in [1]:
     #     if clean_word(chosen_hockey[i]) in id_lookup:
     #         word_index = id_lookup[clean_word(chosen_hockey[i])]
     #         # print("old weight for word: ", clf.feature_log_prob_[0][word_index], clean_word(chosen_hockey[i]), file=sys.stderr)
-    #         clf.feature_log_prob_[0][word_index] *= 0.8  # increase by 30%
-    #         clf.feature_log_prob_[1][word_index] *= 1.2  # decrease by 30%
+    #         clf.feature_log_prob_[0][word_index] *= 1 - adjust_weight  # increase
+    #         clf.feature_log_prob_[1][word_index] *= 1 + adjust_weight  # decrease
     #         # print("new weight for word: ", clf.feature_log_prob_[0][word_index], clean_word(chosen_hockey[i]), file=sys.stderr)
     # for i in tqdm(range(len(chosen_baseball))):
     #     if clean_word(chosen_baseball[i]) in id_lookup:
     #         word_index = id_lookup[clean_word(chosen_baseball[i])]
-    #         clf.feature_log_prob_[1][word_index] *= 0.8  # increase by 30%
-    #         clf.feature_log_prob_[0][word_index] *= 1.2  # decrease by 30%
+    #         clf.feature_log_prob_[1][word_index] *= 1 - adjust_weight  # increase
+    #         clf.feature_log_prob_[0][word_index] *= 1 + adjust_weight  # decrease
 
     print("clf.feature_log_prob_", clf.feature_log_prob_, file=sys.stderr)
 
@@ -378,6 +378,7 @@ for _ in [1]:
     # print("hello 1", file=sys.stderr)
     # sys.stderr.flush()
 
+    # Matches -- no longer relevant for study 2
     # outputted = 0
     # match_num = 0;
     # try:
@@ -550,18 +551,34 @@ for _ in [1]:
     # print("feature_log_prob", clf.feature_log_prob_)
     # print("feature_log_prob shape", clf.feature_log_prob_.shape)
 
-# f = open("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\feature_instance_trained.txt", "a+")
+# f = open("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\instance_trained.txt", "a+")  # instance-level feedback
+# f = open("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\feature_trained.txt", "a+")  # feature-level feedback
+
+# command line args are different for instance-level feedback
 # # condition = sys.argv[2]
 # f.write(f"{condition},")
 # # userid = sys.argv[1]
 # f.write(f"{userid},")
-# # f.write(f"score correct: " + str(correct) + ", incorrect: " + str(incorrect))
+
+# record score -- instance-level feedback
+print("SCORES:", scores)
+# f.write(f"{scores}\n")
+# f.close()
+
+# record score -- feature-level feedback
 print("SCORES:", scores)
 # f.write(f"{scores},")
 # f.write(f"{len(chosen_hockey)},")
 # f.write(f"{len(chosen_baseball)}\n")
+# f.close()
+
+# run.py is called by the feedback incorporater classes (explanationstudy)
+# parse results with ModelAccuracyParser (explanationstudy)
+
+# not used:
+# # f.write(f"score correct: " + str(correct) + ", incorrect: " + str(incorrect))
 # print("MEDIAN of SCORES: " + str(statistics.median(scores)))
 # # f.write(f"MEDIAN OF SCORES: {str(statistics.median(scores))}\n")
 # print("MEAN of SCORES: " + str(statistics.mean(scores)))
 # # f.write(f"MEAN OF SCORES: {str(statistics.mean(scores))}\n\n")
-# f.close()
+

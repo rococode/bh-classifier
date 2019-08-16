@@ -15,13 +15,6 @@ import java.util.*;
 
 public class InstanceFeedbackIncorporater {
 
-//    private static void safePut(Map<String, List<String>> map, String key, String value) {
-//        if (!map.containsKey(key)) {
-//            map.put(key, new ArrayList<String>());
-//        }
-//        map.get(key).add(value);
-//    }
-
     private static String url;
     private static Properties props;
 
@@ -48,8 +41,8 @@ public class InstanceFeedbackIncorporater {
     }
 
     public static void setupInstanceFeedback() {
-        // get 60 users with feature-level feedback
-        String query = "select a.condition, a.id, b.email, b.instance, b.real_label, b.real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.created < '2019-06-01 00:00:00' and (a.condition = '_instance' or a.condition = '_instance_explain') and b.mode = 'train';";
+        // get 60 users with instance-level feedback
+        String query = "select a.condition, a.id, b.email, b.instance, b.real_label, b.real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.created > '2019-08-14 17:00:00' and (a.condition = '_instance' or a.condition = '_instance_explain') and b.mode = 'train';";
 
         try (Connection conn = DriverManager.getConnection(url, props)) {
             PreparedStatement stmt = conn.prepareStatement(query);
@@ -57,7 +50,6 @@ public class InstanceFeedbackIncorporater {
             ResultSet rs = stmt.executeQuery();
 
             // Condition -> id -> email -> string: either baseball or hockey for sorting into folder
-            // (list of 3 strings: <instance (to sort into folder), real_label (bball or hockey), real (incorrect or correct)>)
             Map<String, Map<String, Map<String, String>>> answers = new HashMap<>();
 
             while (rs.next()) {
@@ -104,8 +96,8 @@ public class InstanceFeedbackIncorporater {
 
     public static void applyInstanceFeedback() {
         // for each user:
-        // identify their labels for the 10 emails (in resources\\train)
-        // copy the 10 emails to the appropriate folder (hockey or baseball in data\\feedback)
+        // identify their labels for the 20 emails (in resources\\train)
+        // copy the 20 emails to the appropriate folder (hockey or baseball in data\\feedback)
         for (Map.Entry<String, Map<String, Map<String, String>>> entry : feedback_map.entrySet()) {
             for (Map.Entry<String, Map<String, String>> user : entry.getValue().entrySet()) {
 
@@ -132,7 +124,7 @@ public class InstanceFeedbackIncorporater {
 
                     // copy emails over to the appropriate subfolder
                     File source = new File("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\explanationstudy\\src\\main\\resources\\train\\" + email.getKey());
-                    File dest = new File("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data\\feedback\\feedback_" + email.getValue()); // + "\\" + email.getKey());
+                    File dest = new File("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data\\feedback\\feedback_" + email.getValue());
 
                     try {
                         FileUtils.copyFileToDirectory(source, dest);
@@ -142,11 +134,11 @@ public class InstanceFeedbackIncorporater {
                     }
                 }
 
+                // call run.py to incorporate the instance-level feedback for this user
                 try {
                     String[] cmd = {"C:\\Users\\Melissa Birchfield\\AppData\\Local\\Programs\\Python\\Python37\\python.exe", "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\run.py", user.getKey(), entry.getKey()};
                     System.out.println(Arrays.toString(cmd));
                     Process p = Runtime.getRuntime().exec(cmd);
-                    System.out.println("hey");
                     try {
                         BufferedReader bfr = new BufferedReader(new InputStreamReader(p.getErrorStream()));
                         BufferedReader bfr2 = new BufferedReader(new InputStreamReader(p.getInputStream()));
@@ -157,9 +149,7 @@ public class InstanceFeedbackIncorporater {
                         while ((line = bfr2.readLine()) != null) {
                             System.out.println("Python Output [Input]: " + line);
                         }
-                        System.out.println("hey 2");
                         p.waitFor();
-                        System.out.println("hey 3");
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }

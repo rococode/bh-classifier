@@ -43,7 +43,7 @@ public class DBManager {
 
     public static void parseOpenQ() {
 //        String query = "select * from exp_demographics as a inner join exp_openq as b on a.id = b.id where a.pilot is not true;";
-        String query = "select a.condition, b.how_decide, b.overall, b.frustration_why, b.trust_why, b.recommend_why, c.perf_why from exp_demographics as a inner join exp_openq as b on a.id = b.id inner join exp_perf as c on b.id = c.id where a.pilot is not true;";
+        String query = "select a.condition, b.how_decide, c.accuracy_standard_why, c.frustration_why, c.trust_why, c.recommend_why, c.feedback_importance_why, c.overall, d.learn_why, d.perf_why from exp_demographics as a inner join exp_openq1 as b on a.id = b.id inner join exp_openq2 as c on b.id = c.id inner join exp_openq3 as d on c.id = d.id where a.pilot is true;";
         try (Connection conn = DriverManager.getConnection(url, props)) {
             PreparedStatement stmt = conn.prepareStatement(query);
             log.info("Executing " + stmt.toString());
@@ -55,12 +55,15 @@ public class DBManager {
                     answers.put(condition, new HashMap<String, List<String>>());
                 }
                 Map<String, List<String>> map = answers.get(condition);
-                safePut(map, "perf_why", rs.getString("perf_why"));
                 safePut(map, "how_decide", rs.getString("how_decide"));
-                safePut(map, "overall", rs.getString("overall"));
+                safePut(map, "accuracy_standard_why", rs.getString("accuracy_standard_why"));
                 safePut(map, "frustration_why", rs.getString("frustration_why"));
                 safePut(map, "trust_why", rs.getString("trust_why"));
                 safePut(map, "recommend_why", rs.getString("recommend_why"));
+                safePut(map, "feedback_importance_why", rs.getString("feedback_importance_why"));
+                safePut(map, "overall", rs.getString("overall"));
+                safePut(map, "learn_why", rs.getString("learn_why"));
+                safePut(map, "perf_why", rs.getString("perf_why"));
             }
             for (Map.Entry<String, Map<String, List<String>>> entry : answers.entrySet()) {
                 System.out.println("Condition: \'" + entry.getKey() + "\'");
@@ -79,7 +82,7 @@ public class DBManager {
 
     public static void getVals() {
 //        String query = "select * from exp_demographics as a inner join exp_openq as b on a.id = b.id where a.pilot is not true;";
-        String query = "select b.condition, frustration, perceived_accuracy, understanding, trust, teaming, recommend from exp_openq as a inner join exp_demographics as b on a.id = b.id where b.pilot is not true and b.dq is not true order by b.condition;";
+        String query = "select a.condition, b.perceived_accuracy, b.understanding, c.accuracy_standard, c.frustration, c.trust, c.recommend, c.feedback_importance, d.learn, d.perf from exp_demographics as a inner join exp_openq1 as b on a.id = b.id inner join exp_openq2 as c on b.id = c.id inner join exp_openq3 as d on c.id = d.id where a.pilot is true order by a.condition;";
         try (Connection conn = DriverManager.getConnection(url, props)) {
             PreparedStatement stmt = conn.prepareStatement(query);
             log.info("Executing " + stmt.toString());
@@ -94,10 +97,13 @@ public class DBManager {
                 Map<String, String> map = new HashMap<>();
                 safePut2(map, "perceived_accuracy", rs.getString("perceived_accuracy"));
                 safePut2(map, "understanding", rs.getString("understanding"));
-                safePut2(map, "teaming", rs.getString("teaming"));
+                safePut2(map, "accuracy_standard", rs.getString("accuracy_standard"));
                 safePut2(map, "frustration", rs.getString("frustration"));
                 safePut2(map, "trust", rs.getString("trust"));
                 safePut2(map, "recommend", rs.getString("recommend"));
+                safePut2(map, "feedback_importance", rs.getString("feedback_importance"));
+                safePut2(map, "learn", rs.getString("learn"));
+                safePut2(map, "perf", rs.getString("perf"));
                 answers.get(condition).add(map);
                 participants += 1;
             }
@@ -106,8 +112,8 @@ public class DBManager {
                 x = x.substring(idx + 1);
                 return x;
             };
-            /*
-            System.out.println("condition\tperceived_accuracy\tunderstanding\tteaming\tfrustration\ttrust\trecommend");
+
+            System.out.println("condition\tperceived_accuracy\tunderstanding\tfrustration\ttrust\trecommend\tfeedback_importance\tlearn\tperf");
             for (Map.Entry<String, List<Map<String, String>>> entry : answers.entrySet()) {
                 String condition = entry.getKey();
                 if(condition.length() == 0) {
@@ -117,16 +123,19 @@ public class DBManager {
                     System.out.println(condition + "\t"
                             + fn.apply(m.get("perceived_accuracy")) + "\t"
                             + fn.apply(m.get("understanding")) + "\t"
-                            + fn.apply(m.get("teaming")) + "\t"
+                            + fn.apply(m.get("accuracy_standard")) + "\t"
                             + fn.apply(m.get("frustration")) + "\t"
                             + fn.apply(m.get("trust")) + "\t"
-                            + fn.apply(m.get("recommend"))
+                            + fn.apply(m.get("recommend")) + "\t"
+                            + fn.apply(m.get("feedback_importance")) + "\t"
+                            + fn.apply(m.get("learn")) + "\t"
+                            + fn.apply(m.get("perf"))
                     );
                 }
             }
             System.out.println("Total processed: " + participants + " participants");
 //            System.exit(2);
-*/
+
 
             for (Map.Entry<String, List<Map<String, String>>> entry : answers.entrySet()) {
                 BiConsumer<String, String> fn2 = (field, condition) -> {
@@ -156,7 +165,7 @@ public class DBManager {
 //                fn2.accept("trust", condition);
 //                fn2.accept("recommend", condition);
 //                fn2.accept("understanding", condition);
-                fn2.accept("teaming", condition);
+//                fn2.accept("teaming", condition);
             }
         } catch (SQLException e) {
             System.out.println(query);
@@ -166,7 +175,8 @@ public class DBManager {
 
     public static void getOpenQNoCondition() {
 //        String query = "select * from exp_demographics as a inner join exp_openq as b on a.id = b.id where a.pilot is not true;";
-        String query = "select a.id, a.how_decide, a.overall, a.frustration_why, a.trust_why, a.recommend_why, c.perf_why from exp_openq as a inner join exp_demographics as b on a.id = b.id inner join exp_perf as c on c.id = b.id where b.pilot is not true and b.dq is not true;";
+//        b.how_decide, c.accuracy_standard_why, c.frustration_why, c.trust_why, c.recommend_why, c.feedback_importance_why, c.overall, d.learn_why, d.perf_why from exp_demographics as a inner join exp_openq1 as b on a.id = b.id inner join exp_openq2 as c on b.id = c.id inner join exp_openq3 as d on c.id = d.id where a.pilot is true;
+        String query = "select a.id, a.how_decide, b.accuracy_standard_why, b.frustration_why, b.trust_why, b.recommend_why, b.feedback_importance_why, b.overall, c.learn_why, c.perf_why from exp_openq1 as a inner join exp_openq2 as b on a.id = b.id inner join exp_openq3 as c on b.id = c.id inner join exp_demographics as d on c.id = d.id where d.pilot is true;";
         try (Connection conn = DriverManager.getConnection(url, props)) {
             PreparedStatement stmt = conn.prepareStatement(query);
             log.info("Executing " + stmt.toString());
@@ -189,20 +199,14 @@ public class DBManager {
                 List<String> myids = new ArrayList<>();
                 Map<String, String> map = new HashMap<>();
 
-                map.put("perf_why", rs.getString("perf_why"));
-//                System.out.println("pwhy: " + rs.getString("id") + ": " + rs.getString("perf_why"));
-                id = randIds.remove(0);
-                map.put("perf_why_id", id + "");
-                myids.add(id + "");
-
                 map.put("how_decide", rs.getString("how_decide"));
                 id = randIds.remove(0);
                 map.put("how_decide_id", id + "");
                 myids.add(id + "");
 
-                map.put("overall", rs.getString("overall"));
+                map.put("accuracy_standard_why", rs.getString("accuracy_standard_why"));
                 id = randIds.remove(0);
-                map.put("overall_id", id + "");
+                map.put("accuracy_standard_why_id", id + "");
                 myids.add(id + "");
 
                 map.put("frustration_why", rs.getString("frustration_why"));
@@ -218,6 +222,28 @@ public class DBManager {
                 map.put("recommend_why", rs.getString("recommend_why"));
                 id = randIds.remove(0);
                 map.put("recommend_why_id", id + "");
+                myids.add(id + "");
+
+                map.put("feedback_importance_why", rs.getString("feedback_importance_why"));
+                id = randIds.remove(0);
+                map.put("feedback_importance_why_id", id + "");
+                myids.add(id + "");
+
+                map.put("overall", rs.getString("overall"));
+                id = randIds.remove(0);
+                map.put("overall_id", id + "");
+                myids.add(id + "");
+
+                map.put("learn_why", rs.getString("learn_why"));
+//                System.out.println("lwhy: " + rs.getString("id") + ": " + rs.getString("learn_why"));
+                id = randIds.remove(0);
+                map.put("learn_why_id", id + "");
+                myids.add(id + "");
+
+                map.put("perf_why", rs.getString("perf_why"));
+//                System.out.println("pwhy: " + rs.getString("id") + ": " + rs.getString("perf_why"));
+                id = randIds.remove(0);
+                map.put("perf_why_id", id + "");
                 myids.add(id + "");
 
                 answers.add(map);
@@ -254,12 +280,15 @@ public class DBManager {
                 }
                 System.out.println("printed " + ct);
             };
-            extractor.accept("perf_why");
             extractor.accept("how_decide");
-            extractor.accept("overall");
+            extractor.accept("accuracy_standard_why");
             extractor.accept("frustration_why");
             extractor.accept("trust_why");
             extractor.accept("recommend_why");
+            extractor.accept("feedback_importance_why");
+            extractor.accept("overall");
+            extractor.accept("learn_why");
+            extractor.accept("perf_why");
 
         } catch (SQLException e) {
             System.out.println(query);

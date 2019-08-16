@@ -180,22 +180,19 @@ public class Launcher {
                             req.queryParams("hockey"),
                             req.queryParams("baseball")
                     );
-                    session.mode = "pintro";
+                    session.mode = "intro2";
                     break;
                 case "intro1":
-                    session.mode = "intro2";  // <-- go back to this one
+                    session.mode = "demographics"; // <-- go back to this
                     // instant skip for quick debugging
-//                    session.mode = "practice";
+//                    session.mode = "instructions";
                     break;
                 case "intro2":
-//                    session.mode = "intro3";
-//                    session.mode = "openq2";
-                    session.mode = "demographics"; // skipping old "Keep in Mind" page
+                    session.mode = "intro3";
                     break;
-//                case "intro3": // old "Keep in Mind" page
-//                    session.mode = "demographics";
-////                    session.mode = "openq";
-//                    break;
+                case "intro3": // "Keep in Mind" page
+                    session.mode = "pintro";
+                    break;
                 case "pintro":
                     session.mode = "practice";
                     break;
@@ -211,8 +208,7 @@ public class Launcher {
                     handleEmail(req, session, "train", "train-" + session.trainIdx);
                     session.loadNextEmail();
                     if (session.finishedTrain()) {
-//                        session.mode = "tinstructions";
-                        session.mode = "openq";
+                        session.mode = "openqinstructions";
                     } else {
                         session.mode = "train";
                     }
@@ -227,7 +223,6 @@ public class Launcher {
                     handleEmail(req, session, "test", "test-" + session.testIdx);
                     session.loadNextEmail();
                     if (session.finishedTest()) {
-//                        session.mode = "openq"; <-- commented out 7/22
                         session.mode = "complete";
                     } else {
                         session.mode = "test";
@@ -246,10 +241,14 @@ public class Launcher {
                     DBManager.saveFinal1(
                             session,
                             req.queryParams("how_decide"),
-                            req.queryParams("acc_1"),
                             req.queryParams("perceived_accuracy"),
-                            req.queryParams("understanding"),
-                            req.queryParams("expectation_alignment"),
+                            req.queryParams("understanding")
+                    );
+                    session.mode = "openq2";
+                    break;
+                case "openq2":
+                    log.info("openq2 for " + session.getUUID());
+                    DBManager.saveFinal2(session,
                             req.queryParams("accuracy_standard"),
                             req.queryParams("accuracy_standard_why"),
                             req.queryParams("frustration"),
@@ -260,21 +259,18 @@ public class Launcher {
                             req.queryParams("recommend_why"),
                             req.queryParams("fdbk_importance"),
                             req.queryParams("fdbk_importance_why"),
-                            req.queryParams("fdbk_importance_what"),
                             req.queryParams("overall")
                     );
-                    session.mode = "openq2";
+                    session.mode = "openq3";
                     break;
-                case "openq2":
-                    log.info("openq2 for " + session.getUUID());
-                    DBManager.saveFinal2(session,
+                case "openq3":
+                    log.info("openq3 for " + session.getUUID());
+                    DBManager.saveFinal3(session,
                             req.queryParams("learn"),
                             req.queryParams("learn_why"),
                             req.queryParams("perf"),
-                            req.queryParams("perf_why"),
-                            req.queryParams("acc_2")
+                            req.queryParams("perf_why")
                     );
-//                    session.mode = "complete"; <-- commented out 7/22
                     session.mode = "tinstructions";
                     break;
                 default:
@@ -339,14 +335,17 @@ public class Launcher {
         String subject = session.currentEmail.subject;
         String email = session.currentEmail.content;
         String testtype = session.currentEmail.testtype;
+        String testaccuracy = session.currentEmail.testaccuracy;
         System.out.println("injecting sender " + sender);
         System.out.println("injecting testtype " + testtype);
+        System.out.println("injecting testaccuracy " + testaccuracy);
         JSONObject o = new JSONObject();
         o.put("sender", sender);
         o.put("subject", subject);
         o.put("id", session.mode.equals("complete") ? session.getUUID().toString() : "");
         o.put("email", email);
         o.put("testtype", testtype);
+        o.put("testaccuracy", testaccuracy);
         o.put("pred", session.currentEmail.pred);
         o.put("curr_idx", (session.finishedTrain() ? session.testIdx : session.trainIdx));
         o.put("total_idx", session.finishedTrain() ? session.totalTest : session.totalTrain);
