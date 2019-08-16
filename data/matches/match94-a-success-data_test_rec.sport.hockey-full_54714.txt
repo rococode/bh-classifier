@@ -1,0 +1,39 @@
+0.9999999864126039 1.3587399342769744e-08 0.9999999728252046 True
+prediction: hockey for data\test\rec.sport.hockey-full\54714
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| go     |    -7.3  |   -10.03 |    2.73 | **    |
+| would  |    -7.19 |    -8.93 |    1.75 | **    |
+| get    |    -7.77 |    -9.34 |    1.57 | **    |
+| im     |    -7.59 |    -8.93 |    1.34 | **    |
+| post   |    -8.69 |   -10.03 |    1.34 | **    |
+| see    |    -8.13 |    -9.34 |    1.21 | **    |
+| always |    -8.98 |   -10.03 |    1.06 | **    |
+| read   |    -8.98 |   -10.03 |    1.06 | **    |
+| like   |    -7.88 |    -8.65 |    0.77 |       |
+| chance |   -10.08 |    -9.34 |   -0.74 |       |
+From: mblumens@itsmail1.hamilton.edu (Mary Blumenstock)
+Subject: FAQ for this group
+
+Could someone please tell me how I can access the FAQ for this
+group?  I'm relatively new, and would like to read it, but
+although I've seen it mentioned, I've yet to see it posted.  Is
+it archived somewhere or does someone post it to the group on a
+regular basis?  or, is it distributed on-demand?  I'd appreciate
+any help anyone can give me.  
+
+Thanks in advance.
+
+			- Mary
+
+p.s.  Please respond via email as the articles expire within 24
+hours on my mail system, and I don't always get a chance to read
+everything.  Thanks.
+
+
+===============================================================
+Mary Blumenstock               mblumens@itsmail1.hamilton.edu
+
+                  GO RANGERS!!!!  
+                     (...next year, of course ;-()
+

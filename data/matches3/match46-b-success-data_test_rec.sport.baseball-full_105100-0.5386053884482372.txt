@@ -1,0 +1,34 @@
+0.0012147842582954228 0.9987852157416515 0.997570431483356 True
+prediction: baseball for data\test\rec.sport.baseball-full\105100
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| pitch    |    -8.1  |   -10.04 |    1.94 | **    |
+| frank    |    -8.66 |   -10.04 |    1.38 | **    |
+| anyone   |   -10.04 |    -8.94 |   -1.1  | **    |
+| player   |    -8.94 |   -10.04 |    1.1  | **    |
+| come     |   -10.04 |    -9.35 |   -0.7  |       |
+| good     |    -8.94 |    -8.25 |   -0.7  |       |
+| tickets  |   -10.04 |    -9.35 |   -0.7  |       |
+| david    |    -9.35 |   -10.04 |    0.69 |       |
+| expected |    -9.35 |   -10.04 |    0.69 |       |
+| mean     |    -9.35 |   -10.04 |    0.69 |       |
+From: thornley@micro.cs.umn.edu (David H. Thornley)
+Subject: Re: Erickson, Keith Miller?
+
+In article <1993Apr16.032554.12401@mintaka.lcs.mit.edu> frankkim@CATFISH.LCS.MIT.EDU (Frank Kim) writes:
+>
+>HI,
+>
+>I was just wondering if anyone knew when Erickson
+>and Keith Miller are expected to come back and what
+>exactly ails them.
+>
+Dunno about Miller.
+
+If you mean Scott Erickson, currently the reigning Twins Least Consistent
+Good Player, he pulled a muscle in the neighborhood of the rib cage that
+made it essentially impossible for him to pitch temporarily, and is
+expected back on the mound Sunday.
+
+David Thornley
+"With tickets to see one of the Scott Ericksons pitch"

@@ -1,0 +1,35 @@
+0.9999999998647695 1.3521837398898237e-10 0.9999999997295511 True
+prediction: hockey for data\test\rec.sport.hockey-full\54536
+| word              |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------------|----------|----------|---------|-------|
+| wings             |    -7.96 |   -10.04 |    2.08 | **    |
+| nhl               |    -8.25 |   -10.04 |    1.79 | **    |
+| turgeon           |    -8.25 |   -10.04 |    1.79 | **    |
+| help              |    -8.43 |   -10.04 |    1.61 | **    |
+| need              |    -8.65 |   -10.04 |    1.39 | **    |
+| bruins            |    -8.94 |   -10.04 |    1.1  | **    |
+| coffey            |    -8.94 |   -10.04 |    1.1  | **    |
+| appreciated       |    -9.35 |   -10.04 |    0.7  |       |
+| borque            |    -9.35 |   -10.04 |    0.7  |       |
+| chingbigwpiwpiedu |    -9.35 |   -10.04 |    0.7  |       |
+From: ummak027@ccu.umanitoba.ca (Anson Sen Sau Mak)
+Subject: Re: #77's?
+
+In article <1r23on$4p6@bigboote.WPI.EDU> ching@bigwpi.WPI.EDU ("The Logistician") writes:
+>
+>I am in need of all of the players wearing #77 in the NHL.  I know now only
+>of one, Ray Borque for the Bruins.  Any help would be greatly appreciated.
+>
+>Thanx.
+>
+>-- 
+>------------------------THE LOGISTICIAN REIGNS SUPREME!!!----------------------
+>|									      |
+>|   GO BLUE!!!   GO TIGERS!!!   GO PISTONS!!!   GO LIONS!!!   GO RED WINGS!!! |
+>-------------------------------ching@wpi.wpi.edu-------------------------------
+
+Pierre Turgeon of NYI, and Paul Coffey of Detorit are both #77. 
+
+Hope this help.
+
+Anson

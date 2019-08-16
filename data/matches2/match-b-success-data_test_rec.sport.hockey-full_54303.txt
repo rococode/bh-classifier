@@ -1,0 +1,44 @@
+0.9999996110104422 3.8898953796838006e-07 0.9999992220209043 True
+prediction: hockey for data\test\rec.sport.hockey-full\54303
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| wings       |    -7.96 |   -10.04 |    2.08 | **    |
+| detroit     |    -8.25 |   -10.04 |    1.79 | **    |
+| nhl         |    -8.25 |   -10.04 |    1.79 | **    |
+| help        |    -8.43 |   -10.04 |    1.61 | **    |
+| need        |    -8.65 |   -10.04 |    1.39 | **    |
+| bruins      |    -8.94 |   -10.04 |    1.1  | **    |
+| coffey      |    -8.94 |   -10.04 |    1.1  | **    |
+| v           |   -10.04 |    -8.94 |   -1.1  | **    |
+| appreciated |    -9.35 |   -10.04 |    0.7  |       |
+| borque      |    -9.35 |   -10.04 |    0.7  |       |
+From: steven.kipling@freddy.ersys.edmonton.ab.ca (Steven Kipling) 
+Subject: Re: #77's?
+
+ -=> Quoting The Logistician to All <=-
+
+ 
+
+ TL> I am in need of all of the players wearing #77 in the NHL.  I know now
+ TL> only of one, Ray Borque for the Bruins.  Any help would be greatly
+ TL> appreciated. 
+ TL> Thanx.
+
+
+
+      Hi there Logistician, is not Paul Coffey wearing
+      # 77 for the Detroit Red Wings?
+      That is the only other one (besides Borque) that I can think of
+      hope it helps.
+
+
+      Steve
+
+
+
+
+
+
+... WARNING!  Removal of this tagline prohibited by law!
+___ Blue Wave/QWK v2.12
+ 

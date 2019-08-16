@@ -1,0 +1,36 @@
+0.9951841954608186 0.004815804539157964 0.9903683909216606 True
+prediction: hockey for data\test\rec.sport.hockey-full\54252
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| cup        |    -7.74 |   -10.04 |    2.31 | **    |
+| rangers    |    -7.96 |   -10.04 |    2.08 | **    |
+| got        |   -10.04 |    -8.25 |   -1.79 | **    |
+| really     |   -10.04 |    -8.66 |   -1.38 | **    |
+| presidents |    -8.94 |   -10.04 |    1.1  | **    |
+| give       |   -10.04 |    -8.94 |   -1.1  | **    |
+| league     |   -10.04 |    -8.94 |   -1.1  | **    |
+| year       |    -8.25 |    -7.34 |   -0.91 |       |
+| deal       |    -9.35 |   -10.04 |    0.7  |       |
+| heard      |    -9.35 |   -10.04 |    0.7  |       |
+From: kkeller@mail.sas.upenn.edu (Keith Keller)
+Subject: Re: Keenan signs with the Rangers!!
+
+In article <1993Apr16.175300.98134@ns1.cc.lehigh.edu> cpc4@ns1.cc.lehigh.edu (CONNIN PATRICK COLGAIN) writes:
+>Just heard on the news that Mike Keenan formerly of the Blackhawks, Flyers,
+>and General of a Siberian Prison has just signed to coach the Rangers.  The
+>Rangers, who won the President's Cup last year have slipped just a bit at the
+>end of the season and are destined to finish last behind the lowly Flyers.
+>The Flyers' fans are going to be disappointed on Keenans decision, because
+>they were very interested in him.  Oh well.
+
+At least we got somebody the Flyers wanted ;-)
+
+Is this really true?  I have not been keeping up with any news.  If it is,
+what's the deal with Neil Smith?  Is he gone, too?
+
+--
+    Keith Keller				LET'S GO RANGERS!!!!!
+						LET'S GO QUAKERS!!!!!
+	kkeller@mail.sas.upenn.edu		IVY LEAGUE CHAMPS!!!!
+
+            "When I want your opinion, I'll give it to you." 

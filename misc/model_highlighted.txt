@@ -1,0 +1,31 @@
+PRACTICE
+104917-b-practice-success.txt: [pitch, montreal, hard]
+
+TRAIN
+54200-h-m4-success.txt: [ny, nhl, rangers]
+54295-h-m1-success.txt: [islanders, montreal, series]
+54366-h-close-success.txt: [cup, stanley, frank]
+54721-h-m2-success.txt: [leafs, wings, jets]
+54775-h-failed.txt: [lot, caps, know]
+104944-b-failed.txt: [know, get, anyway]
+104979-success.txt: [players, baseball, hit]
+104993-success.txt: [rangers, career, playing]
+105028-b-m3-success.txt: [sox, well, boston]
+105057-b-close-failed.txt: [another, come, la]
+
+TEST
+54243-h-m2-success.txt: [period, leafs, wings]
+54291-h-m1-success.txt: [islanders, penalty, series]
+54366-h-close-success-dup.txt: [cup, stanley, frank]
+54712-h-m1-failed.txt: [islanders, cup, series]
+54717-h-success.txt: [hard, year, team]
+54734-h-failed.txt: [leafs, playoffs, rogers]
+54775-h-failed-dup.txt: [lot, caps, know]
+104944-b-failed-dup.txt: [know ,get, anyway]
+104965-b-success.txt: [final, hell, hit]
+104993-b-success-dup.txt: [rangers, career, playing]
+105015-b-success.txt: [much, hit, post]
+105024-b-m3-success.txt: [sox, got, boston]
+105057-b-close-failed-dup.txt: [another, come, la]
+105130-b-m4-success.txt: [ny, sox, nhl]
+105144-b-success.txt: [phillies, phils, numbers]

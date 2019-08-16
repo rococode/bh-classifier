@@ -1,0 +1,29 @@
+6.560635460305289e-05 0.9999343936453752 0.9998687872907721 True
+prediction: baseball for data\test\rec.sport.baseball-full\104972
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| mets    |    -7.96 |   -10.04 |    2.08 | **    |
+| line    |    -8.66 |   -10.04 |    1.38 | **    |
+| e       |    -8.94 |   -10.04 |    1.1  | **    |
+| john    |    -8.94 |   -10.04 |    1.1  | **    |
+| words   |    -8.94 |   -10.04 |    1.1  | **    |
+| heard   |   -10.04 |    -9.35 |   -0.7  |       |
+| number  |   -10.04 |    -9.35 |   -0.7  |       |
+| anybody |    -9.35 |   -10.04 |    0.69 |       |
+| could   |    -9.35 |   -10.04 |    0.69 |       |
+| im      |    -8.94 |    -9.35 |    0.4  |       |
+From: jplee@cymbal.calpoly.edu (Jason Lee)
+Subject: John Franco
+
+What's with John Franco?  The Mets are hardly using him.  I heard he was
+completely recovered, but now I'm not so sure.
+
+If there is anybody out there with information about Franco, I would
+appreciate it if you could drop me a line.
+
+
+-- 
+Jason Lee   jplee@oboe.calpoly.edu   jlee@cash.busfac.calpoly.edu    SF Giants
+e ^ i*pi + 1 = 0    The most beautiful equation in mathematics.      Magic
+For all sad words of tongue and pen, the saddest are these:          Number:
+     "It might have been."            John Greenleaf Whittier        148

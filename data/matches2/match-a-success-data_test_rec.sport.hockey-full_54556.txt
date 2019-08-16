@@ -1,0 +1,39 @@
+0.9999766187666377 2.3381233345506666e-05 0.9999532375332921 True
+prediction: hockey for data\test\rec.sport.hockey-full\54556
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| cup      |    -7.74 |   -10.04 |    2.31 | **    |
+| nhl      |    -8.25 |   -10.04 |    1.79 | **    |
+| better   |   -10.04 |    -8.25 |   -1.79 | **    |
+| finals   |    -8.43 |   -10.04 |    1.61 | **    |
+| playoffs |    -8.43 |   -10.04 |    1.61 | **    |
+| stanley  |    -8.43 |   -10.04 |    1.61 | **    |
+| wins     |    -8.65 |   -10.04 |    1.39 | **    |
+| penguins |    -8.94 |   -10.04 |    1.1  | **    |
+| every    |   -10.04 |    -8.94 |   -1.1  | **    |
+| year     |    -8.25 |    -7.34 |   -0.91 |       |
+From: Robbie Po <RAP115@psuvm.psu.edu>
+Subject: Re: Goodbye, good riddance, get lost 'Stars
+
+In article <DT642B1w165w@sms.business.uwo.ca>, s4lawren@sms.business.uwo.ca
+(Stephen Lawrence) says:
+>        Goodbye Minnesota,...you never earned the right to have an NHL
+>franchise in the first place!
+>        Hope you enjoy your Twin city wide mania for HIGH SCHOOL HOCKEY
+>(hey, by the way my old pee wee team is having a reunion in Regina, care
+>to come up and film the event?)
+>        Yee haa Golden Gophers
+>Whatta weird town!!!!!
+   --Minnesota definitely deserves an NHL franchise!!!  You'll see the
+Minnesota Whalers pretty soon, so fear not Minnesota fans.  No Norm Green,
+'cept for the team color (sorry, bad pun!)
+
+   --What a difference two years makes!  Minnesota finished 29-37-14 in 1992
+and made the finals.  They finish with a better record at  38-38-10 thi year
+and move to Dallas.  Every team in the playoffs has a winning record!!!
+Finally!!!  It's about time, NHL!!!
+-------------------------------------------------------------------------
+** Robbie Po **          PGH PENGUINS!!!    "It won't be easy, but it
+Contact for the '93-'94  '91 STANLEY CUP    will have greater rewards.
+Penn State Lady Lions    '92 CHAMPIONS      Mountains and Valleys are
+rap115@psuvm.psu.edu     11 STRAIGHT WINS!  better than nothing at all!"

@@ -1,0 +1,35 @@
+0.999999947473158 5.252689311102669e-08 0.999999894946265 True
+prediction: hockey for data\test\rec.sport.hockey-full\54748
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| period   |    -7.27 |   -10.04 |    2.78 | **    |
+| series   |    -8.09 |   -10.04 |    1.95 | **    |
+| montreal |    -8.25 |   -10.04 |    1.79 | **    |
+| played   |    -8.65 |   -10.04 |    1.39 | **    |
+| anyone   |    -8.94 |   -10.04 |    1.1  | **    |
+| goal     |    -8.94 |   -10.04 |    1.1  | **    |
+| overtime |    -8.94 |   -10.04 |    1.1  | **    |
+| roy      |    -8.94 |   -10.04 |    1.1  | **    |
+| getting  |   -10.04 |    -8.94 |   -1.1  | **    |
+| hit      |   -10.04 |    -8.94 |   -1.1  | **    |
+From: vergolin@euler.lbs.msu.edu (David Vergolini)
+Subject: Montreal versue Quebec
+
+  Did anyone see the Montreal - Quebec game yesterday?  It was tight right down
+to the last second of the third period.  In the overtime Roy and Hextall played
+like they were gods.
+  Ok, so Montreal won!  They deserved it after getting their first goal in
+overtime waved off because the puck was hit in with a high stick.  Their second
+goal in overtime was also replayed, but I could not tell if it was the Montreal
+player who kicked it in.  The puck definitely was not directed in by a stick.
+Anyways, Montreal is back into the series.
+
+
+
+
+
+
+
+                                                Dave Vergolini
+                                                Michigan State University
+                                                vergolin@euler.lbs.msu.edu

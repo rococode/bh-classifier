@@ -1,0 +1,176 @@
+WILL_LEARN,MODEL_ADAPTS,The model will learn from its mistakes and be able to more accurately guess whether the email was about hockey or baseball.,6,46330
+COND_LEARN,"MODEL_ADAPTS, FEEDBACK","I feel like if it can learn from the mistakes and recognize the keywords I selected, then it will likely do a slightly better job if similar keywords are encountered in the e-mails.",5,19339
+WILL_LEARN,MODEL_ADAPTS,It will try to correct itself based on the number it predicted incorrectly the first time.,5,43339
+x,x,There are words are out of topic.,4,69120
+x,"LOW_QUAL, NEEDS_FEEDBACK",It was highlighting mostly irrelevant words in each email. There were a number of words in each one that would have help identify the sport much more effectively.,3,82249
+x,LOW_QUAL,It didn't pick on some obvious keywords. It also selected quite a few non-relevant words that could apply to anything inside or outside the sports world which is pretty useless.,4,85892
+COND_LEARN,FEEDBACK,The model was already relatively accurate(8/10 correct I think) so if it takes my feedback and improves then the quality should not get worse.,6,16103
+x,x,I believe that it picks up hockey stuff quicker than baseball.,5,47163
+x,"LOW_QUAL, NEEDS_FEEDBACK",The highlighted words many times had nothing to do with making an accurate choice.,4,42454
+WILL_LEARN,"HIGH_QUAL, MARGINAL_FEEDBACK",It was mostly accurate already and the feedback I provided was only marginal at best. But it should help it decide between hockey or baseball even better.,5,80949
+x,x,"It seems to do alright, but I am not sure it would do better",4,55594
+WILL_LEARN,FEEDBACK,I gave it better rules so it should do a little better.,5,83789
+x,HIGH_QUAL,"Because on the first set they were right 90 percent of the time,so the next go round I expect them to be reliable but not perfect.",4,31219
+x,x,They seemed the same to me,4,59909
+WILL_NOT_LEARN,x,I assume that the model will perform roughly the same for  the next set set of trials as I don't have any reason to assume it will get better or worse.,4,87641
+WILL_LEARN,"HIGH_QUAL, MODEL_ADAPTS",it seems to do a good job overall so I think it would learn more,5,30410
+WILL_NOT_LEARN,x,Because I don't think it will improve nor get worse,4,47721
+COND_LEARN,"HIGH_QUAL, FEEDBACK",I answered the questions correctly and it seemed pretty correct the first time. I assume it'll get better if its coded right.,6,22136
+WILL_LEARN,MARGINAL_FEEDBACK,i dont think enough inputs were given to improve its accuracy.,4,71853
+WILL_LEARN,FEEDBACK,It's supposed to improve based on feedback.,5,76870
+x,HIGH_QUAL,"Based on what I have observed so far, the AI is bang on correct 90% of the time. It's able to pick up specific sport terms easily.",4,54223
+x,HIGH_QUAL,"It got most of them right, might have only missed one.",7,20614
+WILL_LEARN,MODEL_ADAPTS,I think it should make some improvements.,5,51390
+WILL_LEARN,"HIGH_QUAL, MARGINAL_FEEDBACK","It was only wrong in the practice round one single time, so  I feel like I don't have much to teach it, it's already very good",5,47171
+x,"HIGH_QUAL, NEEDS_FEEDBACK",I think the model will do about the same that it has done I think it did pretty good considering but needs some updates to make it better. I don't know if it learns and gets better with time.,4,92329
+WILL_NOT_LEARN,x,"The model got more than half correct, so I think it will do about the same in the next set of emails.",5,56511
+x,HIGH_QUAL,"The model performed very well on the first set of the 10 emails. There is room for slight improvement, but the model has done a fine job so far.",5,69485
+COND_LEARN,FEEDBACK,It will hopefully use some of the words I highlighted to better determine baseball vs hockey,5,40681
+x,HIGH_QUAL,"The model was correct 90% of the time, kinda hard to improve on that.",4,68690
+WILL_LEARN,"FEEDBACK, MARGINAL_FEEDBACK","There were some incorrect predictions which I indicated correctly, so I believe the model will improve slightly.  However, it is not always picking the best words and I don't believe that will be totally corrected with the limited number of emails I reviewed.",5,13529
+COND_LEARN,"HIGH_QUAL, MODEL_ADAPTS",The model only made one mistake in the previous emails. If it corrects for what it did wrong it should be perfect.,6,10843
+WILL_LEARN,BAD_FEEDBACK,"There were a couple I wasn't sure of, so it might learn from bad advice.",3,21252
+WILL_NOT_LEARN,x,"The model hasn't changed, so it should perform the same.",4,10540
+WILL_LEARN,FEEDBACK,I think I was able to help the model learn which keywords to look for to help it decide which sport is being discussed.,6,25843
+x,HIGH_QUAL,The machine did a good job of evaluating the first set based on the highlighted words.,4,39888
+COND_LEARN,FEEDBACK,My words may have helped fix the model a bit,5,26474
+WILL_LEARN,FEEDBACK,It has better information on what keywords are relevant to hockey vs. baseball.,5,50033
+WILL_LEARN,FEEDBACK,I think my feedback will help the model more accurately know if the email is talking about hockey or baseball. I think certain keywords I selected will really help.,6,54123
+WILL_NOT_LEARN,x,I see no reason to think it would do better or worse than it already has. It all depends on how many keywords specific to each sport are in the emails.,4,64481
+WILL_NOT_LEARN,x,The model should work in a similar manner. I don't see any reason that it will do significantly better or worse as long as the email are similar to the practice ones.,4,35840
+x,x,It didn't seem to learn that well. It looked for a few keywords and decided based on that.,4,21215
+WILL_NOT_LEARN,x,About the same because the emails that the model answered incorrectly were tricky and didn't give any obvious indication on what sport they were referring to.,4,73169
+WILL_LEARN,"FEEDBACK, HIGH_QUAL",It was pretty accurate and it has had feedback to make it better.,5,62305
+WILL_LEARN,FEEDBACK,I think my feedback will help the model perform better on the next set of emails.,6,29292
+x,x,I understand both baseball and hockey. I lean baseball.,6,99046
+WILL_NOT_LEARN,x,I don't see any reason to believe its performance will improve or worsen based on the information I have.,4,92624
+x,HIGH_QUAL,i feel like the model was about 80% accurate in these 10 cases. I am starting to think it has a list of team names to help it decide,4,41726
+WILL_NOT_LEARN,x,"Not sure, it's kind of iffy depending on how the email is written. Would only do better if there were more indentifying words",4,63919
+COND_LEARN,MODEL_ADAPTS,The machine may have learned from the previous run,5,44755
+WILL_NOT_LEARN,HIGH_QUAL,Because some emails are hard to decide on. The ML did a good job on the last emails so I think it will be about the same.,4,17425
+WILL_NOT_LEARN,HIGH_QUAL,I thought the model was fairly accurate in it's predictions and expect it to perform in a similar manner going forward.,4,80272
+COND_LEARN,FEEDBACK,"If it is learning from input, then it should be able to work out a better way to categorize the baseball and hockey emails. Perhaps, it will find better words in some of the instances.",5,88817
+WILL_NOT_LEARN,x,I don't think anything will change in these new e-mails that will change the behavior of the model,4,28188
+WILL_NOT_LEARN,x,It mostly did really well.  There were only about two or three that were questionable.,6,26700
+WILL_NOT_LEARN,x,I think it will do the same. It doesn't seem like a learning machine. It will make the same predictions.,4,68429
+WILL_LEARN,"MARGINAL_FEEDBACK, HIGH_QUAL","The model predicted most of the emails correctly already. A small handful were either incorrect or unclear, so with my input I feel it would have improved the model slightly - but not a whole lot since there wasn't a large amount of incorrect answers from the model in the first place.",5,83801
+WILL_LEARN,FEEDBACK,I think I was able to select enough specific words and team names to help the AI improve.,5,13725
+WILL_LEARN,"HIGH_QUAL, FEEDBACK",The model seemed to be pretty decent at guessing correctly and I think with some extra data sets it'll get more accurate.,5,47450
+WILL_LEARN,FEEDBACK,I feel like it has learned from my feedback and has improved.,7,83896
+x,HIGH_QUAL,It seemed to do pretty well so far.,6,31744
+WILL_LEARN,"MARGINAL_FEEDBACK, HIGH_QUAL",They chose good keywords the first time. My input should not impact that much.,4,60693
+x,"NEEDS_FEEDBACK, HIGH_QUAL",The model is pretty good but the words it chooses are not ones I would think would give certainty as to the right choice. There are some words that are common to both sports; we'll see if it's good at differentiating.,4,69311
+WILL_NOT_LEARN,NO_FEEDBACK,It has no new info really,4,90211
+WILL_LEARN,FEEDBACK,I think feedback to the model helps it improve.,5,77066
+WILL_NOT_LEARN,NEEDS_FEEDBACK,I would expect it to use a similar method. I don't think it can understand all the abbreviations of team names.,4,82104
+WILL_NOT_LEARN,x,I don't see why it would change.,4,97596
+WILL_LEARN,FEEDBACK,I think I found more defining words for it to consider when choosing.,7,62042
+WILL_NOT_LEARN,x,I think it is the same model and will do equally as well. Its methods or algorithm hasn't changed as far as I know.,4,63700
+x,HIGH_QUAL,I feel that the model did a good job of determining whether the email was about hockey or baseball based on the first set.,4,10758
+x,HIGH_QUAL,It seems to have done pretty well,6,44611
+x,"HIGH_QUAL, FEEDBACK",It seemed to recognize the emails well enough before my feedback,5,65155
+COND_LEARN,MODEL_ADAPTS,I think it may choose more applicable words on the emails it got wrong.  IT is a machine though so it may just make the same mistakes.,5,27832
+WILL_NOT_LEARN,HIGH_QUAL,The model pretty much predicted all the emails in the first set of emails so I expect the same in the second set.,4,64754
+WILL_LEARN,"MARGINAL_FEEDBACK, HIGH_QUAL","It only got one or two wrong, so I don't think it has enough info to really change how it decides. It'd need more than 2 samples.",4,54755
+COND_LEARN,"FEEDBACK, HIGH_QUAL","It did quite well to begin with, only getting one wrong.  There was another that was impossible to determine.  If it uses any of my data, which I added a few more keywords, it might do slightly better.",5,33771
+WILL_NOT_LEARN,HIGH_QUAL,I think the model did very well at predicting before and did not need much improvement. I would expect the same performance as before.,4,27118
+COND_LEARN,FEEDBACK,"If the model tries to learn anything from my input I believe it will guess slightly more correctly, but still probably make some mistakes.",5,13732
+WILL_LEARN,FEEDBACK,Because they are able to get information from others during and interaction like the practice I just took in order to make better decisions,6,74915
+WILL_LEARN,FEEDBACK,BECAUSE I TAUGHT IT A FEW OF ITS ERRORS,6,67356
+WILL_LEARN,FEEDBACK,I think it would do slightly better because my feedback will improve the decisions it makes.,5,40337
+x,NEEDS_FEEDBACK,"I feel like a lot of the words that the model chose as the most important didn't have anything to do with either sport. It was almost random whether the model was correct or not. Some of the highlighted words were sport related, but more fo them were not.",4,33869
+WILL_NOT_LEARN,x,"I have no reason to believe the model will work any differently than it did on the first e-mails, so it should be about the same.  It probably consistently uses the same method to determine each e-mail, so it should deliver the same quality of results.",4,20030
+WILL_LEARN,FEEDBACK,The model was fairly accurate and it just needs to learn a few more abbreviations and terms.  With the additional training I would expect it to become more reliable.,6,37365
+x,x,seems right,5,37429
+WILL_LEARN,MARGINAL_FEEDBACK,I mostly just told it it was right which can't be too helpful to get better. I don't know how I could have made it much better.,4,89443
+WILL_LEARN,FEEDBACK,Because I gave feedback when it was wrong and selected specific words to differentiate between hockey and baseball.,5,83453
+COND_LEARN,"HIGH_QUAL, MODEL_ADAPTS/FEEDBACK, TRICKY_INPUT","Because I think that some emails are ambiguous. Maybe with learning some of the teams and the slang for them, it might get better but not by much. I think we were at 70-80% on the last round so probably in the 80% range would be realistic.",5,37495
+COND_LEARN,MODEL_ADAPTS,I think it might choose different words to make a choice,5,28787
+WILL_LEARN,"MODEL_ADAPTS, FEEDBACK","I think based on the very foundation of ML the model should improve with additional input of quality data. Moreover, intuitively, it seems like the model should get better as it learns to better discern between the two entities as it works through more examples. Basically, the model should improve as practice makes perfect.",5,17138
+COND_LEARN,FEEDBACK,"Optimism. The machine was designed to learn through feedback, so hopefully it should.",5,36854
+WILL_NOT_LEARN,x,If it's the same model then it should perform as well. At least if you don't throw any tricky ones in this set.,4,39082
+WILL_LEARN,MODEL_ADAPTS,I think that the model itself will pick up where it did well and where it didn't do so well. It has evaluated more text so it may know more of what to look for.,6,34471
+WILL_LEARN,FEEDBACK,We've indicated words that the are better related to the sports. We've made the model a bit smarter and learned.,5,91301
+WILL_LEARN,FEEDBACK,I think I identified some keywords that will help the system learn some of the terminology that is associated with each sport,5,22857
+x,HIGH_QUAL,"The computer got most of the first set of 10 correct, although one could have been either about hockey or baseball. There may be another email like that, but overall it seemed accurate.",4,44710
+x,x,There is no evidence for me to think otherwise.,4,68880
+COND_LEARN,FEEDBACK,I'm hoping it does better based on the keywords I have highlighted.  I guess we'll find out if that is the case.,5,12769
+x,x,I am just taking a guess,5,24204
+WILL_NOT_LEARN,x,"As far as I know, there is no difference in terms of content between this set and the previous set, so I think they should be about the same.",4,37153
+COND_LEARN,HIGH_QUAL,It was correct all of the times so even if it gets better it can still only be so correct.,4,40077
+WILL_LEARN,"HIGH_QUAL, FEEDBACK",I feel that the model should be able to improve due to the high level of reliability the model has shown so far which makes me mostly trust the efficiency of the model. Additionally my inputs in the second phase is likely to have positive influences on how the model makes its decision.,6,56788
+WILL_LEARN,NEEDS_FEEDBACK,"It hasn't seemed to learn very much. It bases its decisions on words that could be related to either baseball or hockey. It also used Montreal to guess that one was baseball and that another was hockey. It ignores words that would easily determine whether the email is baseball or hockey, like home run, strikeout, goal, ice, ball, and others. The model doesn't seem very refined yet.",4,11614
+WILL_LEARN,"MODEL_ADAPTS, HIGH_QUAL","I feel that it will be slightly better because it was already very good so there isn't much to improve upon, but it will make some minor adjustments to be more accurate.",5,68015
+x,HIGH_QUAL,The model is able to chose significant key words the majority of the time.,5,92073
+x,x,At first it made a few mistakes.,6,73000
+WILL_LEARN,MODEL_ADAPTS,I think that the model gets better as it goes along.,5,15882
+WILL_LEARN,MODEL_ADAPTS,"I feel that the model focused on more relevant words to make its decision as the emails continued, so I think that the next set will be more accurate because it will focus on more pertinent words.",5,17952
+WILL_NOT_LEARN,s,"It seems clear that some of the words it uses to tag an email as about baseball or hockey could go either way. This being the case, I don't think it will be in a better OR worse position in the upcoming batch of emails either. There does appear to be a tinge of randomness due to this highlighting of certain ambivalent terms.",4,38346
+WILL_LEARN,"MODEL_ADAPTS, HIGH_QUAL","I feel that the questions that the model was incorrect about in the previous section were overtly wrong, so these should be easy to correct.  I didn't see the model get ""confused"" by difficult passages, but rather it was just plain wrong even though there was obvious information in these incorrectly identified passages.  Therefore, I believe that the model should perform slightly better than before because it got that majority of questions correct in the last round.",5,78185
+WILL_LEARN,MODEL_ADAPTS,It has better experience.,6,14374
+WILL_LEARN,"HIGH_QUAL, MARGINAL_FEEDBACK",The majority of the work on the model has already been done. My suggestions may help but probably only somewhat.,5,63583
+x,x,"I was only unsure on one of the previous 10 emails. If they are similar for the next 15 emails, I will do the same.",4,66424
+WILL_NOT_LEARN,HIGH_QUAL,It did a pretty good job on these first ten I do not see why it would change in the next 15,4,45730
+x,HIGH_QUAL,The model seems to be pretty good already at predictions.,6,20792
+WILL_LEARN,FEEDBACK,I think that the model will learn from the feedback it was given.,6,49454
+x,HIGH_QUAL,"it looks like a really good model, so I predict it's going to categorize a lot of emails correctly, like I'd guess 12 or 13 out of 15 will be correct.",4,27062
+WILL_NOT_LEARN,HIGH_QUAL,"Overall, I thought that the model did a good job of categorizing the emails, though there were a couple of errors. I think that the margin of error will be about the same.",4,10942
+COND_LEARN,FEEDBACK,"I think I got the emails right, so if it has taken my feedback into consideration, it should do a little better.",5,50558
+x,x,they are ok but not perfect.,4,44678
+x,HIGH_QUAL,It did pretty well as it was.,4,13727
+WILL_NOT_LEARN,MARGINAL_FEEDBACK,"With only a slightly larger sample size, I don't see how the model could improve or worsen.",4,34312
+WILL_LEARN,"HIGH_QUAL, MARGINAL_FEEDBACK","I think some of the words the model focused on weren't really good words to use as far as deciding whether text is talking about baseball or hockey, and the recommendations I gave were better than the ones that were highlighted in yellow, for the most part. The model's overall predictions, though, were decent. I think they got 7 out of 10 correct. So I feel that my feedback might help it make slightly better decisions about the text.",5,96888
+WILL_NOT_LEARN,HIGH_QUAL,"it did fairly well to begin with , only a couple mistakes. see no reason that would change.",4,79445
+WILL_LEARN,"MODEL_ADAPTS, FEEDBACK",Its learning and will get better with experience. Me giving it all the answers to the earlier emails will help it know what email belongs to which category,5,71022
+COND_LEARN,HIGH_QUAL,"As far as I could see there was only one mistake in the first ten.  I think if the model has been trained, it will continue to accurately predict.",6,84839
+x,HIGH_QUAL,It seems to be fairly accurate,5,10710
+WILL_LEARN,FEEDBACK,I believe I did a good job teaching it,5,57762
+x,HIGH_QUAL,The machine seems pretty smart in categorizing from what I have already seen.,4,91553
+WILL_LEARN,MODEL_ADAPTS,It will probably be a little better because the algorithm will make an adjustment.,5,62256
+x,"HIGH_QUAL, TRICKY_INPUT","Most of the predictions were correct, so it was pretty smart, a couple it took words that you couldn't really tell which it was though.",5,82996
+COND_LEARN,MODEL_ADAPTS,I think it did well in the first set so if it learns each time it does one correctly it should do a bit better now,5,98007
+WILL_LEARN,MARGINAL_FEEDBACK,I'm not sure the feedback I provided will improve or hurt the model in any way. It was pretty obvious for most of them.,4,51980
+COND_LEARN,FEEDBACK,it didn't seem to get more than half of the emails right in the beginning but if it really adjsuts to the clarifications made then it should be much better,7,89957
+WILL_LEARN,"HIGH_QUAL, MODEL_ADAPTS",I think it did a really good job before and it will gain experience in its algorithm,5,24374
+x,HIGH_QUAL,The model was already proving to be mostly accurate.,5,78819
+x,x,there are more emails so there is more room for error.,3,98712
+WILL_LEARN,MARGINAL_FEEDBACK,\nI'd say the model needs more training sets to improve accuracy.,4,83058
+x,HIGH_QUAL,I feel like the computer is very smart about what keywords are on the screen and how to analyze them into real world answers.,5,41245
+WILL_NOT_LEARN,HIGH_QUAL,seemed pretty accurate so i think it will prob stay the same,4,33329
+WILL_NOT_LEARN,HIGH_QUAL,I think it did a decent job to begin with so I feel it will do the same again,4,70712
+WILL_NOT_LEARN,x,"I feel that way because I don't have any reason to think that it's performance will improve, or get worse in the future, what would change in the situation, that would cause that? Was interacting with me supposed to improve its performance? Because if that was the case, that wasn't made clear to me.",4,69711
+WILL_LEARN,FEEDBACK,its now got feedback on what was right vs wrong and can adjust,5,53822
+WILL_NOT_LEARN,HIGH_QUAL,"I think it does well enough and there's no reason to think it'll perform any differently, even if the sample size is larger",4,80596
+WILL_LEARN,FEEDBACK,"I don't know how the model will perform on tougher tasks, but I think the information I have given it will help it and make it slightly more reliable.",5,25443
+WILL_LEARN,FEEDBACK,"Based on the highlighted words that where chosen on the incorrect answers, with the feedback I think the MI will ignore those words and choose different words that may be more correct to make it's decisions.",6,31460
+x,"HIGH_QUAL, NEEDS_FEEDBACK, TRICKY_INPUT","I think I could point out some of the ways it was wrong, but it was already pretty good and the ones it got wrong were pretty tough.",5,74132
+WILL_LEARN,"FEEDBACK, HIGH_QUAL","The model did a good job at interpreting the emails, some emails were wrong however. With input from the first test, I believe the model can go back and learn from what we did on here.",5,59408
+WILL_LEARN,FEEDBACK,I helped it tag emails as unknown,5,70917
+WILL_NOT_LEARN,HIGH_QUAL,it was pretty accurate so i expect that to continue,4,21859
+x,HIGH_QUAL,The model seemed pretty accurate already.,6,13559
+x,x,"I think the model looks for certain keywords relating to each sport, and can tell them apart better.",5,10121
+WILL_LEARN,FEEDBACK,I gave the model some terms that are clearly either hockey or baseball but not both.,5,82939
+WILL_LEARN,FEEDBACK,I think the words that I chose were better than the ones chosen last time,5,55759
+WILL_NOT_LEARN,HIGH_QUAL,It did pretty good in the first round; I see no reason for it to slip up now.,4,79688
+WILL_LEARN,MARGINAL_FEEDBACK,Because some of the feedback I gave wasn't very constructive since some emails didn't have any other identifying words for the given sport besides what the program already chose.,4,66288
+WILL_LEARN,FEEDBACK,"it will know more terms to consider when making its judgement, especially now that it knows it has made mistakes using its current system",6,97660
+x,TRICKY_INPUT,"I think it'll do it's best, but some emails are very vague.",4,63671
+WILL_LEARN,FEEDBACK,"Since it has some corrections, it should be able to predict better from here.",5,41274
+WILL_LEARN,MODEL_ADAPTS,I think that it will look at the emails it got wrong and will figure out why it was wrong.,5,87906
+WILL_LEARN,MARGINAL_FEEDBACK,I don't think there is enough new data in the dataset to improve the model.,4,55767
+COND_LEARN,"HIGH_QUAL, MODEL_ADAPTS",I think if it looks for certain common words that are different in each sport it will have an easier time figuring out the difference. it seemed to have a good grasp to start with.,6,82442
+x,x,"Depends on if it mentions homeruns, balls, pucks or outfield.",4,94041
+x,HIGH_QUAL,They were pretty accurate anyway,6,67316
+WILL_LEARN,FEEDBACK,It got improved from feedbacks,5,18948
+x,HIGH_QUAL,The model does very well for the most part. It just needs definite known terms for the sport which is being talked about.,4,75581
+WILL_LEARN,"FEEDBACK, HIGH_QUAL",Because with the feedback an almost perfect system should improve not do worse.,5,29815
+WILL_NOT_LEARN,"HIGH_QUAL, NEEDS_FEEDBACK",I think overall the model did decently on the first 10 but it did get some wrong that I think it should have got correct. I don't really see it doing any better or worse though.,4,59152
+WILL_NOT_LEARN,x,I have no reason to believe it'll get better or worse,4,23670
+x,HIGH_QUAL,The model did fairly well on the previous decisions,5,79124
+WILL_NOT_LEARN,HIGH_QUAL,"The model was pretty accurate, so  think the will do just as well",4,39869
+x,"HIGH_QUAL, NEEDS_FEEDBACK","Th model has been fairly accurate overall only making a handful of mistakes.  The one thing I hesitate about is the reasoning sometimes as it's seemed to have ""Gotten lucky"" more than once with non-sensical terms.",4,83700
+COND_LEARN,FEEDBACK,The model had trouble figuring out the e-mails if the information wasn't that obvious. But it was right for all of the easier ones that basically told you if it was hockey or baseball. So if it takes the feedback into account I think it will do a little better the second time.,5,69011
+WILL_NOT_LEARN,NEEDS_FEEDBACK,"as far as i can tell the model did a fair job, but certainly not a very good job.  obviously there were key terms that the model missed.  therefore, i wouldn't think the model would do better or worse in the second set of emails.",4,34391
+x,"HIGH_QUAL, TRICKY_INPUT","Getting eight of ten correct is already a pretty good score. The two answers that were missed involved emails that were very ambiguous. One of them, for example, discussed All-Star tickets but the sports was never made clear. The second incorrect guess contained a discussion on Todd Worrell, who I know to have been a former baseball player, but again, the sport -- or its teams -- were not mentioned in the email.",4,52674
+WILL_LEARN,FEEDBACK,"I feel that I taught it better words to discern by which, if any, sport is featured, in the e-mails.",6,29095
+WILL_LEARN,MARGINAL_FEEDBACK,"I think that the model has figured out the keywords that belong to each sport (team names, athletes, and coaches). I think that the data from the practice emails will improve their accuracy slightly.",5,30043

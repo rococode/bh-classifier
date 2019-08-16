@@ -1,0 +1,20 @@
+0.991051328237213 0.008948671762788981 0.982102656474424 True
+prediction: hockey for data\test\rec.sport.hockey-full\54753
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| buffalo   |    -8.09 |   -10.04 |    1.95 | **    |
+| bruins    |    -8.94 |   -10.04 |    1.1  | **    |
+| good      |    -8.25 |    -8.94 |    0.7  |       |
+| even      |    -8.43 |    -8.94 |    0.51 |       |
+| fans      |    -8.94 |    -9.35 |    0.41 |       |
+| point     |    -8.94 |    -9.35 |    0.41 |       |
+| im        |    -9.35 |    -8.94 |   -0.4  |       |
+| bs        |   -10.04 |   -10.04 |    0    |       |
+| convinced |   -10.04 |   -10.04 |    0    |       |
+| hes       |   -10.04 |   -10.04 |    0    |       |
+From: "William K. Willis" <ww1a+@andrew.cmu.edu>
+Subject: Re: Where are all the Bruins fans???
+
+Good point - there haven't even been any recent posts about Ulf! 
+Secretly, I'm convinced that he's responsible for the Bs being down 3-0
+to Buffalo, somehow.

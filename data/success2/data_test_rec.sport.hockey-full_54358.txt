@@ -1,0 +1,25 @@
+0.9395820871344607 0.060417912865557546 0.8791641742689031 True
+prediction: hockey for data\test\rec.sport.hockey-full\54358
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| b         |   -10.04 |    -7.96 |   -2.08 | **    |
+| final     |    -8.94 |   -10.04 |    1.1  | **    |
+| mvp       |    -8.94 |   -10.04 |    1.1  | **    |
+| problem   |    -8.94 |   -10.04 |    1.1  | **    |
+| scoring   |   -10.04 |    -9.35 |   -0.69 |       |
+| team      |    -8.09 |    -8.43 |    0.34 |       |
+| beaten    |   -10.04 |   -10.04 |    0    |       |
+| briza     |   -10.04 |   -10.04 |    0    |       |
+| canada    |   -10.04 |   -10.04 |    0    |       |
+| certainly |   -10.04 |   -10.04 |    0    |       |
+From: ketolain@messi.uku.fi (Jarkko Ketolainen)
+Subject: WC/Finland
+
+Disaster! Finland was beaten by Czech 1-3 (0-0,1-1,0-2).
+Finland will be 4th of pool B and will most certainly meet Canada in the
+quarter final on wednesday 28th. Lack of scoring skills has
+been the major problem of team Finland throughout the tournament.
+Briza (goalie)  was the MVP of  the Czech team and Tikkanen was the 
+MVP of the Finnish team. 
+
+Jarkko #14

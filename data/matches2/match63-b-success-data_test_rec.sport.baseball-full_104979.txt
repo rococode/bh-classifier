@@ -1,0 +1,24 @@
+0.02798588427214186 0.9720141157278702 0.9440282314557283 True
+prediction: baseball for data\test\rec.sport.baseball-full\104979
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| baseball  |    -8.66 |   -10.04 |    1.38 | **    |
+| hit       |    -8.94 |   -10.04 |    1.1  | **    |
+| single    |    -8.94 |   -10.04 |    1.1  | **    |
+| alone     |   -10.04 |    -9.35 |   -0.7  |       |
+| get       |    -8.66 |    -7.96 |   -0.7  |       |
+| horrible  |   -10.04 |    -9.35 |   -0.7  |       |
+| players   |   -10.04 |    -9.35 |   -0.7  |       |
+| run       |    -9.35 |   -10.04 |    0.69 |       |
+| something |    -9.35 |   -10.04 |    0.69 |       |
+| talking   |    -9.35 |   -10.04 |    0.69 |       |
+Subject: Yanks over A's George Speaks
+From: kwolfer@eagle.wesleyan.edu
+
+How about Matt Nokes 2 run single against Ron Darling.  Was that a hit or what?  
+While watching the game yesterday they flashed up something regarding The
+Boss' talking about Mark Connor as bullpen coach.  He said something like it's
+Mark Connor's fault that the bullpen is so horrible!!  Here we go again!! 
+George sticking his non-baseball nose in the baseball business.  Shut up
+George, just spend the money, get the players and leave Buck and the coaches
+and players alone.

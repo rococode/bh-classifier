@@ -1,0 +1,35 @@
+0.9999999789190499 2.1080987651612892e-08 0.9999999578380623 False
+prediction: hockey for data\test\rec.sport.baseball-full\104917
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| montreal |    -7.77 |   -10.03 |    2.26 | **    |
+| though   |    -8.13 |   -10.03 |    1.9  | **    |
+| would    |    -7.19 |    -8.93 |    1.75 | **    |
+| one      |    -7.59 |    -9.34 |    1.75 | **    |
+| back     |    -8.47 |   -10.03 |    1.57 | **    |
+| best     |    -8.47 |   -10.03 |    1.57 | **    |
+| game     |    -7.88 |    -9.34 |    1.46 | **    |
+| steve    |   -10.08 |    -8.65 |   -1.43 | **    |
+| two      |    -8.13 |    -9.34 |    1.21 | **    |
+| left     |   -10.08 |    -8.93 |   -1.14 | **    |
+From: m_klein@pavo.concordia.ca (CorelMARK!)
+Subject: Re: Best Homeruns
+
+I haven't been following the previous HR's.  But there are two, that I saw
+live that would have to be up there (up where? there!).  
+1) Rick Monday's HR to bury the Expos in the NL championship in 1981.
+It was hit off Steve Rogers, who is a RHP and primarily a starter.
+Why was he used as a reliever when the 'Spos had Reardon and BillLee
+warming up in the bullpen.  Considering Monday couldn't touch LHP,
+Lee would have been a safe bet.  He wasn't even doing any drugs at that
+time (or so he told me and around 50 others on a recent venture into 
+Montreal.  The blast wasn't the important aspect.  It was the timing.
+Seventh game, a tie game, and in the top of the 9th.  The Expos almost
+came back though...
+2) Mike Schmidt hit one that killed the Expos in 1980.  So close, yet, so
+far.
+and
+3) Strawberry killed a pitch on the second day of the season a couple of
+years ago.  It went off the technical ring in the Big O.  It almost left
+the stadium!  That was hit HARD!!!
+				CorelMARK! 

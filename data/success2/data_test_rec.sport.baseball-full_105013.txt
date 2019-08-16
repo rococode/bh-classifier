@@ -1,0 +1,38 @@
+0.12103610887011314 0.8789638911298943 0.7579277822597811 True
+prediction: baseball for data\test\rec.sport.baseball-full\105013
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| baseball |    -8.66 |   -10.04 |    1.38 | **    |
+| pitcher  |    -8.94 |   -10.04 |    1.1  | **    |
+| patrick  |   -10.04 |    -9.35 |   -0.7  |       |
+| players  |   -10.04 |    -9.35 |   -0.7  |       |
+| probably |   -10.04 |    -9.35 |   -0.7  |       |
+| school   |   -10.04 |    -9.35 |   -0.7  |       |
+| early    |    -8.66 |    -9.35 |    0.69 |       |
+| larry    |    -9.35 |   -10.04 |    0.69 |       |
+| obvious  |    -9.35 |   -10.04 |    0.69 |       |
+| wrote    |    -9.35 |   -10.04 |    0.69 |       |
+From: traven@pitt.edu (Neal Traven)
+Subject: Re: Jewish Baseball Players?
+
+ma_ind25@blurt.oswego.edu wrote:
+: I believe that Rusty Staub was also a jewish ball-player
+: Also, Mordaci Brown back in the early 20th century.  He was a pitcher whose
+: nickname was "3 fingers" Brown....for obvious reasons....he had 3 fingers.
+
+0 for 2, ma_ind25.
+
+Daniel Patrick Staub is a Catholic school kid from Nawlins, Mordecai
+Brown a farm kid (probably Protestant) from somewhere in the Midwest.
+He lost those fingers in a farm machinery accident.
+
+Jim Palmer isn't Jewish himself, but Mr. Jockey Shorts's adoptive 
+parents are.
+
+Also, I'm not absolutely certain that Carew actually converted.  His
+wife and children certainly are Jewish.
+
+--
+-----------------------------------------------------------------------------
+neal	traven+@pitt.edu	      You're only young once, but you can be
+	traven@vms.cis.pitt.edu	       immature forever.   -- Larry Andersen

@@ -1,0 +1,27 @@
+0.6904237884075752 0.30957621159242393 0.3808475768151513 False
+prediction: hockey for data\test\rec.sport.baseball-full\104910
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| good     |    -7.77 |    -9.34 |    1.57 | **    |
+| back     |    -8.47 |   -10.03 |    1.57 | **    |
+| still    |    -8.47 |   -10.03 |    1.57 | **    |
+| baseball |    -9.38 |    -7.95 |   -1.43 | **    |
+| players  |    -8.13 |    -9.34 |    1.21 | **    |
+| early    |   -10.08 |    -8.93 |   -1.14 | **    |
+| mark     |   -10.08 |    -8.93 |   -1.14 | **    |
+| hit      |   -10.08 |    -9.34 |   -0.74 |       |
+| inc      |   -10.08 |    -9.34 |   -0.74 |       |
+| sox      |   -10.08 |    -9.34 |   -0.74 |       |
+From: Eastgate@world.std.com (Mark Bernstein)
+Subject: Re: Jewish Baseball Players?
+
+Al Weiss played second for the White Sox in the early sixties, chiefly as
+back up to Don Buford. Good glove, no hit, some spunk.
+
+(Which reminds me: do they still serve Kosher hot dogs at the new Comiskey?)
+
+-- 
+Mark Bernstein
+Eastgate Systems, Inc.   134 Main Street   Watertown MA 02172 USA
+voice: (800) 562-1638 in USA   +1(617) 924-9044
+Eastgate@world.std.com    Compuserve: 76146,262    AppleLink:Eastgate 

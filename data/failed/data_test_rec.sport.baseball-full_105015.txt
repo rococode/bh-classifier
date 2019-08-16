@@ -1,0 +1,32 @@
+0.999664256713962 0.0003357432860256087 0.9993285134279364 False
+prediction: hockey for data\test\rec.sport.baseball-full\105015
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| im        |    -7.59 |    -8.93 |    1.34 | **    |
+| post      |    -8.69 |   -10.03 |    1.34 | **    |
+| two       |    -8.13 |    -9.34 |    1.21 | **    |
+| radio     |   -10.08 |    -8.93 |   -1.14 | **    |
+| sure      |    -7.88 |    -8.93 |    1.06 | **    |
+| four      |    -8.98 |   -10.03 |    1.06 | **    |
+| la        |    -8.98 |   -10.03 |    1.06 | **    |
+| way       |    -8.28 |    -9.34 |    1.06 | **    |
+| following |   -10.08 |    -9.34 |   -0.74 |       |
+| hit       |   -10.08 |    -9.34 |   -0.74 |       |
+From: genzuk@mizar.usc.edu (Michael Genzuk)
+Subject: Info on J.T. Snow
+
+I'm sure all of you have heard of the extraordiary start by  rookie
+J.T. Snow of the California Angeles.  Other than the fact that his
+father was a star receiver with the L.A. Rams and is now a radio
+personality in Los Angeles and J.T. came from the Yankees organization
+I don't know much about J.T.  If anyone has info and background on 
+the young fenom....please post.
+
+By the way, for those of you not following his exploits he has hit
+four home runs in three days.  Two last night.  He has also delivered
+the winning hit a couple of times for the Angeles in this young season.
+
+Thanks...
+
+Michael from USC
+

@@ -1,0 +1,28 @@
+0.9747302533245298 0.025269746675466453 0.9494605066490633 False
+prediction: hockey for data\test\rec.sport.baseball-full\104914
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| h      |   -10.04 |    -8.43 |   -1.61 | **    |
+| john   |   -10.04 |    -8.94 |   -1.1  | **    |
+| email  |    -9.35 |   -10.04 |    0.7  |       |
+| j      |    -9.35 |   -10.04 |    0.7  |       |
+| list   |    -9.35 |   -10.04 |    0.7  |       |
+| please |    -9.35 |   -10.04 |    0.7  |       |
+| read   |    -9.35 |   -10.04 |    0.7  |       |
+| know   |    -8.94 |    -8.25 |   -0.69 |       |
+| royals |   -10.04 |    -9.35 |   -0.69 |       |
+| time   |    -8.94 |    -8.25 |   -0.69 |       |
+From: John_Carson@mindlink.bc.ca (John Carson)
+Subject: Kansas City e-mail contact
+
+Would the person who is running the e-mail list for KANSAS CITY Royals please
+e-mail details regarding mailing list. If you on the list and know the info
+please send me info as well.
+
+Please e-mail as I don't have time always to read this group
+
+John
+--
+>>>>>>>>>>>>>>>>>>> John_Carson@MINDLINK.BC.CA <<<<<<<<<<<<<<<<<<<<<
+>>        D.John Carson    J & H Concepts   (604)589-5118         <<
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<

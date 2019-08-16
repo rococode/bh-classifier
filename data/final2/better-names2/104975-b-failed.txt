@@ -1,0 +1,37 @@
+0.9750678943210864 0.024932105678948328 0.9501357886421381 False
+prediction: hockey for data\test\rec.sport.baseball-full\104975
+| word         |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------------|----------|----------|---------|-------|
+| philadelphia |    -7.96 |   -10.04 |    2.08 | **    |
+| phillies     |   -10.04 |    -8.1  |   -1.94 | **    |
+| classic      |    -8.94 |   -10.04 |    1.1  | **    |
+| coming       |   -10.04 |    -8.94 |   -1.1  | **    |
+| teams        |   -10.04 |    -8.94 |   -1.1  | **    |
+| good         |    -8.25 |    -8.94 |    0.7  |       |
+| home         |    -9.35 |   -10.04 |    0.7  |       |
+| list         |    -9.35 |   -10.04 |    0.7  |       |
+| professional |    -9.35 |   -10.04 |    0.7  |       |
+| games        |    -8.94 |    -9.35 |    0.41 |       |
+From: philly@ravel.udel.edu (Robert C Hite)
+Subject: Re: Professional Sports on FM Radio
+
+In article <1993Apr23.123208.1@tesla.njit.edu> slutsky@tesla.njit.edu writes:
+>I am curious to known if there are any professional sports teams whose
+>games are regularly broadcast on an FM station.  The only one I am
+>aware of is WYSP in Philadelphia who carries the Eagles' games.
+>
+>If you respond to me I will summarize for the list.
+>
+
+WIP is the REAL home of the Eagles.  Merril Reese and the Birds on
+FM radio...what a joke.
+
+A "classic rock" station at that!  Whats the sports world coming to?
+
+    
+
+-- 
+When I think of a good .signature, 
+It will be right about here!
+UNTIL THEN, this stupid message will
+have to do.  GO PHILLIES!!!

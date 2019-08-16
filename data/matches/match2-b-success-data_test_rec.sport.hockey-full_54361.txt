@@ -1,0 +1,56 @@
+0.9999999999988631 1.0486651560420081e-12 0.9999999999978144 True
+prediction: hockey for data\test\rec.sport.hockey-full\54361
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| go        |    -7.3  |   -10.03 |    2.73 | **    |
+| playoffs  |    -7.88 |   -10.03 |    2.15 | **    |
+| wings     |    -7.88 |   -10.03 |    2.15 | **    |
+| playoff   |    -8.28 |   -10.03 |    1.75 | **    |
+| calgary   |    -8.47 |   -10.03 |    1.57 | **    |
+| dave      |   -10.08 |    -8.65 |   -1.43 | **    |
+| flames    |    -8.69 |   -10.03 |    1.34 | **    |
+| sanderson |    -8.69 |   -10.03 |    1.34 | **    |
+| smythe    |    -8.69 |   -10.03 |    1.34 | **    |
+| chris     |   -10.08 |    -8.93 |   -1.14 | **    |
+From: nlu@Xenon.Stanford.EDU (Nelson Lu)
+Subject: Possible Canadian WC Team?
+
+This is an all-point team for the Canadian NHLers who are not playoff bound...
+
+GOALIES
+Bill Ranford, Edmonton
+Sean Burke, Hartford
+Peter Sidorkiewicz, Ottawa
+
+DEFENSEMEN
+Zarley Zalapski, Hartford
+Norm MacIver, Ottawa
+Garry Galley, Philadelphia
+Greg Hawgood, Philadelphia
+Dave Manson, Edmonton
+Mark Tinordi, Minnesota
+
+CENTERS
+Mark Messier, N. Y. Rangers
+Geoff Sanderson, Hartford
+Brian Bradley, Tampa Bay
+Rod Brind'Amour, Philadelphia
+
+LEFT WINGS
+Adam Graves, N. Y. Rangers
+Chris Kontos, Tampa Bay
+Patrick Poulin, Hartford
+Shayne Corson, Edmonton
+
+RIGHT WINGS
+Pat Verbeek, Hartford
+Russ Courtnall, Minnesota
+Mike Gartner, N. Y. Rangers
+Kevin Dineen, Philadelphia
+
+===============================================================================
+GO CALGARY FLAMES!  Al MacInnis for Norris!  Gary Roberts for Hart and Smythe!
+GO EDMONTON OILERS!  Go for playoffs next year!  Stay in Edmonton!
+===============================================================================
+Nelson Lu (claudius@leland.stanford.edu)
+rec.sport.hockey contact for the San Jose Sharks

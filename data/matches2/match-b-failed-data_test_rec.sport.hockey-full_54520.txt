@@ -1,0 +1,41 @@
+6.31342759917303e-05 0.9999368657239612 0.9998737314479695 False
+prediction: baseball for data\test\rec.sport.hockey-full\54520
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| wings  |   -10.04 |    -7.96 |   -2.08 | **    |
+| got    |    -8.25 |   -10.04 |    1.79 | **    |
+| career |    -8.43 |   -10.04 |    1.61 | **    |
+| played |   -10.04 |    -8.65 |   -1.39 | **    |
+| ago    |    -8.94 |   -10.04 |    1.1  | **    |
+| came   |    -8.94 |   -10.04 |    1.1  | **    |
+| player |    -8.94 |   -10.04 |    1.1  | **    |
+| popped |    -8.94 |   -10.04 |    1.1  | **    |
+| years  |    -8.43 |    -9.35 |    0.91 |       |
+| good   |    -8.94 |    -8.25 |   -0.7  |       |
+Subject: Re: SHARKS REVIEW Part 5: Left Wings
+From: caldwell8102@mtroyal.ab.ca
+
+In article <1r4jsk$24v@apple.com>, chuq@apple.com (Chuq Von Rospach) writes:
+> paul@fugu.Data-IO.COM (Paul Brownlow) writes:
+> 
+>>Wood played most of his junior career in Seattle.  He was one
+>>of the leading scorers on a mediocre team when he was traded away in
+>>1992.  He rarely lost a fight and was one of the toughest players in
+>>the WHL.
+> 
+> Wood is fairly small for an enforcer-type. I mean, Fleury does a pretty good
+> job and isn't that large, but Dody is no Fleury. 
+
+And Fleury is no enforcer. An agitator for sure, but Fleury never has and never
+will have a fight, which seems to be what you're saying Wood is. 
+
+The closest Fleury ever came to fighting was a game two years ago against
+Los Angeles. There was a scrum and McSorley pinched Fleury's head under his
+arm. Fleury dropped his gloves and gave McSorley a weak shot to the side of the
+head. McSorely, knowing a good thing when he saw one, popped Fleury one right
+between the eyes. End of fight. Fleury got ten stitches for his trouble.
+
+The only player I can ever see Theo fighting is Cliff Ronning, and even then
+he'd be giving up two inches and 10-15 pounds. :-)
+
+								Alan

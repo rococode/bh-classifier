@@ -1,0 +1,28 @@
+0.9999999999901661 9.815944485947301e-12 0.9999999999803502 True
+prediction: hockey for data\test\rec.sport.hockey-full\54297
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| hockey |    -7.13 |   -10.03 |    2.9  | **    |
+| go     |    -7.3  |   -10.03 |    2.73 | **    |
+| hawks  |    -8.13 |   -10.03 |    1.9  | **    |
+| get    |    -7.77 |    -9.34 |    1.57 | **    |
+| cant   |    -8.47 |   -10.03 |    1.57 | **    |
+| game   |    -7.88 |    -9.34 |    1.46 | **    |
+| ny     |    -8.69 |   -10.03 |    1.34 | **    |
+| play   |    -8.13 |    -9.34 |    1.21 | **    |
+| see    |    -8.13 |    -9.34 |    1.21 | **    |
+| else   |    -8.98 |   -10.03 |    1.06 | **    |
+From: RRHAMMER@vm.cmp.ilstu.edu
+Subject: Pierre Turgeon a stud!
+
+Being a a BLUES fan I don't get to see much else from around the league
+with the exception of Hockey Night on ESPN.  I can't get the BLUES games
+where I go to school, thus I don't get to see a whole lot of other teams
+play except for the Hawks.  But last night I got to catch a glimpse of
+the Caps/Isles game.  It occurred to me that Turgeon is a stud on skates.
+His moves are quick and brilliant.  You NY fans should be proud.
+P.S. Who won the game (Caps/Isles)?
+ 
+Peace,
+Hammer
+ 

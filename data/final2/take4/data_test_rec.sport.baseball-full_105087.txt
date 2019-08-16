@@ -1,0 +1,39 @@
+7.217556204918658e-07 0.9999992782443645 0.999998556488744 True
+prediction: baseball for data\test\rec.sport.baseball-full\105087
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| pitch   |    -8.1  |   -10.04 |    1.94 | **    |
+| got     |    -8.25 |   -10.04 |    1.79 | **    |
+| much    |    -8.66 |   -10.04 |    1.38 | **    |
+| another |   -10.04 |    -8.94 |   -1.1  | **    |
+| bring   |    -8.94 |   -10.04 |    1.1  | **    |
+| changed |    -8.94 |   -10.04 |    1.1  | **    |
+| e       |    -8.94 |   -10.04 |    1.1  | **    |
+| hit     |    -8.94 |   -10.04 |    1.1  | **    |
+| look    |    -8.94 |   -10.04 |    1.1  | **    |
+| pitcher |    -8.94 |   -10.04 |    1.1  | **    |
+From: fls@keynes.econ.duke.edu (Forrest Smith)
+Subject: Braves "Stoppers"
+
+
+	The term "stopper" is generally used to refer to a pitcher, one
+who can be counted on to pitch a strong game to keep his team from going
+on a losing streak.
+
+	The Braves have plenty of pitchers to fit this description,
+although right now I'd expect Smoltz or Glavine to take the mantle.
+
+	What the Braves lack, however, is an offensive stopper,
+somebody they can look to to bring them out of their hitting slump.
+There's just no one there.  The Braves got rid of their best pure
+hitter, Lonnie Smith, and only Terry Pendleton on the current roster
+has ever shown more than a cursory ability to hit.	
+
+	Oh, and another thing that worries me.  Ron Gant seems to have
+slowed down a step.  That's scary.  A slow Ron Gant doesn't have much going
+for him.
+-- 
+@econ.duke.edu     fls@econ.duke.edu     fls@econ.duke.edu    fls@econ.duke.
+s  To my correspondents:  My email has been changed.                       e
+l                         My new address is:  fls@econ.duke.edu            d
+f            If mail bounces, try fls@raphael.acpub.duke.edu               u

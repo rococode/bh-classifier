@@ -1,0 +1,35 @@
+0.999999999992724 7.272181177760971e-12 0.9999999999854519 True
+prediction: hockey for data\test\rec.sport.hockey-full\54246
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| boston  |    -8    |   -10.03 |    2.04 | **    |
+| one     |    -7.59 |    -9.34 |    1.75 | **    |
+| people  |   -10.08 |    -8.42 |   -1.65 | **    |
+| good    |    -7.77 |    -9.34 |    1.57 | **    |
+| still   |    -8.47 |   -10.03 |    1.57 | **    |
+| game    |    -7.88 |    -9.34 |    1.46 | **    |
+| win     |    -7.88 |    -9.34 |    1.46 | **    |
+| lose    |    -8.69 |   -10.03 |    1.34 | **    |
+| buffalo |    -8.98 |   -10.03 |    1.06 | **    |
+| espn    |    -8.98 |   -10.03 |    1.06 | **    |
+From: randolin@polisci.umn.edu (Robert Andolina)
+Subject: Sabres-Bruins
+
+Buffalo fans:
+
+Some people in the discussion group, as well as "commentator Al" on ESPN, 
+believe that game 3 is critical for the Sabres.  HELLOOOO!!!!! The Sabres 
+are AHEAD 2 games to 0, not behind.  As a life-long Sabres fan, I am well 
+aware of their ability to choke, but let's not exaggerate that.  As long as 
+the Sabres win one of the next 2 games (be it game 3 OR game 4), they are 
+still in good shape (ahead 3 games to 1), with game 6 to be played at 
+Buffalo.  If they lose games three AND four, then start worrying.  Game 3 is 
+critical for Boston, not Buffalo.
+
+
+
+Rob Andolina
+randolin@polisci.umn.edu
+
+
+

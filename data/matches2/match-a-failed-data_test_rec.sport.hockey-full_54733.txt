@@ -1,0 +1,37 @@
+0.33740740904181077 0.6625925909582304 0.32518518191641965 False
+prediction: baseball for data\test\rec.sport.hockey-full\54733
+| word   |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| nhl    |   -10.04 |    -8.25 |   -1.79 | **    |
+| many   |    -8.94 |   -10.04 |    1.1  | **    |
+| roger  |    -8.94 |   -10.04 |    1.1  | **    |
+| agree  |   -10.04 |    -9.35 |   -0.7  |       |
+| list   |   -10.04 |    -9.35 |   -0.7  |       |
+| may    |    -9.35 |    -8.65 |   -0.7  |       |
+| name   |   -10.04 |    -9.35 |   -0.7  |       |
+| net    |   -10.04 |    -9.35 |   -0.7  |       |
+| post   |   -10.04 |    -9.35 |   -0.7  |       |
+| share  |   -10.04 |    -9.35 |   -0.7  |       |
+From: maynard@ramsey.cs.laurentian.ca (Roger Maynard)
+Subject: Re: NHL LETTER & Roger's Response
+
+In <1993Apr26.054703.29827@sol.ctr.columbia.edu> phoenix@startide.ctr.columbia.edu (Ali Lemer) writes:
+
+>Gee, what a coincidence. He doesn't share my views. Perhaps that's why his
+>name is not on the list to accompany the letter! Maybe I should write a 
+>disclaimer at the end: "Mr. Bettman, nota bene: Roger Maynard does NOT
+>agree with this letter!" I know he'd be so worried, otherwise!
+
+You wouldn't have to put my name at the bottom if you simply appended a 
+standard disclaimer that the opinions expressed in your petition in no
+way claim to represent the views of either rec.sport.hockey or the internet
+as a whole.  You have surely seen these disclaimers appended to the postings
+of many who work for companies and post on the net.  The disclaimers, clever
+though some of them may be, are there for a reason.
+
+ 
+-- 
+
+cordially, as always,                      maynard@ramsey.cs.laurentian.ca 
+                                           "So many morons...
+rm                                                 ...and so little time." 

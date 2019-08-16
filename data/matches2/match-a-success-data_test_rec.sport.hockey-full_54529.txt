@@ -1,0 +1,31 @@
+0.9960895313000755 0.00391046869990101 0.9921790626001745 True
+prediction: hockey for data\test\rec.sport.hockey-full\54529
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| leafs   |    -7.96 |   -10.04 |    2.08 | **    |
+| power   |    -8.09 |   -10.04 |    1.95 | **    |
+| habs    |    -8.65 |   -10.04 |    1.39 | **    |
+| really  |   -10.04 |    -8.66 |   -1.38 | **    |
+| late    |   -10.04 |    -8.94 |   -1.1  | **    |
+| roger   |   -10.04 |    -8.94 |   -1.1  | **    |
+| best    |    -9.35 |   -10.04 |    0.7  |       |
+| decided |    -9.35 |   -10.04 |    0.7  |       |
+| get     |    -7.96 |    -8.66 |    0.7  |       |
+| hockey  |    -9.35 |   -10.04 |    0.7  |       |
+From: mre@teal.Eng.Sun.COM (Mike Eisler)
+Subject: Re: Habs Late
+
+In article <1993Apr21.165801.10243@newshub.ists.ca> dchhabra@stpl.ists.ca (Deepak Chhabra) writes:
+>Vincent Damphousse has decided to take a vacation, apparently.  I have
+
+My respect for the power of the hockey gods is preventing me from
+commenting on the above, and for commenting on whether the guy
+Damphousse was traded for is on vacation or not. Perhaps Roger
+(demonstrably in contempt of the hockey gods and paying for it) dares a
+comment or two?
+-- 
+Mike Eisler, mre@Eng.Sun.Com  ``Not only are they [Leafs] the best team, but
+ their fans are even more intelligent and insightful than Pittsburgh's.  Their
+ players are mighty bright, too.  I mean, he really *was* going to get his
+ wallet back, right?'' Jan Brittenson 3/93, on Leaf/Pen woofers in
+ rec.sport.hockey

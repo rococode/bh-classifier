@@ -1,0 +1,33 @@
+0.06965231447710445 0.9303476855228913 0.8606953710457869 True
+prediction: baseball for data\test\rec.sport.baseball-full\105102
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| rangers |   -10.04 |    -7.96 |   -2.08 | **    |
+| today   |    -8.43 |   -10.04 |    1.61 | **    |
+| tonight |   -10.04 |    -8.94 |   -1.1  | **    |
+| came    |    -8.94 |   -10.04 |    1.1  | **    |
+| come    |   -10.04 |    -9.35 |   -0.7  |       |
+| get     |    -8.66 |    -7.96 |   -0.7  |       |
+| due     |    -9.35 |   -10.04 |    0.69 |       |
+| happens |    -9.35 |   -10.04 |    0.69 |       |
+| kent    |    -9.35 |   -10.04 |    0.69 |       |
+| people  |    -9.35 |   -10.04 |    0.69 |       |
+From: sepinwal@mail.sas.upenn.edu (Alan Sepinwall)
+Subject: Re: When Is Melido Due Back?
+
+
+Melido came off the DL today and will start tonight against the Rangers.
+(Now, if only he can go the distance so that the bullpen doesn't have to
+come in.....)
+
+--I'm outta here like Vladimir!
+-Alan Sepinwall
+
+===========================================================================
+| "What's this?  This is ice.  This is what happens to water when it gets |
+|  too cold.  This?  This is Kent.  This is what happens to people when   |
+|  they get too sexually frustrated."                                     |
+|               -Val Kilmer, "Real Genius"                                |
+===========================================================================
+
+

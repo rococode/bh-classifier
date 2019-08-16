@@ -1,0 +1,25 @@
+0.9999846907407796 1.530925919796295e-05 0.9999693814815815 False
+prediction: hockey for data\test\rec.sport.baseball-full\105057
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| come      |    -8    |   -10.03 |    2.04 | **    |
+| back      |    -8.47 |   -10.03 |    1.57 | **    |
+| la        |    -8.98 |   -10.03 |    1.06 | **    |
+| time      |    -7.68 |    -8.65 |    0.97 |       |
+| article   |    -8.98 |    -8.09 |   -0.89 |       |
+| like      |    -7.88 |    -8.65 |    0.77 |       |
+| ball      |   -10.08 |    -9.34 |   -0.74 |       |
+| set       |   -10.08 |    -9.34 |   -0.74 |       |
+| update    |   -10.08 |    -9.34 |   -0.74 |       |
+| according |    -9.38 |   -10.03 |    0.65 |       |
+From: pcaster@mizar.usc.edu (Dodger)
+Subject: Todd Worrell Update
+
+According to an article in the LA Times, Todd Worrell will not
+be ready to come off the DL list Friday.  It sounds like
+he has had another set back in his come back.  At present,
+he has stopped throwing the ball.  Supposedly, he had
+no velocity.  It doesn't sound like there is any particular
+time table at this point for when he will be back.
+ 
+Dodger

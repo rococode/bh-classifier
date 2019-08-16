@@ -1,0 +1,53 @@
+0.0006190273875337263 0.9993809726125671 0.9987619452250334 False
+prediction: baseball for data\test\rec.sport.hockey-full\54233
+| word        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| b           |    -7.96 |   -10.04 |    2.08 | **    |
+| better      |    -8.25 |   -10.04 |    1.79 | **    |
+| playoff     |   -10.04 |    -8.43 |   -1.61 | **    |
+| line        |    -8.66 |   -10.04 |    1.38 | **    |
+| goal        |   -10.04 |    -8.94 |   -1.1  | **    |
+| e           |    -8.94 |   -10.04 |    1.1  | **    |
+| shutout     |    -8.94 |   -10.04 |    1.1  | **    |
+| play        |    -8.66 |    -7.84 |   -0.81 |       |
+| hawks       |   -10.04 |    -9.35 |   -0.7  |       |
+| spectacular |   -10.04 |    -9.35 |   -0.7  |       |
+From: jca2@cec1.wustl.edu (Joseph Charles Achkar)
+Subject: They're real and they're spectacular
+
+"They're real and they're spectacular", the Blues shutout the Blackhawks in
+consecutive playoff games. 
+
+If the Blues sweep the Hawks on Sunday, I will launch a broom onto the ice
+in the last seconds of the game. "Not that there's anything wrong with that."
+
+Curtis Joseph has been the "master of his own domain", and the Hawks have
+been shooting the puck like a bunch of "chuckers". Not even "Superman" could
+play any better in goal. Joseph must have been eating his "cereal."
+
+"It's like a sauna in here" said a spectator about the hot atmosphere and
+the wild crowd at the Arena.
+
+It was "very refreshing" to see the Blues "double-dip" the Hawks.
+
+The Hawks goons tried to "pick" on Hull, Janney, and Joseph but the Blues
+checking line "nipped" those Hawks real well.
+
+The fat "Yoyoma" will sing on Sunday, and the Hawks will head to the "beach".
+The Hawks' trip back to Chicago will feel like a long "journey from Milan
+to Minsk"
+
+Enjoy Sunday's game with some Junior Mints and wash them down with a Snapple.
+
+Just a little fun.
+
+  %*%*%*%**%*%%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*
+  *   __  ______________         ____________________________________    % 
+  %   \ \_)____________/         A L L E Z   L E S   B L U E S  ! ! !    * 
+  *    \    __________/          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    % 
+  %     \    ________/                                                   *
+  *      \   _______/                  Joe Ashkar                        % 
+  %       \  \                         Contact for the Blues             *
+  *        \  \  SAINT LOUIS           jca2@cec1.wustl.edu               % 
+  %        (___)             BLUES                                       * 
+  *%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*%*% 
