@@ -13,14 +13,9 @@ import java.util.*;
 //import org.python.core.PyObject;
 //import org.python.util.PythonInterpreter;
 
-public class InstanceAndFeatureFeedbackIncorporater {
+// You probably won't need to worry about this class, as you can also add instance-level feedback in FeatureFeedbackIncorporator
 
-//    private static void safePut(Map<String, List<String>> map, String key, String value) {
-//        if (!map.containsKey(key)) {
-//            map.put(key, new ArrayList<String>());
-//        }
-//        map.get(key).add(value);
-//    }
+public class InstanceAndFeatureFeedbackIncorporater {
 
     private static String url;
     private static Properties props;

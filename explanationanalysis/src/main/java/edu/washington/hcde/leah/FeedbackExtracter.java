@@ -54,9 +54,9 @@ public class FeedbackExtracter {
         safePut3(modelHL, "54260-h-success.txt", Arrays.asList("gilmour", "slightly", "think"));
         safePut3(modelHL, "104910-b-success.txt", Arrays.asList("sox", "white", "played"));
         safePut3(modelHL, "105144-b-success.txt", Arrays.asList("phillies", "phils", "anyone"));
-        safePut3(modelHL, "104936-b-success.txt", Arrays.asList("1st", "baseball", "league"));  // changed "st" to "1st" for processing
-        safePut3(modelHL, "104942-b-success.txt", Arrays.asList("b9", "winner", "baseball"));  //changed "b" to "b9" for processing
-        safePut3(modelHL, "104944-b-failed.txt", Arrays.asList("anyone", "appreciated", "e-mail"));  // changed "email" to "e-mail" for processing
+        safePut3(modelHL, "104936-b-success.txt", Arrays.asList("st", "baseball", "league"));  // "st" trimmed from "1st"
+        safePut3(modelHL, "104942-b-success.txt", Arrays.asList("b", "winner", "baseball"));  // "b" trimmed from "b9"
+        safePut3(modelHL, "104944-b-failed.txt", Arrays.asList("anyone", "appreciated", "email"));  // "email" trimmed from "e-mail"
         safePut3(modelHL, "104947-b-failed.txt", Arrays.asList("cup", "really", "vs"));
         safePut3(modelHL, "105015-b-success.txt", Arrays.asList("three", "much", "anyone"));
         safePut3(modelHL, "105058-b-success.txt", Arrays.asList("baseball", "bb", "single"));
@@ -107,7 +107,7 @@ public class FeedbackExtracter {
 
     public static void compareNoFeedback() {
 
-        String query = "select a.condition as condition, b.id as id, b.email as email, b.feedbackus as confidence, b.real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is true and a.created > '2019-08-12 00:00:00' and (a.condition = '_explain' or a.condition = '') and b.mode = 'train';";
+        String query = "select a.condition as condition, b.id as id, b.email as email, b.feedbackus as confidence, b.real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00' and (a.condition = '_explain' or a.condition = '') and b.mode = 'train';";
 
         try (PrintWriter writer = new PrintWriter(new File("compare_no_feedback.csv"))) {
 
@@ -169,13 +169,15 @@ public class FeedbackExtracter {
                             else if (email_name.contains("b") && email_name.contains("success")) displayed_label = "baseball";
                             else displayed_label = "hockey"; // (email_name.contains("b") && email_name.contains("failed"))
 
+                            sb.append("model_" + email.getValue() + ",");
+
                             String user_thought;
 
                             if (feedbackus.equals("unsure")) user_thought = feedbackus;
                             else if (feedbackus.equals(displayed_label)) user_thought = "correct";
                             else user_thought = "incorrect"; // (!feedbackus.equals(displayed_label))
 
-                            sb.append("thought_" + user_thought + ","); // User_Thought c/i/u
+                            sb.append("thought_" + user_thought); // User_Thought c/i/u
 
                             if (user_thought.equals("unsure")) {
                                 count_unsure++;
@@ -193,7 +195,6 @@ public class FeedbackExtracter {
                                 else thought_incorrect_model_incorrect++;
                             }
 
-                            sb.append("model_" + email.getValue());
                             sb.append("\n");
                             writer.write(sb.toString());
                         }
@@ -218,7 +219,7 @@ public class FeedbackExtracter {
 
     public static void compareInstance() {
 
-        String query = "select a.condition as condition, b.id as id, b.email as email, b.feedbackus as confidence, b.instance as feedback, b.real as real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is true and a.created > '2019-08-12 00:00:00' and (a.condition = '_instance' or a.condition = '_instance_explain') and b.mode = 'train';";
+        String query = "select a.condition as condition, b.id as id, b.email as email, b.feedbackus as confidence, b.instance as feedback, b.real as real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00' and (a.condition = '_instance' or a.condition = '_instance_explain') and b.mode = 'train';";
 
         try (PrintWriter writer = new PrintWriter(new File("compare_instance.csv"))) {
 
@@ -357,7 +358,7 @@ public class FeedbackExtracter {
 
     public static void compareFeature() {
 
-        String query = "select a.condition as condition, b.id as id, b.email as email, b.chosen as chosen, b.feedbackus as confidence, b.instance as instance from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is true and a.created > '2019-08-12 00:00:00' and (a.condition = '_feature' or a.condition = '_feature_explain') and b.mode = 'train' and (a.id = '7a7e0083-4f9c-40a9-9eb7-f34a1726de7a' or a.id = '478dbbbc-a154-4014-a154-6492f0e40fa2' or a.id = '0ce18d0a-6c6b-415b-bcc2-884b0235f7c1');";
+        String query = "select a.condition as condition, b.id as id, b.email as email, b.chosen as chosen, b.feedbackus as confidence, b.instance as instance from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00' and (a.condition = '_feature' or a.condition = '_feature_explain') and b.mode = 'train';";
 
         try (PrintWriter writer = new PrintWriter(new File("compare_feature.csv"))) {
 

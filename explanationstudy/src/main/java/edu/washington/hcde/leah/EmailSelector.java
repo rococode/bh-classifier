@@ -9,9 +9,10 @@ import java.util.List;
 
 public class EmailSelector {
 
+    // used to select emails included in study 2
     public static void main(String[] args) {
 
-        selectTrainEmails();  // selects 20
+//        selectTrainEmails();  // selects training emails
 
 //        selectTestEmails();  // selects 2 out of the 20 -- SAME
 
@@ -20,7 +21,7 @@ public class EmailSelector {
     }
 
     public static void selectMatches() {
-        File match_set = new File("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data\\matches3");
+        File match_set = new File("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data\\matches2");
         File[] files = match_set.listFiles();
 
         List<String> m_success = new ArrayList<>();

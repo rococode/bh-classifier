@@ -1,5 +1,10 @@
 package edu.washington.hcde.leah;
 
+import com.sun.org.glassfish.external.statistics.TimeStatistic;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
 import java.sql.*;
 import java.util.*;
 import java.util.function.BiConsumer;
@@ -41,48 +46,113 @@ public class DBManager {
         map.put(key, value);
     }
 
-    public static void parseOpenQ() {
+    public static void parseSpecificOpenQ() {
+        try (PrintWriter writer = new PrintWriter(new File("openq_perf_why.csv"))) {
 //        String query = "select * from exp_demographics as a inner join exp_openq as b on a.id = b.id where a.pilot is not true;";
-        String query = "select a.condition, b.how_decide, c.accuracy_standard_why, c.frustration_why, c.trust_why, c.recommend_why, c.feedback_importance_why, c.overall, d.learn_why, d.perf_why from exp_demographics as a inner join exp_openq1 as b on a.id = b.id inner join exp_openq2 as c on b.id = c.id inner join exp_openq3 as d on c.id = d.id where a.pilot is true;";
-        try (Connection conn = DriverManager.getConnection(url, props)) {
-            PreparedStatement stmt = conn.prepareStatement(query);
-            log.info("Executing " + stmt.toString());
-            ResultSet rs = stmt.executeQuery();
-            Map<String, Map<String, List<String>>> answers = new HashMap<>();
-            while (rs.next()) {
-                String condition = rs.getString("condition");
-                if (!answers.containsKey(condition)) {
-                    answers.put(condition, new HashMap<String, List<String>>());
+            String query = "select a.condition, a.id, b.how_decide, c.accuracy_standard_why, c.frustration_why, c.trust_why, c.recommend_why, c.feedback_importance_why, c.overall, d.learn_why, d.perf_why from exp_demographics as a inner join exp_openq1 as b on a.id = b.id inner join exp_openq2 as c on b.id = c.id inner join exp_openq3 as d on c.id = d.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00';";
+            try (Connection conn = DriverManager.getConnection(url, props)) {
+                PreparedStatement stmt = conn.prepareStatement(query);
+                log.info("Executing " + stmt.toString());
+                ResultSet rs = stmt.executeQuery();
+                Map<String, Map<String, List<String>>> answers = new HashMap<>(); // condition -> user id -> response
+                while (rs.next()) {
+                    String condition = rs.getString("condition");
+                    if (!answers.containsKey(condition)) {
+                        answers.put(condition, new HashMap<String, List<String>>());
+                    }
+                    Map<String, List<String>> map = answers.get(condition);
+//                    safePut(map, rs.getString("id"), rs.getString("how_decide"));
+//                    safePut(map, rs.getString("id"), rs.getString("accuracy_standard_why"));
+//                    safePut(map, rs.getString("id"), rs.getString("frustration_why"));
+//                    safePut(map, rs.getString("id"), rs.getString("trust_why"));
+//                    safePut(map, rs.getString("id"), rs.getString("recommend_why"));
+//                    safePut(map, rs.getString("id"), rs.getString("feedback_importance_why"));
+//                    safePut(map, rs.getString("id"), rs.getString("overall"));
+//                    safePut(map, rs.getString("id"), rs.getString("learn_why"));
+                    safePut(map, rs.getString("id"), rs.getString("perf_why"));
                 }
-                Map<String, List<String>> map = answers.get(condition);
-                safePut(map, "how_decide", rs.getString("how_decide"));
-                safePut(map, "accuracy_standard_why", rs.getString("accuracy_standard_why"));
-                safePut(map, "frustration_why", rs.getString("frustration_why"));
-                safePut(map, "trust_why", rs.getString("trust_why"));
-                safePut(map, "recommend_why", rs.getString("recommend_why"));
-                safePut(map, "feedback_importance_why", rs.getString("feedback_importance_why"));
-                safePut(map, "overall", rs.getString("overall"));
-                safePut(map, "learn_why", rs.getString("learn_why"));
-                safePut(map, "perf_why", rs.getString("perf_why"));
-            }
-            for (Map.Entry<String, Map<String, List<String>>> entry : answers.entrySet()) {
-                System.out.println("Condition: \'" + entry.getKey() + "\'");
-                for (Map.Entry<String, List<String>> e : entry.getValue().entrySet()) {
-                    System.out.println("\t" + e.getKey());
-                    for (String s : e.getValue()) {
-                        System.out.println("\t\t" + s);
+                for (Map.Entry<String, Map<String, List<String>>> entry : answers.entrySet()) {
+                    System.out.println("Condition: \'" + entry.getKey() + "\'");
+                    System.out.println("num users: " + entry.getValue().size());
+                    for (Map.Entry<String, List<String>> e : entry.getValue().entrySet()) {
+                        StringBuilder sb = new StringBuilder();
+//                        sb.append(entry.getKey() + ","); // condition
+//                        sb.append(e.getKey()); // user id
+
+                        System.out.println("\t" + e.getKey());
+                        for (String s : e.getValue()) {
+//                            sb.append("," + s);
+                            sb.append(s);
+                            System.out.println("\t\t" + s);
+                        }
+
+                        sb.append("\n");
+                        writer.write(sb.toString());
                     }
                 }
+            } catch (SQLException e) {
+                System.out.println(query);
+                e.printStackTrace();
             }
-        } catch (SQLException e) {
-            System.out.println(query);
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void parseOpenQ() {
+        try (PrintWriter writer = new PrintWriter(new File("openq_study2.csv"))) {
+//        String query = "select * from exp_demographics as a inner join exp_openq as b on a.id = b.id where a.pilot is not true;";
+            String query = "select a.condition, b.how_decide, c.accuracy_standard_why, c.frustration_why, c.trust_why, c.recommend_why, c.feedback_importance_why, c.overall, d.learn_why, d.perf_why from exp_demographics as a inner join exp_openq1 as b on a.id = b.id inner join exp_openq2 as c on b.id = c.id inner join exp_openq3 as d on c.id = d.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00';";
+            try (Connection conn = DriverManager.getConnection(url, props)) {
+                PreparedStatement stmt = conn.prepareStatement(query);
+                log.info("Executing " + stmt.toString());
+                ResultSet rs = stmt.executeQuery();
+                Map<String, Map<String, List<String>>> answers = new HashMap<>();
+                while (rs.next()) {
+                    String condition = rs.getString("condition");
+                    if (!answers.containsKey(condition)) {
+                        answers.put(condition, new HashMap<String, List<String>>());
+                    }
+                    Map<String, List<String>> map = answers.get(condition);
+                    safePut(map, "how_decide", rs.getString("how_decide"));
+                    safePut(map, "accuracy_standard_why", rs.getString("accuracy_standard_why"));
+                    safePut(map, "frustration_why", rs.getString("frustration_why"));
+                    safePut(map, "trust_why", rs.getString("trust_why"));
+                    safePut(map, "recommend_why", rs.getString("recommend_why"));
+                    safePut(map, "feedback_importance_why", rs.getString("feedback_importance_why"));
+                    safePut(map, "overall", rs.getString("overall"));
+                    safePut(map, "learn_why", rs.getString("learn_why"));
+                    safePut(map, "perf_why", rs.getString("perf_why"));
+                }
+                for (Map.Entry<String, Map<String, List<String>>> entry : answers.entrySet()) {
+                    System.out.println("Condition: \'" + entry.getKey() + "\'");
+                    for (Map.Entry<String, List<String>> e : entry.getValue().entrySet()) {
+                        StringBuilder sb = new StringBuilder();
+                        sb.append(entry.getKey() + ","); // condition
+                        sb.append(e.getKey()); // user id
+
+                        System.out.println("\t" + e.getKey());
+                        for (String s : e.getValue()) {
+                            sb.append("," + s);
+                            System.out.println("\t\t" + s);
+                        }
+
+                        sb.append("\n");
+                        writer.write(sb.toString());
+                    }
+                }
+            } catch (SQLException e) {
+                System.out.println(query);
+                e.printStackTrace();
+            }
+        } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
     }
 
     public static void getVals() {
 //        String query = "select * from exp_demographics as a inner join exp_openq as b on a.id = b.id where a.pilot is not true;";
-        String query = "select a.condition, b.perceived_accuracy, b.understanding, c.accuracy_standard, c.frustration, c.trust, c.recommend, c.feedback_importance, d.learn, d.perf from exp_demographics as a inner join exp_openq1 as b on a.id = b.id inner join exp_openq2 as c on b.id = c.id inner join exp_openq3 as d on c.id = d.id where a.pilot is true order by a.condition;";
+        String query = "select a.condition, a.id, b.perceived_accuracy, b.understanding, c.accuracy_standard, c.frustration, c.trust, c.recommend, c.feedback_importance, d.learn, d.perf from exp_demographics as a inner join exp_openq1 as b on a.id = b.id inner join exp_openq2 as c on b.id = c.id inner join exp_openq3 as d on c.id = d.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00' and a.id != '53cec591-6adf-4630-8dfa-4af235aec433' order by a.condition;";
         try (Connection conn = DriverManager.getConnection(url, props)) {
             PreparedStatement stmt = conn.prepareStatement(query);
             log.info("Executing " + stmt.toString());
@@ -91,8 +161,9 @@ public class DBManager {
             int participants = 0;
             while (rs.next()) {
                 String condition = rs.getString("condition");
-                if (!answers.containsKey(condition)) {
-                    answers.put(condition, new ArrayList<Map<String, String>>());
+                String id = rs.getString("id");
+                if (!answers.containsKey(condition + "#" + id)) {
+                    answers.put(condition + "#" + id, new ArrayList<Map<String, String>>());
                 }
                 Map<String, String> map = new HashMap<>();
                 safePut2(map, "perceived_accuracy", rs.getString("perceived_accuracy"));
@@ -104,7 +175,7 @@ public class DBManager {
                 safePut2(map, "feedback_importance", rs.getString("feedback_importance"));
                 safePut2(map, "learn", rs.getString("learn"));
                 safePut2(map, "perf", rs.getString("perf"));
-                answers.get(condition).add(map);
+                answers.get(condition + "#" + id).add(map);
                 participants += 1;
             }
             Function<String, String> fn = (x) -> {
@@ -113,28 +184,50 @@ public class DBManager {
                 return x;
             };
 
-            System.out.println("condition\tperceived_accuracy\tunderstanding\tfrustration\ttrust\trecommend\tfeedback_importance\tlearn\tperf");
-            for (Map.Entry<String, List<Map<String, String>>> entry : answers.entrySet()) {
-                String condition = entry.getKey();
-                if(condition.length() == 0) {
-                    condition = "empty";
+            System.out.println("condition\tid\tperceived_accuracy\tunderstanding\tfrustration\ttrust\trecommend\tfeedback_importance\tlearn\tperf");
+            try (PrintWriter writer = new PrintWriter(new File("likert_study2.csv"))) {
+                for (Map.Entry<String, List<Map<String, String>>> entry : answers.entrySet()) {
+                    String condition = entry.getKey().substring(0, entry.getKey().indexOf("#"));
+                    if (condition.length() == 0) {
+                        condition = "empty";
+                    }
+                    String user = entry.getKey().substring(entry.getKey().indexOf("#") + 1);
+
+
+                        StringBuilder sb = new StringBuilder();
+                        for (Map<String, String> m : entry.getValue()) {
+                            sb.append(condition + ",");
+                            sb.append(user + ",");
+                            sb.append(m.get("perceived_accuracy") + ",");
+                            sb.append(m.get("understanding") + ",");
+                            sb.append(m.get("accuracy_standard") + ",");
+                            sb.append(m.get("frustration") + ",");
+                            sb.append(m.get("trust") + ",");
+                            sb.append(m.get("recommend") + ",");
+                            sb.append(m.get("feedback_importance") + ",");
+                            sb.append(m.get("learn") + ",");
+                            sb.append(m.get("perf"));
+                            sb.append("\n");
+                            writer.write(sb.toString());
+
+                            System.out.println(condition + "\t" + user + "\t"
+                                    + fn.apply(m.get("perceived_accuracy")) + "\t"
+                                    + fn.apply(m.get("understanding")) + "\t"
+                                    + fn.apply(m.get("accuracy_standard")) + "\t"
+                                    + fn.apply(m.get("frustration")) + "\t"
+                                    + fn.apply(m.get("trust")) + "\t"
+                                    + fn.apply(m.get("recommend")) + "\t"
+                                    + fn.apply(m.get("feedback_importance")) + "\t"
+                                    + fn.apply(m.get("learn")) + "\t"
+                                    + fn.apply(m.get("perf"))
+                            );
+                        }
+                        System.out.println("Total processed: " + participants + " participants");
+    //                  System.exit(2);
                 }
-                for(Map<String, String> m : entry.getValue())  {
-                    System.out.println(condition + "\t"
-                            + fn.apply(m.get("perceived_accuracy")) + "\t"
-                            + fn.apply(m.get("understanding")) + "\t"
-                            + fn.apply(m.get("accuracy_standard")) + "\t"
-                            + fn.apply(m.get("frustration")) + "\t"
-                            + fn.apply(m.get("trust")) + "\t"
-                            + fn.apply(m.get("recommend")) + "\t"
-                            + fn.apply(m.get("feedback_importance")) + "\t"
-                            + fn.apply(m.get("learn")) + "\t"
-                            + fn.apply(m.get("perf"))
-                    );
-                }
+            } catch (FileNotFoundException e) {
+                e.printStackTrace();
             }
-            System.out.println("Total processed: " + participants + " participants");
-//            System.exit(2);
 
 
             for (Map.Entry<String, List<Map<String, String>>> entry : answers.entrySet()) {
@@ -159,21 +252,21 @@ public class DBManager {
 //                        System.out.println(e.getKey() + "\t" + e.getValue());
 //                    }
                 };
-                String condition = entry.getKey();
+            }
+//                String condition = entry.getKey();
 //                fn2.accept("perceived_accuracy", condition);
 //                fn2.accept("frustration", condition);
 //                fn2.accept("trust", condition);
 //                fn2.accept("recommend", condition);
 //                fn2.accept("understanding", condition);
 //                fn2.accept("teaming", condition);
-            }
         } catch (SQLException e) {
             System.out.println(query);
             e.printStackTrace();
         }
     }
 
-    public static void getOpenQNoCondition() {
+        public static void getOpenQNoCondition() {
 //        String query = "select * from exp_demographics as a inner join exp_openq as b on a.id = b.id where a.pilot is not true;";
 //        b.how_decide, c.accuracy_standard_why, c.frustration_why, c.trust_why, c.recommend_why, c.feedback_importance_why, c.overall, d.learn_why, d.perf_why from exp_demographics as a inner join exp_openq1 as b on a.id = b.id inner join exp_openq2 as c on b.id = c.id inner join exp_openq3 as d on c.id = d.id where a.pilot is true;
         String query = "select a.id, a.how_decide, b.accuracy_standard_why, b.frustration_why, b.trust_why, b.recommend_why, b.feedback_importance_why, b.overall, c.learn_why, c.perf_why from exp_openq1 as a inner join exp_openq2 as b on a.id = b.id inner join exp_openq3 as c on b.id = c.id inner join exp_demographics as d on c.id = d.id where d.pilot is true;";
