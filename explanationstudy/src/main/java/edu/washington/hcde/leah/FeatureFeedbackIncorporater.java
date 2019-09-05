@@ -48,7 +48,7 @@ public class FeatureFeedbackIncorporater {
 //        model_emails.put("54172-h-failed.txt", "hockey");
 //        model_emails.put("54174-h-failed.txt", "hockey");
 //        model_emails.put("54198-h-failed.txt", "hockey");
-//        model_emails.put("54199-h-success.txt", "hockey");
+//        model_emails.put("54199-h-success-same.txt", "hockey");
 //        model_emails.put("54220-h-success.txt", "hockey");
 //        model_emails.put("54226-h-success.txt", "hockey");
 //        model_emails.put("54229-h-success.txt", "hockey");
@@ -56,7 +56,7 @@ public class FeatureFeedbackIncorporater {
 //        model_emails.put("54245-h-success.txt", " hockey");
 //        model_emails.put("54260-h-success.txt", "hockey");
 //        model_emails.put("104910-b-success.txt", "baseball");
-//        model_emails.put("104936-b-success.txt", "baseball");
+//        model_emails.put("104936-b-failed-same.txt", "baseball");
 //        model_emails.put("104942-b-success.txt", "baseball");
 //        model_emails.put("104944-b-failed.txt", "baseball");
 //        model_emails.put("104947-b-failed.txt", "baseball");

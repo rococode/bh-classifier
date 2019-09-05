@@ -12,8 +12,8 @@ import csv
         # print(row[27])
         # already.append(row[27] + '\n')
 
-num_batches = 27  # * 6 conditions
-out = "exp_study2_large_sample.csv"
+num_batches = 30  # * 6 conditions
+out = "exp_study2b_large_sample.csv"
 print("Generating random order for", num_batches * 6, "runs, total", num_batches, "batches.")
 with open(out, "w+") as f:
     f.write("zval\n")

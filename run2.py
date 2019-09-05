@@ -481,7 +481,7 @@ for _ in [1]:
     # iterate through cos_sim and find the most similar pairs...
     for row in range(len(cos_simb)):
         for c in range(len(cos_simb[row])):
-            if cos_simb[row][c] > 0.1 and row != c:
+            if cos_simb[row][c] > 0.001 and row != c:
                 print("similar baseball docs:", b_docnames[row], b_docnames[c], cos_simb[row][c])
                 match_names1.append(b_docnames[row])
                 match_names2.append(b_docnames[c])
@@ -507,7 +507,7 @@ for _ in [1]:
                 # print("idx", idx, match_names1[idx], match_names2[idx], match_scores[idx])
                 j = tNames.index(match_names2[idx])
                 idx += 1
-                dest_dir = "data" + os.sep + "matches3"
+                dest_dir = "data" + os.sep + "matches-exp2"
                 if not os.path.exists(dest_dir):
                     os.makedirs(dest_dir)
                 status = None

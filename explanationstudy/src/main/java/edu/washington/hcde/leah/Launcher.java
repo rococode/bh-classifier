@@ -272,6 +272,7 @@ public class Launcher {
                             req.queryParams("perf_why")
                     );
                     session.mode = "tinstructions";
+//                    session.mode = "complete";
                     break;
                 default:
                     log.info("WARNING: unrecognized mode " + session.mode + " for " + session);
