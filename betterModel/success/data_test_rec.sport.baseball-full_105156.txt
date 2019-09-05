@@ -1,0 +1,38 @@
+2.262053087866302e-06 0.9999977379468992 0.9999954758938113 True
+prediction: baseball for data/test/rec.sport.baseball-full/105156
+| word         |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------------|----------|----------|---------|-------|
+| dick         |   -10.59 |    -8.38 |   -2.21 | **    |
+| cardinals    |    -8.8  |   -10.58 |    1.78 | **    |
+| cards        |    -8.1  |    -9.89 |    1.78 | **    |
+| championship |   -10.59 |    -8.97 |   -1.62 | **    |
+| managing     |    -9.2  |   -10.58 |    1.38 | **    |
+| thing        |    -7.5  |    -8.79 |    1.29 | **    |
+| mail         |    -8.64 |    -9.89 |    1.24 | **    |
+| without      |    -7.95 |    -8.97 |    1.02 | **    |
+| theres       |    -8.19 |    -9.19 |    1    |       |
+| go           |    -7    |    -6.12 |   -0.88 |       |
+From: rdetweil@boi.hp.com (Richard Detweiler)
+Subject: How to start Cardinals Mailing list?
+
+
+O.K.  It would be a shame for Cards fans on the net
+to go through the 1993 championship season without a 
+mailing list to talk on so I would be willing to look
+at starting one.
+
+Except there's one little problem...
+
+I don't know the first thing about how to do it or 
+what it requires in terms of resources or time.  So
+if some kind soul could e-mail me the particulars of
+getting starting and managing a mail list, I'd see
+if it would be feasible for me to start a Cards mailing 
+list.
+
+Thanks in advance,
+
+Dick Detweiler
+
+rdetweil@hpdmd48.boi.hp.com
+

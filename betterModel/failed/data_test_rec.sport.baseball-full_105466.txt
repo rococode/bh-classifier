@@ -1,0 +1,45 @@
+0.964988335159755 0.03501166484020964 0.9299766703195453 False
+prediction: hockey for data/test/rec.sport.baseball-full/105466
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| contact  |    -8.28 |   -10.59 |    2.31 | **    |
+| stadium  |    -9.89 |    -8.02 |   -1.86 | **    |
+| baseball |    -7.87 |    -6.1  |   -1.77 | **    |
+| vs       |    -6.63 |    -8.29 |    1.66 | **    |
+| unable   |    -9.19 |   -10.59 |    1.4  | **    |
+| rangers  |    -7.14 |    -8.51 |    1.36 | **    |
+| sale     |    -9.48 |   -10.59 |    1.11 | **    |
+| vacation |    -9.48 |   -10.59 |    1.11 | **    |
+| directly |   -10.58 |    -9.49 |   -1.09 | **    |
+| section  |   -10.58 |    -9.49 |   -1.09 | **    |
+From: knossos@carson.u.washington.edu (Judy Broocks)
+Subject: Tickets for sale
+
+My brother purchased baseball tickets for Texas Rangers vs Toronto
+Bluejays in July, but he was unable to get vacation days to get there. 
+
+Is anyone interested in purchasing the following:
+
+Arlington Stadium
+Arlington,Texas, Texas Rangers vs. Toronto Bluejays
+
+Thursday, July 22                              Friday, July 23
+4 tickets, section 103                         "Helmet Night"
+$14 each                                       4 tickets, section 305
+                                               $14 each
+
+If you want them all, the total is $112.00
+
+Please contact me over e-mail, or directly to my brother:
+
+Randy Hollister
+19 Rosemont Lane
+Streator, IL 61364
+815/672-5265
+
+My brother would be eternally grateful for someone to purchase these tickets!
+
+Thank you!
+
+J. Broocks
+knossos@u.washington.edu

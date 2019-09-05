@@ -1,0 +1,35 @@
+0.9999999999968168 3.1936968445080173e-12 0.9999999999936231 True
+prediction: hockey for data/test/rec.sport.hockey-full/54291
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| islanders  |    -7.36 |   -10.59 |    3.23 | **    |
+| overtime   |    -7.75 |   -10.59 |    2.84 | **    |
+| penalty    |    -8.18 |   -10.59 |    2.41 | **    |
+| dave       |    -8.97 |    -7.29 |   -1.68 | **    |
+| defenseman |    -8.97 |   -10.59 |    1.62 | **    |
+| isles      |    -8.97 |   -10.59 |    1.62 | **    |
+| serious    |    -8.97 |   -10.59 |    1.62 | **    |
+| instead    |    -8.01 |    -9.49 |    1.48 | **    |
+| cote       |    -9.19 |   -10.59 |    1.4  | **    |
+| arbour     |    -9.48 |   -10.59 |    1.11 | **    |
+From: scialdone@nssdca.gsfc.nasa.gov (John Scialdone)
+Subject: Pilon BITES!!!!
+
+Do the Isles have another defenseman to insert into the line-up besides
+Pilon??? Once again, last night's STUPID penalty put the Isles in a hole for the
+remainder of regulation and 2 minutes into overtime!!! Even though the Isles
+nearly survived Pilon's blunder in regulation, it was the most inopportune time
+for a 5-minute major penalty. Instead of confronting Cote as he came across the
+blueline, Pilon backed up and swiped at Cote's nose with his stick. Al Arbour
+can't be serious to think Pilon is the guy to have out there with the game on
+the line??? I heard Scott LaChance is out till later in the series, but there
+must be someone else!!! Bring back the BAMMER, Dave Langevin!!!!
+
+*******************************LETS GO ISLANDERS********************************
+
+John Scialdone
+SCIALDONE@NSSDCA.GSFC.NASA.GOV
+
+"""I've been gambling hereabouts, for 10 good solid years""" JG/RH
+
+

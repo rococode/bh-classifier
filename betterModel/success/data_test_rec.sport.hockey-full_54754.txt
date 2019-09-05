@@ -1,0 +1,29 @@
+0.9999999999994884 4.988361009532729e-13 0.9999999999989896 True
+prediction: hockey for data/test/rec.sport.hockey-full/54754
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| wings      |    -6.84 |   -10.59 |    3.75 | **    |
+| buffalo    |    -7.11 |   -10.59 |    3.48 | **    |
+| bruins     |    -7.21 |   -10.59 |    3.38 | **    |
+| mogilny    |    -7.94 |   -10.59 |    2.65 | **    |
+| sabres     |    -7.94 |   -10.59 |    2.65 | **    |
+| lafontaine |    -8.09 |   -10.59 |    2.49 | **    |
+| fuhr       |    -8.18 |   -10.59 |    2.41 | **    |
+| dave       |    -8.97 |    -7.29 |   -1.68 | **    |
+| grant      |    -8.63 |    -9.9  |    1.26 | **    |
+| state      |    -8.28 |    -9.49 |    1.21 | **    |
+From: vergolin@euler.lbs.msu.edu (David Vergolini)
+Subject: Buffalo Sabres
+
+  Ok, Buffalo fans.  I am a Red Wings fan, but am amazed at how the Sabres are
+beating up on the Bruins.  Is there any reason for this?  Is it Grant Fuhr or
+Mogilny and Lafontaine?  I would like to hear from you since I do not know much
+about the Sabres.
+
+
+
+
+
+                                                Dave Vergolini
+                                                Michigan State University
+                                                vergolin@euler.lbs.msu.edu

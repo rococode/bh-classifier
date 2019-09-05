@@ -1,0 +1,38 @@
+9.606991415794191e-27 1.0 1.0 True
+prediction: baseball for data/test/rec.sport.baseball-full/105112
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| pitcher |    -6.98 |   -10.58 |    3.6  | **    |
+| bases   |    -7.75 |   -10.58 |    2.82 | **    |
+| runner  |    -7.95 |   -10.58 |    2.63 | **    |
+| stolen  |    -8.02 |   -10.58 |    2.56 | **    |
+| base    |    -7.64 |    -9.89 |    2.24 | **    |
+| throws  |    -8.51 |   -10.58 |    2.07 | **    |
+| x       |    -8.64 |   -10.58 |    1.94 | **    |
+| extra   |    -7.64 |    -9.48 |    1.84 | **    |
+| rule    |    -8.8  |   -10.58 |    1.78 | **    |
+| madden  |   -10.59 |    -9.19 |   -1.4  | **    |
+From: drw3l@delmarva.evsc.Virginia.EDU (David Robert Walker)
+Subject: Re: How to speed up games (marginally realistic)
+
+In article <9304202040.PN27738@LL.MIT.EDU> ejb@ll.mit.edu ( Ed Baranoski) writes:
+>In article <1993Apr20.181245.11319@VFL.Paramax.COM> davidm@gvls2.vfl.paramax.com (David Madden) writes:
+
+>   2. If a pitcher throws to an occupied base more than X time (X = 3 to 5)
+>      without successfully picking off the runner, the runner advances a base
+>      as if walked.
+>
+>This last suggestion will probably increase the number of stolen bases
+>considerably.  Suppose the pitcher uses up (N-1) of his N pick-off
+>attempts.  The runner can probably stretch his lead off the base,
+>given that there will be extra pressure on the pitcher to get it
+>right this time.
+>
+
+If it encouraged the runner to stretch his lead, it would probably
+also result ina greater number of pickoffs. I think it would be a
+workable rule, but it would probably be best to experiment in another
+league before trying it in the bigs.
+
+Clay D.
+

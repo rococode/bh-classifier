@@ -1,0 +1,33 @@
+0.9999178277004146 8.217229959298729e-05 0.9998356554008216 True
+prediction: hockey for data/test/rec.sport.hockey-full/54199
+| word                          |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------------------------|----------|----------|---------|-------|
+| minus                         |    -8.38 |   -10.59 |    2.21 | **    |
+| golchowyalchemychemutorontoca |    -8.79 |   -10.59 |    1.8  | **    |
+| olchowy                       |    -8.79 |   -10.59 |    1.8  | **    |
+| gerald                        |    -7.75 |    -9.49 |    1.74 | **    |
+| statistic                     |    -9.89 |    -8.51 |   -1.38 | **    |
+| huot                          |    -9.48 |   -10.59 |    1.11 | **    |
+| huotcraycom                   |    -9.48 |   -10.59 |    1.11 | **    |
+| plus                          |    -7.87 |    -8.8  |    0.93 |       |
+| compare                       |    -9.19 |    -8.39 |   -0.8  |       |
+| stat                          |    -8.01 |    -8.8  |    0.78 |       |
+From: huot@cray.com (Tom Huot)
+Subject: Re: plus minus stat
+
+Gerald Olchowy (golchowy@alchemy.chem.utoronto.ca) wrote:
+: It is meaningless to compare one player's plus/minus statistic with
+: another players' out of the context of the role and the playing time
+: of the players involved.    
+
+: To compare Jagr's and Francis's plus/minus is ridiculous and absurd...
+
+: Gerald
+
+Thank you for putting this in perspective!
+
+--
+_____________________________________________________________________________
+Tom Huot        			       
+huot@cray.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

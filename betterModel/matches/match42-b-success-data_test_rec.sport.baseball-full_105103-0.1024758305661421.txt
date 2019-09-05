@@ -1,0 +1,44 @@
+0.00011945396010838088 0.9998805460398691 0.9997610920797607 True
+prediction: baseball for data/test/rec.sport.baseball-full/105103
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| ice      |   -10.59 |    -7.18 |   -3.41 | **    |
+| bonilla  |    -8.29 |   -10.58 |    2.29 | **    |
+| wfan     |    -8.64 |   -10.58 |    1.94 | **    |
+| complain |   -10.59 |    -8.79 |   -1.8  | **    |
+| serious  |   -10.59 |    -8.97 |   -1.62 | **    |
+| vote     |   -10.59 |    -8.97 |   -1.62 | **    |
+| incident |    -9.2  |   -10.58 |    1.38 | **    |
+| eagles   |    -8.64 |    -9.89 |    1.24 | **    |
+| genius   |    -9.49 |   -10.58 |    1.09 | **    |
+| although |    -8.51 |    -7.53 |   -0.97 |       |
+From: sepinwal@mail.sas.upenn.edu (Alan Sepinwall)
+Subject: Re: WFAN
+
+In article <1993Apr16.174843.28111@cabell.vcu.edu> csc2imd@cabell.vcu.edu (Ian M. Derby) writes:
+>On the serious side:  Maybe we should have a sub for Sports Radio/TV.
+>
+>As much as people complain about one station or another, the
+>information you hear is a lot more in depth than what you can get on
+>the AP wire or USA Today.  So, to benefit those who have favorite
+>teams outside of their vicinity, this would do wonders.  People can
+>get on and talk about what Cataldi said about the Eagles or what
+>Lupica said of the Bonilla incident etc.  This can be for any station
+>across the country.  Anyone agree?
+
+
+I agree, although I would have no idea how to go about doing it. But
+you've got my vote.
+
+
+--I'm outta here like Vladimir
+--Alan
+
+===========================================================================
+| "What's this?  This is ice.  This is what happens to water when it gets |
+|  too cold.  This?  This is Kent.  This is what happens to people when   |
+|  they get too sexually frustrated."                                     |
+|               -Val Kilmer, "Real Genius"                                |
+===========================================================================
+
+

@@ -1,0 +1,32 @@
+0.9962488373331415 0.0037511626668458213 0.9924976746662957 True
+prediction: hockey for data/test/rec.sport.hockey-full/54223
+| word               |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------------------|----------|----------|---------|-------|
+| hockey             |    -5.97 |    -9.49 |    3.52 | **    |
+| richard            |    -8.28 |   -10.59 |    2.31 | **    |
+| pool               |    -8.38 |   -10.59 |    2.21 | **    |
+| mail               |    -9.89 |    -8.64 |   -1.24 | **    |
+| ie                 |    -8.28 |    -9.49 |    1.21 | **    |
+| montanapinetreeorg |    -9.48 |   -10.59 |    1.11 | **    |
+| address            |    -9.48 |    -8.64 |   -0.84 |       |
+| thanks             |    -8.28 |    -7.54 |   -0.73 |       |
+| entire             |    -9.48 |    -8.8  |   -0.68 |       |
+| tell               |    -8.28 |    -7.75 |   -0.52 |       |
+From: e8l6@jupiter.sun.csd.unb.ca (Rocket)
+Subject: Dear Montana@pinetree.org  Re: Hockey Pool
+
+
+
+   Hi there, I can't seem to get mail to you. Can you tell me your entire
+adress, or even your dotted decimal address?
+
+   (ie. 131.202.3.10)
+
+   Thanks,
+           rocket@calvin.cs.unb.ca 
+
+-- 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-                                                                           -
+-    Maurice Richard                                                        -

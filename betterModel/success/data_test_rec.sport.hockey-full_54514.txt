@@ -1,0 +1,25 @@
+0.999840651928732 0.00015934807124352287 0.9996813038574884 True
+prediction: hockey for data/test/rec.sport.hockey-full/54514
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| goalies  |    -7.87 |   -10.59 |    2.72 | **    |
+| become   |    -8.38 |    -9.9  |    1.51 | **    |
+| ten      |    -9.19 |   -10.59 |    1.4  | **    |
+| changed  |    -9.48 |    -8.39 |   -1.09 | **    |
+| seems    |    -8.97 |    -7.88 |   -1.09 | **    |
+| wearing  |    -9.89 |    -8.8  |   -1.09 | **    |
+| rules    |    -8.97 |    -9.9  |    0.93 |       |
+| jerseys  |    -9.89 |   -10.59 |    0.7  |       |
+| dreaming |   -10.58 |    -9.9  |   -0.68 |       |
+| expert   |   -10.58 |    -9.9  |   -0.68 |       |
+From: ketolain@messi.uku.fi (Jarkko Ketolainen)
+Subject: question/goalie's equipment
+
+Have the rules for goalies' equipment changed? It seems that e.g. glove
+has become bigger and bigger all the time (and pads too), and the goalies are
+wearing "over size" jerseys. Am I dreaming? If you watch old photos or
+films let say about ten years back, I think the difference is quite obvious.
+Who is an expert on this, please let me know. (Or have the goalies become
+bigger?)
+
+Jarkko #14 (trouble in scoring?)

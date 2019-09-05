@@ -1,0 +1,32 @@
+1.5939849363371892e-13 0.9999999999998295 0.99999999999967 True
+prediction: baseball for data/test/rec.sport.baseball-full/104993
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| pitchers |    -7.26 |   -10.58 |    3.32 | **    |
+| bases    |    -7.75 |   -10.58 |    2.82 | **    |
+| runs     |    -6.37 |    -8.97 |    2.6  | **    |
+| career   |    -7.7  |    -9.89 |    2.19 | **    |
+| nolan    |    -8.51 |   -10.58 |    2.07 | **    |
+| ryan     |    -7.88 |    -9.89 |    2.01 | **    |
+| baseball |    -6.1  |    -7.87 |    1.77 | **    |
+| saves    |    -9.49 |    -7.94 |   -1.55 | **    |
+| trivia   |   -10.59 |    -9.19 |   -1.4  | **    |
+| fair     |    -9.2  |   -10.58 |    1.38 | **    |
+From: texdude@cs1.bradley.edu (Philip Allen)
+Subject: Some baseball trivia
+
+
+Who holds the record for most career strikeouts while playing for one team?
+Who holds the record for most career strikeouts for the Rangers?
+(Hint: Nolan Ryan isn't either)
+
+What two pitchers have over 100 career saves for two different teams?
+
+Who is the only player to hit 300 or more career home runs and steal 300 or 
+more career bases for the same team?
+
+No fair peeking at your baseball stats....
+
+
+Phil Allen
+texdude@cs1.bradley.edu

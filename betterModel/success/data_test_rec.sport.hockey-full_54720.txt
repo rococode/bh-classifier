@@ -1,0 +1,34 @@
+1.0 1.2348076944516097e-20 1.0 True
+prediction: hockey for data/test/rec.sport.hockey-full/54720
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| nhl       |    -6.27 |   -10.59 |    4.31 | **    |
+| flyers    |    -7.58 |   -10.59 |    3.01 | **    |
+| round     |    -7.81 |   -10.59 |    2.78 | **    |
+| finals    |    -8.18 |   -10.59 |    2.41 | **    |
+| canadians |    -8.5  |   -10.59 |    2.09 | **    |
+| finland   |    -8.5  |   -10.59 |    2.09 | **    |
+| lindros   |    -8.5  |   -10.59 |    2.09 | **    |
+| drafted   |    -8.63 |   -10.59 |    1.96 | **    |
+| college   |    -8.97 |   -10.59 |    1.62 | **    |
+| entry     |    -8.97 |   -10.59 |    1.62 | **    |
+From: white@venus.cc.hollandc.pe.ca (Take me Baby!)
+Subject: Canada 5-0 after preliminary round at World Champioships
+
+
+	Team Canada defeated Russia 3-1 to finish the priliminary 
+round unbeaten at 5-0. Scoring for the Canadians were Kevin Dineen of 
+the Flyers, Eric Lindros also of the Flyers and Paul Cariya of the 
+Maine Black Bears. Cariya has put on quite a show at the Worlds. He is 
+sure to be drafted in the top 3 this summer at the NHL entry draft.
+
+	Canada defeated Italy 11-2 and Austria 11-0 before meeting the 
+Russians on Sunday. The Canadians now face Finland in the Quarter -
+finals on Tuesday.
+
+
+Kevin White
+white@cc.hollandc.pe.ca
+Holland College
+Ch'town PEI Canada
+

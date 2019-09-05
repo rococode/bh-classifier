@@ -1,0 +1,29 @@
+0.9999999597598624 4.024013409986212e-08 0.9999999195197283 True
+prediction: hockey for data/test/rec.sport.hockey-full/54768
+| word               |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------------------|----------|----------|---------|-------|
+| nhl                |    -6.27 |   -10.59 |    4.31 | **    |
+| braves             |    -9.19 |    -6.46 |   -2.73 | **    |
+| capitals           |    -8.28 |   -10.59 |    2.31 | **    |
+| hrivnak            |    -8.97 |   -10.59 |    1.62 | **    |
+| long               |    -8.5  |    -7.03 |   -1.47 | **    |
+| friedman           |    -9.19 |   -10.59 |    1.4  | **    |
+| gtdaprismgatechedu |    -9.19 |   -10.59 |    1.4  | **    |
+| hornets            |    -9.19 |   -10.59 |    1.4  | **    |
+| patton             |    -9.19 |   -10.59 |    1.4  | **    |
+| skins              |    -9.19 |   -10.59 |    1.4  | **    |
+From: gtd597a@prism.gatech.EDU (Hrivnak)
+Subject: Re: NHL LETTER (***QUITE LONG***)
+
+
+	Roger,
+
+	    SHUT UP.
+
+ 	Thank you.
+
+-- 
+GO SKINS!    ||"Now for the next question... Does emotional music have quite
+GO BRAVES!   ||   an effect on you?" - Mike Patton, Faith No More 
+GO HORNETS!  ||
+GO CAPITALS! ||Mike Friedman (Hrivnak fan!) Internet: gtd597a@prism.gatech.edu

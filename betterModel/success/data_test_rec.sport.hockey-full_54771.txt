@@ -1,0 +1,34 @@
+0.9999999999669171 3.304430890361291e-11 0.9999999999338728 True
+prediction: hockey for data/test/rec.sport.hockey-full/54771
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| hockey     |    -5.97 |    -9.49 |    3.52 | **    |
+| overtime   |    -7.75 |   -10.59 |    2.84 | **    |
+| ot         |    -8.63 |   -10.59 |    1.96 | **    |
+| broadcast  |    -8.79 |   -10.59 |    1.8  | **    |
+| baseball   |    -7.87 |    -6.1  |   -1.77 | **    |
+| espn       |    -7.21 |    -8.98 |    1.77 | **    |
+| caps       |    -7.63 |    -9.2  |    1.57 | **    |
+| management |    -8.38 |    -9.9  |    1.51 | **    |
+| certain    |    -9.89 |    -8.51 |   -1.38 | **    |
+| heard      |    -8.09 |    -9.2  |    1.11 | **    |
+From: filinuk@staff.dccs.upenn.edu (Geoff Filinuk)
+Subject: Wash/Isl OT game
+
+
+	This comes indirectly from Al Morgani who works in the studio
+for ESPN hockey.
+
+	The management of ESPN was reluctant to leave the Pitt-NJ game 
+(even though the outcome was certain) because of fear of the Wash-Ny game 
+going to overtime.  When the Caps scored with :02 left to tie the game, Al said
+he heard many people say f**K .!#$%.  
+	ESPN is under contractual obligation to show baseball and COULD NOT
+broadcast the OT of the hockey game.  Next year, ESPN2 will be introduced so 
+baseball fans can watch baseball and hockey fans can watch hockey.
+
+	GET OFF ESPN'S BACK AND STOP POSTING ARTICLES ON THIS SUBJECT!!!
+There have been to many f****n complainers about this game that it's making me
+sick.
+
+Geoff Filinuk

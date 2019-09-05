@@ -1,0 +1,34 @@
+1.2841035858519368e-16 1.0 0.9999999999999999 True
+prediction: baseball for data/test/rec.sport.baseball-full/105056
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| pitch     |    -7.33 |   -10.58 |    3.25 | **    |
+| pitches   |    -7.5  |   -10.58 |    3.08 | **    |
+| sox       |    -7.7  |   -10.58 |    2.88 | **    |
+| bases     |    -7.75 |   -10.58 |    2.82 | **    |
+| run       |    -6.85 |    -9.48 |    2.63 | **    |
+| batters   |    -8.02 |   -10.58 |    2.56 | **    |
+| hits      |    -7.22 |    -9.48 |    2.26 | **    |
+| valentine |    -7.88 |    -9.89 |    2.01 | **    |
+| extra     |    -7.64 |    -9.48 |    1.84 | **    |
+| wing      |   -10.59 |    -8.79 |   -1.8  | **    |
+From: tedward@cs.cornell.edu (Edward [Ted] Fischer)
+Subject: Re: Bosox win again! (5-2 against Seattle)
+
+In article <jxu.735398917@black.clarku.edu> jxu@black.clarku.edu (Dark Wing Duck!!) writes:
+>Last night, Boston Red Sox win its 11 games of 14 games by beating Seattle
+>5-2.  Roger Clemson pitch not so dominate.  He walked at least 6 man in
+>first 6 inns.
+
+Be fair.  He did walk 6 batters in 6.1 IP.  He also allowed only three
+hits, none for extra bases.  Only one run.  A pretty good outing, all
+told.
+
+>I think that game is must win for Red Sox in Seattle, considering Darwin will
+>faced Seattle ace Randy Johnson tonight.
+
+There is no such thing as a "must win" game this early in the season.
+And we can always *hope* that Darwin pitches well!
+
+Cheers,
+-Valentine

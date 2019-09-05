@@ -1,0 +1,48 @@
+5.423522578592261e-06 0.9999945764774756 0.999989152954897 True
+prediction: baseball for data/test/rec.sport.baseball-full/105120
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| period  |    -9.9  |    -6.67 |   -3.23 | **    |
+| mvp     |   -10.59 |    -8.28 |   -2.31 | **    |
+| hall    |    -7.22 |    -9.48 |    2.26 | **    |
+| ryan    |    -7.88 |    -9.89 |    2.01 | **    |
+| robin   |    -8.64 |   -10.58 |    1.94 | **    |
+| dl      |    -8.98 |   -10.58 |    1.6  | **    |
+| indians |    -8.39 |    -9.89 |    1.49 | **    |
+| derek   |   -10.59 |    -9.19 |   -1.4  | **    |
+| main    |   -10.59 |    -9.19 |   -1.4  | **    |
+| surgery |    -9.2  |   -10.58 |    1.38 | **    |
+From: robinr@prism.CS.ORST.EDU (Ryan Robin)
+Subject: John Wetteland, Derek Lilliquist, info please.
+
+
+
+Hi there,
+
+      I was wondering if anyone knew if John Wetteland was put on the DL again
+      after his first 15-day period was up? I read in the USA Today Sports 
+      section that he is on for "surgery to repair broken toe", and was
+      wondering if that was new. I thought he was just letting it heal. 
+
+      Another question, Is Derek Lilliquist the main closer for the Indians now
+      that Olin is gone. I need to know cause I need to find a reliever to 
+      replace Wetteland and so far Lilliquist is doing ok. Any information on
+      either of the players would be greatly appreciated. Thank you for your
+      time. 
+
+
+      Ryan Robin.
+
+___________________________________________________________ 
+  
+  [==================]         Texas Rangers in 1993!
+  [==================]          Jose Canseco for MVP.
+  [==]    [==]    [==]
+  [==]    [==]    [==]             Ryan N. Robin
+          [==]                   311 Weatherford Hall
+          [==]                     Corvallis, OR.
+          [==]                       97331-1701
+          [==]
+       [========]
+       [========]            (robinr@prism.cs.orst.edu)
+___________________________________________________________

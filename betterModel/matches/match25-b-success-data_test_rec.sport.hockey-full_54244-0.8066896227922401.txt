@@ -1,0 +1,32 @@
+1.0 9.543440582540807e-40 1.0 True
+prediction: hockey for data/test/rec.sport.hockey-full/54244
+| word           |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------------|----------|----------|---------|-------|
+| leafs          |    -6.54 |   -10.59 |    4.05 | **    |
+| cup            |    -6.69 |   -10.59 |    3.9  | **    |
+| wings          |    -6.84 |   -10.59 |    3.75 | **    |
+| hockey         |    -5.97 |    -9.49 |    3.52 | **    |
+| bruins         |    -7.21 |   -10.59 |    3.38 | **    |
+| playoff        |    -7.05 |    -9.9  |    2.84 | **    |
+| round          |    -7.81 |   -10.59 |    2.78 | **    |
+| ahl            |    -7.94 |   -10.59 |    2.65 | **    |
+| adirondack     |    -8.01 |   -10.59 |    2.57 | **    |
+| recsporthockey |    -8.18 |   -10.59 |    2.41 | **    |
+From: farenebt@craft.camp.clarkson.edu (Droopy)
+Subject: AHL Leafs Back Home?
+
+Apparently, the public workers' strike in St John's, Newfoundland is over.
+The strike has, since mid-January, forced the St John's Maple Leafs hockey
+team to play their home games in other cities such as Toronto, Cornwall
+and Charlottetown. They have been playing their playoff home games
+in Halifax, Nova Scotia. Leafs' management said that they COULD
+return to St John's for the second round.
+
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+    + Bri Farenell			farenebt@craft.camp.clarkson.edu   +
+    + AHL, ECAC and Boston Bruins contact for rec.sport.hockey		   +
+    + Adirondack Red Wings, Calder Cup Champs: '81  '86  '89  '92	   +
+    + Clarkson Hockey, ECAC Tournament Champs: '66  '91  '93		   +
+    + Glens Falls High Hockey, NY Division II State Champs: '90  '91       +
+    + AHL fans: join the AHL mailing list: ahl-news-request@andrew.cmu.edu +
+    ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++

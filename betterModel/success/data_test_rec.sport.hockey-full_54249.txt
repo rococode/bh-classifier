@@ -1,0 +1,49 @@
+0.9999999999998863 6.127107317232253e-14 0.999999999999825 True
+prediction: hockey for data/test/rec.sport.hockey-full/54249
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| cup      |    -6.69 |   -10.59 |    3.9  | **    |
+| hockey   |    -5.97 |    -9.49 |    3.52 | **    |
+| buffalo  |    -7.11 |   -10.59 |    3.48 | **    |
+| playoffs |    -6.89 |    -9.9  |    3.01 | **    |
+| round    |    -7.81 |   -10.59 |    2.78 | **    |
+| habs     |    -7.87 |   -10.59 |    2.72 | **    |
+| cherry   |    -8.09 |   -10.59 |    2.49 | **    |
+| maple    |    -8.38 |   -10.59 |    2.21 | **    |
+| montreal |    -7.75 |    -9.9  |    2.15 | **    |
+| draft    |    -8.09 |    -9.49 |    1.4  | **    |
+From: ac291@Freenet.carleton.ca (W. Jon Shaib)
+Subject: Some Play-offs Thoughts
+
+
+Well, we're almost halfway through the first round, and so far things are
+good in general:
+
+  1. The 2 teams that I hate most: Chicago and "Basten" are down 3 zip.
+     (even though there is a possibility either can still win their
+      series, yet this ego-thrashing and arrogance-smashing by the
+      underdogs (St. Louis and Buffalo) is so rewarding).
+  2. Montreal is at this stage in a team's life where they are not good
+     enough to go all the way, yet too good to be able to get some
+     (really) good draft picks... :-(
+  3. Is it just me, or does anyone out there also think that this year
+     the cup final should be played between 2 teams from the WALES?
+  4. Is it just because they're playing Montreal that I find the diques
+     arrogant ***'s, or are they really?
+  5. Smythe-what???? I'm really getting sick of seeing Douggie and Wendel
+     night in and night out... We should see some Canucks/Jets/Flames
+     action...!
+  6. Don Cherry is an ******* alright, but hey... so are our politicians...
+  
+ObLeafsJoke:  Q. what do you get when you cross a maple leaf and a 
+                groundhog?
+              A. Six more weeks of crummy hockey!
+------------------------------------------------------------------
+L8R, dudes...
+GO HABS GOOOOOOOOOOOOOOOOOOO!
+
+-- 
+---------------------------------------------------------------------------
+Jon Shaib  ac291@carleton.freenet.ca
+---------------------------------------------------------------------------
+
