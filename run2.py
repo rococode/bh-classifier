@@ -543,7 +543,7 @@ for _ in [1]:
                     f2.writelines(outputs_b)
                     f2.write(lines)
 
-    # loop over the predicted emails, and put them in sucess or fail directories
+    # loop over the predicted emails, and put them in success or fail directories
     for i in range(len(preds)):
         if preds[i] != ty[i]:
             # print(i, "failed!", tNames[i])
