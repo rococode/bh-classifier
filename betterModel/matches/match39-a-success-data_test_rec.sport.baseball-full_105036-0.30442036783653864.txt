@@ -1,17 +1,17 @@
-9.74840153248176e-21 1.0 1.0 True
+9.867581005164587e-17 1.0 0.9999999999999999 True
 prediction: baseball for data/test/rec.sport.baseball-full/105036
 | word         |   p(w|b) |   p(w|h) |   delta | **?   |
 |--------------|----------|----------|---------|-------|
-| hall         |    -7.22 |    -9.48 |    2.26 | **    |
-| winfield     |    -8.39 |   -10.58 |    2.19 | **    |
-| career       |    -7.7  |    -9.89 |    2.19 | **    |
-| value        |    -7.75 |    -9.89 |    2.13 | **    |
-| fame         |    -7.59 |    -9.48 |    1.89 | **    |
-| tate         |    -8.8  |   -10.58 |    1.78 | **    |
-| certainly    |    -7.88 |    -9.48 |    1.6  | **    |
-| cases        |    -9.2  |   -10.58 |    1.38 | **    |
-| dtatepittedu |    -9.2  |   -10.58 |    1.38 | **    |
-| knock        |    -9.2  |   -10.58 |    1.38 | **    |
+| hall         |    -7.11 |    -9.29 |    2.18 | **    |
+| fame         |    -7.48 |    -9.29 |    1.82 | **    |
+| career       |    -7.88 |    -9.7  |    1.82 | **    |
+| value        |    -8.58 |   -10.39 |    1.82 | **    |
+| winfield     |    -8.58 |   -10.39 |    1.82 | **    |
+| knock        |    -8.98 |   -10.39 |    1.41 | **    |
+| peak         |    -8.98 |   -10.39 |    1.41 | **    |
+| robert       |    -8.98 |   -10.39 |    1.41 | **    |
+| certainly    |    -8.58 |    -9.7  |    1.12 | **    |
+| dtatepittedu |    -9.27 |   -10.39 |    1.12 | **    |
 From: luriem@alleg.edu(Michael Lurie) The Liberalizer
 Subject: Re: Winfield's spot on THE ALL TIME GREATS TEAM
 

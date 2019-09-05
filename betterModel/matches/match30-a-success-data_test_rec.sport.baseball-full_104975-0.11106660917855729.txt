@@ -1,17 +1,17 @@
-0.5856076178044936 0.41439238219552443 0.17121523560896912 False
-prediction: hockey for data/test/rec.sport.baseball-full/104975
-| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+5.254937731865751e-06 0.9999947450622756 0.9999894901245437 True
+prediction: baseball for data/test/rec.sport.baseball-full/104975
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
 |-----------|----------|----------|---------|-------|
-| phillies  |   -10.58 |    -7.37 |   -3.21 | **    |
-| wip       |   -10.58 |    -8.1  |   -2.48 | **    |
-| radio     |   -10.58 |    -8.51 |   -2.07 | **    |
-| broadcast |    -8.79 |   -10.59 |    1.8  | **    |
-| eagles    |    -9.89 |    -8.64 |   -1.24 | **    |
-| carries   |    -9.48 |   -10.59 |    1.11 | **    |
-| fm        |    -9.48 |   -10.59 |    1.11 | **    |
-| whose     |    -8.79 |    -9.9  |    1.11 | **    |
-| stupid    |    -8.5  |    -9.49 |    0.99 |       |
-| classic   |    -8.97 |    -9.9  |    0.93 |       |
+| phillies  |    -7.32 |   -10.39 |    3.07 | **    |
+| eagles    |    -8.42 |   -10.39 |    1.97 | **    |
+| wip       |    -8.42 |   -10.39 |    1.97 | **    |
+| broadcast |   -10.37 |    -9.01 |   -1.36 | **    |
+| home      |    -7.04 |    -8.19 |    1.16 | **    |
+| curious   |    -9.27 |   -10.39 |    1.12 | **    |
+| station   |    -8.58 |    -9.7  |    1.12 | **    |
+| classic   |   -10.37 |    -9.29 |   -1.07 | **    |
+| go        |    -7.37 |    -6.54 |   -0.83 |       |
+| joke      |    -8.98 |    -9.7  |    0.72 |       |
 From: philly@ravel.udel.edu (Robert C Hite)
 Subject: Re: Professional Sports on FM Radio
 

@@ -1,17 +1,17 @@
-4.804962879827499e-25 1.0 1.0 True
+4.147737902867371e-22 1.0 1.0 True
 prediction: baseball for data/test/rec.sport.baseball-full/104933
 | word                  |   p(w|b) |   p(w|h) |   delta | **?   |
 |-----------------------|----------|----------|---------|-------|
-| jewish                |    -7.22 |   -10.58 |    3.36 | **    |
-| present               |    -8.51 |   -10.58 |    2.07 | **    |
-| ken                   |    -8.8  |   -10.58 |    1.78 | **    |
-| lowenstein            |    -8.8  |   -10.58 |    1.78 | **    |
-| baseball              |    -6.1  |    -7.87 |    1.77 | **    |
-| aprlafibmlafayetteedu |    -8.98 |   -10.58 |    1.6  | **    |
-| vb                    |    -8.98 |   -10.58 |    1.6  | **    |
-| vblafibmlafayetteedu  |    -8.98 |   -10.58 |    1.6  | **    |
-| books                 |    -9.2  |   -10.58 |    1.38 | **    |
-| greenberg             |    -9.2  |   -10.58 |    1.38 | **    |
+| jewish                |    -7.32 |   -10.39 |    3.07 | **    |
+| ken                   |    -8.58 |   -10.39 |    1.82 | **    |
+| present               |    -8.58 |   -10.39 |    1.82 | **    |
+| wondering             |    -8.58 |   -10.39 |    1.82 | **    |
+| trying                |    -7.97 |    -9.7  |    1.73 | **    |
+| baseball              |    -6.65 |    -8.09 |    1.43 | **    |
+| koufax                |    -8.98 |   -10.39 |    1.41 | **    |
+| lowenstein            |    -8.98 |   -10.39 |    1.41 | **    |
+| thanks                |    -7.42 |    -8.78 |    1.36 | **    |
+| aprlafibmlafayetteedu |    -9.27 |   -10.39 |    1.12 | **    |
 From: roger@crux.Princeton.EDU (Roger Lustig)
 Subject: Re: Jewish Baseball Players?
 
