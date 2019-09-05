@@ -1,0 +1,37 @@
+1.0 9.857434458514833e-20 1.0 True
+prediction: hockey for data/test/rec.sport.hockey-full/54220
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| nhl       |    -6.68 |   -10.37 |    3.69 | **    |
+| hockey    |    -6.28 |    -9.68 |    3.39 | **    |
+| stars     |    -7.99 |   -10.37 |    2.37 | **    |
+| business  |    -8.45 |   -10.37 |    1.92 | **    |
+| western   |    -7.91 |    -9.68 |    1.77 | **    |
+| franchise |    -8.09 |    -9.68 |    1.59 | **    |
+| ontario   |    -8.09 |    -9.68 |    1.59 | **    |
+| london    |    -8.78 |   -10.37 |    1.59 | **    |
+| goodbye   |    -9.01 |   -10.37 |    1.36 | **    |
+| kind      |    -8.45 |    -9.68 |    1.23 | **    |
+From: huot@cray.com (Tom Huot)
+Subject: Re: Goodbye, good riddance, get lost 'Stars
+
+Stephen Lawrence (s4lawren@sms.business.uwo.ca) wrote:
+:         Goodbye Minnesota,...you never earned the right to have an NHL 
+: franchise in the first place!
+:         Hope you enjoy your Twin city wide mania for HIGH SCHOOL HOCKEY
+: (hey, by the way my old pee wee team is having a reunion in Regina, care 
+: to come up and film the event?)
+:         Yee haa Golden Gophers
+: Whatta weird town!!!!!
+
+: s4lawren@sms.business.uwo.ca (Stephen Lawrence)
+: Western Business School  --  London, Ontario
+
+This is the second posting of this kind from an idiot at a business 
+school in Canada. What is your problem up there anyway? Is this what 
+they teach you in business school in Canada?
+--
+_____________________________________________________________________________
+Tom Huot        			       
+huot@cray.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

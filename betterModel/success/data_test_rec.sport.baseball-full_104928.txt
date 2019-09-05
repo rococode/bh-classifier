@@ -1,0 +1,20 @@
+1.639628195903711e-05 0.9999836037180359 0.9999672074360768 True
+prediction: baseball for data/test/rec.sport.baseball-full/104928
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| pitcher  |    -7.04 |   -10.39 |    3.36 | **    |
+| jewish   |    -7.32 |   -10.39 |    3.07 | **    |
+| baseball |    -6.65 |    -8.09 |    1.43 | **    |
+| early    |    -7.66 |    -8.45 |    0.79 |       |
+| brown    |    -8.98 |    -9.7  |    0.72 |       |
+| century  |    -9.68 |   -10.39 |    0.72 |       |
+| fingers  |    -8.98 |    -9.7  |    0.72 |       |
+| nickname |   -10.37 |    -9.7  |   -0.67 |       |
+| obvious  |   -10.37 |    -9.7  |   -0.67 |       |
+| whose    |    -9.68 |    -9.01 |   -0.67 |       |
+From: ma_ind25@blurt.oswego.edu
+Subject: Re:Jewish Baseball Players?
+
+I believe that Rusty Staub was also a jewish ball-player
+Also, Mordaci Brown back in the early 20th century.  He was a pitcher whose
+nickname was "3 fingers" Brown....for obvious reasons....he had 3 fingers.

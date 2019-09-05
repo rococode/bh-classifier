@@ -1,0 +1,33 @@
+0.9871738011103265 0.012826198889645245 0.9743476022206813 True
+prediction: hockey for data/test/rec.sport.hockey-full/54296
+| word       |   p(w|h) |   p(w|b) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| abc        |    -7.68 |   -10.37 |    2.68 | **    |
+| hawks      |    -7.99 |   -10.37 |    2.37 | **    |
+| shown      |    -8.6  |   -10.37 |    1.77 | **    |
+| watched    |    -8.78 |   -10.37 |    1.59 | **    |
+| baseball   |    -8.09 |    -6.65 |   -1.43 | **    |
+| espn       |    -7.4  |    -8.76 |    1.36 | **    |
+| television |    -9.01 |   -10.37 |    1.36 | **    |
+| however    |    -9.29 |    -7.97 |   -1.32 | **    |
+| tv         |    -7.99 |    -9.27 |    1.28 | **    |
+| home       |    -8.19 |    -7.04 |   -1.16 | **    |
+From: RRHAMMER@vm.cmp.ilstu.edu
+Subject: And you think ESPN shafted you?
+
+Like many others I too was watching the Caps/Isles game when the went
+to the baseball game.  I too was pissed.  How could they interupt such
+an important game.  I understand about contracts, but you would think they
+would have a clause in the contract concerning important games!
+Anyway,  us BLUES (and Hawks) fans got shafted worse!  While everyone
+in the U.S. and watched the game on ABC.  However those of us who live in
+the central Illinois area were subjected to watching the Arthritus(?)
+Telethon.  The area that was most affected by the telecast did not get
+to see the game except through HAWK VISION.  This game, had it been
+televised, would have been the first home Hawks game shown in the area
+since 1980.  This television BULL*&%$ has got to stop.  We are not only
+being deprived of seeing games, due to skyrocketing ticket prices, but
+we are also being deprived of watching them on TV.
+ PEACE,
+ HAMMER
+ 

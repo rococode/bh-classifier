@@ -1,0 +1,36 @@
+7.836903971387262e-09 0.9999999921631115 0.9999999843262075 True
+prediction: baseball for data/test/rec.sport.baseball-full/105016
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| strike    |    -8.17 |   -10.39 |    2.22 | **    |
+| zone      |   -10.37 |    -8.31 |   -2.06 | **    |
+| following |    -8.76 |   -10.39 |    1.63 | **    |
+| mets      |    -8.17 |    -9.7  |    1.53 | **    |
+| scott     |    -9.27 |   -10.39 |    1.12 | **    |
+| speed     |    -8.58 |    -9.7  |    1.12 | **    |
+| season    |    -7.32 |    -6.35 |   -0.97 |       |
+| mail      |    -8.76 |    -9.7  |    0.94 |       |
+| making    |    -7.88 |    -8.78 |    0.9  |       |
+| need      |    -7.73 |    -8.6  |    0.87 |       |
+From: scott@asd.com (Scott Barman)
+Subject: Re: How to speed up games (marginally realistic)
+
+In article <he82p38@zola.esd.sgi.com> archer@elysium.esd.sgi.com (Archer (Bad Cop) Surly) writes:
+>In <m0nll6S-0000ahC@udcps3.cps.udayton.edu> mbohler@udcps3.cps.udayton.edu (Michael Bohler) writes:
+>
+>*To really speed up the game umps need to START CALLING STRIKES the way
+>*they used to.  I'm talking about making the strike zone start at the
+>*knees and go up to the top of the letters.  Forget this "the strike zone
+>*is in the general area of the groin".  A lot less 3-and-2 counts and a
+>*quicker game. 
+>
+>They tried that in the '60's and people stopped coming to the ballparks 
+>in droves, as offense suffered immensely.
+
+They lowered the mound first (before the 69 season).  The shrinkage of
+the strike zone didn't start until the mid-70s.
+-- 
+scott barman    | Mets Mailing List (feed the following into your shell):
+scott@asd.com   |            mail mets-request@asd.com <<!
+                |            subscribe
+ Let's Go Mets! |            !

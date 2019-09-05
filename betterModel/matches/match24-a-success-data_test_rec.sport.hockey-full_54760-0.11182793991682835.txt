@@ -1,0 +1,38 @@
+0.9999502394411959 4.976055879800041e-05 0.9999004788823979 True
+prediction: hockey for data/test/rec.sport.hockey-full/54760
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| cup      |    -7.13 |   -10.37 |    3.23 | **    |
+| playoffs |    -7.02 |    -9.68 |    2.65 | **    |
+| caps     |    -7.91 |   -10.37 |    2.46 | **    |
+| g        |    -7.75 |    -9.68 |    1.92 | **    |
+| l        |    -7.83 |    -9.68 |    1.85 | **    |
+| home     |    -8.19 |    -7.04 |   -1.16 | **    |
+| isles    |    -9.29 |   -10.37 |    1.07 | **    |
+| prove    |    -9.7  |    -8.76 |   -0.94 |       |
+| theyre   |    -9.01 |    -8.17 |   -0.83 |       |
+| beat     |    -7.62 |    -8.42 |    0.8  |       |
+From: jgold@chopin.udel.edu (Jonathan Goldstein)
+Subject: Re: The Amazin' Isles!!!!!!
+
+WATCH OUT PITSBURGH HERE COME THE ISLES!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+They said we wouldn't make the playoffs and we came in third
+They said the Caps would beat us and they're not going to
+They say that Pitsburgh has a 1:1 ratio of winning the cup but We'll prove them
+wrong.
+
+
+L E T S   G O    I S L A N D E R S!!!!!!!  Bring it back home
+
+
+
+
+
+-- 
+            //////////   /////////   //      //
+                  //       //     //   // /   //
+                 //        //     //   //  /  //
+                //         //     //   /    / //

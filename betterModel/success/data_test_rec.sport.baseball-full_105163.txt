@@ -1,0 +1,22 @@
+0.00041792417864072945 0.9995820758213787 0.999164151642738 True
+prediction: baseball for data/test/rec.sport.baseball-full/105163
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| strike     |    -8.17 |   -10.39 |    2.22 | **    |
+| zone       |   -10.37 |    -8.31 |   -2.06 | **    |
+| speed      |    -8.58 |    -9.7  |    1.12 | **    |
+| making     |    -7.88 |    -8.78 |    0.9  |       |
+| need       |    -7.73 |    -8.6  |    0.87 |       |
+| go         |    -7.37 |    -6.54 |   -0.83 |       |
+| marginally |    -9.68 |   -10.39 |    0.72 |       |
+| quicker    |    -9.68 |   -10.39 |    0.72 |       |
+| realistic  |    -9.68 |   -10.39 |    0.72 |       |
+| strikes    |    -9.68 |   -10.39 |    0.72 |       |
+From: mbohler@udcps3.cps.udayton.edu (Michael Bohler)
+Subject: Re: How to speed up games (marginally realistic)
+
+To really speed up the game umps need to START CALLING STRIKES the way
+they used to.  I'm talking about making the strike zone start at the
+knees and go up to the top of the letters.  Forget this "the strike zone
+is in the general area of the groin".  A lot less 3-and-2 counts and a
+quicker game. 
