@@ -162,13 +162,23 @@ for _ in [1]:
     random.shuffle(combined)
     otrain_baseball[:], otrain_baseball_names[:], otrain_baseball_lens[:] = zip(*combined)
 
-    train_hockey = otrain_hockey[:8]
-    train_hockey_names = otrain_hockey_names[:8]
-    train_hockey_lens = otrain_hockey_lens[:8]
+    TRAINING_SIZE = 45
+    if (TRAINING_SIZE > 0):
+        train_hockey = otrain_hockey[:TRAINING_SIZE]
+        train_hockey_names = otrain_hockey_names[:TRAINING_SIZE]
+        train_hockey_lens = otrain_hockey_lens[:TRAINING_SIZE]
 
-    train_baseball = otrain_baseball[:8]
-    train_baseball_names = otrain_baseball_names[:8]
-    train_baseball_lens = otrain_baseball_lens[:8]
+        train_baseball = otrain_baseball[:TRAINING_SIZE]
+        train_baseball_names = otrain_baseball_names[:TRAINING_SIZE]
+        train_baseball_lens = otrain_baseball_lens[:TRAINING_SIZE]
+    else:
+        train_hockey = otrain_hockey
+        train_hockey_names = otrain_hockey_names
+        train_hockey_lens = otrain_hockey_lens
+
+        train_baseball = otrain_baseball
+        train_baseball_names = otrain_baseball_names
+        train_baseball_lens = otrain_baseball_lens
 
     print("sample 3", train_baseball_names[0:3])
     print("sample test 3", test_baseball_names[0:3])
@@ -280,8 +290,8 @@ for _ in [1]:
     # print("filtered", '\n'.join([str(x) for x in probs]))
     # print("tnames len", len(tNames))
 
-    incorrect = 0
-    correct = 0
+    numincorrect = 0
+    numcorrect = 0
 
     tNames = test_hockey_names + test_baseball_names
     tLens = test_hockey_lens + test_baseball_lens
@@ -491,10 +501,10 @@ for _ in [1]:
     for i in range(len(preds)):
         if tNames[i] in match_names1:
             idx = match_names1.index(tNames[i])
-            print("idx", idx, match_names1[idx], match_names2[idx], match_scores[idx])
+            # print("idx", idx, match_names1[idx], match_names2[idx], match_scores[idx])
             idx += 1
             while idx < len(match_names1) and match_names1[idx] == tNames[i]:
-                print("idx", idx, match_names1[idx], match_names2[idx], match_scores[idx])
+                # print("idx", idx, match_names1[idx], match_names2[idx], match_scores[idx])
                 j = tNames.index(match_names2[idx])
                 idx += 1
                 dest_dir = "data" + os.sep + "matches3"
@@ -533,6 +543,7 @@ for _ in [1]:
                     f2.writelines(outputs_b)
                     f2.write(lines)
 
+    # loop over the predicted emails, and put them in success or fail directories
     for i in range(len(preds)):
         if preds[i] != ty[i]:
             # print(i, "failed!", tNames[i])
@@ -558,10 +569,9 @@ for _ in [1]:
                         f2.writelines([' '.join([str(x) for x in [a, b, diff, correct]]) + '\n'])
                         f2.writelines(outputs)
                         f2.write(lines)
-            incorrect += 1
+            numincorrect += 1
             prediction = preds[i]
         else:
-            correct += 1
             dest = success_dir + os.sep + tNames[i].replace(os.sep, '_') + ".txt"
             # print("LENGTH of " + tNames[i] + " is " + str(tLens[i]))
             i, a, b, diff, name, correct = probs[i]
@@ -584,9 +594,10 @@ for _ in [1]:
                         f2.writelines([' '.join([str(x) for x in [a, b, diff, correct]]) + '\n'])
                         f2.writelines(outputs)
                         f2.write(lines)
+            numcorrect += 1
             prediction = preds[i]
 
-    print("score", correct, incorrect)
+    print("score", numcorrect, numincorrect)
 
     # print("params", clf.get_params())
     # feature_log_prob = p(xi | y)

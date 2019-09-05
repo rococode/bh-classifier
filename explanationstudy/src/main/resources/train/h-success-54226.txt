@@ -1,0 +1,23 @@
+0.9999991515259883 8.484740329914935e-07 0.9999983030519553 True
+prediction: hockey for data\test\rec.sport.hockey-full\54226
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| hitting   |   -10.28 |    -7.56 |   -2.71 | **    |
+| detroit   |    -7.5  |   -10.2  |    2.7  | **    |
+| leafs     |    -7.79 |   -10.2  |    2.41 | **    |
+| ice       |    -7.97 |   -10.2  |    2.23 | **    |
+| maple     |    -8.67 |   -10.2  |    1.53 | **    |
+| probert   |    -8.89 |   -10.2  |    1.31 | **    |
+| advantage |    -8.33 |    -9.51 |    1.18 | **    |
+| long      |    -9.18 |    -8.01 |   -1.17 | **    |
+| revenge   |    -9.18 |   -10.2  |    1.02 | **    |
+| series    |    -7.23 |    -8.26 |    1.02 | **    |
+From: rzuback@alumni.Lakeheadu.Ca
+Subject: Leafs Revenge!
+
+Tonight will see the Toronto Maple Leafs, as some have guessed, come out 
+hitting!  The "Buds" will grind Detroit into the ground and walk away with 
+home ice advantage for the remainder of the series... which given a shift to 
+Toronto, will not last long.  (Keep in mind this is only a predicition).  
+Wendall will have to get into the game however otherwise Probert will 
+dominate on the physical front.
