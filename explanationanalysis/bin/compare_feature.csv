@@ -1,0 +1,1200 @@
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice wendall,series detroit
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb hitbypitch atbats,baseball bb single
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey bruins,ny leads cup
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey golden,problem come
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,runs pitching,help much
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,105015-b-success.txt,model_correct,thought_correct,baseball,,receiver yankees runs,three much anyone
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,105087-b-success.txt,model_correct,thought_correct,baseball,,pitchers pitcher hitter,pitch got much
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,game,b
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,104947-b-failed.txt,model_incorrect,thought_correct,hockey,,jose mesa davis,cup really vs
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey players,results player
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sale,anyone appreciated email
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,cards,anyone
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's francis's,playing another gerald
+_feature,67f148a3-7792-4e49-bb33-cea40efe8a08,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,yakult nakagomi,st league
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,104910-b-success.txt,model_correct,thought_correct,baseball,sox,comiskey baseball,white played
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto maple,series detroit
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb obp hitbypitch,baseball bb single
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,104947-b-failed.txt,model_incorrect,thought_unsure,baseball,,throw ball outside,cup really vs
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl adirondack moncton,ny leads cup
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching pitchers braves,pitch help much
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl newfoundland,ny cup
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves hitter,pitch got much
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,games,b
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ice,need much
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54245-h-success.txt,model_correct,thought_correct,hockey,goal,periods hockey,results player
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sold,anyone appreciated email
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,cards,anyone
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus players jagr's,playing another gerald
+_feature,f363055c-2087-475c-86ff-ab6ba22cec97,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,yakult,st
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,104942-b-success.txt,model_correct,thought_unsure,baseball,baseball,thoughtful play,b winner
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball comiskey,white played
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54229-h-success.txt,model_correct,thought_incorrect,baseball,,bruins hockey ahl,ny leads cup
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice front,series detroit
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb walks atbats,baseball bb single
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck fired,greg really
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball throw,cup really vs
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles runs yankees,three much anyone
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitching runs,pitch help much
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,leafs' midjanuary,ny cup
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves smoltz,pitch got much
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,,penguins ice lines,nhl need much
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54220-h-success.txt,model_correct,thought_unsure,hockey,nhl,hockey 'stars,problem come
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sold,anyone appreciated email
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,54199-h-success.txt,model_correct,thought_correct,hockey,,time plusminus jagr's,playing another gerald
+_feature,a5eb967f-1051-4141-9c35-41eb1889bc58,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,hr japanese,st league
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball glove hit,sox white played
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto maple,series detroit
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54199-h-success.txt,model_correct,thought_unsure,hockey,,player's plusminus statistic,playing another gerald
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb atbats,bb single
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54229-h-success.txt,model_correct,thought_correct,hockey,cup,ahl playoff,ny leads
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey team,problem come
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching pitchers runs,pitch help much
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,105015-b-success.txt,model_correct,thought_correct,baseball,,receiver home runs,three much anyone
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey round ahl,ny cup leafs
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,105144-b-success.txt,model_correct,thought_unsure,baseball,,game lead straight,phillies phils anyone
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,pitcher braves,got much
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,professionals game,b winner
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey game,need much
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,104947-b-failed.txt,model_incorrect,thought_unsure,hockey,,foot pipe bleedin',cup really vs
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets public,anyone appreciated email
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature,8589a82f-f983-4dde-adb9-8aa319da003e,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,game,st
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,maple toronto,series detroit
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb hitbypitch ball,baseball bb single
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl adirondack hockey,ny leads cup
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball plate's foot,cup really vs
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,105015-b-success.txt,model_correct,thought_correct,baseball,,rams la yankees,three much anyone
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitching braves',help much
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54244-h-success.txt,model_correct,thought_correct,hockey,,leafs' hockey round,ny cup leafs
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves hitter,pitch got much
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,professionals boardgame,b winner
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets public,anyone appreciated email
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins hockey,need much
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's statistic,playing another gerald
+_feature,d1909a71-44cf-4f57-afae-b528f1355fcf,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,swallows yakult,st league
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball glove hit,sox white played
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54226-h-success.txt,model_correct,thought_correct,hockey,,ice wendall probert,leafs series detroit
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54199-h-success.txt,model_correct,thought_unsure,hockey,,plusminus jagr's francis's,playing another gerald
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb atbats walks,baseball bb single
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck checked,greg really
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl bruins hockey,ny leads cup
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball outside,cup really vs
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching runs hitting,pitch help much
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees runs hit,three much anyone
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey ahl bruins,ny cup leafs
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher hitter hitting,pitch got much
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,games dexterity,b winner
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey plusminus,need much
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sale,anyone appreciated email
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,50ea1222-e014-4741-b25e-95f16cc28576,104936-b-success.txt,model_correct,thought_correct,baseball,baseball st,hr,league
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54226-h-success.txt,model_correct,thought_correct,hockey,,ice toronto ground,leafs series detroit
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb atbats bat,baseball bb single
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck checked,greg really
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54229-h-success.txt,model_correct,thought_correct,hockey,cup,ahl hockey,ny leads
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball pipe,cup really vs
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey event,problem come
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees hit runs,three much anyone
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers braves' pitching,pitch help much
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54244-h-success.txt,model_correct,thought_correct,hockey,cup,ahl hockey,ny leafs
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54199-h-success.txt,model_correct,thought_unsure,baseball,,plusminus statistic minus,playing another gerald
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,105087-b-success.txt,model_correct,thought_correct,baseball,,braves pitcher hitting,pitch got much
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54260-h-success.txt,model_correct,thought_unsure,baseball,,'i ' borchevsky,gilmour slightly think
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,practise stragegy,b winner
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,,goalie points assists,final given goals
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,appreciated,allstar company,anyone email
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ,need much
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,e4eb9200-936f-4e88-98f2-8bb4997eac89,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,standing pct,st league
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice toronto,series detroit
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb hitbypitch atbats,baseball bb single
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey ecac,ny leads cup
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball plate's throw,cup really vs
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey ontario,problem come
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching braves' runs,pitch help much
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,hockey maple,ny cup
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54199-h-success.txt,model_correct,thought_unsure,baseball,,player's plusminus statistic,playing another gerald
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,105087-b-success.txt,model_correct,thought_correct,baseball,,braves pitcher pitchers,pitch got much
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,manual dexterity,b winner
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54260-h-success.txt,model_correct,thought_unsure,hockey,,borchevsky andreychuk burns,gilmour slightly think
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey plusminus,need much
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets public,anyone appreciated email
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards ,phils anyone
+_feature,2780cee4-6655-419a-8b44-5ebe762a63c6,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,yakult swallows,st league
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54199-h-success.txt,model_correct,thought_incorrect,baseball,,plusminus statistic stat,playing another gerald
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball hit glove,sox white played
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice maple,series detroit
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb hitbypitch,bb single
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck checked,greg really
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl calder hockey,ny leads cup
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball throw,cup really vs
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching hitting runs,pitch help much
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,105015-b-success.txt,model_correct,thought_correct,baseball,,runs yankees hit,three much anyone
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey bruins,ny cup leafs
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,pitcher hitting,got much
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,strategic managerial,b winner
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey plusminus,need much
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets out,anyone appreciated email
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,a2757c01-fd7e-40cc-8c22-820cb33566bc,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,hr pct,st league
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,maple buds,series detroit
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb obp hitbypitch,baseball bb single
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,,penguinsdevils puck checked,greg really goal
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey bruins,ny leads cup
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees jt snow,three much anyone
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers braves' pitching,pitch help much
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54244-h-success.txt,model_correct,thought_correct,hockey,,bruins hockey ahl,ny cup leafs
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves pitchers,got much
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,dexterity manual,b winner
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie regular,final given
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey plusminus,need much
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets company,anyone appreciated email
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,104947-b-failed.txt,model_incorrect,thought_unsure,hockey,,net huckabay gary,cup really vs
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's plusminus,playing another gerald
+_feature,c991a44c-149a-4696-8a04-76730c0a0f98,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,yakult swallows,st league
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball glove comiskey,sox white played
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto ice,series detroit
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb obp hitbypitch,baseball bb single
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl ecac hockey,ny leads cup
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's throw ball,cup really vs
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching braves' pitchers,pitch help much
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees hit,three much anyone
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey leafs',ny cup leafs
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves hitter,got much
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial professionals,b winner
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,assists goalie,final given
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins hockey,need much
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets sold,anyone appreciated email
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky burns,slightly think
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's francis's,playing another gerald
+_feature,595d44e6-553d-411d-b5d9-796ca9e91ca6,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,giants tigers,st league
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto maple,series detroit
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb hitbypitch errors,baseball bb single
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl playoff bruins,ny leads cup
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,cup,ball plate's,really vs
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey event,problem come
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees runs,three much anyone
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitching runs,pitch help much
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves hitter,pitch got much
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,practise professionals,b winner
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets company,anyone appreciated email
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's plusminus francis's,playing another gerald
+_feature,a8bef691-68d4-4b8d-874d-4185165eaea9,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,team hr,st league
+_feature,c7326343-5283-47af-8dec-006bf043b282,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature,c7326343-5283-47af-8dec-006bf043b282,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice advantage,series detroit
+_feature,c7326343-5283-47af-8dec-006bf043b282,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb atbats hitbypitch,baseball bb single
+_feature,c7326343-5283-47af-8dec-006bf043b282,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature,c7326343-5283-47af-8dec-006bf043b282,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey playoff,ny leads cup
+_feature,c7326343-5283-47af-8dec-006bf043b282,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball throw plate's,cup really vs
+_feature,c7326343-5283-47af-8dec-006bf043b282,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,'stars hockey,problem come
+_feature,c7326343-5283-47af-8dec-006bf043b282,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers braves' runs,pitch help much
+_feature,c7326343-5283-47af-8dec-006bf043b282,105015-b-success.txt,model_correct,thought_correct,baseball,,receiver rams yankees,three much anyone
+_feature,c7326343-5283-47af-8dec-006bf043b282,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl playoff hockey,ny cup leafs
+_feature,c7326343-5283-47af-8dec-006bf043b282,105087-b-success.txt,model_correct,thought_correct,baseball,,stoppers braves pitcher,pitch got much
+_feature,c7326343-5283-47af-8dec-006bf043b282,105144-b-success.txt,model_correct,thought_unsure,baseball,phils phillies,cards,anyone
+_feature,c7326343-5283-47af-8dec-006bf043b282,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,games catch,b winner
+_feature,c7326343-5283-47af-8dec-006bf043b282,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,,goalie points assists,final given goals
+_feature,c7326343-5283-47af-8dec-006bf043b282,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,c7326343-5283-47af-8dec-006bf043b282,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature,c7326343-5283-47af-8dec-006bf043b282,54245-h-success.txt,model_correct,thought_correct,hockey,,hockey assist percentage,results goal player
+_feature,c7326343-5283-47af-8dec-006bf043b282,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets public,anyone appreciated email
+_feature,c7326343-5283-47af-8dec-006bf043b282,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's statistic,playing another gerald
+_feature,c7326343-5283-47af-8dec-006bf043b282,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,giants,st
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball glove hit,sox white played
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice maple,series detroit
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb bunts,bb single
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck holding,greg really
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl bruins ecac,ny leads cup
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball outside,cup really vs
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,pee wee,problem come
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers runs braves',pitch help much
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees hit runs,three much anyone
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher mantle hitting,pitch got much
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,professionals game,b winner
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets sold,anyone appreciated email
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,,hockey penguins ice,nhl need much
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,54199-h-success.txt,model_correct,thought_correct,hockey,playing,jagr's plusminus,another gerald
+_feature,d89c72b6-92c3-4a33-ac29-e1592101657b,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,w gb,st league
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice physical,series detroit
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb hits hitbypitch,baseball bb single
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck checked,greg really
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl rochester breton,ny leads cup
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball throw plate's,cup really vs
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles runs home,three much anyone
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitching runs,pitch help much
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,hockey ahl,ny cup
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves pitchers,pitch got much
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,dexterity strategic,b winner
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,,plusminus hockey penguins,nhl need much
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets work,anyone appreciated email
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards lead,phils anyone
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,54199-h-success.txt,model_correct,thought_correct,hockey,,time plusminus role,playing another gerald
+_feature,1ee97795-e9e4-4106-8eea-13e041aa61dc,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,swallows hr,st league
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,104910-b-success.txt,model_correct,thought_correct,baseball,,glove comiskey baseball,sox white played
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,maple ice,series detroit
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb obp batter,baseball bb single
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,,puck checked lineman,greg really goal
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey bruins,ny leads cup
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,canada 'stars,problem come
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching braves hitting,pitch help much
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees hit,three much anyone
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey bruins,ny cup leafs
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves hit,got much
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial game,b winner
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie points,final given
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins hockey,need much
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,104947-b-failed.txt,model_incorrect,thought_unsure,hockey,,ball control net,cup really vs
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sale,anyone appreciated email
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's minus plus,playing another gerald
+_feature,62129a76-4e9c-434f-837e-723d6d55aea4,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,hr giants,st league
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54226-h-success.txt,model_correct,thought_correct,hockey,detroit,ice toronto,leafs series
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb batter,bb single
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey rochester,ny leads cup
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball throw plate's,cup really vs
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers hitting braves,pitch help much
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey maple toronto,ny cup leafs
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher hitting braves,pitch got much
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,managerial,b
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey plusminus,need much
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets public,anyone appreciated email
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,54199-h-success.txt,model_correct,thought_correct,hockey,playing,plusminus time,another gerald
+_feature,fe5fb431-2d99-4e20-8f5b-fe14c0ee8d9e,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,central,st
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto maple,series detroit
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb hits walks,baseball bb single
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck corner,greg really
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey recsporthockey,ny leads cup
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball plate's oakland,cup really vs
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey franchise,problem come
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching cy young,pitch help much
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,105087-b-success.txt,model_correct,thought_correct,baseball,,braves smoltz glavine,pitch got much
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,professionals for,b winner
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets want,anyone appreciated email
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,pat burns,slightly think
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus statistic stat,playing another gerald
+_feature,a7b49193-472a-4bb8-9623-a183a02410b8,104936-b-success.txt,model_correct,thought_correct,baseball,baseball, w,st league
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice wendall,series detroit
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb bunts,bb single
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl recsporthockey hockey,ny leads cup
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball outside,cup really vs
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey wee,problem come
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees runs hit,three much anyone
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching pitchers hitting,pitch help much
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey ahl recsporthockey,ny cup leafs
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,pitcher braves,got much
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial strategic,b winner
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey shorthanded,need much
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar company tickets,anyone appreciated email
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's time,playing another gerald
+_feature,7de158ce-e15e-4413-bad8-08ba7f22186c,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,gb swallows,st league
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto maple,series detroit
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb hitbypitch,bb single
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,104947-b-failed.txt,model_incorrect,thought_unsure,baseball,,jose storm oakland,cup really vs
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl rochester utica,ny leads cup
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitching braves,help much
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,105015-b-success.txt,model_correct,thought_correct,baseball,,home runs hit,three much anyone
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,pitcher braves,got much
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,professionals game,b winner
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,54199-h-success.txt,model_correct,thought_correct,hockey,,player's plusminus statistic,playing another gerald
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,104944-b-failed.txt,model_incorrect,thought_correct,hockey,,allstar tickets public,anyone appreciated email
+_feature,b5723cfe-80fb-49ce-a224-24eb64e4f613,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,swallows tigers,st league
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,104910-b-success.txt,model_correct,thought_correct,baseball,sox,comiskey glove,white played
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,maple ice,series detroit
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb obp flies,baseball bb single
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl calder bruins,ny leads cup
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,oakland plate's ball,cup really vs
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers hitting braves',pitch help much
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey bruins ahl,ny cup leafs
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,105087-b-success.txt,model_correct,thought_correct,baseball,,braves pitcher hitting,pitch got much
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,rainy managerial,b winner
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,assists goalie,final given
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,,penguins  shorthanded,nhl need much
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54245-h-success.txt,model_correct,thought_correct,hockey,goal,assist hockey,results player
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sold,anyone appreciated email
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's francis's,playing another gerald
+_feature,a327c75d-d55f-40c8-9eb7-83d86db5f940,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,hr japanese,st league
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball glove hit,sox white played
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54226-h-success.txt,model_correct,thought_correct,hockey,detroit,ice toronto,leafs series
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,obp mlb,bb single
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck corner,greg really
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54229-h-success.txt,model_correct,thought_correct,hockey,cup,ahl hockey,ny leads
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,jose mesa oakland,cup really vs
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers runs pitching,pitch help much
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey round,ny cup leafs
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher hitting hitter,pitch got much
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,stragegy managerial,b winner
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,plusminus hockey,need much
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sale,anyone appreciated email
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,54199-h-success.txt,model_correct,thought_correct,hockey,playing,time plusminus,another gerald
+_feature,0aefe6dd-c342-4361-a059-0b906b7e576d,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,hr gb,st league
+_feature,019b3234-e20b-4c63-803a-072c2c722745,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball comiskey,white played
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto maple,series detroit
+_feature,019b3234-e20b-4c63-803a-072c2c722745,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb error hitbypitch,baseball bb single
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl wings bruins,ny leads cup
+_feature,019b3234-e20b-4c63-803a-072c2c722745,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball outside,cup really vs
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,019b3234-e20b-4c63-803a-072c2c722745,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees runs angeles,three much anyone
+_feature,019b3234-e20b-4c63-803a-072c2c722745,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitchers pitching,pitch help much
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl maple,ny cup
+_feature,019b3234-e20b-4c63-803a-072c2c722745,105087-b-success.txt,model_correct,thought_correct,baseball,,braves stopper pitcher,pitch got much
+_feature,019b3234-e20b-4c63-803a-072c2c722745,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial boardgame,b winner
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,,plusminus hockey penguins,nhl need much
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,019b3234-e20b-4c63-803a-072c2c722745,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets company,anyone appreciated email
+_feature,019b3234-e20b-4c63-803a-072c2c722745,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,019b3234-e20b-4c63-803a-072c2c722745,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's plusminus,playing another gerald
+_feature,019b3234-e20b-4c63-803a-072c2c722745,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,swallows tigers,st league
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,weiss,played
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto maple,series detroit
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb walks atbats,baseball bb single
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54229-h-success.txt,model_correct,thought_correct,hockey,cup,roundhome calder,ny leads
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,golden gophers,problem come
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching pitchers runs,pitch help much
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees rookie,three much anyone
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,maple john's,ny cup
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher hitter hitting,pitch got much
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,catch game,b winner
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie points,final given
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets sold,anyone appreciated email
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,plusminus hockey,need much
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,104947-b-failed.txt,model_incorrect,thought_unsure,hockey,,aircraft homeowners astronomers,cup really vs
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards game,phils anyone
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's francis's,playing another gerald
+_feature,098d4671-7b78-4096-8504-c6f356d9df8d,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,pct giants,st league
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,104910-b-success.txt,model_correct,thought_correct,baseball,sox white,baseball,played
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,maple ice,series detroit
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb walks hitbypitch,baseball bb single
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey bruins,ny leads cup
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,pipe plate's ball,cup really vs
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,105015-b-success.txt,model_correct,thought_correct,baseball,,home runs hit,three much anyone
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitching runs,pitch help much
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,105087-b-success.txt,model_correct,thought_correct,baseball,,braves pitcher pitchers,pitch got much
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,professionals stragegy,b winner
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets want,anyone appreciated email
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's plusminus francis's,playing another gerald
+_feature,725acbe9-44d6-492f-a95d-bf8ed923b5a3,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,pct gb,st league
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice probert,series detroit
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,105058-b-success.txt,model_correct,thought_correct,baseball,,atbats walks hitbypitch,baseball bb single
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,104910-b-success.txt,model_correct,thought_incorrect,hockey,,baseball glove hit,sox white played
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck checked,greg really
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey ot,ny leads cup
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball throw,cup really vs
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers runs pitching,pitch help much
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees hit runs,three much anyone
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,hockey ahl,ny cup
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher hitting hit,pitch got much
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,games managerial,b winner
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ice,need much
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,tickets allstar public,anyone appreciated email
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54260-h-success.txt,model_correct,thought_correct,hockey,,outweighs burns andreychuk,gilmour slightly think
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's plusminus francis's,playing another gerald
+_feature,7616a7ac-5c89-4765-a934-50b38c8ee3a3,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,hr ,st league
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto maple,series detroit
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54199-h-success.txt,model_correct,thought_unsure,hockey,,jagr's francis's players,playing another gerald
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,hitbypitch atbats,bb single
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,104947-b-failed.txt,model_incorrect,thought_unsure,baseball,vs,mesa davis,cup really
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl moncton adirondack,ny leads cup
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching pitchers hitting,pitch help much
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,105015-b-success.txt,model_correct,thought_correct,baseball,,pitching pitchers hitting,three much anyone
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,105087-b-success.txt,model_correct,thought_correct,baseball,,stopper pitcher braves,pitch got much
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,dexterity game,b winner
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54244-h-success.txt,model_correct,thought_incorrect,baseball,,sox glove baseball,ny cup leafs
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54245-h-success.txt,model_correct,thought_incorrect,baseball,,phillies phils pennant,results goal player
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins hockey,need much
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets company,anyone appreciated email
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,cards,anyone
+_feature,99b4fa3b-d912-4d34-9d27-ebbf291a5501,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,swallows tigers,st league
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball comiskey,white played
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice physical,series detroit
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb walks ball,baseball bb single
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl bruins hockey,ny leads cup
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball plate's throw,cup really vs
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey wee,problem come
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching pitchers cy,pitch help much
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl maple hockey,ny cup leafs
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves pitcher,got much
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial dexterity,b winner
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar sold out,anyone appreciated email
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ice,need much
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's plusminus,playing another gerald
+_feature,86022a81-8113-43e8-b9f8-eb48c905ee27,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,central,st
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,104910-b-success.txt,model_correct,thought_correct,baseball,sox,comiskey baseball,white played
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,shift maple,series detroit
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb batter hitbypitch,baseball bb single
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54229-h-success.txt,model_correct,thought_correct,hockey,cup,ahl calder,ny leads
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball outside,cup really vs
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees runs hit,three much anyone
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitchers pitching,help much
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey ecac,ny cup leafs
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher hitting hitter,pitch got much
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial professionals,b winner
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,ice shorthanded,need much
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54245-h-success.txt,model_correct,thought_correct,hockey,,periods hockey assist,results goal player
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets sold,anyone appreciated email
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54260-h-success.txt,model_correct,thought_correct,hockey,,andreychuk borchevsky burns,gilmour slightly think
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's minus,playing another gerald
+_feature,e83a451f-7349-4132-8b0b-7381ffe1b0a8,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,hr japanese,st league
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,104910-b-success.txt,model_correct,thought_correct,baseball,sox,hit baseball,white played
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54226-h-success.txt,model_correct,thought_correct,hockey,detroit,ice shift,leafs series
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb obp atbats,baseball bb single
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,,penguinsdevils puck checked,greg really goal
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl games series,ny leads cup
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,california oakland mesa,cup really vs
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,'stars franchise,problem come
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitching pitchers,help much
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees runs home,three much anyone
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl playoff,ny cup
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,105087-b-success.txt,model_correct,thought_correct,baseball,,braves hitter pitcher,pitch got much
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,strategic game,b winner
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's stat,playing another gerald
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,104944-b-failed.txt,model_incorrect,thought_correct,hockey,,allstar tickets sold,anyone appreciated email
+_feature,cbc6b014-beb6-4bf3-9389-40092dc7cc15,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,giants tigers,st league
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball buford,white played
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice maple,series detroit
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb batter,bb single
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck checked,greg really
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54229-h-success.txt,model_correct,thought_correct,hockey,cup,ahl hockey,ny leads
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,mesa davis ball,cup really vs
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers runs hitting,pitch help much
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees runs,three much anyone
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves pitcher,got much
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,rainy managerial,b winner
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets out,anyone appreciated email
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ice,need much
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,cards,anyone
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's francis's,playing another gerald
+_feature_explain,45af97a1-fd19-47a3-a639-405f1150ea7e,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,japanese yakult,st league
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball glove hit,sox white played
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto ice,series detroit
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,105058-b-success.txt,model_correct,thought_correct,baseball,baseball bb,obp,single
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl bruins hockey,ny leads cup
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching braves' hitting,pitch help much
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles california yankees,three much anyone
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,105087-b-success.txt,model_correct,thought_correct,baseball,,stoppers braves slump,pitch got much
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,managerial,b
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54245-h-success.txt,model_correct,thought_correct,hockey,goal,periods canada,results player
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,104947-b-failed.txt,model_incorrect,thought_unsure,hockey,cup,net pipe,really vs
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar sale public,anyone appreciated email
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,pennant,anyone
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,54199-h-success.txt,model_correct,thought_correct,hockey,,olchowy jagr's plusminus,playing another gerald
+_feature_explain,bd7eb0ab-5d20-4fbd-97fd-e8fd9849317b,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,swallows,st
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,104910-b-success.txt,model_correct,thought_correct,baseball,,glove baseball players,sox white played
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54226-h-success.txt,model_correct,thought_correct,hockey,leafs detroit,maple,series
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb hits,bb single
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,,puck penguinsdevils checked,greg really goal
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl ecac hockey,ny leads cup
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey gophers,problem come
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitching cy,pitch help much
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles rams yankees,three much anyone
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl newfoundland hockey,ny cup leafs
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves pendleton,got much
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,104942-b-success.txt,model_correct,thought_correct,baseball,,play professionals games,b winner baseball
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie points,final given
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey lines,need much
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54245-h-success.txt,model_correct,thought_correct,hockey,,hockey periods game,results goal player
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,104947-b-failed.txt,model_incorrect,thought_unsure,hockey,vs really,net,cup
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets sale,anyone appreciated email
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's player's,playing another gerald
+_feature_explain,9aad824c-9409-4818-8861-a009b6c34ff0,104936-b-success.txt,model_correct,thought_correct,baseball,,swallows hr l,st baseball league
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball comiskey,white played
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto maple,series detroit
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb obp,bb single
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,,penguinsdevils puck checked,greg really goal
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl rochester recsporthockey,ny leads cup
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,oakland mesa davis,cup really vs
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,'stars minnesotayou,problem come
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitching runs,pitch help much
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees runs,three much anyone
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl maple,ny cup
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,105087-b-success.txt,model_correct,thought_correct,baseball,,braves pitcher hitter,pitch got much
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial stragegy,b winner
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie points,final given
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets public,anyone appreciated email
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins lines,need much
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,cards,anyone
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's golchowyalchemychemutorontoca,playing another gerald
+_feature_explain,cf620235-96fe-49f3-8af5-9afe355ca21b,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,yakult swallows,st league
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,wendall ice,series detroit
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54199-h-success.txt,model_correct,thought_unsure,hockey,gerald,olchowy time,playing another
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,105058-b-success.txt,model_correct,thought_correct,baseball,baseball single,mlb,bb
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl utica moncton,ny leads cup
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,105015-b-success.txt,model_correct,thought_correct,baseball,,rookie yankees runs,three much anyone
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching pitchers braves',pitch help much
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,pitcher hitting,got much
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial professionals,b winner
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie points,final given
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,pat burns,slightly think
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins hockey,need much
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,104947-b-failed.txt,model_incorrect,thought_unsure,hockey,cup vs,plate's,really
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sale,anyone appreciated email
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature_explain,1714d209-87b3-4059-9e52-281f78b0a0b6,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,team,st
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice toronto,series detroit
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54199-h-success.txt,model_correct,thought_unsure,hockey,,plusminus players role,playing another gerald
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb ground ball,baseball bb single
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54229-h-success.txt,model_correct,thought_correct,hockey,,hockey ahl rochester,ny leads cup
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball throw,cup really vs
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey gophers,problem come
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers pitching braves,pitch help much
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,hockey toronto,ny cup
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves hitting,pitch got much
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,catch stragegy,b winner
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins ice,need much
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets sale,anyone appreciated email
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature_explain,7659d34c-1745-40ba-976c-5d9fad561ec9,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,pro team,st league
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,toronto ice,series detroit
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb hitbypitch atbats,baseball bb single
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey utica,ny leads cup
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,huckabay jose mesa,cup really vs
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,'stars canada,problem come
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,105015-b-success.txt,model_correct,thought_correct,baseball,,jt snow angeles,three much anyone
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitching pitchers,pitch help much
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl recsporthockey,ny cup
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves pitcher,got much
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,manual dexterity,b winner
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins plusminus,need much
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey canada,results player
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,email,allstar tickets,anyone appreciated
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,pat burns,slightly think
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's olchowy,playing another gerald
+_feature_explain,59da8950-b504-4113-b378-7682b72bdd14,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,gb,st
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball comiskey glove,sox white played
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice probert,series detroit
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb hitbypitch,bb single
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl bruins hockey,ny leads cup
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball oakland,cup really vs
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey franchise,problem come
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching braves' pitchers,pitch help much
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey bruins ahl,ny cup leafs
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher hitter hitting,pitch got much
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial stragegy,b winner
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie season,final given
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ice,need much
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets company,anyone appreciated email
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant lead,phils anyone
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's plusminus,playing another gerald
+_feature_explain,9062430c-7852-4926-b0b0-8c5a191d74e3,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,tigers hanshin,st league
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,104910-b-success.txt,model_correct,thought_correct,baseball,,glove hit comiskey,sox white played
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,maple toronto,series detroit
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb errors hitbypitch,baseball bb single
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54229-h-success.txt,model_correct,thought_correct,hockey,,bruins ahl hockey,ny leads cup
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball oakland plate's,cup really vs
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitching pitchers,pitch help much
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey leafs',ny cup leafs
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves hit,pitch got much
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,games play,b winner
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins ice,need much
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54245-h-success.txt,model_correct,thought_correct,hockey,,periods assist hockey,results goal player
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar sale tickets,anyone appreciated email
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54260-h-success.txt,model_correct,thought_correct,hockey,,borchevsky andreychuk burns,gilmour slightly think
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's players,playing another gerald
+_feature_explain,fdfa9b45-5710-4a5b-bdba-dba3261b407a,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,tigers hr,st league
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,104910-b-success.txt,model_correct,thought_correct,baseball,sox white,baseball,played
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice maple,series detroit
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb obp,bb single
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,104947-b-failed.txt,model_incorrect,thought_unsure,baseball,,ball plate's outside,cup really vs
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl playoff hockey,ny leads cup
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,105015-b-success.txt,model_correct,thought_correct,baseball,,home runs angeles,three much anyone
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitchers braves',help much
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,105087-b-success.txt,model_correct,thought_correct,baseball,,stopper pitcher braves,pitch got much
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial stragegy,b winner
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ice,need much
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets public,anyone appreciated email
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,pennant,anyone
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's francis's,playing another gerald
+_feature_explain,53cec591-6adf-4630-8dfa-4af235aec433,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,swallows tigers,st league
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,104910-b-success.txt,model_correct,thought_correct,baseball,,glove hit sixties,sox white played
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice toronto,series detroit
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,105058-b-success.txt,model_correct,thought_correct,baseball,,batter ball hitless,baseball bb single
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54229-h-success.txt,model_correct,thought_correct,hockey,,hockey ahl recsporthockey,ny leads cup
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,throw the ball,cup really vs
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54220-h-success.txt,model_correct,thought_correct,hockey,,hockey school high,nhl problem come
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers braves' pitching,pitch help much
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees hit,three much anyone
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey bruins ahl,ny cup leafs
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,105087-b-success.txt,model_correct,thought_correct,baseball,,pitchers smoltz braves,pitch got much
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,games game,b winner
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,,goalie points assists,final given goals
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,,penguins  shorthanded,nhl need much
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54245-h-success.txt,model_correct,thought_correct,hockey,,hockey canada periods,results goal player
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets public,anyone appreciated email
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54260-h-success.txt,model_correct,thought_correct,hockey,,outweighs andreychuk borchevsky,gilmour slightly think
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus statistic player's,playing another gerald
+_feature_explain,b7fb167a-066d-4ceb-8402-56a0a4c1c249,104936-b-success.txt,model_correct,thought_correct,baseball,,team japanese game,st baseball league
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,104910-b-success.txt,model_correct,thought_correct,baseball,sox,glove hit,white played
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,maple grind,series detroit
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,105058-b-success.txt,model_correct,thought_correct,baseball,baseball single,obp,bb
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54229-h-success.txt,model_correct,thought_correct,hockey,cup,bruins hockey,ny leads
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball plate's pipe,cup really vs
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey gophers,problem come
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,braves' runs,help much
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees runs,three much anyone
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves pitchers,got much
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,stragegy,b
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,assists goalie,final given
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54245-h-success.txt,model_correct,thought_correct,hockey,goal player,hockey,results
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,pennant,anyone
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's olchowy,playing another gerald
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,104944-b-failed.txt,model_incorrect,thought_correct,hockey,,allstar tickets sale,anyone appreciated email
+_feature_explain,db6b2ac1-9c52-4381-9f8d-d2b8ea8e0b47,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,swallows giants,st league
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,104910-b-success.txt,model_correct,thought_correct,baseball,sox,glove hit,white played
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54226-h-success.txt,model_correct,thought_correct,hockey,leafs detroit,ice,series
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,walks batter,bb single
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck checked,greg really
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl rochester hockey,ny leads cup
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's ball control,cup really vs
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,105015-b-success.txt,model_correct,thought_correct,baseball,,runs hit yankees,three much anyone
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitchers hitting,help much
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey ahl toronto,ny cup leafs
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,hitter pitchers,got much
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial strategic,b winner
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,ice hockey,need much
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar company answers,anyone appreciated email
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,outweighs borchevsky,slightly think
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus role jagr's,playing another gerald
+_feature_explain,c5492cbc-5b8c-4d55-88c9-9544cc0f418e,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,gb,st
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball comiskey,white played
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54226-h-success.txt,model_correct,thought_correct,hockey,leafs detroit,ice,series
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54199-h-success.txt,model_correct,thought_unsure,hockey,playing,plusminus time,another gerald
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb hitbypitch,bb single
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,104947-b-failed.txt,model_incorrect,thought_unsure,baseball,cup,ball plate's,really vs
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey recsporthockey,ny leads cup
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey franchise,problem come
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,105015-b-success.txt,model_correct,thought_correct,baseball,,home runs hit,three much anyone
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching braves' runs,pitch help much
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves hitter,pitch got much
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,manual professionals,b winner
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,assists goalie,final given
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ice,need much
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets company,anyone appreciated email
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature_explain,022a9302-7362-483d-98b8-3c14f0ee0795,104936-b-success.txt,model_correct,thought_correct,baseball,baseball st,hr,league
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice maple,series detroit
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb hitbypitch batter,baseball bb single
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,104947-b-failed.txt,model_incorrect,thought_unsure,baseball,,ball plate's outside,cup really vs
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,,games penguinsdevils puck,greg really goal
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54229-h-success.txt,model_correct,thought_correct,hockey,,hockey ahl wings,ny leads cup
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey team,problem come
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching pitchers braves,pitch help much
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves hitting,got much
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,game practise,b winner
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,outweighs borchevsky,slightly think
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets sold,anyone appreciated email
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins hockey,need much
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey players,results player
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,54199-h-success.txt,model_correct,thought_correct,hockey,,statistic players jagr's,playing another gerald
+_feature_explain,16c193cb-d073-4a24-9511-acd24a952f77,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,team baystars,st league
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54226-h-success.txt,model_correct,thought_correct,hockey,leafs series,maple,detroit
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,105058-b-success.txt,model_correct,thought_correct,baseball,baseball bb,mlb,single
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,104947-b-failed.txt,model_incorrect,thought_unsure,baseball,,jose mesa davis,cup really vs
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl playoff calder,ny leads cup
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitching braves,help much
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees rookie rams,three much anyone
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves stoppers,got much
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,professionals tunney's,b winner
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,final goals,season,given
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54260-h-success.txt,model_correct,thought_unsure,hockey,,pat burns borchevsky,gilmour slightly think
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey game,need much
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54245-h-success.txt,model_correct,thought_correct,hockey,player,hockey game,results goal
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar sold out,anyone appreciated email
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,game,anyone
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,54199-h-success.txt,model_correct,thought_correct,hockey,gerald,players' olchowy,playing another
+_feature_explain,8ef80138-54c7-41ad-b220-3b747d24d610,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,pro,st
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball dogs,white played
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54226-h-success.txt,model_correct,thought_correct,hockey,leafs series detroit,,
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54199-h-success.txt,model_correct,thought_unsure,hockey,,plusminus jagr's olchowy,playing another gerald
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,105058-b-success.txt,model_correct,thought_correct,baseball,baseball single,bat,bb
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck fired,greg really
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54229-h-success.txt,model_correct,thought_correct,hockey,leads cup,ahl,ny
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,plate's throw ball,cup really vs
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey golden,problem come
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,105086-b-success.txt,model_correct,thought_correct,baseball,,pitching braves pitchers,pitch help much
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees runs,three much anyone
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54244-h-success.txt,model_correct,thought_correct,hockey,leafs cup,ahl,ny
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,mantle stopper,got much
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner b,,
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,final goals,goalie,given
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets sold,anyone appreciated email
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,cards,anyone
+_feature_explain,50d279f3-09f9-48d6-affc-03fee5515be1,104936-b-success.txt,model_correct,thought_correct,baseball,baseball st,yakult,league
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54226-h-success.txt,model_correct,thought_correct,hockey,leafs detroit,maple,series
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,105058-b-success.txt,model_correct,thought_correct,baseball,baseball single,mlb,bb
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,104947-b-failed.txt,model_incorrect,thought_unsure,baseball,vs,ball oakland,cup really
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl red wings,ny leads cup
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,'stars hockey,problem come
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitching braves,help much
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees angeles snow,three much anyone
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl maple,ny cup
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves glavine,got much
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,professionals managerial,b winner
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie points,final given
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins ,need much
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54245-h-success.txt,model_correct,thought_correct,hockey,goal player,hockey,results
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,104944-b-failed.txt,model_incorrect,thought_unsure,hockey,,allstar tickets sale,anyone appreciated email
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,cards,anyone
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's olchowy plusminus,playing another gerald
+_feature_explain,4e107f71-3512-48fe-89d3-cfa44b3f3ce0,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,hr,st
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice toronto,series detroit
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb obp,bb single
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl rochester binghamton,ny leads cup
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball plate's outside,cup really vs
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey gophers,problem come
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,braves runs,help much
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves hitting,pitch got much
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,104942-b-success.txt,model_correct,thought_correct,baseball,baseball b,games,winner
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets public,anyone appreciated email
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus statistic jagr's,playing another gerald
+_feature_explain,8733641e-8e2f-48bd-a20c-2d3479ee4af9,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,yakult swallows,st league
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,maple buds,series detroit
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,hitbypitch hitless,bb single
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54229-h-success.txt,model_correct,thought_correct,hockey,leads cup,playoff,ny
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,mesa davis ball,cup really vs
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,braves' pitching,help much
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,105015-b-success.txt,model_correct,thought_correct,baseball,,home runs yankees,three much anyone
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,hockey maple,ny cup
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,pitcher braves,got much
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,professionals,b
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie points,final given
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,email,allstar public,anyone appreciated
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,penguins hockey,need much
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54245-h-success.txt,model_correct,thought_correct,hockey,goal player,hockey,results
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,pat burns,slightly think
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,pennant,anyone
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,54199-h-success.txt,model_correct,thought_correct,hockey,gerald,jagr's francis's,playing another
+_feature_explain,21252cc1-ffad-441a-845e-682fc4f4a1fd,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,pro,st
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,baseball,played
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,maple toronto,series detroit
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54199-h-success.txt,model_correct,thought_unsure,hockey,,olchowy player's jagr's,playing another gerald
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb hitbypitch,bb single
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,,games penguinsdevils puck,greg really goal
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl playoff roundhome,ny leads cup
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,mesa ball jose,cup really vs
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey gophers,problem come
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,braves pitchers,help much
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,105015-b-success.txt,model_correct,thought_correct,baseball,,rookie angeles yankees,three much anyone
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl playoff,ny cup
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,pitcher braves,got much
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,professionals,b
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie season,final given
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets public,anyone appreciated email
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,stat penguins,need much
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54245-h-success.txt,model_correct,thought_correct,hockey,player goal,hockey,results
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,burns borchevsky,slightly think
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,lead pennant,phils anyone
+_feature_explain,2f8883d8-0e9f-48ae-8aac-fd716b16f6e3,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,team standing,st league
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball weiss buford,sox white played
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice toronto,series detroit
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb atbats,bb single
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck corner,greg really
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl bruins hockey,ny leads cup
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,davis huckabay plate's,cup really vs
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees hit,three much anyone
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitchers braves,help much
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey bruins ahl,ny cup leafs
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,105087-b-success.txt,model_correct,thought_correct,baseball,pitch,braves stopper,got much
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,professionals,b
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,tickets allstar sale,anyone appreciated email
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,54199-h-success.txt,model_correct,thought_correct,hockey,,players' jagr's francis's,playing another gerald
+_feature_explain,a5107696-8c3b-44e2-87ce-1e2c1bcffb34,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,tigers team,st league
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice probert,series detroit
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb atbats walks,baseball bb single
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl bruins hockey,ny leads cup
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball plate's mesa,cup really vs
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,'stars hockey,problem come
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,105086-b-success.txt,model_correct,thought_correct,baseball,,braves pitchers hitting,pitch help much
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees runs hit,three much anyone
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,bruins hockey,ny cup
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,105087-b-success.txt,model_correct,thought_correct,baseball,,braves pitcher hitting,pitch got much
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,managerial strategic,b winner
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,,hockey penguins ice,nhl need much
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54245-h-success.txt,model_correct,thought_correct,hockey,goal,periods assist,results player
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sale,anyone appreciated email
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,pennant cards,phils anyone
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's role,playing another gerald
+_feature_explain,74e6358e-877d-4087-b886-41eecc04f6af,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,giants swallows,st league
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,104910-b-success.txt,model_correct,thought_correct,baseball,,baseball players good,sox white played
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54226-h-success.txt,model_correct,thought_correct,hockey,,maple predicition game,leafs series detroit
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb ground ball,baseball bb single
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54198-h-failed.txt,model_incorrect,thought_correct,baseball,,game statistic matched,nhl need much
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54229-h-success.txt,model_correct,thought_correct,hockey,leads,playoff games,ny cup
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54220-h-success.txt,model_correct,thought_correct,hockey,,hockey minnesotayou enjoy,nhl problem come
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,105015-b-success.txt,model_correct,thought_correct,baseball,,personality california organization,three much anyone
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,105086-b-success.txt,model_correct,thought_correct,baseball,,young winners braves',pitch help much
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey games playing,ny cup leafs
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,105087-b-success.txt,model_correct,thought_correct,baseball,,stopper braves smith,pitch got much
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54174-h-failed.txt,model_incorrect,thought_correct,baseball,,game showing running,greg really goal
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,104942-b-success.txt,model_correct,thought_correct,baseball,,professionals game friends,b winner baseball
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,104947-b-failed.txt,model_incorrect,thought_correct,hockey,,kenny homeowners gary,cup really vs
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54245-h-success.txt,model_correct,thought_correct,hockey,,hockey percentage game,results goal player
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54172-h-failed.txt,model_incorrect,thought_correct,baseball,,points probably several,final given goals
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,andreychuk borchevsky,slightly think
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,game cards,phils anyone
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,54199-h-success.txt,model_correct,thought_correct,hockey,,compare jagr's francis's,playing another gerald
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,104944-b-failed.txt,model_incorrect,thought_correct,hockey,,allstar public company,anyone appreciated email
+_feature_explain,498fb326-09ed-4cef-a190-247449c5269d,104936-b-success.txt,model_correct,thought_correct,baseball,,game standing giants,st baseball league
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54226-h-success.txt,model_correct,thought_incorrect,baseball,detroit leafs series,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,104910-b-success.txt,model_correct,thought_correct,baseball,sox white played,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,105058-b-success.txt,model_correct,thought_correct,baseball,baseball single bb,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal greg really,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54229-h-success.txt,model_correct,thought_correct,hockey,leads cup ny,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54220-h-success.txt,model_correct,thought_correct,hockey,nhl come problem,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,105015-b-success.txt,model_correct,thought_correct,baseball,anyone much three,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,105086-b-success.txt,model_correct,thought_correct,baseball,pitch much help,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54244-h-success.txt,model_correct,thought_correct,hockey,leafs cup ny,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,105087-b-success.txt,model_correct,thought_correct,baseball,pitch much got,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner b,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,given goals final,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl much,statistic,need
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,104947-b-failed.txt,model_incorrect,thought_correct,hockey,cup vs really,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54245-h-success.txt,model_correct,thought_correct,hockey,player goal results,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour think slightly,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,105144-b-success.txt,model_correct,thought_correct,baseball,phillies anyone phils,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,54199-h-success.txt,model_correct,thought_correct,hockey,playing gerald another,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,104944-b-failed.txt,model_incorrect,thought_correct,hockey,anyone appreciated email,,
+_feature_explain,2f08fecd-4938-494d-bea0-e3ef4e49da2a,104936-b-success.txt,model_correct,thought_correct,baseball,baseball st league,,
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball comiskey,white played
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice maple,series detroit
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,105058-b-success.txt,model_correct,thought_correct,baseball,,mlb bunts bat,baseball bb single
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl boston bruins,ny leads cup
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,mesa storm davis,cup really vs
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey gophers,problem come
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,105086-b-success.txt,model_correct,thought_correct,baseball,,pitchers braves' runs,pitch help much
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,105015-b-success.txt,model_correct,thought_correct,baseball,,angeles yankees runs,three much anyone
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,hockey ahl,ny cup
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,105087-b-success.txt,model_correct,thought_correct,baseball,,pitchers hitting braves,pitch got much
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,professionals,b
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ice,need much
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54245-h-success.txt,model_correct,thought_correct,hockey,player,hockey periods,results goal
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,54199-h-success.txt,model_correct,thought_correct,hockey,,jagr's francis's statistic,playing another gerald
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,104944-b-failed.txt,model_incorrect,thought_correct,hockey,,allstar tickets sale,anyone appreciated email
+_feature_explain,cb5e5788-178c-4017-94e9-00a1e3ec84f5,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league,nakagomi,st
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice front,series detroit
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,batter bat,bb single
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,104947-b-failed.txt,model_incorrect,thought_unsure,baseball,,plate's throw ball,cup really vs
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck checked,greg really
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey recsporthockey,ny leads cup
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey 'stars,problem come
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,105015-b-success.txt,model_correct,thought_correct,baseball,,home runs hit,three much anyone
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitching pitchers,help much
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,hockey recsporthockey,ny cup
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,105087-b-success.txt,model_correct,thought_correct,baseball,,hitting pitcher hitter,pitch got much
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,dexterity,b
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54260-h-success.txt,model_correct,thought_unsure,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey ice,need much
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,104944-b-failed.txt,model_incorrect,thought_unsure,baseball,,allstar tickets sold,anyone appreciated email
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,cards,anyone
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,54199-h-success.txt,model_correct,thought_correct,hockey,,golchowyalchemychemutorontoca plusminus time,playing another gerald
+_feature_explain,7b451ae5-c8bb-429e-857e-abb3252c4b5f,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,hr gb,st league
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,104910-b-success.txt,model_correct,thought_correct,baseball,white sox,comiskey,played
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice buds,series detroit
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb ball,bb single
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,puck penguinsdevils,greg really
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54229-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey ecac,ny leads cup
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,jose mesa ball,cup really vs
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey gophers,problem come
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,braves pitching,help much
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54244-h-success.txt,model_correct,thought_correct,hockey,leafs,ahl hockey,ny cup
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,105087-b-success.txt,model_correct,thought_correct,baseball,,pitcher braves stopper,pitch got much
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,game,b
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets sale,anyone appreciated email
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,cards,anyone
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus jagr's francis's,playing another gerald
+_feature_explain,359531ba-da05-4900-bbbb-9c4b59eaa869,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,yakult swallows,st league
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,104910-b-success.txt,model_correct,thought_correct,baseball,sox,baseball glove,white played
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice buds,series detroit
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,105058-b-success.txt,model_correct,thought_correct,baseball,,hitbypitch atbats ball,baseball bb single
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54229-h-success.txt,model_correct,thought_correct,hockey,cup,ahl bruins,ny leads
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball plate's foot,cup really vs
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey gophers,problem come
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,pitchers pitching,help much
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,105015-b-success.txt,model_correct,thought_correct,baseball,,receiver yankees rams,three much anyone
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54244-h-success.txt,model_correct,thought_correct,hockey,,hockey ahl bruins,ny cup leafs
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,105087-b-success.txt,model_correct,thought_correct,baseball,,stopper pitcher pitchers,pitch got much
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,104942-b-success.txt,model_correct,thought_correct,baseball,baseball,dexterity manual,b winner
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets out,anyone appreciated email
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,,hockey plusminus penguins,nhl need much
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey assist,results player
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,105144-b-success.txt,model_correct,thought_correct,baseball,phillies,cards pennant,phils anyone
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,54199-h-success.txt,model_correct,thought_correct,hockey,,plusminus statistic stat,playing another gerald
+_feature_explain,e17d53ba-8f58-46d3-b0c5-79fc08493e12,104936-b-success.txt,model_correct,thought_correct,baseball,baseball,tigers swallows,st league
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,104910-b-success.txt,model_correct,thought_correct,baseball,played,glove baseball,sox white
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54226-h-success.txt,model_correct,thought_correct,hockey,leafs,ice buds,series detroit
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,105058-b-success.txt,model_correct,thought_correct,baseball,baseball,mlb hitbypitch,bb single
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54174-h-failed.txt,model_incorrect,thought_incorrect,hockey,goal,penguinsdevils puck,greg really
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54229-h-success.txt,model_correct,thought_correct,hockey,cup,ahl playoff,ny leads
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,104947-b-failed.txt,model_incorrect,thought_incorrect,baseball,,ball throw outside,cup really vs
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54220-h-success.txt,model_correct,thought_correct,hockey,nhl,hockey canada,problem come
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,105086-b-success.txt,model_correct,thought_correct,baseball,pitch,braves hitting,help much
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,105015-b-success.txt,model_correct,thought_correct,baseball,,yankees home runs,three much anyone
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54244-h-success.txt,model_correct,thought_correct,hockey,,ahl hockey leafs',ny cup leafs
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,105087-b-success.txt,model_correct,thought_correct,baseball,,braves pitchers roster,pitch got much
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,104942-b-success.txt,model_correct,thought_correct,baseball,baseball winner,stragegy,b
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54172-h-failed.txt,model_incorrect,thought_incorrect,hockey,goals,goalie assists,final given
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,104944-b-failed.txt,model_incorrect,thought_incorrect,baseball,,allstar tickets public,anyone appreciated email
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54198-h-failed.txt,model_incorrect,thought_incorrect,hockey,nhl,hockey penguins,need much
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54245-h-success.txt,model_correct,thought_correct,hockey,goal,hockey periods,results player
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54260-h-success.txt,model_correct,thought_correct,hockey,gilmour,borchevsky andreychuk,slightly think
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,105144-b-success.txt,model_correct,thought_correct,baseball,phillies phils,game,anyone
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,54199-h-success.txt,model_correct,thought_correct,hockey,,player's minus stat,playing another gerald
+_feature_explain,fafc3d21-2181-40fb-8b3a-a208a11d6f85,104936-b-success.txt,model_correct,thought_correct,baseball,baseball league st,,

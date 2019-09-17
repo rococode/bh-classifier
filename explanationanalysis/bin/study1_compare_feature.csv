@@ -1,0 +1,600 @@
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,54721-h-m2-success.txt,model_correct,correct,,goals goalie leaf,leafs wings jets
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets public,know get anyway
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,54775-h-failed.txt,model_incorrect,incorrect,caps,cap pollin,lot know
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,104979-success.txt,model_correct,correct,hit,single bullpen,players baseball
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,104993-success.txt,model_correct,correct,,baseball strikeouts saves,rangers career playing
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,54295-h-m1-success.txt,model_correct,correct,,sabres goal periods,islanders montreal series
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,5fa76e8a-2362-40a9-bcf4-0f2c80b73d14,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing ball dl,another come la
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,54721-h-m2-success.txt,model_correct,correct,wings leafs,goalie,jets
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets company,know get anyway
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,54775-h-failed.txt,model_incorrect,incorrect,caps,ot centre,lot know
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,104979-success.txt,model_correct,correct,,single coach bullpen,players baseball hit
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,104993-success.txt,model_correct,correct,,strikeouts runs home,rangers career playing
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,54295-h-m1-success.txt,model_correct,correct,,goal ice ot,islanders montreal series
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,105028-b-m3-success.txt,model_correct,correct,,mlb official rules,sox well boston
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,54200-h-m4-success.txt,model_correct,correct,,ahl world championships,ny nhl rangers
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,283d6f0b-2abf-4271-93ba-7a37cd9733fe,105057-b-close-failed.txt,model_incorrect,incorrect,,dl ball throwing,another come la
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,104944-b-failed.txt,model_incorrect,correct,,all-star tickets allstar,know get anyway
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,54721-h-m2-success.txt,model_correct,correct,leafs,wing goalie,wings jets
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,54775-h-failed.txt,model_incorrect,incorrect,,bullets centre cap,lot caps know
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,104979-success.txt,model_correct,correct,,yanks a's bullpen,players baseball hit
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,104993-success.txt,model_correct,correct,rangers,baseball bases,career playing
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,54295-h-m1-success.txt,model_correct,correct,,sabres habs goal,islanders montreal series
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,89172b9b-c69a-4eaf-a0b7-19d574b914f3,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing the ball,another come la
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,104944-b-failed.txt,model_incorrect,correct,,all-star tickets company,know get anyway
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,104979-success.txt,model_correct,correct,baseball,run bullpen,players hit
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,54775-h-failed.txt,model_incorrect,correct,caps,stadium bullets,lot know
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,104993-success.txt,model_correct,correct,,strikeouts baseball bases,rangers career playing
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,54295-h-m1-success.txt,model_correct,correct,islanders,bruins goal,montreal series
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,105028-b-m3-success.txt,model_correct,correct,sox,mlb rules,well boston
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,a5b47276-5fa0-476e-9371-d2bd330619f7,105057-b-close-failed.txt,model_incorrect,incorrect,,worrell ball velocity,another come la
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,54721-h-m2-success.txt,model_correct,correct,leafs,goalie wing,wings jets
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets all-star,know get anyway
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,54775-h-failed.txt,model_incorrect,incorrect,caps,stadium bullets,lot know
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,104979-success.txt,model_correct,correct,baseball,single bullpen,players hit
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,104993-success.txt,model_correct,correct,rangers,baseball strikeouts,career playing
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,54295-h-m1-success.txt,model_correct,correct,,sabres bruins 3rd,islanders montreal series
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,8853d73b-33fd-4a88-87a0-a3827d30092e,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing ball dl,another come la
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,54721-h-m2-success.txt,model_correct,correct,leafs,goalie goals,wings jets
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets public,know get anyway
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,54775-h-failed.txt,model_incorrect,incorrect,caps,pollin ot,lot know
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,104979-success.txt,model_correct,correct,hit,non-baseball bullpen,players baseball
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,104993-success.txt,model_correct,correct,,strikeouts bases baseball,rangers career playing
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,54295-h-m1-success.txt,model_correct,correct,,sabres bruins goal,islanders montreal series
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,105028-b-m3-success.txt,model_correct,correct,boston sox,mlb,well
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,54200-h-m4-success.txt,model_correct,correct,rangers,ahl zubov,ny nhl
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,9aa28af0-7d15-4438-a278-657c93dda3d5,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing todd worrell,another come la
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets company,know get anyway
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,54775-h-failed.txt,model_incorrect,incorrect,caps,bullets ot,lot know
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,104979-success.txt,model_correct,correct,baseball,bullpen yanks,players hit
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,104993-success.txt,model_correct,correct,,baseball home runs,rangers career playing
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,54295-h-m1-success.txt,model_correct,correct,,bruins sabres ot,islanders montreal series
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,54366-h-close-success.txt,model_correct,correct,cup stanley,capsisles,frank
+_feature,b7f37ac6-81b3-4845-aa5c-a0cc82f6705b,105057-b-close-failed.txt,model_incorrect,incorrect,la,ball dodger,another come
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,54721-h-m2-success.txt,model_correct,correct,,goals defense goalie,leafs wings jets
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets sold,know get anyway
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,104979-success.txt,model_correct,correct,baseball,bullpen run,players hit
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,104993-success.txt,model_correct,correct,,strikeouts baseball runs,rangers career playing
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,54295-h-m1-success.txt,model_correct,correct,,goal ice periods,islanders montreal series
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,105028-b-m3-success.txt,model_correct,correct,sox,mlb official,well boston
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,54200-h-m4-success.txt,model_correct,correct,nhl,playoffs ahl,ny rangers
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,54366-h-close-success.txt,model_correct,correct,stanley cup,games,frank
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,105057-b-close-failed.txt,model_incorrect,incorrect,,ball throwing velocity,another come la
+_feature,1ddd5f5a-6937-4cee-b5cb-8fab1eb1ef38,54775-h-failed.txt,model_incorrect,unsure,caps,stadium bullets,lot know
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,54721-h-m2-success.txt,model_correct,correct,leafs,goalie goals,wings jets
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets allstar,know get anyway
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,54775-h-failed.txt,model_incorrect,incorrect,caps,ot pollin,lot know
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,104979-success.txt,model_correct,correct,baseball hit,bullpen,players
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,104993-success.txt,model_correct,correct,,strikeouts baseball pitchers,rangers career playing
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,54295-h-m1-success.txt,model_correct,correct,,goal periods ice,islanders montreal series
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,829d8efe-ddde-4414-981c-5669bacd5396,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing dodger ball,another come la
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,54721-h-m2-success.txt,model_correct,correct,leafs,goals defense,wings jets
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,104944-b-failed.txt,model_incorrect,unsure,,allstar all-star tickets,know get anyway
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,54775-h-failed.txt,model_incorrect,incorrect,caps,ot pollin,lot know
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,104979-success.txt,model_correct,correct,baseball,bullpen single,players hit
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,54295-h-m1-success.txt,model_correct,correct,,ot ice periods,islanders montreal series
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,105028-b-m3-success.txt,model_correct,correct,sox,mlb rules,well boston
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,54200-h-m4-success.txt,model_correct,correct,nhl,ahl binghamtom,ny rangers
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,2433d69f-0ecc-4dd8-aca1-14432bf264bf,105057-b-close-failed.txt,model_incorrect,incorrect,,ball dl throwing,another come la
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,54721-h-m2-success.txt,model_correct,correct,leafs wings,leaf,jets
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,104944-b-failed.txt,model_incorrect,unsure,,tickets all-star company,know get anyway
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,104979-success.txt,model_correct,correct,baseball,bullpen run,players hit
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,104993-success.txt,model_correct,correct,,strikeouts home runs,rangers career playing
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,54295-h-m1-success.txt,model_correct,correct,,sabres ice caps,islanders montreal series
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,54200-h-m4-success.txt,model_correct,correct,rangers ny nhl,,
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,105057-b-close-failed.txt,model_incorrect,incorrect,,dl throwing ball,another come la
+_feature,36379606-76e9-4ffd-aec3-9863d9ce0bb6,54775-h-failed.txt,model_incorrect,unsure,caps,cap bullets,lot know
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets public,know get anyway
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,54775-h-failed.txt,model_incorrect,incorrect,caps,bullets ot,lot know
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,104979-success.txt,model_correct,correct,baseball,bullpen yanks,players hit
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,104993-success.txt,model_correct,correct,,strikeouts pitchers bases,rangers career playing
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,54295-h-m1-success.txt,model_correct,correct,,sabres bruins goal,islanders montreal series
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,f32e4e5b-91e9-45ce-b21e-2c940e3306e3,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing velocity dl,another come la
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,54721-h-m2-success.txt,model_correct,correct,leafs,goals slot,wings jets
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets allstar,know get anyway
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,54775-h-failed.txt,model_incorrect,incorrect,caps,ot bullets,lot know
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,104979-success.txt,model_correct,correct,hit,single bullpen,players baseball
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,54295-h-m1-success.txt,model_correct,correct,,ot goal ice,islanders montreal series
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,104993-success.txt,model_correct,correct,,strikeouts pitchers baseball,rangers career playing
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,54200-h-m4-success.txt,model_correct,correct,ny rangers nhl,,
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,4047f3f1-e491-4c36-a252-45cd8ef5dd91,105057-b-close-failed.txt,model_incorrect,incorrect,,dl ball velocity,another come la
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,104944-b-failed.txt,model_incorrect,unsure,,allstar all-star public,know get anyway
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,54775-h-failed.txt,model_incorrect,incorrect,,bullets ot draw,lot caps know
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,104979-success.txt,model_correct,correct,baseball,bullpen non-baseball,players hit
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,104993-success.txt,model_correct,correct,,strikeouts saves steal,rangers career playing
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,54295-h-m1-success.txt,model_correct,correct,,sabres bruins ot,islanders montreal series
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,105028-b-m3-success.txt,model_correct,correct,boston,mlb red,sox well
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,54366-h-close-success.txt,model_correct,correct,stanley,nassau hts,cup frank
+_feature,dfd4bde5-d355-4f6a-abe3-fb172580823f,105057-b-close-failed.txt,model_incorrect,incorrect,,dodger dl velocity,another come la
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,54721-h-m2-success.txt,model_correct,correct,leafs jets,goals,wings
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,104944-b-failed.txt,model_incorrect,unsure,,all-star public tickets,know get anyway
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,54775-h-failed.txt,model_incorrect,incorrect,caps,ot bullets,lot know
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,104979-success.txt,model_correct,correct,,yanks bullpen non-baseball,players baseball hit
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,104993-success.txt,model_correct,correct,,strikeouts baseball home,rangers career playing
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,54295-h-m1-success.txt,model_correct,correct,,goal ot periods,islanders montreal series
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,105028-b-m3-success.txt,model_correct,correct,,mlb rules official,sox well boston
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,193b92f0-3e9d-464a-b1b9-eb8ed3de26a1,105057-b-close-failed.txt,model_incorrect,incorrect,,dl ball throwing,another come la
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,54721-h-m2-success.txt,model_correct,correct,leafs,goals goalie,wings jets
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,104944-b-failed.txt,model_incorrect,unsure,,i want all-star,know get anyway
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,54775-h-failed.txt,model_incorrect,incorrect,caps,ot pollin,lot know
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,104979-success.txt,model_correct,correct,baseball,bullpen run,players hit
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,104993-success.txt,model_correct,correct,,strikeouts pitchers bases,rangers career playing
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,54295-h-m1-success.txt,model_correct,correct,,sabres bruins goal,islanders montreal series
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,54200-h-m4-success.txt,model_correct,correct,nhl,ahl zubov,ny rangers
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,54366-h-close-success.txt,model_correct,correct,stanley cup,nassau,frank
+_feature,64f2470a-4fbf-4d89-aa13-fe269a420576,105057-b-close-failed.txt,model_incorrect,incorrect,,dl velocity ball,another come la
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,104944-b-failed.txt,model_incorrect,unsure,,all-star allstar tickets,know get anyway
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,54775-h-failed.txt,model_incorrect,incorrect,caps,cap centre,lot know
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,104979-success.txt,model_correct,correct,baseball,bullpen yanks,players hit
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,54295-h-m1-success.txt,model_correct,correct,islanders,sabres bruins,montreal series
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,54200-h-m4-success.txt,model_correct,correct,nhl ny rangers,,
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,105028-b-m3-success.txt,model_correct,correct,,mlb official rules,sox well boston
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,646dff6c-7e4e-4a34-bbef-e7079cad85b5,105057-b-close-failed.txt,model_incorrect,incorrect,,dl throwing worrell,another come la
+_feature,93464c5d-141f-4796-8996-110929ac5dad,104944-b-failed.txt,model_incorrect,correct,,allstar tickets public,know get anyway
+_feature,93464c5d-141f-4796-8996-110929ac5dad,54721-h-m2-success.txt,model_correct,correct,leafs,goalie goals,wings jets
+_feature,93464c5d-141f-4796-8996-110929ac5dad,54775-h-failed.txt,model_incorrect,incorrect,caps,ot centre,lot know
+_feature,93464c5d-141f-4796-8996-110929ac5dad,104979-success.txt,model_correct,correct,baseball,yanks bullpen,players hit
+_feature,93464c5d-141f-4796-8996-110929ac5dad,104993-success.txt,model_correct,correct,,strikeouts baseball pitchers,rangers career playing
+_feature,93464c5d-141f-4796-8996-110929ac5dad,54295-h-m1-success.txt,model_correct,correct,,goal ice periods,islanders montreal series
+_feature,93464c5d-141f-4796-8996-110929ac5dad,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,93464c5d-141f-4796-8996-110929ac5dad,54200-h-m4-success.txt,model_correct,correct,nhl,ahl kovalev,ny rangers
+_feature,93464c5d-141f-4796-8996-110929ac5dad,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,93464c5d-141f-4796-8996-110929ac5dad,105057-b-close-failed.txt,model_incorrect,incorrect,,dl throwing ball,another come la
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,54721-h-m2-success.txt,model_correct,correct,leafs,goals goalie,wings jets
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets all-star,know get anyway
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,104979-success.txt,model_correct,correct,,yanks bullpen non-baseball,players baseball hit
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,54775-h-failed.txt,model_incorrect,correct,caps,stadium bullets,lot know
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,104993-success.txt,model_correct,correct,rangers,strikeouts pitchers,career playing
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,54295-h-m1-success.txt,model_correct,correct,,sabres bruins goal,islanders montreal series
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,105028-b-m3-success.txt,model_correct,correct,,mlb rules official,sox well boston
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,02fec82f-310f-4bf2-8fc8-cee1c4c24fcc,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing the ball,another come la
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,54721-h-m2-success.txt,model_correct,correct,leafs,goals goalie,wings jets
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets all-star,know get anyway
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,104979-success.txt,model_correct,correct,baseball,bullpen run,players hit
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,54775-h-failed.txt,model_incorrect,correct,caps,pollin abe,lot know
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,54295-h-m1-success.txt,model_correct,correct,,goal ice bruins,islanders montreal series
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,f77fbe77-5c64-4ada-a701-aca1057c400e,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing the ball,another come la
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,54721-h-m2-success.txt,model_correct,correct,leafs,goalie goals,wings jets
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets all-star,know get anyway
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,54775-h-failed.txt,model_incorrect,incorrect,caps,bullets pollin,lot know
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,104979-success.txt,model_correct,correct,baseball,bullpen yanks,players hit
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,54295-h-m1-success.txt,model_correct,correct,,ice goal bruins,islanders montreal series
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,54366-h-close-success.txt,model_correct,correct,stanley cup,hts,frank
+_feature,30dd1b0d-b862-47ee-b4e7-86388df23c51,105057-b-close-failed.txt,model_incorrect,incorrect,,dodger throwing ball,another come la
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,104944-b-failed.txt,model_incorrect,unsure,,tickets all-star public,know get anyway
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,104979-success.txt,model_correct,correct,baseball,bullpen coaches,players hit
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,54775-h-failed.txt,model_incorrect,correct,caps,stadium game,lot know
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,104993-success.txt,model_correct,correct,,strikeouts pitchers runs,rangers career playing
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,54295-h-m1-success.txt,model_correct,correct,,goal bruins sabres,islanders montreal series
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,105028-b-m3-success.txt,model_correct,correct,sox,mlb rules,well boston
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,54200-h-m4-success.txt,model_correct,correct,rangers,ahl playoffs,ny nhl
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,54366-h-close-success.txt,model_correct,correct,stanley cup,games,frank
+_feature,329593aa-be6c-4896-93c6-bbec08f0fb49,105057-b-close-failed.txt,model_incorrect,incorrect,,ball dl throwing,another come la
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,104944-b-failed.txt,model_incorrect,correct,,allstar sold out,know get anyway
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,54721-h-m2-success.txt,model_correct,correct,leafs,goalie goals,wings jets
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,54775-h-failed.txt,model_incorrect,incorrect,,cap centre ot,lot caps know
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,104979-success.txt,model_correct,correct,,yanks a's bullpen,players baseball hit
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,54295-h-m1-success.txt,model_correct,correct,,sabres bruins goal,islanders montreal series
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,105028-b-m3-success.txt,model_correct,correct,,mlb official rules,sox well boston
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,418b392e-6d29-4dce-98c6-e1411877c0b5,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing ball dl,another come la
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,104944-b-failed.txt,model_incorrect,correct,,allstar all-star tickets,know get anyway
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,104979-success.txt,model_correct,correct,baseball,yanks bullpen,players hit
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,54775-h-failed.txt,model_incorrect,correct,caps,pollin bullets,lot know
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,104993-success.txt,model_correct,correct,,baseball strikeouts runs,rangers career playing
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,54295-h-m1-success.txt,model_correct,correct,islanders,sabres goal,montreal series
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,11c65c4f-fc43-4970-afd0-6849b7346898,105057-b-close-failed.txt,model_incorrect,incorrect,,ball dl throwing,another come la
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,54721-h-m2-success.txt,model_correct,correct,wings,goalie satellite,leafs jets
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets public,know get anyway
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,104979-success.txt,model_correct,correct,,bullpen single non-baseball,players baseball hit
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,104993-success.txt,model_correct,correct,,strikeouts pitchers baseball,rangers career playing
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,54295-h-m1-success.txt,model_correct,correct,islanders,sabres quebec,montreal series
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,54200-h-m4-success.txt,model_correct,correct,rangers,ahl kovalev,ny nhl
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,54366-h-close-success.txt,model_correct,correct,stanley,nassau hts,cup frank
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,105057-b-close-failed.txt,model_incorrect,incorrect,,dl ball velocity,another come la
+_feature,e644dc6e-d9e8-44cb-a567-94b752c8ead6,54775-h-failed.txt,model_incorrect,unsure,caps,bullets pollin,lot know
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,54721-h-m2-success.txt,model_correct,correct,leafs,goalie wing,wings jets
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets sale,know get anyway
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,54775-h-failed.txt,model_incorrect,incorrect,caps,ot cap,lot know
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,104979-success.txt,model_correct,correct,,yanks a's bullpen,players baseball hit
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,54295-h-m1-success.txt,model_correct,correct,,sabres bruins goal,islanders montreal series
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,9345a5d6-70dc-44a6-8463-56dc1bc72bb7,105057-b-close-failed.txt,model_incorrect,incorrect,,dl ball throwing,another come la
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,54721-h-m2-success.txt,model_correct,correct,leafs,goalie leaf,wings jets
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,104944-b-failed.txt,model_incorrect,unsure,,allstar all-star tickets,know get anyway
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,54775-h-failed.txt,model_incorrect,incorrect,caps,stadium pollin,lot know
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,104979-success.txt,model_correct,correct,baseball,run bullpen,players hit
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,104993-success.txt,model_correct,correct,,strikeouts home runs,rangers career playing
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,54295-h-m1-success.txt,model_correct,correct,islanders,sabres bruins,montreal series
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,105028-b-m3-success.txt,model_correct,correct,,mlb official rules,sox well boston
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,39dae4f4-8cd6-46c5-9a93-8f27168f2692,105057-b-close-failed.txt,model_incorrect,incorrect,,ball throwing dl,another come la
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,54721-h-m2-success.txt,model_correct,correct,leafs,goals goalie,wings jets
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,104944-b-failed.txt,model_incorrect,unsure,,allstar all-star tickets,know get anyway
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,54775-h-failed.txt,model_incorrect,incorrect,caps,ot pollin,lot know
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,104979-success.txt,model_correct,correct,hit baseball,bullpen,players
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,104993-success.txt,model_correct,correct,,strikeouts pitchers bases,rangers career playing
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,54295-h-m1-success.txt,model_correct,correct,,goal periods ice,islanders montreal series
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,54200-h-m4-success.txt,model_correct,correct,nhl,ahl championships,ny rangers
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,a9802b41-264a-4ecf-af68-cd9c4a08c775,105057-b-close-failed.txt,model_incorrect,incorrect,,ball throwing dl,another come la
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,54721-h-m2-success.txt,model_correct,correct,,goals goalie slot,leafs wings jets
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,104944-b-failed.txt,model_incorrect,unsure,,all-star allstar tickets,know get anyway
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,54775-h-failed.txt,model_incorrect,incorrect,caps,ot bullets,lot know
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,104979-success.txt,model_correct,correct,baseball,run bullpen,players hit
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,104993-success.txt,model_correct,correct,,strikeouts saves bases,rangers career playing
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,54295-h-m1-success.txt,model_correct,correct,,goal tie ot,islanders montreal series
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature,6c53c5f5-b086-42cf-9529-f6fb1788820c,105057-b-close-failed.txt,model_incorrect,incorrect,,ball dl throwing,another come la
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,54721-h-m2-success.txt,model_correct,correct,wings,leaf goalie,leafs jets
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,54775-h-failed.txt,model_incorrect,incorrect,caps,pollin bullets,lot know
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,104979-success.txt,model_correct,correct,,yanks non-baseball nokes,players baseball hit
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,104993-success.txt,model_correct,correct,rangers,strikeouts pitchers,career playing
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,54295-h-m1-success.txt,model_correct,correct,montreal,sabres bruins,islanders series
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,54366-h-close-success.txt,model_correct,correct,stanley cup,nassau,frank
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,105057-b-close-failed.txt,model_incorrect,incorrect,,dl worrell todd,another come la
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,104944-b-failed.txt,model_incorrect,incorrect,,allstar tickets all-star,know get anyway
+_feature,cbc81b26-e708-4827-87ff-290c32ee37c7,54200-h-m4-success.txt,model_correct,unsure,nhl rangers,kovalev,ny
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets public,know get anyway
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,54775-h-failed.txt,model_incorrect,incorrect,caps,ot pollin,lot know
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,104979-success.txt,model_correct,correct,hit baseball,bullpen,players
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,104993-success.txt,model_correct,correct,,baseball strikeouts bases,rangers career playing
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,54295-h-m1-success.txt,model_correct,correct,,ot goal periods,islanders montreal series
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,54366-h-close-success.txt,model_correct,correct,stanley cup,sports,frank
+_feature_explain,03e1fa4d-f5fa-46f8-8453-213a14ff83cc,105057-b-close-failed.txt,model_incorrect,incorrect,,ball dl throwing,another come la
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,104944-b-failed.txt,model_incorrect,correct,,all-star tickets allstar,know get anyway
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,54721-h-m2-success.txt,model_correct,correct,leafs jets,goalie,wings
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,54775-h-failed.txt,model_incorrect,correct,caps,stadium games,lot know
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,104979-success.txt,model_correct,correct,hit baseball,bullpen,players
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,54295-h-m1-success.txt,model_correct,correct,,sabres bruins ice,islanders montreal series
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,105028-b-m3-success.txt,model_correct,correct,sox boston,mlb,well
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,5b2eafe6-9b5c-404e-b61b-cc93ea53025a,105057-b-close-failed.txt,model_incorrect,incorrect,,ball dl throwing,another come la
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,54721-h-m2-success.txt,model_correct,correct,,defense goals goalie,leafs wings jets
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets company,know get anyway
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,104979-success.txt,model_correct,correct,,single bullpen run,players baseball hit
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,54775-h-failed.txt,model_incorrect,correct,,bullets games pollin,lot caps know
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,54295-h-m1-success.txt,model_correct,correct,,bruins ice ot,islanders montreal series
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,104993-success.txt,model_correct,correct,,baseball strikeouts bases,rangers career playing
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,105028-b-m3-success.txt,model_correct,correct,,mlb official rules,sox well boston
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,54200-h-m4-success.txt,model_correct,correct,,ahl zubov kovalev,ny nhl rangers
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,54366-h-close-success.txt,model_correct,correct,,coliseum hts night,cup stanley frank
+_feature_explain,ac32669b-6140-4dcf-82bf-f4369f415f20,105057-b-close-failed.txt,model_incorrect,incorrect,,ball velocity dl,another come la
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,54721-h-m2-success.txt,model_correct,correct,,goals goalie slot,leafs wings jets
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,104944-b-failed.txt,model_incorrect,unsure,,all-star allstar tickets,know get anyway
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,104979-success.txt,model_correct,correct,hit baseball,bullpen,players
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,104993-success.txt,model_correct,correct,,nolan ryan pitchers,rangers career playing
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,54295-h-m1-success.txt,model_correct,correct,,goal ice quebec,islanders montreal series
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,105028-b-m3-success.txt,model_correct,correct,boston sox,mlb,well
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,54366-h-close-success.txt,model_correct,correct,stanley cup,hts,frank
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,105057-b-close-failed.txt,model_incorrect,incorrect,,dl ball dodger,another come la
+_feature_explain,d5a0bb43-d9f7-4eaa-b4c0-aa034adb5d6f,54775-h-failed.txt,model_incorrect,unsure,caps,stadium bullets,lot know
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,54721-h-m2-success.txt,model_correct,correct,,goalie defense goals,leafs wings jets
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,54775-h-failed.txt,model_incorrect,incorrect,caps,stadium cap,lot know
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,104979-success.txt,model_correct,correct,,single bullpen run,players baseball hit
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,104993-success.txt,model_correct,correct,,strikeouts steal runs,rangers career playing
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,54295-h-m1-success.txt,model_correct,correct,,ice periods goal,islanders montreal series
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,105028-b-m3-success.txt,model_correct,correct,,mlb red place,sox well boston
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,54200-h-m4-success.txt,model_correct,correct,rangers ny,ahl,nhl
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,54366-h-close-success.txt,model_correct,correct,,capsisles games nc,cup stanley frank
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,105057-b-close-failed.txt,model_incorrect,incorrect,,ball throwing velocity,another come la
+_feature_explain,985fd63c-907c-4a17-8b8f-3dd37451f070,104944-b-failed.txt,model_incorrect,incorrect,,all-star allstar tickets,know get anyway
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,54721-h-m2-success.txt,model_correct,correct,wings,goalie goals,leafs jets
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,54775-h-failed.txt,model_incorrect,incorrect,caps,cap centre,lot know
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,104979-success.txt,model_correct,correct,baseball,yanks bullpen,players hit
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,104993-success.txt,model_correct,correct,,baseball strikeouts runs,rangers career playing
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,54295-h-m1-success.txt,model_correct,correct,islanders,goal ice,montreal series
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,54200-h-m4-success.txt,model_correct,correct,rangers nhl,binghamtom,ny
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,54366-h-close-success.txt,model_correct,correct,stanley,nassau hts,cup frank
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,105057-b-close-failed.txt,model_incorrect,incorrect,,ball worrell throwing,another come la
+_feature_explain,b8eadb53-5aad-48f8-b4e2-e56a568b2be3,104944-b-failed.txt,model_incorrect,incorrect,,allstar tickets all-star,know get anyway
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,54721-h-m2-success.txt,model_correct,correct,,leaf goals fluke,leafs wings jets
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,104944-b-failed.txt,model_incorrect,unsure,,tickets all-star public,know get anyway
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,104979-success.txt,model_correct,correct,,matt nokes bullpen,players baseball hit
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,54775-h-failed.txt,model_incorrect,correct,,cap centre pollin,lot caps know
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,104993-success.txt,model_correct,correct,,home runs steal,rangers career playing
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,54295-h-m1-success.txt,model_correct,correct,,bruins brad may,islanders montreal series
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,105028-b-m3-success.txt,model_correct,correct,,mlb red on-line,sox well boston
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,54200-h-m4-success.txt,model_correct,correct,rangers,ahl binghamtom,ny nhl
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,54366-h-close-success.txt,model_correct,correct,,nc capsisles nassau,cup stanley frank
+_feature_explain,7f71c7c8-75ff-4a90-93c2-e5a52f93f78a,105057-b-close-failed.txt,model_incorrect,incorrect,,todd worrell dl,another come la
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,54721-h-m2-success.txt,model_correct,correct,,goalie leaf goals,leafs wings jets
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets public,know get anyway
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,104979-success.txt,model_correct,correct,,bullpen nokes darling,players baseball hit
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,104993-success.txt,model_correct,correct,,nolan ryan strikeouts,rangers career playing
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,54295-h-m1-success.txt,model_correct,correct,,sabres bruins habs,islanders montreal series
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,105028-b-m3-success.txt,model_correct,correct,,mlb official red,sox well boston
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,54200-h-m4-success.txt,model_correct,correct,rangers,ahl kovalev,ny nhl
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,54366-h-close-success.txt,model_correct,correct,,capsisles hts games,cup stanley frank
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing velocity dl,another come la
+_feature_explain,3c94b9fd-fd20-49f4-b5e3-e9affdbf61d9,54775-h-failed.txt,model_incorrect,unsure,caps,stadium bullets,lot know
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,54721-h-m2-success.txt,model_correct,correct,leafs,goals goalie,wings jets
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,54775-h-failed.txt,model_incorrect,incorrect,caps,ot centre,lot know
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,104979-success.txt,model_correct,correct,baseball,single bullpen,players hit
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,104993-success.txt,model_correct,correct,,strikeouts saves bases,rangers career playing
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,54295-h-m1-success.txt,model_correct,correct,,goal bruins habs,islanders montreal series
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,105057-b-close-failed.txt,model_incorrect,incorrect,,dl ball throwing,another come la
+_feature_explain,4606270f-e967-4f21-b256-f1c7a6bc48b4,104944-b-failed.txt,model_incorrect,incorrect,,allstar tickets public,know get anyway
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets sale,know get anyway
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,104979-success.txt,model_correct,correct,baseball,run bullpen,players hit
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,54775-h-failed.txt,model_incorrect,correct,caps,stadium games,lot know
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,104993-success.txt,model_correct,correct,,baseball team pitchers,rangers career playing
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,54295-h-m1-success.txt,model_correct,correct,,sabres bruins ice,islanders montreal series
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,105028-b-m3-success.txt,model_correct,correct,sox,mlb rules,well boston
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,54200-h-m4-success.txt,model_correct,correct,rangers,ahl playoffs,ny nhl
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,ff915f66-d311-4cee-9b15-46f6f4ba8603,105057-b-close-failed.txt,model_incorrect,incorrect,,dl throwing velocity,another come la
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,54721-h-m2-success.txt,model_correct,correct,,goals goalie games,leafs wings jets
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,104944-b-failed.txt,model_incorrect,unsure,,allstar tickets sold,know get anyway
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,54775-h-failed.txt,model_incorrect,incorrect,caps,stadium pollin,lot know
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,104979-success.txt,model_correct,correct,,yanks a's bullpen,players baseball hit
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,104993-success.txt,model_correct,correct,,pitchers nolan baseball,rangers career playing
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,54295-h-m1-success.txt,model_correct,correct,,habs caps bruins,islanders montreal series
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,105028-b-m3-success.txt,model_correct,correct,,mlb rules official,sox well boston
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,54200-h-m4-success.txt,model_correct,correct,rangers,ahl kovalev,ny nhl
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,54366-h-close-success.txt,model_correct,correct,,capsisles sports nassau,cup stanley frank
+_feature_explain,a2aa8d16-6eb3-433f-99fb-eeb76f4ea453,105057-b-close-failed.txt,model_incorrect,incorrect,,ball velocity dl,another come la
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,104944-b-failed.txt,model_incorrect,correct,,all-star tickets company,know get anyway
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,54721-h-m2-success.txt,model_correct,correct,,goalie goals defense,leafs wings jets
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,54775-h-failed.txt,model_incorrect,incorrect,caps,pollin centre,lot know
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,104979-success.txt,model_correct,correct,,yanks single bullpen,players baseball hit
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,54295-h-m1-success.txt,model_correct,correct,,sabres goal periods,islanders montreal series
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,105028-b-m3-success.txt,model_correct,correct,,mlb official red,sox well boston
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,54200-h-m4-success.txt,model_correct,correct,,ahl keenan kovalev,ny nhl rangers
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,54366-h-close-success.txt,model_correct,correct,,coliseum nassau capsisles,cup stanley frank
+_feature_explain,67c2d664-1d40-4a41-ac10-df9e87110a1f,105057-b-close-failed.txt,model_incorrect,incorrect,,dl throwing ball,another come la
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,54721-h-m2-success.txt,model_correct,correct,leafs,goalie slot,wings jets
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,54775-h-failed.txt,model_incorrect,incorrect,,bullets cap games,lot caps know
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,104979-success.txt,model_correct,correct,baseball,bullpen yanks,players hit
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,104993-success.txt,model_correct,correct,,pitchers steal bases,rangers career playing
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,54295-h-m1-success.txt,model_correct,correct,,goal isles' ice,islanders montreal series
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,54366-h-close-success.txt,model_correct,correct,,capsisles nassau coliseum,cup stanley frank
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,105057-b-close-failed.txt,model_incorrect,incorrect,,ball velocity dl,another come la
+_feature_explain,8bc8828e-05b2-4ddb-ad0d-eb008c64bcb9,104944-b-failed.txt,model_incorrect,incorrect,,allstar all-star sale,know get anyway
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,54721-h-m2-success.txt,model_correct,correct,leafs,goalie goals,wings jets
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets company,know get anyway
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,54775-h-failed.txt,model_incorrect,incorrect,caps,bullets ot,lot know
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,104979-success.txt,model_correct,correct,baseball,bullpen single,players hit
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,54295-h-m1-success.txt,model_correct,correct,,goal ice periods,islanders montreal series
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,105028-b-m3-success.txt,model_correct,correct,sox,mlb rules,well boston
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,54200-h-m4-success.txt,model_correct,correct,rangers,ahl playoffs,ny nhl
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,54366-h-close-success.txt,model_correct,correct,,hts capsisles nc,cup stanley frank
+_feature_explain,16eb63d8-ca24-472b-9393-fc444194a836,105057-b-close-failed.txt,model_incorrect,incorrect,,ball throwing dl,another come la
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,54721-h-m2-success.txt,model_correct,correct,leafs,goalie defense,wings jets
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets sold,know get anyway
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,104979-success.txt,model_correct,correct,baseball hit,bullpen,players
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,54775-h-failed.txt,model_incorrect,correct,,cap centre stadium,lot caps know
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,104993-success.txt,model_correct,correct,,baseball strikeouts runs,rangers career playing
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,54295-h-m1-success.txt,model_correct,correct,,bruins goal ice,islanders montreal series
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,105028-b-m3-success.txt,model_correct,correct,boston sox,mlb,well
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,54200-h-m4-success.txt,model_correct,correct,ny rangers,ahl,nhl
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,24f4e7be-8943-4a97-a213-637eb3634e7d,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing ball worrell,another come la
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,54721-h-m2-success.txt,model_correct,correct,wings leafs,goalie,jets
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,104944-b-failed.txt,model_incorrect,unsure,,allstar all-star tickets,know get anyway
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,54775-h-failed.txt,model_incorrect,incorrect,caps,bullets pollin,lot know
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,104979-success.txt,model_correct,correct,baseball,run yanks,players hit
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,104993-success.txt,model_correct,correct,,strikeouts baseball bases,rangers career playing
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,54295-h-m1-success.txt,model_correct,correct,montreal,goal sabres,islanders series
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,105028-b-m3-success.txt,model_correct,correct,sox boston,mlb,well
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,1a58200d-6484-468e-9085-cd52900b5097,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing worrell ball,another come la
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,54721-h-m2-success.txt,model_correct,correct,,goalie goals defense,leafs wings jets
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,104944-b-failed.txt,model_incorrect,unsure,,allstar all-star tickets,know get anyway
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,54775-h-failed.txt,model_incorrect,incorrect,,bullets stadium pollin,lot caps know
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,104979-success.txt,model_correct,correct,,bullpen run single,players baseball hit
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,104993-success.txt,model_correct,correct,,baseball strikeouts runs,rangers career playing
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,54295-h-m1-success.txt,model_correct,correct,,bruins periods goal,islanders montreal series
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,54200-h-m4-success.txt,model_correct,correct,,ahl zubov kovalev,ny nhl rangers
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,54366-h-close-success.txt,model_correct,correct,,capsisles nassau coliseum,cup stanley frank
+_feature_explain,da13eced-d846-4d59-9491-9c110c19a3a0,105057-b-close-failed.txt,model_incorrect,incorrect,,dodger worrell ball,another come la
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,54721-h-m2-success.txt,model_correct,correct,leafs wings jets,,
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets public,know get anyway
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,54775-h-failed.txt,model_incorrect,correct,caps,bullets stadium,lot know
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,104979-success.txt,model_correct,correct,baseball hit,bullpen,players
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,104993-success.txt,model_correct,correct,,baseball pitchers bases,rangers career playing
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,54295-h-m1-success.txt,model_correct,correct,,ice caps bruins,islanders montreal series
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,105028-b-m3-success.txt,model_correct,correct,boston sox,mlb,well
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,54366-h-close-success.txt,model_correct,unsure,stanley cup,capsisles,frank
+_feature_explain,3f84afbf-af34-4ae8-9318-4e90d7031297,105057-b-close-failed.txt,model_incorrect,incorrect,,worrell dl throwing,another come la
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,54721-h-m2-success.txt,model_correct,correct,leafs jets,goals,wings
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,104944-b-failed.txt,model_incorrect,unsure,,all-star allstar tickets,know get anyway
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,104979-success.txt,model_correct,correct,baseball,run bullpen,players hit
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,104993-success.txt,model_correct,correct,,strikeouts runs baseball,rangers career playing
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,54295-h-m1-success.txt,model_correct,correct,,sabres goal periods,islanders montreal series
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,105028-b-m3-success.txt,model_correct,correct,boston sox,mlb,well
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,54366-h-close-success.txt,model_correct,correct,stanley cup,nassau,frank
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing todd worrell,another come la
+_feature_explain,543d4bb2-4854-4294-b8f7-396e9da04a25,54775-h-failed.txt,model_incorrect,unsure,caps,cap centre,lot know
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,54721-h-m2-success.txt,model_correct,correct,leafs,goals goalie,wings jets
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets public,know get anyway
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,54775-h-failed.txt,model_incorrect,incorrect,caps,ot pollin,lot know
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,104979-success.txt,model_correct,correct,baseball,bullpen single,players hit
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,104993-success.txt,model_correct,correct,rangers,baseball strikeouts,career playing
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,54295-h-m1-success.txt,model_correct,correct,islanders,bruins goal,montreal series
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,783ba60b-3766-4d24-a74b-e52c78478b3f,105057-b-close-failed.txt,model_incorrect,incorrect,,ball dl list,another come la
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,54775-h-failed.txt,model_incorrect,incorrect,caps,bullets cap,lot know
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,104979-success.txt,model_correct,correct,baseball hit,run,players
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,54295-h-m1-success.txt,model_correct,correct,montreal,ice bruins,islanders series
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,105028-b-m3-success.txt,model_correct,correct,sox boston,mlb,well
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,54200-h-m4-success.txt,model_correct,correct,nhl rangers,playoffs,ny
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,105057-b-close-failed.txt,model_incorrect,incorrect,,ball velocity throwing,another come la
+_feature_explain,d18a419a-6774-4469-99fe-0a34daf24f8b,104944-b-failed.txt,model_incorrect,incorrect,,all-star public sold,know get anyway
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,54721-h-m2-success.txt,model_correct,correct,,goalie goals defense,leafs wings jets
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets public,know get anyway
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,54775-h-failed.txt,model_incorrect,incorrect,,bullets centre pollin,lot caps know
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,104979-success.txt,model_correct,correct,,run bullpen yanks,players baseball hit
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,54295-h-m1-success.txt,model_correct,correct,,ice quebec periods,islanders montreal series
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,105028-b-m3-success.txt,model_correct,correct,,mlb rules official,sox well boston
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,54200-h-m4-success.txt,model_correct,correct,,ahl zubov kovalev,ny nhl rangers
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,54366-h-close-success.txt,model_correct,correct,,capsisles nassau coliseum,cup stanley frank
+_feature_explain,c620de7a-9cfb-4eba-8552-03fa2bee954f,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing ball worrell,another come la
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,104979-success.txt,model_correct,incorrect,baseball,bullpen coach,players hit
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,104993-success.txt,model_correct,incorrect,,baseball runs home,rangers career playing
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,54366-h-close-success.txt,model_correct,incorrect,stanley cup,hts,frank
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,105028-b-m3-success.txt,model_correct,incorrect,,mlb rules official,sox well boston
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,54775-h-failed.txt,model_incorrect,incorrect,caps,cap centre,lot know
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,54295-h-m1-success.txt,model_correct,correct,montreal islanders,sabres,series
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,54721-h-m2-success.txt,model_correct,incorrect,leafs wings,goalie,jets
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,54200-h-m4-success.txt,model_correct,correct,nhl rangers,ahl,ny
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,105057-b-close-failed.txt,model_incorrect,incorrect,,todd worrell velocity,another come la
+_feature_explain,829d7165-2f83-4705-868a-84c7c069f976,104944-b-failed.txt,model_incorrect,incorrect,,allstar tickets want,know get anyway
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,54721-h-m2-success.txt,model_correct,correct,leafs,defense goalie,wings jets
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,104944-b-failed.txt,model_incorrect,unsure,,allstar all-star tickets,know get anyway
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,54775-h-failed.txt,model_incorrect,incorrect,caps,centre cap,lot know
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,104979-success.txt,model_correct,correct,baseball,yanks non-baseball,players hit
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,54295-h-m1-success.txt,model_correct,correct,montreal,goal ice,islanders series
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,105028-b-m3-success.txt,model_correct,correct,boston sox,mlb,well
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,ea4667f6-3d7d-4e70-b582-863640d4511e,105057-b-close-failed.txt,model_incorrect,incorrect,,ball throwing dodger,another come la
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,54721-h-m2-success.txt,model_correct,correct,leafs wings,goalie,jets
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,104944-b-failed.txt,model_incorrect,unsure,anyway know,all-star,get
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,104979-success.txt,model_correct,correct,baseball hit,bullpen,players
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,54775-h-failed.txt,model_incorrect,correct,caps,stadium bullets,lot know
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,104993-success.txt,model_correct,correct,,strikeouts pitchers runs,rangers career playing
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,54295-h-m1-success.txt,model_correct,correct,islanders montreal,goal,series
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,105028-b-m3-success.txt,model_correct,correct,sox,mlb red,well boston
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,b7c476fe-6d31-45ab-89be-007ee3275c33,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing ball dl,another come la
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,54721-h-m2-success.txt,model_correct,correct,leafs,leaf turnaround,wings jets
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,104944-b-failed.txt,model_incorrect,unsure,,allstar all-star sold,know get anyway
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,54775-h-failed.txt,model_incorrect,incorrect,caps,abe bullets,lot know
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,104979-success.txt,model_correct,correct,,yanks a's up,players baseball hit
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,104993-success.txt,model_correct,correct,,baseball nolan ryan,rangers career playing
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,54295-h-m1-success.txt,model_correct,correct,,bruins quebec habs,islanders montreal series
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,54200-h-m4-success.txt,model_correct,correct,rangers,zubov ahl,ny nhl
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,105028-b-m3-success.txt,model_correct,correct,,mlb rules red,sox well boston
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,54366-h-close-success.txt,model_correct,correct,,nc capsisles games,cup stanley frank
+_feature_explain,769e4a53-6d7c-4b71-a9c3-a79a01144537,105057-b-close-failed.txt,model_incorrect,incorrect,,todd worrell ball,another come la
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,54721-h-m2-success.txt,model_correct,correct,leafs wings jets,,
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets sale,know get anyway
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,54775-h-failed.txt,model_incorrect,incorrect,caps,ot bullets,lot know
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,104979-success.txt,model_correct,correct,baseball,single bullpen,players hit
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,104993-success.txt,model_correct,correct,,strikeouts pitchers bases,rangers career playing
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,54295-h-m1-success.txt,model_correct,correct,,bruins sabres ot,islanders montreal series
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,105028-b-m3-success.txt,model_correct,correct,sox boston,mlb,well
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,54200-h-m4-success.txt,model_correct,correct,rangers nhl,ahl,ny
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,54366-h-close-success.txt,model_correct,correct,stanley cup,capsisles,frank
+_feature_explain,eda7c5d3-f3a4-405c-a124-c8531d695949,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing ball velocity,another come la
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,54721-h-m2-success.txt,model_correct,correct,,goalie slot wing,leafs wings jets
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,54775-h-failed.txt,model_incorrect,incorrect,caps,bullets pollin,lot know
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,104979-success.txt,model_correct,correct,,yanks a's non-baseball,players baseball hit
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,104993-success.txt,model_correct,correct,,nolan ryan baseball,rangers career playing
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,54295-h-m1-success.txt,model_correct,correct,,sabres bruins ice,islanders montreal series
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,105028-b-m3-success.txt,model_correct,correct,,mlb red rules,sox well boston
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,54200-h-m4-success.txt,model_correct,correct,,ahl anderrson zubov,ny nhl rangers
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,54366-h-close-success.txt,model_correct,correct,,nc capsisles games,cup stanley frank
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing ball dodger,another come la
+_feature_explain,0c4256b2-c8eb-4126-a776-612bdf00e80a,104944-b-failed.txt,model_incorrect,incorrect,,allstar all-star tickets,know get anyway
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,54721-h-m2-success.txt,model_correct,correct,,ca goalie wing,leafs wings jets
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,104944-b-failed.txt,model_incorrect,unsure,,all-star tickets sold,know get anyway
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,104979-success.txt,model_correct,correct,,nokes a's non-baseball,players baseball hit
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,104993-success.txt,model_correct,correct,,strikeouts saves runs,rangers career playing
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,54295-h-m1-success.txt,model_correct,correct,,sabres bruins quebec,islanders montreal series
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,105028-b-m3-success.txt,model_correct,correct,,mlb rules red,sox well boston
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,54366-h-close-success.txt,model_correct,correct,,nassau coliseum hts,cup stanley frank
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,105057-b-close-failed.txt,model_incorrect,incorrect,,worrell velocity throwing,another come la
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,54775-h-failed.txt,model_incorrect,unsure,caps,stadium bullets,lot know
+_feature_explain,a7a05e60-26c8-48bc-9bb9-474a804ebf30,54200-h-m4-success.txt,model_correct,unsure,rangers,ahl zubov,ny nhl
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,54721-h-m2-success.txt,model_correct,correct,,slot goals goalie,leafs wings jets
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,104944-b-failed.txt,model_incorrect,unsure,,all-star allstar company,know get anyway
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,54775-h-failed.txt,model_incorrect,incorrect,,bullets centre pollin,lot caps know
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,104979-success.txt,model_correct,correct,,single bullpen yanks,players baseball hit
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,104993-success.txt,model_correct,correct,,baseball strikeouts pitchers,rangers career playing
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,54295-h-m1-success.txt,model_correct,correct,,goal bruins sabres,islanders montreal series
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,105028-b-m3-success.txt,model_correct,correct,,mlb red official,sox well boston
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,54200-h-m4-success.txt,model_correct,correct,,ahl binghamtom zubov,ny nhl rangers
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,54366-h-close-success.txt,model_correct,correct,,nassau coliseum capsisles,cup stanley frank
+_feature_explain,d57a1e96-90bd-40d1-8b5a-56c5fe123af6,105057-b-close-failed.txt,model_incorrect,incorrect,,throwing velocity times,another come la

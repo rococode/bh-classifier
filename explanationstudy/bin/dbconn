@@ -1,0 +1,1 @@
+psql -h voiceinteractiondb.cjt2uxgbtzyl.us-west-2.rds.amazonaws.com -U voiceuser voiceinteractiondb

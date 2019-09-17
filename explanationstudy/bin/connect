@@ -1,0 +1,1 @@
+ssh -i "~/.ssh/voice-kp.pem" ec2-user@ec2-54-191-115-90.us-west-2.compute.amazonaws.com

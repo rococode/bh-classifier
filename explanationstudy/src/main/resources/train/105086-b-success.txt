@@ -13,7 +13,7 @@ prediction: baseball for data/test/rec.sport.baseball-full/105086
 | flsecondukeedu |    -8.98 |   -10.39 |    1.41 | **    |
 | staff          |    -8.29 |    -9.7  |    1.41 | **    |
 From: fls@keynes.econ.duke.edu (Forrest Smith)
-Subject: Re: Braves Pitching UpdateDIR
+Subject: Re: Braves Pitching Update
 
 
 	Amazingly, pitchers, no matter how good their mechanics, are

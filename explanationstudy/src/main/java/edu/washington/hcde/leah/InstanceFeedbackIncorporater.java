@@ -136,8 +136,8 @@ public class InstanceFeedbackIncorporater {
 
                 // call run.py to incorporate the instance-level feedback for this user
                 try {
-                    String[] cmd = {"C:\\Users\\Melissa Birchfield\\AppData\\Local\\Programs\\Python\\Python37\\python.exe", "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\run_instance.py", entry.getKey(), user.getKey()};
-                    System.out.println(Arrays.toString(cmd));
+                    String cmd = "python " + loc + "run_instance.py " +  entry.getKey() + " " + user.getKey();
+                    System.out.println(cmd);
                     Process p = Runtime.getRuntime().exec(cmd);
                     try {
                         BufferedReader bfr = new BufferedReader(new InputStreamReader(p.getErrorStream()));
