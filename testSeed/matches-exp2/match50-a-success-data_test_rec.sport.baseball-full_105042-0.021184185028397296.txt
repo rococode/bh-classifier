@@ -1,0 +1,33 @@
+2.9423619566332833e-09 0.9999999970576141 0.9999999941152522 True
+prediction: baseball for data/test/rec.sport.baseball-full/105042
+| word                        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------------------------|----------|----------|---------|-------|
+| bonds                       |    -8.17 |   -10.39 |    2.22 | **    |
+| bases                       |    -8.29 |   -10.39 |    2.1  | **    |
+| winfield                    |    -8.58 |   -10.39 |    1.82 | **    |
+| henderson                   |    -8.98 |   -10.39 |    1.41 | **    |
+| peak                        |    -8.98 |   -10.39 |    1.41 | **    |
+| gehrig                      |    -9.27 |   -10.39 |    1.12 | **    |
+| jmannvinelandpubsstratuscom |    -9.27 |   -10.39 |    1.12 | **    |
+| mann                        |    -9.27 |   -10.39 |    1.12 | **    |
+| steal                       |    -9.27 |   -10.39 |    1.12 | **    |
+| stats                       |    -7.23 |    -8.31 |    1.08 | **    |
+From: jmann@vineland.pubs.stratus.com (Jim Mann)
+Subject: Re: ALL-TIME PEAK PLAYERS
+
+In article <1993Apr20.202808.11395@alleg.edu>  
+luriem@alleg.edu(Michael Lurie) The Liberalizer writes:
+> 
+> Very interesting, Gehrig below bonds and schmidt. RICKY HENDERSON?  
+He  
+> could steal bases, but his hitting stats are not even close to  
+dimmagio's.
+> uhhhh. Where is Winfield?
+
+Henderson's stat's are probably closer to DiMaggio's than you
+think.
+
+--
+Jim Mann            
+Stratus Computer   jmann@vineland.pubs.stratus.com  
+

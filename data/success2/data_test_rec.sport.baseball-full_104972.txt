@@ -1,0 +1,29 @@
+2.800160532660147e-16 1.0 0.9999999999999997 True
+prediction: baseball for data/test/rec.sport.baseball-full/104972
+| word                     |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------------------------|----------|----------|---------|-------|
+| mets                     |    -7.03 |   -11.03 |    4    | **    |
+| giants                   |    -7.08 |    -9.42 |    2.33 | **    |
+| pen                      |    -9.48 |   -11.72 |    2.24 | **    |
+| franco                   |    -9.77 |   -11.72 |    1.95 | **    |
+| tongue                   |    -9.77 |   -11.72 |    1.95 | **    |
+| equation                 |    -9.95 |   -11.72 |    1.77 | **    |
+| lee                      |    -7.8  |    -9.42 |    1.62 | **    |
+| greenleaf                |   -10.17 |   -11.72 |    1.55 | **    |
+| ipi                      |   -10.17 |   -11.72 |    1.55 | **    |
+| jleecashbusfaccalpolyedu |   -10.17 |   -11.72 |    1.55 | **    |
+From: jplee@cymbal.calpoly.edu (Jason Lee)
+Subject: John Franco
+
+What's with John Franco?  The Mets are hardly using him.  I heard he was
+completely recovered, but now I'm not so sure.
+
+If there is anybody out there with information about Franco, I would
+appreciate it if you could drop me a line.
+
+
+-- 
+Jason Lee   jplee@oboe.calpoly.edu   jlee@cash.busfac.calpoly.edu    SF Giants
+e ^ i*pi + 1 = 0    The most beautiful equation in mathematics.      Magic
+For all sad words of tongue and pen, the saddest are these:          Number:
+     "It might have been."            John Greenleaf Whittier        148

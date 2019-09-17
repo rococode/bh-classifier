@@ -1,0 +1,24 @@
+7.576638065997836e-05 0.9999242336193341 0.9998484672386742 True
+prediction: baseball for data/test/rec.sport.baseball-full/105054
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| eric     |    -8.98 |   -10.39 |    1.41 | **    |
+| hit      |    -6.97 |    -7.91 |    0.94 |       |
+| year     |    -6.23 |    -6.99 |    0.77 |       |
+| drive    |    -9.68 |   -10.39 |    0.72 |       |
+| homeruns |    -9.68 |   -10.39 |    0.72 |       |
+| rising   |    -9.68 |   -10.39 |    0.72 |       |
+| willie   |    -9.68 |   -10.39 |    0.72 |       |
+| second   |    -7.28 |    -7.75 |    0.48 |       |
+| last     |    -6.54 |    -6.96 |    0.42 |       |
+| still    |    -7.48 |    -7.83 |    0.35 |       |
+From: klinker@itd.nrl.navy.mil (Eric Klinker)
+Subject: Re: best homeruns
+
+The best one I saw last year was Willie McGee off Matthews (I think?) in
+Phillie.  A fierce line drive that was still rising when it hit thE
+second deck facade at the Vet.  Willie McGee had one homerun last year.
+
+
+-- 
+                                   Eric

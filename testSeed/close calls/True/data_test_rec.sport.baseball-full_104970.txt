@@ -1,0 +1,25 @@
+0.4565487597122 0.543451240287818 0.086902480575618 True
+prediction: baseball for data/test/rec.sport.baseball-full/104970
+| word         |   p(w|b) |   p(w|h) |   delta | **?   |
+|--------------|----------|----------|---------|-------|
+| broadcast    |   -10.42 |    -9.01 |   -1.42 | **    |
+| whose        |   -10.42 |    -9.01 |   -1.42 | **    |
+| radio        |    -9.04 |   -10.39 |    1.35 | **    |
+| eagles       |    -9.33 |   -10.39 |    1.07 | **    |
+| sports       |    -8.63 |    -9.7  |    1.07 | **    |
+| aware        |   -10.42 |    -9.7  |   -0.73 |       |
+| professional |   -10.42 |    -9.7  |   -0.73 |       |
+| respond      |    -9.04 |    -9.7  |    0.66 |       |
+| philadelphia |    -8.48 |    -7.99 |   -0.48 |       |
+| station      |    -9.33 |    -9.7  |    0.37 |       |
+From: slutsky@tesla.njit.edu
+Subject: Professional Sports on FM Radio
+
+I am curious to known if there are any professional sports teams whose
+games are regularly broadcast on an FM station.  The only one I am
+aware of is WYSP in Philadelphia who carries the Eagles' games.
+
+If you respond to me I will summarize for the list.
+
+Bruce Slutsky
+slutsky@tesla.njit.edu

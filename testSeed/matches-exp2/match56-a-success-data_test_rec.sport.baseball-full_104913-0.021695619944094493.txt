@@ -1,0 +1,35 @@
+5.719843367478414e-10 0.9999999994280415 0.9999999988560572 True
+prediction: baseball for data/test/rec.sport.baseball-full/104913
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| pitching |    -7.28 |   -10.39 |    3.11 | **    |
+| often    |    -8.76 |   -10.39 |    1.63 | **    |
+| rotation |    -8.76 |   -10.39 |    1.63 | **    |
+| yankees  |    -7.73 |    -9.29 |    1.56 | **    |
+| baseball |    -6.65 |    -8.09 |    1.43 | **    |
+| weekend  |    -8.98 |   -10.39 |    1.41 | **    |
+| thanks   |    -7.42 |    -8.78 |    1.36 | **    |
+| dl       |    -9.27 |   -10.39 |    1.12 | **    |
+| season   |    -7.32 |    -6.35 |   -0.97 |       |
+| given    |    -7.88 |    -8.78 |    0.9  |       |
+From: as16@quads.uchicago.edu (adam  shah)
+Subject: Re: When Is Melido Due Back?
+
+In article <nittmo.734981173@camelot> nittmo@camelot.bradley.edu (Christopher Taylor) writes:
+>When are the Yankees planning on activating Melido Perez?  His 15 days on
+>the DL are up today, but are they bringing him back this weekend? 
+>
+>Thanks for any info.
+> 
+>
+
+The Chicago Tribune pitching form has Perez pitching today (4/16).  But
+given the way that Buck changes his rotation so often, that could just be
+the work of a confused stat-page editor.
+
+
+-- 
+adam (as16@midway.uchicago.edu) 
+aka mercutio...
+obligatory go yankees for baseball season...
+5338 S Woodlawn Ave Apt 2/Chicago, IL 60615/(312) 667-3586

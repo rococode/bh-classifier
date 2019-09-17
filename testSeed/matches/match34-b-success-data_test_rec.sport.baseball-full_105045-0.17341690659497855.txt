@@ -1,0 +1,30 @@
+3.0881865623454824e-12 0.9999999999969305 0.9999999999938423 True
+prediction: baseball for data/test/rec.sport.baseball-full/105045
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| jewish    |    -7.32 |   -10.39 |    3.07 | **    |
+| kingman   |    -8.07 |   -10.39 |    2.33 | **    |
+| following |    -8.76 |   -10.39 |    1.63 | **    |
+| dave      |    -7.23 |    -8.78 |    1.55 | **    |
+| mets      |    -8.17 |    -9.7  |    1.53 | **    |
+| baseball  |    -6.65 |    -8.09 |    1.43 | **    |
+| scott     |    -9.27 |   -10.39 |    1.12 | **    |
+| season    |    -7.32 |    -6.35 |   -0.97 |       |
+| mail      |    -8.76 |    -9.7  |    0.94 |       |
+| go        |    -7.37 |    -6.54 |   -0.83 |       |
+From: scott@asd.com (Scott Barman)
+Subject: Re: Jewish Baseball Players?
+
+In article <1993Apr19.022425.29145@Princeton.EDU> roger@astro.princeton.edu (Roger Lustig) writes:
+>In article <Psm82B2w164w@jwt.oau.org> bbs-comarow@jwt.oau.org writes:
+>>Dave Kingman is Jewish
+>
+>Sez who?
+
+Sez Dave Kingman when he used to take off for Rosh Hashanna and Yom
+Kippur on days they coincided with the season.
+-- 
+scott barman    | Mets Mailing List (feed the following into your shell):
+scott@asd.com   |            mail mets-request@asd.com <<!
+                |            subscribe
+ Let's Go Mets! |            !

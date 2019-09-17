@@ -1,17 +1,17 @@
-1.0 3.565831928282428e-19 1.0 True
-prediction: hockey for data\test\rec.sport.hockey-full\54229
+1.0 3.035008587049495e-24 1.0 True
+prediction: hockey for data/test/rec.sport.hockey-full/54229
 | word    |   p(w|h) |   p(w|b) |   delta | **?   |
 |---------|----------|----------|---------|-------|
-| ny      |    -7.22 |   -10.06 |    2.84 | **    |
-| leads   |    -7.66 |   -10.06 |    2.4  | **    |
-| cup     |    -7.75 |   -10.06 |    2.31 | **    |
-| wings   |    -7.97 |   -10.06 |    2.09 | **    |
-| series  |    -8.11 |   -10.06 |    1.95 | **    |
-| hockey  |    -8.26 |   -10.06 |    1.8  | **    |
-| playoff |    -8.44 |   -10.06 |    1.62 | **    |
-| played  |    -8.67 |   -10.06 |    1.39 | **    |
-| results |    -8.67 |   -10.06 |    1.39 | **    |
-| st      |    -8.67 |   -10.06 |    1.39 | **    |
+| team    |    -7.43 |   -10.03 |    2.6  | **    |
+| hockey  |    -7.99 |   -10.03 |    2.04 | **    |
+| ahl     |    -8.12 |   -10.03 |    1.91 | **    |
+| st      |    -8.12 |   -10.03 |    1.91 | **    |
+| series  |   -10.07 |    -8.42 |   -1.65 | **    |
+| caps    |    -8.46 |   -10.03 |    1.57 | **    |
+| cup     |    -8.46 |   -10.03 |    1.57 | **    |
+| moncton |    -8.46 |   -10.03 |    1.57 | **    |
+| round   |    -8.46 |   -10.03 |    1.57 | **    |
+| champs  |    -8.68 |   -10.03 |    1.35 | **    |
 From: farenebt@craft.camp.clarkson.edu (Droopy)
 Subject: AHL Playoff results, Thurs/Fri
 

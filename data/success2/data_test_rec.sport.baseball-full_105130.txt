@@ -1,0 +1,29 @@
+3.9794307788252706e-08 0.9999999602056854 0.9999999204113776 True
+prediction: baseball for data/test/rec.sport.baseball-full/105130
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| nhl       |   -11.56 |    -5.67 |   -5.89 | **    |
+| sox       |    -6.63 |   -11.72 |    5.09 | **    |
+| ahl       |   -11.56 |    -7.15 |   -4.4  | **    |
+| aaa       |    -7.5  |   -11.72 |    4.22 | **    |
+| wings     |   -10.17 |    -6.46 |   -3.72 | **    |
+| nl        |    -6.94 |   -10.62 |    3.68 | **    |
+| playoff   |   -10.17 |    -6.52 |   -3.65 | **    |
+| rochester |   -11.56 |    -7.91 |   -3.65 | **    |
+| orioles   |    -7.46 |   -11.03 |    3.56 | **    |
+| vaughn    |    -9.16 |   -11.72 |    2.56 | **    |
+From: ec003b@uhura.cc.rochester.edu (Wizard)
+Subject: Mike Greenwell and Mo Vaughn: Stat help!
+
+
+Dear Anybody,
+
+I am in Rochester, NY, where people can look at a Rangers-Penguins playoff game and
+say, no joke I heard it, "Hey whats this, OH, its not even the AHL, its just
+the NHL, I think."  Because of this e get Red Wings (Orioles AAA) stats and
+updates but no AL or NL stats.  Specifically Im looking for Red Sox stats so
+far, Id like all of them, but could handle just Greenwell and Vaughn.  CAN
+ANYBODY PLEASE HELP ME!!!!!!!!
+
+WIZARD!!!!!
+ec003b@uhura.cc.rochester.edu

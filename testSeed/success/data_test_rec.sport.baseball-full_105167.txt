@@ -1,0 +1,23 @@
+0.002888013943354163 0.9971119860566399 0.9942239721132857 True
+prediction: baseball for data/test/rec.sport.baseball-full/105167
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| fielding |    -8.98 |   -10.39 |    1.41 | **    |
+| baseman  |    -9.27 |   -10.39 |    1.12 | **    |
+| meant    |    -9.68 |   -10.39 |    0.72 |       |
+| pissed   |    -9.68 |   -10.39 |    0.72 |       |
+| article  |    -6.18 |    -6.65 |    0.48 |       |
+| first    |    -6.56 |    -6.9  |    0.33 |       |
+| might    |    -7.73 |    -7.99 |    0.26 |       |
+| everyone |    -8.76 |    -8.6  |   -0.16 |       |
+| history  |    -8.76 |    -8.6  |   -0.16 |       |
+| said     |    -7.88 |    -7.75 |   -0.13 |       |
+From: drm6640@tesla.njit.edu
+Subject: Apology for Article
+
+It's me again!
+
+I apologize to everyone out there whom I might have pissed off with that one
+article about Don Mattingly.  When I said he was the best first basemam in
+history I meant FIELDING first baseman.  Which he is.  No one can argue with
+that.  

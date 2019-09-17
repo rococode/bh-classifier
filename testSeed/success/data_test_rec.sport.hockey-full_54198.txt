@@ -1,0 +1,45 @@
+1.0 4.662640930475647e-14 0.9999999999999534 True
+prediction: hockey for data/test/rec.sport.hockey-full/54198
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| nhl       |    -6.68 |   -10.37 |    3.69 | **    |
+| hockey    |    -6.28 |    -9.68 |    3.39 | **    |
+| ice       |    -7.56 |   -10.37 |    2.81 | **    |
+| penguins  |    -7.62 |   -10.37 |    2.75 | **    |
+| ie        |    -8.31 |   -10.37 |    2.06 | **    |
+| value     |   -10.39 |    -8.58 |   -1.82 | **    |
+| including |    -8.6  |   -10.37 |    1.77 | **    |
+| minus     |    -8.6  |   -10.37 |    1.77 | **    |
+| instead   |    -7.99 |    -9.68 |    1.68 | **    |
+| plus      |    -8.09 |    -9.68 |    1.59 | **    |
+From: huot@cray.com (Tom Huot)
+Subject: Re: plus minus stat
+
+Brad Gibson (gibson@nukta.geop.ubc.ca) wrote:
+
+[Much text deleted]
+
+:   plus/minus ... it is the most misleading hockey stat available.
+
+Not necessarily the most misleading, but you are right, it definitely
+needs to be taken in the proper perspective. A shining example is
+if you look at the Penguins individual +/-, you will find very few minuses.
+That only makes common sense, since they didn't lose many games.
+
+:   Until the NHL publishes a more useful quantifiable statistic including ice
+:   time per game and some measure of its "quality" (i.e., is the player put out
+:   in key situations like protecting a lead late in the game; is he matched up
+:   against the other team's top one or two lines; short-handed, etc), I would
+:   much rather see the +/- disappear altogether instead of having its dubious
+:   merits trumpeted by those with little understanding of its implications.
+
+Unfortunately, you will need to keep a ridiculous number of stats to
+really come up with a statistic which really shows a player's value.
+Let's just enjoy the game and not overanalyze it. (like I'm doing now,
+excuse me!)
+
+--
+_____________________________________________________________________________
+Tom Huot        			       
+huot@cray.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

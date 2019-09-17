@@ -1,0 +1,34 @@
+5.3397565848504436e-05 0.9999466024341469 0.9998932048682984 True
+prediction: baseball for data/test/rec.sport.baseball-full/105122
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| pitchers |    -7.66 |   -10.39 |    2.73 | **    |
+| era      |    -7.73 |    -9.7  |    1.97 | **    |
+| trying   |    -7.97 |    -9.7  |    1.73 | **    |
+| baseball |    -6.65 |    -8.09 |    1.43 | **    |
+| email    |    -7.97 |    -9.29 |    1.32 | **    |
+| tells    |   -10.37 |    -9.29 |   -1.07 | **    |
+| thank    |   -10.37 |    -9.29 |   -1.07 | **    |
+| find     |    -8.07 |    -8.78 |    0.72 |       |
+| hello    |   -10.37 |    -9.7  |   -0.67 |       |
+| fans     |    -7.37 |    -7.99 |    0.62 |       |
+From: napoli@strobe.ATC.Olivetti.Com (Gaetano Napolitano)
+Subject: ERA formula
+
+Hello
+
+as the subject tells all I am trying to find out what is the formula to
+calculate the ERA for the pitchers.
+
+If any of you baseball fans have it please e-mail me at
+
+
+	napoli@atc.olivetti.com
+
+
+	thank you very much
+
+
+	Gaetano Napolitano
+
+

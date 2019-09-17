@@ -19,6 +19,7 @@ public class InstanceFeedbackIncorporater {
     private static Properties props;
 
     private static Map<String, Map<String, Map<String, String>>> feedback_map;
+    private static String loc;
 
     public static void main(String[] args) {
         initialize();
@@ -27,6 +28,7 @@ public class InstanceFeedbackIncorporater {
     }
 
     public static void initialize() {
+    	loc = "Users/alisonrenner/Workspace/bh-classifier/";
 //        psql --host=voiceinteraction.czjskx89fj5x.us-west-2.rds.amazonaws.com --port=5432 --username voiceinteraction --password --dbname=voiceinteraction
         url = "jdbc:postgresql://voiceinteractiondb.cjt2uxgbtzyl.us-west-2.rds.amazonaws.com/voiceinteractiondb";
         props = new Properties();
@@ -103,7 +105,7 @@ public class InstanceFeedbackIncorporater {
 
                 System.out.println();
                 // clear data\\feedback folder
-                File folder = new File("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data\\feedback\\feedback_baseball");
+                File folder = new File(loc + "data/feedback/feedback_baseball");
                 File[] files = folder.listFiles();
                 if (files != null) { //some JVMs return null for empty dirs
                     for (File f : files) {
@@ -111,7 +113,7 @@ public class InstanceFeedbackIncorporater {
                         System.out.println("deleted file " + f.getName());
                     }
                 }
-                folder = new File("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data\\feedback\\feedback_hockey");
+                folder = new File(loc + "/data/feedback/feedback_hockey");
                 files = folder.listFiles();
                 if (files != null) { //some JVMs return null for empty dirs
                     for (File f : files) {
@@ -123,8 +125,8 @@ public class InstanceFeedbackIncorporater {
                 for (Map.Entry<String, String> email : user.getValue().entrySet()) {
 
                     // copy emails over to the appropriate subfolder
-                    File source = new File("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\explanationstudy\\src\\main\\resources\\train\\" + email.getKey());
-                    File dest = new File("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data\\feedback\\feedback_" + email.getValue());
+                    File source = new File(loc + "/explanationstudy/src/main/resources/train/" + email.getKey());
+                    File dest = new File(loc + "/data/feedback/feedback_" + email.getValue());
 
                     try {
                         FileUtils.copyFileToDirectory(source, dest);

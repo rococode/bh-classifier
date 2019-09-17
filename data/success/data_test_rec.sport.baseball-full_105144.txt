@@ -1,17 +1,17 @@
-8.713614887196593e-05 0.9999128638511393 0.9998257277022673 True
-prediction: baseball for data\test\rec.sport.baseball-full\105144
+0.00406993812525381 0.9959300618747179 0.9918601237494641 True
+prediction: baseball for data/test/rec.sport.baseball-full/105144
 | word      |   p(w|b) |   p(w|h) |   delta | **?   |
 |-----------|----------|----------|---------|-------|
-| phillies  |    -8.1  |   -10.04 |    1.94 | **    |
-| phils     |    -8.66 |   -10.04 |    1.38 | **    |
-| anyone    |   -10.04 |    -8.94 |   -1.1  | **    |
-| play      |    -8.66 |    -7.84 |   -0.81 |       |
-| exact     |    -9.35 |   -10.04 |    0.69 |       |
-| know      |    -8.25 |    -8.94 |    0.69 |       |
-| something |    -9.35 |   -10.04 |    0.69 |       |
-| game      |    -7.85 |    -8.25 |    0.4  |       |
-| day       |    -8.94 |    -9.35 |    0.4  |       |
-| like      |    -8.66 |    -8.94 |    0.28 |       |
+| numbers   |    -8.65 |   -10.07 |    1.42 | **    |
+| cards     |    -8.94 |   -10.07 |    1.13 | **    |
+| something |   -10.04 |    -8.97 |   -1.06 | **    |
+| game      |    -7.47 |    -8.28 |    0.81 |       |
+| anyone    |    -8.65 |    -9.38 |    0.73 |       |
+| deja      |    -9.34 |   -10.07 |    0.73 |       |
+| lead      |    -9.34 |   -10.07 |    0.73 |       |
+| phillies  |    -9.34 |   -10.07 |    0.73 |       |
+| phils     |    -9.34 |   -10.07 |    0.73 |       |
+| vu        |    -9.34 |   -10.07 |    0.73 |       |
 From: kmelcher@rafael.Arco.COM (Kenneth Melcher)
 Subject: Re: The 1964 Phillies: deja vu?
 

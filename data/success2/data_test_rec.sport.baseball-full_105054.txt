@@ -1,0 +1,24 @@
+6.030889496838037e-11 0.9999999999396891 0.9999999998793803 True
+prediction: baseball for data/test/rec.sport.baseball-full/105054
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| willie   |    -8.61 |   -11.72 |    3.1  | **    |
+| homeruns |    -8.92 |   -11.72 |    2.8  | **    |
+| hit      |    -6.13 |    -7.98 |    1.85 | **    |
+| matthews |    -9.95 |   -11.72 |    1.77 | **    |
+| mcgee    |    -9.95 |   -11.72 |    1.77 | **    |
+| vet      |    -9.95 |   -11.72 |    1.77 | **    |
+| homerun  |   -10.17 |   -11.72 |    1.55 | **    |
+| phillie  |   -10.87 |    -9.32 |   -1.55 | **    |
+| drive    |    -8.85 |   -10.11 |    1.26 | **    |
+| rising   |   -10.46 |   -11.72 |    1.26 | **    |
+From: klinker@itd.nrl.navy.mil (Eric Klinker)
+Subject: Re: best homeruns
+
+The best one I saw last year was Willie McGee off Matthews (I think?) in
+Phillie.  A fierce line drive that was still rising when it hit thE
+second deck facade at the Vet.  Willie McGee had one homerun last year.
+
+
+-- 
+                                   Eric

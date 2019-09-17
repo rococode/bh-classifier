@@ -1,0 +1,36 @@
+1.9235443455481105e-06 0.999998076455685 0.9999961529113394 True
+prediction: baseball for data/test/rec.sport.baseball-full/104984
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| jays     |    -7.15 |    -9.01 |    1.86 | **    |
+| rangers  |    -8.76 |    -7.1  |   -1.66 | **    |
+| hi       |    -8.76 |   -10.39 |    1.63 | **    |
+| ontario  |    -9.68 |    -8.09 |   -1.59 | **    |
+| enough   |    -7.73 |    -9.29 |    1.56 | **    |
+| schedule |    -9.68 |    -8.19 |   -1.48 | **    |
+| hold     |    -8.98 |   -10.39 |    1.41 | **    |
+| systems  |    -8.98 |   -10.39 |    1.41 | **    |
+| long     |    -7.23 |    -8.45 |    1.21 | **    |
+| shall    |    -9.27 |   -10.39 |    1.12 | **    |
+From: "drew carley" <drew.carley@canrem.com>
+Subject: skydome tix
+
+   My schedule is flexible so any games are candidates
+AC>(though I'd prefer to see Texas.)
+   Hi Tony.I think that I might be able to help you out!The Rangers are
+   here in Toronto Thursday July 8th through Sunday July 11th and
+   tickets should not be hard to find if you order them far enough in
+   advance.Although I don't have a ticket broker's telephone number off
+   hand if you give me a couple of days I will be able to get a hold a=
+   of a couple.The Blue Jays ticket info # is (416)341-1111 or if you
+   want to order by credit card,call (416) 341-1234.If you let me
+   know,when you want the tickets I can save you a possible long
+   distance call.If all else fails I might be able to pull a few strings
+   and get you a pair.Let me know whats happening.
+
+Drew Carley,Toronto Canada
+---
+ þ DeLuxeý 1.25 #2177 þ Go away,or I shall taunt you a second time!
+--
+Canada Remote Systems - Toronto, Ontario
+416-629-7000/629-7044

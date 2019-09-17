@@ -1,0 +1,25 @@
+5.2309893337744386e-06 0.9999947690106803 0.9999895380213465 True
+prediction: baseball for data/test/rec.sport.baseball-full/105075
+| word    |   p(w|b) |   p(w|h) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| ken     |    -8.58 |   -10.39 |    1.82 | **    |
+| ones    |    -8.58 |   -10.39 |    1.82 | **    |
+| vs      |    -8.42 |    -6.63 |   -1.79 | **    |
+| hr      |    -7.97 |    -9.7  |    1.73 | **    |
+| email   |    -7.97 |    -9.29 |    1.32 | **    |
+| careers |    -9.27 |   -10.39 |    1.12 | **    |
+| ten     |   -10.37 |    -9.29 |   -1.07 | **    |
+| say     |    -7.15 |    -7.91 |    0.76 |       |
+| fast    |    -9.68 |   -10.39 |    0.72 |       |
+| saying  |    -7.88 |    -8.6  |    0.72 |       |
+From: kmelcher@rafael.Arco.COM (Kenneth Melcher)
+Subject: Re: Juan Gonzalez HR Title Not Real?
+
+Come back ten years from now and look at the careers of Juan Gonzalez vs. Mark McGuire,  and then tell us how bogus the Juanderful one's 1992 HR title was.  I'd say that by 2003,  Juan will be preparing his HOF acceptance speech while the voters will be saying "Mark McWho?"
+
+---
+===============================================================================
+Ken Melcher                            *  I  am  typing  real  slow  because 
+e-mail: kmelcher@arco.com              *  I  know  you  can't  read  very fast.
+===============================================================================
+

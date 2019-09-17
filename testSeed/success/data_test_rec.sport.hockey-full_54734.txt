@@ -1,0 +1,25 @@
+0.9778646956924463 0.02213530430754184 0.9557293913849044 True
+prediction: hockey for data/test/rec.sport.hockey-full/54734
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| leafs    |    -6.87 |   -10.37 |    3.5  | **    |
+| playoffs |    -7.02 |    -9.68 |    2.65 | **    |
+| wheres   |    -8.6  |   -10.37 |    1.77 | **    |
+| files    |   -10.39 |    -8.98 |   -1.41 | **    |
+| however  |    -9.29 |    -7.97 |   -1.32 | **    |
+| long     |    -8.45 |    -7.23 |   -1.21 | **    |
+| news     |    -8.09 |    -9.27 |    1.18 | **    |
+| gone     |   -10.39 |    -9.27 |   -1.12 | **    |
+| new      |    -7.02 |    -8.07 |    1.04 | **    |
+| find     |    -8.78 |    -8.07 |   -0.72 |       |
+From: rskirsky@athena.qualcomm.com (Ray Skirsky)
+Subject: Re: Where's Roger?
+
+Speaking of Roger and ilk, whatever happened to good ol' gln?  I had him in
+my kill file since last year's playoffs and now that I've moved to a new
+news reader which doesn't have kill files, I find that he's gone.  I must
+admit, however, that unlike gln, Roger seems to know something about the game
+as long as the subject doesn't touch on the Leafs.
+
+Ray Skirsky 
+rskirsky@qualcomm.com

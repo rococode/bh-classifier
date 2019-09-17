@@ -1,0 +1,46 @@
+2.3453290572145755e-06 0.999997654670914 0.9999953093418568 True
+prediction: baseball for data/test/rec.sport.baseball-full/105049
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| torre     |    -8.17 |   -10.39 |    2.22 | **    |
+| g         |    -9.68 |    -7.75 |   -1.92 | **    |
+| instead   |    -9.68 |    -7.99 |   -1.68 | **    |
+| cardinals |    -8.76 |   -10.39 |    1.63 | **    |
+| dave      |    -7.23 |    -8.78 |    1.55 | **    |
+| alicea    |    -8.98 |   -10.39 |    1.41 | **    |
+| luis      |    -9.27 |   -10.39 |    1.12 | **    |
+| worked    |   -10.37 |    -9.29 |   -1.07 | **    |
+| anyone    |    -7.23 |    -8.19 |    0.96 |       |
+| hurt      |    -8.76 |    -9.7  |    0.94 |       |
+From: daves@meaddata.com (Dave Spencer)
+Subject: Re: Geronimo Pena?
+
+In article <1r20avINNb6q@cronkite.Central.Sun.COM>, bobn@hawkwind.central.Sun.COM (Bob Netherton) writes:
+|> In article <1993Apr20.013653.1@eagle.wesleyan.edu>, dhart@eagle.wesleyan.edu writes:
+|> |> 
+|> |> 
+|> |> Hey...I've noticed that Luis Alicea is starting at 2nd for the Cardinals
+|> |> instead of Geronimo Pena.  Is Pena hurt, or was he just benched for poor
+|> |> performance?  Anyone know?
+|> 
+|> After a quick start, Pena has been stuck in a rut.  Torre gave Alicea
+|> the start to try to get Pena out of whatever funk he is in.  It has
+|> worked in the past.
+|> 
+
+   And it has worked again. Pena went 3 for 3 last night against Colorado.
+
+-- 
+Dave Spencer        |                             /\      
+Mead Data Central   |                            /  \  
+Miamisburg, Ohio    |                           |\  /|     GGGGG  OOOO
+                    |               _____ _____ |    |     G      O  O
+daves@meaddata.com  |              /____//_____\|\  /|     G  GG  O  O
+                    |             /____________ \    /     GGGGG  OOOO
+                    |            / / \    / \  \ \  /       
+                    |           /   A  /   A    \_\/  TTT  RRR  III  BBB  EEE
+                    |          /      /          \/O)  T   R R   I   B B  E  
+                    |         (  ____(__)_____     /   T   RRR   I   BBB  EEE
+                    |          \(  |  |   |  |)   /    T   RR    I   B B  E  
+                    |           \\_|__|___|__/   /     T   R R  III  BBB  EEE
+                    |            \______________/

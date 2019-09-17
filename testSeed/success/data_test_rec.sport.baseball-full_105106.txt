@@ -1,0 +1,25 @@
+2.1849138445643462e-05 0.9999781508615617 0.9999563017231161 True
+prediction: baseball for data/test/rec.sport.baseball-full/105106
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| jewish   |    -7.32 |   -10.39 |    3.07 | **    |
+| baseball |    -6.65 |    -8.09 |    1.43 | **    |
+| oakland  |    -9.68 |   -10.39 |    0.72 |       |
+| walt     |    -9.68 |   -10.39 |    0.72 |       |
+| weiss    |    -9.68 |   -10.39 |    0.72 |       |
+| recall   |    -9.27 |    -9.7  |    0.43 |       |
+| still    |    -7.48 |    -7.83 |    0.35 |       |
+| seem     |    -8.76 |    -9.01 |    0.25 |       |
+| thought  |    -8.07 |    -7.83 |   -0.24 |       |
+| also     |    -7.23 |    -7.45 |    0.21 |       |
+From: gidi@Hilbert.Stanford.EDU (Gidi Avrahami)
+Subject: Re: Jewish Baseball Players?
+
+I thought that Walt Weiss was jewish.  I seem to recall this
+was mentioned once while he was still at Oakland.
+
+Also, I have my suspicions about Esther Canseco (nee Haddad).
+
+
+--Gidi
+

@@ -1,0 +1,29 @@
+0.7759430338478494 0.2240569661521647 0.5518860676956847 False
+prediction: hockey for data/test/rec.sport.baseball-full/105070
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| season |    -6.41 |    -9.34 |    2.93 | **    |
+| morris |   -10.07 |    -8.43 |   -1.65 | **    |
+| around |    -8.46 |   -10.04 |    1.57 | **    |
+| would  |    -7.51 |    -8.65 |    1.14 | **    |
+| thanks |   -10.07 |    -8.94 |   -1.13 | **    |
+| theres |   -10.07 |    -8.94 |   -1.13 | **    |
+| whats  |   -10.07 |    -8.94 |   -1.13 | **    |
+| lot    |    -8.97 |   -10.04 |    1.06 | **    |
+| last   |    -8.97 |    -8.09 |   -0.88 |       |
+| rest   |    -8.46 |    -9.34 |    0.88 |       |
+From: 00mbstultz@leo.bsuvc.bsu.edu
+Subject: Dennis Martinez: What's up!?
+
+I know there's been a lot of talk about Jack Morris' horrible start,
+but what about Dennis Martinez.  Last I checked he's 0-3 with 6+ ERA.
+Is the ageless wonder finally showing his age?  Does he usually start
+off the season so slowly?  I know he plans to start tonight.   I hope
+he comes around....
+
+I would appreciate any feedback concerning outlook on rest of Dennis
+Martinez's season...
+
+Thanks in advance,
+
+Mike

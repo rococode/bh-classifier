@@ -1,0 +1,48 @@
+9.796214355781188e-06 0.9999902037856219 0.999980407571266 True
+prediction: baseball for data/test/rec.sport.baseball-full/105120
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| period    |   -10.37 |    -7.68 |   -2.68 | **    |
+| ryan      |    -8.17 |   -10.39 |    2.22 | **    |
+| hall      |    -7.11 |    -9.29 |    2.18 | **    |
+| robin     |    -8.42 |   -10.39 |    1.97 | **    |
+| wondering |    -8.58 |   -10.39 |    1.82 | **    |
+| mvp       |   -10.37 |    -8.6  |   -1.77 | **    |
+| rangers   |    -8.76 |    -7.1  |   -1.66 | **    |
+| hi        |    -8.76 |   -10.39 |    1.63 | **    |
+| main      |   -10.37 |    -9.01 |   -1.36 | **    |
+| indians   |    -8.42 |    -9.7  |    1.28 | **    |
+From: robinr@prism.CS.ORST.EDU (Ryan Robin)
+Subject: John Wetteland, Derek Lilliquist, info please.
+
+
+
+Hi there,
+
+      I was wondering if anyone knew if John Wetteland was put on the DL again
+      after his first 15-day period was up? I read in the USA Today Sports 
+      section that he is on for "surgery to repair broken toe", and was
+      wondering if that was new. I thought he was just letting it heal. 
+
+      Another question, Is Derek Lilliquist the main closer for the Indians now
+      that Olin is gone. I need to know cause I need to find a reliever to 
+      replace Wetteland and so far Lilliquist is doing ok. Any information on
+      either of the players would be greatly appreciated. Thank you for your
+      time. 
+
+
+      Ryan Robin.
+
+___________________________________________________________ 
+  
+  [==================]         Texas Rangers in 1993!
+  [==================]          Jose Canseco for MVP.
+  [==]    [==]    [==]
+  [==]    [==]    [==]             Ryan N. Robin
+          [==]                   311 Weatherford Hall
+          [==]                     Corvallis, OR.
+          [==]                       97331-1701
+          [==]
+       [========]
+       [========]            (robinr@prism.cs.orst.edu)
+___________________________________________________________

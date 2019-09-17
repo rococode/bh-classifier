@@ -1,0 +1,31 @@
+0.9994209981464137 0.0005790018535908586 0.9988419962928229 True
+prediction: hockey for data/test/rec.sport.hockey-full/54200
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| nhl      |    -7.87 |   -10.04 |    2.16 | **    |
+| ahl      |    -8.13 |   -10.04 |    1.91 | **    |
+| long     |   -10.07 |    -8.24 |   -1.83 | **    |
+| go       |    -7.77 |    -8.94 |    1.17 | **    |
+| would    |    -7.51 |    -8.65 |    1.14 | **    |
+| much     |    -7.87 |    -8.94 |    1.06 | **    |
+| minors   |    -8.97 |   -10.04 |    1.06 | **    |
+| cant     |   -10.07 |    -9.34 |   -0.73 |       |
+| gone     |   -10.07 |    -9.34 |   -0.73 |       |
+| decision |    -9.38 |   -10.04 |    0.66 |       |
+From: boora@kits.sfu.ca (The GodFather)
+Subject: RANGERS ARE AN EMBARRASSMENT
+
+	I can't believe that the NY Rangers would force its 
+players to go to Binghamtom to play in the AHL playoffs instead
+of letting them represent their countries in the World Championships.
+
+Anderrson and Zubov are waiting for the NHL to make a decision to this,
+while Kovalev has given in and gone down to the minors.
+
+The Rangers are a disgrace.
+
+ps. it has been reported that Neil Smith was very much against
+the hiring of Mike Keenan. How long will Smith be in NY for?
+
+		the GodFather.
+`

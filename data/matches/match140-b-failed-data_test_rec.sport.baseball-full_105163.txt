@@ -1,0 +1,22 @@
+0.978342018524843 0.021657981475167693 0.9566840370496753 False
+prediction: hockey for data/test/rec.sport.baseball-full/105163
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| im      |   -10.07 |    -8.24 |   -1.83 | **    |
+| go      |    -7.77 |    -8.94 |    1.17 | **    |
+| games   |    -6.94 |    -8.09 |    1.15 | **    |
+| lot     |    -8.97 |   -10.04 |    1.06 | **    |
+| really  |    -8.28 |    -9.34 |    1.06 | **    |
+| game    |    -8.28 |    -7.47 |   -0.81 |       |
+| top     |   -10.07 |    -9.34 |   -0.73 |       |
+| calling |    -9.38 |   -10.04 |    0.66 |       |
+| groin   |    -9.38 |   -10.04 |    0.66 |       |
+| making  |    -9.38 |   -10.04 |    0.66 |       |
+From: mbohler@udcps3.cps.udayton.edu (Michael Bohler)
+Subject: Re: How to speed up games (marginally realistic)
+
+To really speed up the game umps need to START CALLING STRIKES the way
+they used to.  I'm talking about making the strike zone start at the
+knees and go up to the top of the letters.  Forget this "the strike zone
+is in the general area of the groin".  A lot less 3-and-2 counts and a
+quicker game. 

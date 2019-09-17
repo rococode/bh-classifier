@@ -1,0 +1,37 @@
+0.0034853793185889584 0.996514620681439 0.9930292413628501 True
+prediction: baseball for data/test/rec.sport.baseball-full/105018
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| yankee   |    -8.29 |   -10.39 |    2.1  | **    |
+| career   |    -7.88 |    -9.7  |    1.82 | **    |
+| sometime |    -9.27 |   -10.39 |    1.12 | **    |
+| go       |    -7.37 |    -6.54 |   -0.83 |       |
+| heard    |    -8.98 |    -8.19 |   -0.79 |       |
+| overall  |    -9.68 |   -10.39 |    0.72 |       |
+| article  |    -6.18 |    -6.65 |    0.48 |       |
+| writes   |    -5.87 |    -6.22 |    0.35 |       |
+| thats    |    -7.28 |    -7.62 |    0.34 |       |
+| game     |    -5.99 |    -5.82 |   -0.17 |       |
+From: luriem@alleg.edu(Michael Lurie) The Liberalizer
+Subject: Re: RE:Re:ALL-TIME BEST PLAYERS
+
+In article <1993Apr21.120525.1@tesla.njit.edu> drm6640@tesla.njit.edu  
+writes:
+> Overall (career)
+> 1.	Don Mattingly
+> 2.	Don Mattingly
+> 3.	Don Mattingly
+> 4.	Don Mattingly
+> 5.	Don Mattingly
+> 6.	Don Mattingly
+> 7.	Don Mattingly
+> 8.	Don Mattingly
+> 9.	Don Mattingly
+> 10.	Don Mattingly
+> 11.	Don Mattingly
+> ..
+
+
+Wanna go to a game sometime?
+Jesus christ boy, have you not heard of the real all-time best....STEVE  
+BALBONI...Now that's Yankee pride.
