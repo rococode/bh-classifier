@@ -42,26 +42,49 @@ public class FeedbackExtracter {
 
         modelHL = new HashMap<>();
         safePut3(modelHL, "104917-b-practice-success.txt", Arrays.asList("pitch", "montreal", "hard"));
-        safePut3(modelHL, "54172-h-failed.txt", Arrays.asList("final", "given", "goals"));
-        safePut3(modelHL, "54174-h-failed.txt", Arrays.asList("greg", "really", "goal"));
-        safePut3(modelHL, "54198-h-failed.txt", Arrays.asList("nhl", "need", "much"));
-        safePut3(modelHL, "54199-h-success.txt", Arrays.asList("playing", "another", "gerald"));
-        safePut3(modelHL, "54220-h-success.txt", Arrays.asList("nhl", "problem", "come"));
-        safePut3(modelHL, "54226-h-success.txt", Arrays.asList("leafs", "series", "detroit"));
-        safePut3(modelHL, "54229-h-success.txt", Arrays.asList("ny", "leads", "cup"));
-        safePut3(modelHL, "54244-h-success.txt", Arrays.asList("ny", "cup", "leafs"));
-        safePut3(modelHL, "54245-h-success.txt", Arrays.asList("results", "goal", "player"));
-        safePut3(modelHL, "54260-h-success.txt", Arrays.asList("gilmour", "slightly", "think"));
-        safePut3(modelHL, "104910-b-success.txt", Arrays.asList("sox", "white", "played"));
-        safePut3(modelHL, "105144-b-success.txt", Arrays.asList("phillies", "phils", "anyone"));
-        safePut3(modelHL, "104936-b-success.txt", Arrays.asList("st", "baseball", "league"));  // "st" trimmed from "1st"
-        safePut3(modelHL, "104942-b-success.txt", Arrays.asList("b", "winner", "baseball"));  // "b" trimmed from "b9"
-        safePut3(modelHL, "104944-b-failed.txt", Arrays.asList("anyone", "appreciated", "email"));  // "email" trimmed from "e-mail"
-        safePut3(modelHL, "104947-b-failed.txt", Arrays.asList("cup", "really", "vs"));
-        safePut3(modelHL, "105015-b-success.txt", Arrays.asList("three", "much", "anyone"));
-        safePut3(modelHL, "105058-b-success.txt", Arrays.asList("baseball", "bb", "single"));
-        safePut3(modelHL, "105086-b-success.txt", Arrays.asList("pitch", "help", "much"));
-        safePut3(modelHL, "105087-b-success.txt", Arrays.asList("pitch", "got", "much"));
+        safePut3(modelHL, "54172-h-success.txt", Arrays.asList("goals", "goalie", "points"));
+        safePut3(modelHL, "54174-h-success.txt", Arrays.asList("goal", "puck", "watched"));
+        safePut3(modelHL, "54198-h-success.txt", Arrays.asList("nhl", "hockey", "ice"));
+        safePut3(modelHL, "54199-h-success.txt", Arrays.asList("compare", "gerald", "minus"));
+        safePut3(modelHL, "54220-h-success.txt", Arrays.asList("nhl", "hockey", "stars"));
+        safePut3(modelHL, "54226-h-success.txt", Arrays.asList("leafs", "ice", "probert"));
+        safePut3(modelHL, "54229-h-success.txt", Arrays.asList("hockey", "wings", "cup"));
+        safePut3(modelHL, "54244-h-success.txt", Arrays.asList("leafs", "hockey", "wings"));
+        safePut3(modelHL, "54245-h-success.txt", Arrays.asList("hockey", "goal", "stars"));
+        safePut3(modelHL, "54260-h-success.txt", Arrays.asList("gilmour", "pat", "burns"));
+        safePut3(modelHL, "104910-b-success.txt", Arrays.asList("jewish", "sox", "baseball"));
+        safePut3(modelHL, "104936-b-failed.txt", Arrays.asList("giants", "w", "l"));
+        safePut3(modelHL, "104942-b-success.txt", Arrays.asList("catch", "winner", "l"));
+        safePut3(modelHL, "104944-b-success.txt", Arrays.asList("andrew", "company", "thanks"));
+        safePut3(modelHL, "104947-b-failed.txt", Arrays.asList("cup", "ball", "vs"));
+        safePut3(modelHL, "105015-b-success.txt", Arrays.asList("runs", "following", "yankees"));
+        safePut3(modelHL, "105058-b-success.txt", Arrays.asList("ball", "bat", "ie"));
+        safePut3(modelHL, "105086-b-success.txt", Arrays.asList("pitching", "braves", "pitchers"));
+        safePut3(modelHL, "105087-b-success.txt", Arrays.asList("pitcher", "gant", "braves"));
+        safePut3(modelHL, "105144-b-success.txt", Arrays.asList("phillies", "phil", "cards"));
+
+        // from second study
+//        safePut3(modelHL, "104917-b-practice-success.txt", Arrays.asList("pitch", "montreal", "hard"));
+//        safePut3(modelHL, "54172-h-failed.txt", Arrays.asList("final", "given", "goals"));
+//        safePut3(modelHL, "54174-h-failed.txt", Arrays.asList("greg", "really", "goal"));
+//        safePut3(modelHL, "54198-h-failed.txt", Arrays.asList("nhl", "need", "much"));
+//        safePut3(modelHL, "54199-h-success.txt", Arrays.asList("playing", "another", "gerald"));
+//        safePut3(modelHL, "54220-h-success.txt", Arrays.asList("nhl", "problem", "come"));
+//        safePut3(modelHL, "54226-h-success.txt", Arrays.asList("leafs", "series", "detroit"));
+//        safePut3(modelHL, "54229-h-success.txt", Arrays.asList("ny", "leads", "cup"));
+//        safePut3(modelHL, "54244-h-success.txt", Arrays.asList("ny", "cup", "leafs"));
+//        safePut3(modelHL, "54245-h-success.txt", Arrays.asList("results", "goal", "player"));
+//        safePut3(modelHL, "54260-h-success.txt", Arrays.asList("gilmour", "slightly", "think"));
+//        safePut3(modelHL, "104910-b-success.txt", Arrays.asList("sox", "white", "played"));
+//        safePut3(modelHL, "105144-b-success.txt", Arrays.asList("phillies", "phils", "anyone"));
+//        safePut3(modelHL, "104936-b-success.txt", Arrays.asList("st", "baseball", "league"));  // "st" trimmed from "1st"
+//        safePut3(modelHL, "104942-b-success.txt", Arrays.asList("b", "winner", "baseball"));  // "b" trimmed from "b9"
+//        safePut3(modelHL, "104944-b-failed.txt", Arrays.asList("anyone", "appreciated", "email"));  // "email" trimmed from "e-mail"
+//        safePut3(modelHL, "104947-b-failed.txt", Arrays.asList("cup", "really", "vs"));
+//        safePut3(modelHL, "105015-b-success.txt", Arrays.asList("three", "much", "anyone"));
+//        safePut3(modelHL, "105058-b-success.txt", Arrays.asList("baseball", "bb", "single"));
+//        safePut3(modelHL, "105086-b-success.txt", Arrays.asList("pitch", "help", "much"));
+//        safePut3(modelHL, "105087-b-success.txt", Arrays.asList("pitch", "got", "much"));
 
 //        from first study:
 //        safePut3(modelHL, "104917-b-practice-success.txt", Arrays.asList("pitch", "montreal", "hard"));
@@ -107,9 +130,9 @@ public class FeedbackExtracter {
 
     public static void compareNoFeedback() {
 
-        String query = "select a.condition as condition, b.id as id, b.email as email, b.feedbackus as confidence, b.real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00' and (a.condition = '_explain' or a.condition = '') and b.mode = 'train';";
+        String query = "select a.condition as condition, b.id as id, b.email as email, b.feedbackus as confidence, b.real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-09-05 13:00:00' and (a.condition = '_explain' or a.condition = '') and b.mode = 'train';";
 
-        try (PrintWriter writer = new PrintWriter(new File("compare_no_feedback.csv"))) {
+        try (PrintWriter writer = new PrintWriter(new File("compare_2_no_feedback.csv"))) {
 
             try (Connection conn = DriverManager.getConnection(url, props)) {
                 PreparedStatement stmt = conn.prepareStatement(query);
@@ -219,9 +242,9 @@ public class FeedbackExtracter {
 
     public static void compareInstance() {
 
-        String query = "select a.condition as condition, b.id as id, b.email as email, b.feedbackus as confidence, b.instance as feedback, b.real as real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00' and (a.condition = '_instance' or a.condition = '_instance_explain') and b.mode = 'train';";
+        String query = "select a.condition as condition, b.id as id, b.email as email, b.feedbackus as confidence, b.instance as feedback, b.real as real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-09-05 13:00:00' and (a.condition = '_instance' or a.condition = '_instance_explain') and b.mode = 'train';";
 
-        try (PrintWriter writer = new PrintWriter(new File("compare_instance.csv"))) {
+        try (PrintWriter writer = new PrintWriter(new File("compare_2_instance.csv"))) {
 
             try (Connection conn = DriverManager.getConnection(url, props)) {
                 PreparedStatement stmt = conn.prepareStatement(query);
@@ -358,9 +381,9 @@ public class FeedbackExtracter {
 
     public static void compareFeature() {
 
-        String query = "select a.condition as condition, b.id as id, b.email as email, b.chosen as chosen, b.feedbackus as confidence, b.instance as instance from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00' and (a.condition = '_feature' or a.condition = '_feature_explain') and b.mode = 'train';";
+        String query = "select a.condition as condition, b.id as id, b.email as email, b.chosen as chosen, b.feedbackus as confidence, b.instance as instance from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-09-05 13:00:00' and (a.condition = '_feature' or a.condition = '_feature_explain') and b.mode = 'train';";
 
-        try (PrintWriter writer = new PrintWriter(new File("compare_feature.csv"))) {
+        try (PrintWriter writer = new PrintWriter(new File("compare_2_feature.csv"))) {
 
             try (Connection conn = DriverManager.getConnection(url, props)) {
                 PreparedStatement stmt = conn.prepareStatement(query);

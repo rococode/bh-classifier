@@ -24,7 +24,7 @@
                     return Object(m.a)(a, e), Object(o.a)(a, [{
                         key: "clean",
                         value: function(e) {
-                            return e = (e = (e = (e = e.trim()).replace(/[^a-zA-Z\']/g, "")).replace(/\./, "")).toLowerCase()
+                            return e = (e = (e = (e = e.trim()).replace(/[^a-zA-Z]/g, "")).replace(/\./, "")).toLowerCase()
                         }
                     }, {
                         key: "check",

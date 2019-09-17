@@ -42,7 +42,7 @@ public class InstanceFeedbackIncorporater {
 
     public static void setupInstanceFeedback() {
         // get 60 users with instance-level feedback
-        String query = "select a.condition, a.id, b.email, b.instance, b.real_label, b.real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.created > '2019-08-14 17:00:00' and (a.condition = '_instance' or a.condition = '_instance_explain') and b.mode = 'train';";
+        String query = "select a.condition, a.id, b.email, b.instance, b.real_label, b.real from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-09-05 13:00:00' and (a.condition = '_instance' or a.condition = '_instance_explain') and b.mode = 'train';";
 
         try (Connection conn = DriverManager.getConnection(url, props)) {
             PreparedStatement stmt = conn.prepareStatement(query);

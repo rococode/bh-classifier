@@ -22,7 +22,7 @@ public class FeatureFeedbackIncorporater {
 //    private static Map<String, String> model_emails;
 
 
-    public static List<String> userIDs = new ArrayList<>();
+//    public static List<String> userIDs = new ArrayList<>();
 
     public static void main(String[] args) {
         initialize();
@@ -78,12 +78,12 @@ public class FeatureFeedbackIncorporater {
 //        model_emails.put("105028-b-m3-success.txt", "baseball");
 //        model_emails.put("105057-b-close-failed.txt", "baseball");
 
-        userIDs.add("e4eb9200-936f-4e88-98f2-8bb4997eac89");
-        userIDs.add("2780cee4-6655-419a-8b44-5ebe762a63c6");
-        userIDs.add("a7b49193-472a-4bb8-9623-a183a02410b8");
-        userIDs.add("a327c75d-d55f-40c8-9eb7-83d86db5f940");
-        userIDs.add("7616a7ac-5c89-4765-a934-50b38c8ee3a3");
-        userIDs.add("b7fb167a-066d-4ceb-8402-56a0a4c1c249");
+//        userIDs.add("e4eb9200-936f-4e88-98f2-8bb4997eac89");
+//        userIDs.add("2780cee4-6655-419a-8b44-5ebe762a63c6");
+//        userIDs.add("a7b49193-472a-4bb8-9623-a183a02410b8");
+//        userIDs.add("a327c75d-d55f-40c8-9eb7-83d86db5f940");
+//        userIDs.add("7616a7ac-5c89-4765-a934-50b38c8ee3a3");
+//        userIDs.add("b7fb167a-066d-4ceb-8402-56a0a4c1c249");
 //        userIDs.add("4e107f71-3512-48fe-89d3-cfa44b3f3ce0");
     }
 
@@ -96,7 +96,7 @@ public class FeatureFeedbackIncorporater {
 
     public static void setupFeatureFeedback() {
         // get 60 users with feature-level feedback
-        String query = "select a.condition, a.id, b.email, b.chosen, b.instance from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-08-14 17:00:00' and (a.condition = '_feature' or a.condition = '_feature_explain') and b.mode = 'train';";
+        String query = "select a.condition, a.id, b.email, b.chosen, b.instance from exp_demographics as a inner join exp_email as b on a.id = b.id where a.pilot is not true and a.dq is not true and a.created > '2019-09-05 13:00:00' and (a.condition = '_feature' or a.condition = '_feature_explain') and b.mode = 'train';";
 
         try (Connection conn = DriverManager.getConnection(url, props)) {
             PreparedStatement stmt = conn.prepareStatement(query);
@@ -191,7 +191,7 @@ public class FeatureFeedbackIncorporater {
                 System.out.println(chosen_hockey.size() + " hockey words for user " + user.getKey());
                 System.out.println(chosen_baseball.size() + " baseball words for user " + user.getKey());
 
-                if (userIDs.contains(user.getKey())) {
+//                if (userIDs.contains(user.getKey())) {
                     try {
                         String[] cmd = new String[6 + chosen_hockey.size() + chosen_baseball.size()];
                         cmd[0] = "C:\\Users\\Melissa Birchfield\\AppData\\Local\\Programs\\Python\\Python37\\python.exe";
@@ -231,7 +231,7 @@ public class FeatureFeedbackIncorporater {
                         e.printStackTrace();
                     }
                 }
-            }
+//            }
         }
         // should end up with 60 entries
     }

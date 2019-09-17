@@ -162,7 +162,7 @@ for _ in [1]:
     random.shuffle(combined)
     otrain_baseball[:], otrain_baseball_names[:], otrain_baseball_lens[:] = zip(*combined)
 
-    TRAINING_SIZE = 45
+    TRAINING_SIZE = 100
     if (TRAINING_SIZE > 0):
         train_hockey = otrain_hockey[:TRAINING_SIZE]
         train_hockey_names = otrain_hockey_names[:TRAINING_SIZE]
@@ -258,7 +258,7 @@ for _ in [1]:
     probs = [[i, a, b, abs(a - b), tNames[i], preds[i] == ty[i]] for i, a, b, diff in probs]
 
     for i, a, b, diff, name, correct in probs_tmp:
-        print(name, correct, diff)
+        # print(name, correct, diff)
         failed_dir = "data" + os.sep + "close calls2"
         if not os.path.exists(failed_dir):
             os.makedirs(failed_dir)
