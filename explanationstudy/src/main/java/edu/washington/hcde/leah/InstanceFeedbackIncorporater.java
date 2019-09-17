@@ -138,7 +138,7 @@ public class InstanceFeedbackIncorporater {
 
                 // call run.py to incorporate the instance-level feedback for this user
                 try {
-                    String cmd = "python " + loc + "run_instance.py " +  entry.getKey() + " " + user.getKey();
+                    String cmd = "/usr/local/bin/python3 " + loc + "run_instance.py " +  entry.getKey() + " " + user.getKey();
                     System.out.println(cmd);
                     Process p = Runtime.getRuntime().exec(cmd);
                     try {

@@ -21,13 +21,13 @@ scores = []
 nltk.download('stopwords')
 nltk.download('punkt')
 
-train_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "train"
-test_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "test"
+train_path = "/Users/alisonrenner/Workspace/bh-classifier/data" + os.sep + "train"
+test_path = "/Users/alisonrenner/Workspace/bh-classifier/data" + os.sep + "test"
 hockey = 'rec.sport.hockey-full'
 baseball = 'rec.sport.baseball-full'
 
 # incorporate instance-level feedback
-feedback_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "feedback"
+feedback_path = "/Users/alisonrenner/Workspace/bh-classifier/data" + os.sep + "feedback"
 feedback_hockey = 'feedback_hockey'
 feedback_baseball = 'feedback_baseball'
 
@@ -249,7 +249,7 @@ for _ in [1]:
 
     for i, a, b, diff, name, correct in tqdm(probs_tmp):
         # print(name, correct, diff, file=sys.stderr)
-        failed_dir = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "close calls"
+        failed_dir = "/Users/alisonrenner/Workspace/bh-classifier/data/" + os.sep + "close calls"
         if not os.path.exists(failed_dir):
             os.makedirs(failed_dir)
         if not os.path.exists(failed_dir + os.sep + str(True)):
@@ -305,8 +305,8 @@ for _ in [1]:
     print("lens: ", len(tNames), len(preds), file=sys.stderr)
     sys.stderr.flush()
 
-    failed_dir = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "failed"
-    success_dir = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "success"
+    failed_dir = "/Users/alisonrenner/Workspace/bh-classifier/data" + os.sep + "failed"
+    success_dir = "/Users/alisonrenner/Workspace/bh-classifier/data" + os.sep + "success"
     if not os.path.exists(success_dir):
         os.makedirs(success_dir)
 
@@ -347,7 +347,7 @@ for _ in [1]:
     # print("feature_log_prob", clf.feature_log_prob_)
     # print("feature_log_prob shape", clf.feature_log_prob_.shape)
 
-f = open("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\instance_trained_2.txt", "a+")  # instance-level feedback
+f = open("/Users/alisonrenner/Workspace/bh-classifier/data/instance_trained_3.txt", "a+")  # instance-level feedback
 
 # command line args are different for instance-level feedback
 condition = sys.argv[1]

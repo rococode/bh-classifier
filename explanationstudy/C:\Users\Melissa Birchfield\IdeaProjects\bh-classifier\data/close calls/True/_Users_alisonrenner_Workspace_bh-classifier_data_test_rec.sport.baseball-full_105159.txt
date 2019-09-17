@@ -1,0 +1,35 @@
+0.46650936553308164 0.5334906344669169 0.06698126893383527 True
+prediction: baseball for /Users/alisonrenner/Workspace/bh-classifier/data/test/rec.sport.baseball-full/105159
+| word        |   p(w|b) |   p(w|h) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| players     |    -8.11 |    -5.3  |   -2.8  | **    |
+| career      |    -7.88 |    -9.7  |    1.82 | **    |
+| overall     |    -9.68 |   -10.39 |    0.72 |       |
+| best        |    -6.97 |    -7.1  |    0.13 |       |
+| subject     |    -5.72 |    -5.69 |   -0.03 |       |
+| mattingly   |   -10.37 |   -10.39 |    0.02 |       |
+| rerealltime |   -10.37 |   -10.39 |    0.02 |       |
+From: drm6640@tesla.njit.edu
+Subject: RE:Re:ALL-TIME BEST PLAYERS
+
+Overall (career)
+1.	Don Mattingly
+2.	Don Mattingly
+3.	Don Mattingly
+4.	Don Mattingly
+5.	Don Mattingly
+6.	Don Mattingly
+7.	Don Mattingly
+8.	Don Mattingly
+9.	Don Mattingly
+10.	Don Mattingly
+11.	Don Mattingly
+.
+.
+.
+.
+.
+.
+.
+.
+50.	Don Mattingly

@@ -1,0 +1,33 @@
+0.5584964372621757 0.4415035627378464 0.11699287452432927 False
+prediction: hockey for /Users/alisonrenner/Workspace/bh-classifier/data/test/rec.sport.baseball-full/105102
+| word    |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------|----------|----------|---------|-------|
+| ice     |    -4.84 |   -14.93 |   10.09 | **    |
+| get     |    -8.52 |    -5.13 |   -3.38 | **    |
+| bullpen |   -10.39 |    -8.07 |   -2.33 | **    |
+| rangers |    -7.1  |    -8.76 |    1.66 | **    |
+| dl      |   -10.39 |    -9.27 |   -1.12 | **    |
+| genius  |   -10.39 |    -9.27 |   -1.12 | **    |
+| happens |   -10.39 |    -9.27 |   -1.12 | **    |
+| tonight |    -8.78 |    -9.68 |    0.89 |       |
+| go      |    -6.54 |    -7.37 |    0.83 |       |
+| alan    |    -9.7  |    -8.98 |   -0.72 |       |
+From: sepinwal@mail.sas.upenn.edu (Alan Sepinwall)
+Subject: Re: When Is Melido Due Back?
+
+
+Melido came off the DL today and will start tonight against the Rangers.
+(Now, if only he can go the distance so that the bullpen doesn't have to
+come in.....)
+
+--I'm outta here like Vladimir!
+-Alan Sepinwall
+
+===========================================================================
+| "What's this?  This is ice.  This is what happens to water when it gets |
+|  too cold.  This?  This is Kent.  This is what happens to people when   |
+|  they get too sexually frustrated."                                     |
+|               -Val Kilmer, "Real Genius"                                |
+===========================================================================
+
+
