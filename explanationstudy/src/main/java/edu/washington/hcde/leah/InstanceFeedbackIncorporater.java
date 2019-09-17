@@ -28,7 +28,7 @@ public class InstanceFeedbackIncorporater {
     }
 
     public static void initialize() {
-    	loc = "Users/alisonrenner/Workspace/bh-classifier/";
+    	loc = "/Users/alisonrenner/Workspace/bh-classifier/";
 //        psql --host=voiceinteraction.czjskx89fj5x.us-west-2.rds.amazonaws.com --port=5432 --username voiceinteraction --password --dbname=voiceinteraction
         url = "jdbc:postgresql://voiceinteractiondb.cjt2uxgbtzyl.us-west-2.rds.amazonaws.com/voiceinteractiondb";
         props = new Properties();
