@@ -1,0 +1,39 @@
+1.376601734636732e-21 1.0 1.0 True
+prediction: baseball for data/test/rec.sport.baseball-full/105050
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| pitcher   |    -7.04 |   -10.39 |    3.36 | **    |
+| ball      |    -7.32 |   -10.39 |    3.07 | **    |
+| umpire    |    -7.48 |   -10.39 |    2.91 | **    |
+| run       |    -6.97 |    -9.7  |    2.73 | **    |
+| runner    |    -8.17 |   -10.39 |    2.22 | **    |
+| following |    -8.76 |   -10.39 |    1.63 | **    |
+| runners   |    -8.76 |   -10.39 |    1.63 | **    |
+| ontario   |    -9.68 |    -8.09 |   -1.59 | **    |
+| milton    |   -10.37 |    -8.78 |   -1.59 | **    |
+| baseball  |    -6.65 |    -8.09 |    1.43 | **    |
+From: pablo@jhunix.hcf.jhu.edu (Pablo A Iglesias)
+Subject: Re: How to speed up games (marginally realistic)
+
+In article <9304202040.PN27738@LL.MIT.EDU> ejb@ll.mit.edu ( Ed Baranoski) writes:
+>In article <1993Apr20.181245.11319@VFL.Paramax.COM> davidm@gvls2.vfl.paramax.com (David Madden) writes:
+>
+>   Another pair of suggestions:
+>   1. Remove the Balk rule.  It is the runners responsibility to stay "safe"
+>      no matter what the pitcher does.
+
+Quite honestly, this one is ridiculous.  Consider the following
+scenario: Runner on third. As the pitcher starts to throw home, the
+runner takes off for home and the batter squares around to bunt for
+the suicide squeeze. The pitcher, seeing this, does not throw home,
+but stops in mid action and puts the runner in a run down.  It is the
+balk rule that prevents this from happening.  
+
+Believe it or not, this actually happened to me once in an OBA
+(Ontario Baseball association) game in Milton, Ontario.  I was the
+batter and to my amazement, the umpire missed it.  In the 12 years
+that I played ball, this was worst piece of umpiring I ever saw.
+-- 
+Pablo Iglesias                        
+pi@ruth.ece.jhu.edu
+

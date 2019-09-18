@@ -1,0 +1,38 @@
+0.00012764075880789105 0.9998723592411568 0.9997447184823489 True
+prediction: baseball for data/test/rec.sport.baseball-full/104980
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| period    |   -10.37 |    -7.68 |   -2.68 | **    |
+| bullpen   |    -8.07 |   -10.39 |    2.33 | **    |
+| pitch     |    -8.07 |   -10.39 |    2.33 | **    |
+| wondering |    -8.58 |   -10.39 |    1.82 | **    |
+| james     |    -7.88 |    -9.29 |    1.41 | **    |
+| todays    |    -8.98 |   -10.39 |    1.41 | **    |
+| weekend   |    -8.98 |   -10.39 |    1.41 | **    |
+| main      |   -10.37 |    -9.01 |   -1.36 | **    |
+| indians   |    -8.42 |    -9.7  |    1.28 | **    |
+| kind      |    -9.68 |    -8.45 |   -1.23 | **    |
+From: cej0@ns1.cc.lehigh.edu (CHARLES EDWARD JAMES)
+Subject: Re: John Wetteland, Derek Lilliquist, info please.
+
+>
+>      I was wondering if anyone knew if John Wetteland was put on the DL again
+>      after his first 15-day period was up? I read in the USA Today Sports
+>      section that he is on for "surgery to repair broken toe", and was
+>      wondering if that was new. I thought he was just letting it heal.
+As of today's USA Today (4/23) John Wetteland should come off of the DL
+tonight and possibly pitch in the series this weekend (I forget who they play.)
+>
+>      Another question, Is Derek Lilliquist the main closer for the Indians now
+>      that Olin is gone. I need to know cause I need to find a reliever to
+>      replace Wetteland and so far Lilliquist is doing ok. Any information on
+>      either of the players would be greatly appreciated. Thank you for your
+>      time.
+Derek Lilliquist is probably going to be the main closer, but it will be kind
+of a bullpen by committee also.
+-- 
+|-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-|
+| Charles James         |      "If you don't care where you're going,        |
+| Lehigh University     |               then you ain't lost"                 |
+| CEJ0@Lehigh.EDU       |           Anonymous person in CSC 252              |
+|-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-=><=-|

@@ -1,0 +1,51 @@
+1.0695298430154156e-07 0.9999998930470668 0.9999997860940826 True
+prediction: baseball for data/test/rec.sport.baseball-full/104916
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| base     |    -7.66 |    -9.7  |    2.04 | **    |
+| career   |    -7.88 |    -9.7  |    1.82 | **    |
+| park     |    -8.58 |   -10.39 |    1.82 | **    |
+| baseball |    -6.65 |    -8.09 |    1.43 | **    |
+| company  |    -8.98 |   -10.39 |    1.41 | **    |
+| level    |   -10.37 |    -9.01 |   -1.36 | **    |
+| gary     |    -8.98 |    -7.68 |   -1.3  | **    |
+| fan      |    -7.11 |    -8.31 |    1.2  | **    |
+| lots     |    -9.27 |   -10.39 |    1.12 | **    |
+| stats    |    -7.23 |    -8.31 |    1.08 | **    |
+From: bdunn@cco.caltech.edu (Brendan Dunn)
+Subject: Re: Defensive Averages 1988-1992, Third Base
+
+In article <C5L068.6v3@srgenprp.sr.hp.com> craigs@srgenprp.sr.hp.com (Craig Stelter) writes:
+>Gaetti, Gary         .616  .638  .655  .632  ----   0.637
+>
+>Apologies if I don't know what I'm talking about :-), but as a Twins fan,
+>I like to think they have good players in any park.  Not sure if I remember
+>completely or not, but I think Gaetti played with the Twins in '87 for the 
+>world series, and again in '88 (note that's his lowest of the 4).  I believe 
+>the next 3 (or at least the last two) were played with the Angels.   Lots
+>of factors make a player excell...  I hate it when so many use the dome.
+>It may not be ideal, but nice to comfortably enjoy baseball and football 
+>even when it's snowing and raining.
+>
+>-Craig
+>
+>I'm sure the company for which I work does not have all the same opinions 
+>that I do...
+
+  The event that had the most impact on Gaetti's career was his leg injury
+in 1988.  His performance dropped radically from 1988 to 1989.  He was 
+still with the Twins in 1989 and 1990, but if you look at his stats (both
+offensive and defensive), he never has come back to his pre-injury level.
+
+Brendan
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+0.5090994787674974 0.49090052123250005 0.01819895753499734 False
+prediction: hockey for /Users/alisonrenner/Workspace/bh-classifier/data/test/rec.sport.baseball-full/105053
+| word          |   p(w|h) |   p(w|b) |   delta | **?   |
+|---------------|----------|----------|---------|-------|
+| hernandez     |   -10.42 |    -8.6  |   -1.82 | **    |
+| roman         |    -9.32 |   -10.39 |    1.07 | **    |
+| sc            |    -9.32 |   -10.39 |    1.07 | **    |
+| sunday        |    -7.93 |    -9    |    1.07 | **    |
+| go            |    -6.57 |    -7.34 |    0.78 |       |
+| would         |    -6.63 |    -5.92 |   -0.71 |       |
+| recall        |    -9.72 |    -9.29 |   -0.43 |       |
+| subject       |    -5.61 |    -5.66 |    0.05 |       |
+| autobiography |   -10.42 |   -10.39 |   -0.03 |       |
+| carpool       |   -10.42 |   -10.39 |   -0.03 |       |
+From: scordova@epas.utoronto.ca (Stephen Cordova)
+Subject: Rusty's religion
+
+As I recall from Kieth Hernandez' 'auto'biography, Rusty is a devout
+Roman Catholic.  Kieth and Rusty would carpool to Shea everyday but
+Sunday, when Rusty would go to mass.
+SC

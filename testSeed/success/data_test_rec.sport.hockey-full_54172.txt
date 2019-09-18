@@ -1,0 +1,23 @@
+0.9984860034981929 0.0015139965017895132 0.9969720069964034 True
+prediction: hockey for data/test/rec.sport.hockey-full/54172
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| goals     |    -7.68 |   -10.37 |    2.68 | **    |
+| goalie    |    -7.83 |   -10.37 |    2.54 | **    |
+| points    |    -7.35 |    -9.27 |    1.92 | **    |
+| u         |   -10.39 |    -8.58 |   -1.82 | **    |
+| including |    -8.6  |   -10.37 |    1.77 | **    |
+| assists   |    -9.01 |   -10.37 |    1.36 | **    |
+| several   |    -9.7  |    -8.42 |   -1.28 | **    |
+| stats     |    -8.31 |    -7.23 |   -1.08 | **    |
+| season    |    -6.35 |    -7.32 |    0.97 |       |
+| regular   |    -8.31 |    -9.27 |    0.96 |       |
+From: neath@brazil.psych.purdue.edu (Ian Neath)
+Subject: Re: Final Regular Season Individual Goalie Stats
+
+What about including points?  Probably no goals (at least against
+opponents) but there have been several assists given.
+
+--
+      Ian Neath        | There are four kinds of people in this world:
+neath@psych.purdue.edu | cretins, fools, morons and lunatics - U. Eco

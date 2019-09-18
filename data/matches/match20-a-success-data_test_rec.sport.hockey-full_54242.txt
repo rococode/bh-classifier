@@ -1,0 +1,27 @@
+0.9999982451707347 1.7548292556353635e-06 0.999996490341479 True
+prediction: hockey for data/test/rec.sport.hockey-full/54242
+| word      |   p(w|h) |   p(w|b) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| new       |    -8.13 |   -10.04 |    1.91 | **    |
+| scoring   |    -8.13 |   -10.04 |    1.91 | **    |
+| right     |    -8.46 |   -10.04 |    1.57 | **    |
+| champs    |    -8.69 |   -10.04 |    1.35 | **    |
+| good      |    -7.67 |    -8.94 |    1.26 | **    |
+| go        |    -7.77 |    -8.94 |    1.17 | **    |
+| playoff   |    -8.97 |   -10.04 |    1.06 | **    |
+| certainly |   -10.07 |    -9.34 |   -0.73 |       |
+| opinion   |   -10.07 |    -9.34 |   -0.73 |       |
+| time      |    -8.97 |    -8.24 |   -0.73 |       |
+From: kkeller@mail.sas.upenn.edu (Keith Keller)
+Subject: Playoff pool rule revision
+
+Well, I will have to change the scoring on my playoff pool.  Unfortunately
+I don't have time right now, but I will certainly post the new scoring
+rules by tomorrow.  Does it matter?  No, you'll enter anyway!!!  Good!
+
+--
+    Keith Keller				LET'S GO RANGERS!!!!!
+						LET'S GO QUAKERS!!!!!
+	kkeller@mail.sas.upenn.edu		IVY LEAGUE CHAMPS!!!!
+
+            "When I want your opinion, I'll give it to you." 

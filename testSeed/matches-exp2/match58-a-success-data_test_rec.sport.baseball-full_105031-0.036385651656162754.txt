@@ -1,0 +1,33 @@
+0.0008944841172609469 0.9991055158827622 0.9982110317655013 True
+prediction: baseball for data/test/rec.sport.baseball-full/105031
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| ny        |    -9.68 |    -7.3  |   -2.37 | **    |
+| pitch     |    -8.07 |   -10.39 |    2.33 | **    |
+| mets      |    -8.17 |    -9.7  |    1.53 | **    |
+| att       |   -10.37 |    -9.01 |   -1.36 | **    |
+| ready     |   -10.37 |    -9.01 |   -1.36 | **    |
+| daytoday  |    -9.27 |   -10.39 |    1.12 | **    |
+| dl        |    -9.27 |   -10.39 |    1.12 | **    |
+| gone      |    -9.27 |   -10.39 |    1.12 | **    |
+| interview |    -9.27 |   -10.39 |    1.12 | **    |
+| wfan      |    -9.27 |   -10.39 |    1.12 | **    |
+From: jkl@cbnewsl.cb.att.com (jon.k.lyons)
+Subject: Re: John Franco
+
+Jason Lee asks:
+>What's with John Franco?  The Mets are hardly using him.  I heard he was
+>completely recovered, but now I'm not so sure.
+
+You must have heard wrong.  His arm is still sore.  He hasn't gone on the DL,
+but he may.  Managmenet is treating him as a day-to-day situation.  
+
+His doctors thought that he was ready, and they had him throw in
+Colorado, but his arm wasn't up to the strain.  He is throwing every day,
+but he's just not quite ready to pitch full strength yet.
+
+(This is based on an interview that he gave on WFAN NY radio on Thursday,
+4/23)
+-- 
+Jon Lyons                                            jon.k.lyons@att.com
+AT&T Bell Laboratories                               att!jon.k.lyons

@@ -1,0 +1,36 @@
+0.002743163376306148 0.9972568366236707 0.9945136732473645 True
+prediction: baseball for data/test/rec.sport.baseball-full/105086
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| new      |   -10.04 |    -8.13 |   -1.91 | **    |
+| long     |    -8.24 |   -10.07 |    1.83 | **    |
+| right    |   -10.04 |    -8.46 |   -1.57 | **    |
+| runs     |    -8.65 |   -10.07 |    1.42 | **    |
+| good     |    -8.94 |    -7.67 |   -1.26 | **    |
+| email    |    -8.94 |   -10.07 |    1.13 | **    |
+| help     |    -8.94 |   -10.07 |    1.13 | **    |
+| pitchers |    -8.94 |   -10.07 |    1.13 | **    |
+| pitching |    -8.94 |   -10.07 |    1.13 | **    |
+| much     |    -8.94 |    -7.87 |   -1.06 | **    |
+From: fls@keynes.econ.duke.edu (Forrest Smith)
+Subject: Re: Braves Pitching UpdateDIR
+
+
+	Amazingly, pitchers, no matter how good their mechanics, are
+not machines.  Cy Young winners don't pitch in a vaccuum, unaware
+of how their offenses are doing.
+
+	The Braves' pitching staff is already showing signs of
+cracking under the strain of knowing they're not going to get many
+(if any) runs.  Unfortunately, the Braves' pitchers were so bad for so
+long that the organization put so much stress (and I mean *stress*)
+on pitching that they completely ignored hitting.
+
+	The Braves right now are looking woefully similar to the Braves of
+the mid-seventies.  Heaven help us.
+ 
+-- 
+@econ.duke.edu     fls@econ.duke.edu     fls@econ.duke.edu    fls@econ.duke.
+s  To my correspondents:  My email has been changed.                       e
+l                         My new address is:  fls@econ.duke.edu            d
+f            If mail bounces, try fls@raphael.acpub.duke.edu               u

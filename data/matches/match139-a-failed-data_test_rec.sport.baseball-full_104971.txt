@@ -1,0 +1,30 @@
+0.9988160976855938 0.0011839023144284136 0.9976321953711653 False
+prediction: hockey for data/test/rec.sport.baseball-full/104971
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| team     |    -7.43 |   -10.04 |    2.6  | **    |
+| st       |    -8.13 |    -9.34 |    1.22 | **    |
+| home     |   -10.07 |    -8.94 |   -1.13 | **    |
+| getting  |    -8.97 |   -10.04 |    1.06 | **    |
+| still    |    -8.46 |    -9.34 |    0.88 |       |
+| hold     |   -10.07 |    -9.34 |   -0.73 |       |
+| phillies |   -10.07 |    -9.34 |   -0.73 |       |
+| please   |    -9.38 |    -8.65 |   -0.73 |       |
+| bunch    |    -9.38 |   -10.04 |    0.66 |       |
+| either   |    -8.69 |    -9.34 |    0.66 |       |
+From: jle@world.std.com (Joe M Leonard)
+Subject: Are the Orioles/Phillies at home on Mem Day Wkend
+
+Subject sez it...
+
+Wondering if either team are in town that weekend (5-30/5-31).
+
+I can probably get Phillies tix, as the Vet can hold a bunch (and
+I hope they're still in 1st but it's late may, and...).  Camden
+Yards is a problem - is there any way of getting in the park w/o an SRO
+ticket?  Any advice if there at home?
+
+Joe Leonard
+jle@world.std.com
+
+P.S. Please reply directly, to keep the net down to a dull roar...

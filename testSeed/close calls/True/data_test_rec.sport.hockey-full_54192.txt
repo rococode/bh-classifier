@@ -1,0 +1,26 @@
+0.5288141574855534 0.4711858425144441 0.05762831497110926 True
+prediction: hockey for data/test/rec.sport.hockey-full/54192
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| fight       |    -9.01 |   -10.42 |    1.42 | **    |
+| oh          |    -9.29 |    -8.35 |   -0.95 |       |
+| huot        |    -9.7  |   -10.42 |    0.73 |       |
+| huotcraycom |    -9.7  |   -10.42 |    0.73 |       |
+| referring   |    -9.7  |   -10.42 |    0.73 |       |
+| tom         |    -8.78 |    -8.12 |   -0.66 |       |
+| bandwidth   |   -10.39 |    -9.73 |   -0.66 |       |
+| excuse      |   -10.39 |    -9.73 |   -0.66 |       |
+| incident    |   -10.39 |    -9.73 |   -0.66 |       |
+| recent      |    -9.7  |    -9.33 |   -0.37 |       |
+From: huot@cray.com (Tom Huot)
+Subject: Re: Bruins-Pens: the Ulf-Neeley fight
+
+Oh, excuse me for wasting the bandwidth, but I was referring to 
+the original incident, not the recent skirmish which occurred
+this past month. 
+
+--
+_____________________________________________________________________________
+Tom Huot        			       
+huot@cray.com 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,49 @@
+0.9999999999971578 2.8283771050681114e-12 0.9999999999943294 True
+prediction: hockey for data/test/rec.sport.hockey-full/54249
+| word   |   p(w|h) |   p(w|b) |   delta | **?   |
+|--------|----------|----------|---------|-------|
+| cup    |    -7.99 |   -10.04 |    2.04 | **    |
+| draft  |    -7.99 |   -10.04 |    2.04 | **    |
+| hockey |    -7.99 |   -10.04 |    2.04 | **    |
+| round  |    -8.13 |   -10.04 |    1.91 | **    |
+| im     |   -10.07 |    -8.24 |   -1.83 | **    |
+| series |   -10.07 |    -8.43 |   -1.65 | **    |
+| even   |   -10.07 |    -8.65 |   -1.42 | **    |
+| far    |    -8.69 |   -10.04 |    1.35 | **    |
+| good   |    -7.67 |    -8.94 |    1.26 | **    |
+| st     |    -8.13 |    -9.34 |    1.22 | **    |
+From: ac291@Freenet.carleton.ca (W. Jon Shaib)
+Subject: Some Play-offs Thoughts
+
+
+Well, we're almost halfway through the first round, and so far things are
+good in general:
+
+  1. The 2 teams that I hate most: Chicago and "Basten" are down 3 zip.
+     (even though there is a possibility either can still win their
+      series, yet this ego-thrashing and arrogance-smashing by the
+      underdogs (St. Louis and Buffalo) is so rewarding).
+  2. Montreal is at this stage in a team's life where they are not good
+     enough to go all the way, yet too good to be able to get some
+     (really) good draft picks... :-(
+  3. Is it just me, or does anyone out there also think that this year
+     the cup final should be played between 2 teams from the WALES?
+  4. Is it just because they're playing Montreal that I find the diques
+     arrogant ***'s, or are they really?
+  5. Smythe-what???? I'm really getting sick of seeing Douggie and Wendel
+     night in and night out... We should see some Canucks/Jets/Flames
+     action...!
+  6. Don Cherry is an ******* alright, but hey... so are our politicians...
+  
+ObLeafsJoke:  Q. what do you get when you cross a maple leaf and a 
+                groundhog?
+              A. Six more weeks of crummy hockey!
+------------------------------------------------------------------
+L8R, dudes...
+GO HABS GOOOOOOOOOOOOOOOOOOO!
+
+-- 
+---------------------------------------------------------------------------
+Jon Shaib  ac291@carleton.freenet.ca
+---------------------------------------------------------------------------
+

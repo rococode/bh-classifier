@@ -1,0 +1,22 @@
+0.22438384858687707 0.7756161514131308 0.5512323028262537 False
+prediction: baseball for data/test/rec.sport.hockey-full/54173
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| jersey   |   -10.37 |    -8.31 |   -2.06 | **    |
+| canucks  |   -10.37 |    -8.6  |   -1.77 | **    |
+| thanks   |    -7.42 |    -8.78 |    1.36 | **    |
+| tv       |    -9.27 |    -7.99 |   -1.28 | **    |
+| new      |    -8.07 |    -7.02 |   -1.04 | **    |
+| access   |    -9.68 |   -10.39 |    0.72 |       |
+| computer |    -8.98 |    -9.7  |    0.72 |       |
+| radio    |    -9.68 |   -10.39 |    0.72 |       |
+| score    |    -7.6  |    -8.31 |    0.72 |       |
+| could    |    -7.23 |    -7.91 |    0.67 |       |
+From: mashumka@fish.Princeton.EDU (Mark Andrew Shumka)
+Subject: Canucks score
+
+HELP!  I'm stuck here at a computer in New Jersey and have no access to
+a radio or TV.  Could someone kindly post the score of the Canucks-Jets
+game?  Thanks in advance.
+
+Mark

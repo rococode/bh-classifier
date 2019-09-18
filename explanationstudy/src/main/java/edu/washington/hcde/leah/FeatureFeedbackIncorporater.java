@@ -17,6 +17,7 @@ public class FeatureFeedbackIncorporater {
 
     private static String url;
     private static Properties props;
+    private static String loc;
 
     private static Map<String, Map<String, Map<String, List<String>>>> feedback_map;
 //    private static Map<String, String> model_emails;
@@ -31,6 +32,7 @@ public class FeatureFeedbackIncorporater {
     }
 
     public static void initialize() {
+    	loc = "/Users/alisonrenner/Workspace/bh-classifier/";
 //        psql --host=voiceinteraction.czjskx89fj5x.us-west-2.rds.amazonaws.com --port=5432 --username voiceinteraction --password --dbname=voiceinteraction
         url = "jdbc:postgresql://voiceinteractiondb.cjt2uxgbtzyl.us-west-2.rds.amazonaws.com/voiceinteractiondb";
         props = new Properties();
@@ -194,8 +196,8 @@ public class FeatureFeedbackIncorporater {
 //                if (userIDs.contains(user.getKey())) {
                     try {
                         String[] cmd = new String[6 + chosen_hockey.size() + chosen_baseball.size()];
-                        cmd[0] = "C:\\Users\\Melissa Birchfield\\AppData\\Local\\Programs\\Python\\Python37\\python.exe";
-                        cmd[1] = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\run_feature.py";
+                        cmd[0] = "/usr/local/bin/python3";
+                        cmd[1] = loc + "run_feature.py";
                         cmd[2] = entry.getKey(); // condition
                         cmd[3] = user.getKey(); // user id
                         cmd[4] = Integer.toString(chosen_hockey.size() + chosen_baseball.size()); // total number of words (should be 60)

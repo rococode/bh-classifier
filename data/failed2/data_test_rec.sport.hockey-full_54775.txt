@@ -1,0 +1,33 @@
+0.2880544417515162 0.7119455582484939 0.42389111649697775 False
+prediction: baseball for data/test/rec.sport.hockey-full/54775
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| ot         |   -11.56 |    -7.53 |   -4.03 | **    |
+| imus       |    -9.61 |   -11.72 |    2.11 | **    |
+| owns       |   -11.56 |    -9.52 |   -2.04 | **    |
+| caps       |    -9.36 |    -7.46 |   -1.91 | **    |
+| blurb      |    -9.95 |   -11.72 |    1.77 | **    |
+| park       |    -7.55 |    -9.23 |    1.68 | **    |
+| seinfeld   |   -10.17 |   -11.72 |    1.55 | **    |
+| stadium    |    -7.65 |    -9.15 |    1.51 | **    |
+| centre     |   -10.46 |    -9.08 |   -1.38 | **    |
+| guaranteed |   -11.56 |   -10.33 |   -1.23 | **    |
+From: bm562@cleveland.Freenet.Edu (Richard L. Trionfo)
+Subject: Re: Caps moving ?????
+
+
+   Why would Pollin want to move the Caps, because I think he
+owns the Cap Centre.  I know they don't sell out all of their 
+games, but they draw a lot more than the Bullets.  If you
+had the situation that Abe had, would you move if you were
+guaranteed that anyone who went to the games would have to 
+park at the stadium, because there has been nothing within
+a half mile, until the recent construction in
+the area.
+   Can they win a game in OT again.
+       Rich
+-- 
+  "You've read the hat, now see the movie."
+                   -Imus in the morning 
+  "A blurb? You're a blurb!"
+                   -Seinfeld

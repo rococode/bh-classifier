@@ -1,0 +1,21 @@
+0.45583015466339366 0.5441698453366045 0.08833969067321085 True
+prediction: baseball for /Users/alisonrenner/Workspace/bh-classifier/data/test/rec.sport.baseball-full/105116
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| yankee   |    -8.32 |   -10.4  |    2.08 | **    |
+| yankees  |    -7.63 |    -9.3  |    1.67 | **    |
+| schedule |    -9.71 |    -8.2  |   -1.51 | **    |
+| away     |    -8.79 |    -7.69 |   -1.1  | **    |
+| need     |    -7.7  |    -8.61 |    0.91 |       |
+| net      |    -9.02 |    -8.2  |   -0.82 |       |
+| post     |    -8.01 |    -8.32 |    0.31 |       |
+| someone  |    -8.32 |    -8.1  |   -0.23 |       |
+| right    |    -7.36 |    -7.57 |    0.21 |       |
+| subject  |    -5.61 |    -5.66 |    0.06 |       |
+From: amacal@pica.mil (Ariel)
+Subject: Yankees Schedule
+
+Can someone in this net post a Yankee Schedule?
+I need this right away.
+
+																												Thank You

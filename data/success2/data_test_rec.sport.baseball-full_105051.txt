@@ -1,0 +1,25 @@
+1.2049236203323394e-18 1.0 1.0 True
+prediction: baseball for data/test/rec.sport.baseball-full/105051
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| sox       |    -6.63 |   -11.72 |    5.09 | **    |
+| pitch     |    -6.91 |   -11.72 |    4.8  | **    |
+| homeruns  |    -8.92 |   -11.72 |    2.8  | **    |
+| bosox     |    -9.16 |   -11.72 |    2.56 | **    |
+| greenwell |    -9.77 |   -11.72 |    1.95 | **    |
+| seattle   |    -7.9  |    -9.77 |    1.88 | **    |
+| hit       |    -6.13 |    -7.98 |    1.85 | **    |
+| walked    |    -8.85 |   -10.33 |    1.48 | **    |
+| ace       |    -9.61 |   -11.03 |    1.41 | **    |
+| darwin    |   -10.46 |   -11.72 |    1.26 | **    |
+From: jxu@black.clarku.edu (Dark Wing Duck!!)
+Subject: Bosox win again! (5-2 against Seattle)
+
+Last night, Boston Red Sox win its 11 games of 14 games by beating Seattle
+5-2.  Roger Clemson pitch not so dominate.  He walked at least 6 man in
+first 6 inns.  But Valetin and Greenwell hit homeruns and Red Sox prevail.
+
+I think that game is must win for Red Sox in Seattle, considering Darwin will
+faced Seattle ace Randy Johnson tonight.
+
+

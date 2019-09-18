@@ -1,0 +1,28 @@
+1.3344507736320714e-06 0.999998665549223 0.9999973310984493 True
+prediction: baseball for data/test/rec.sport.baseball-full/104947
+| word       |   p(w|b) |   p(w|h) |   delta | **?   |
+|------------|----------|----------|---------|-------|
+| davis      |    -7.85 |   -11.03 |    3.18 | **    |
+| cup        |    -9.36 |    -6.26 |   -3.1  | **    |
+| ball       |    -6.68 |    -9.77 |    3.09 | **    |
+| oakland    |    -8.13 |   -11.03 |    2.9  | **    |
+| huckabay   |    -8.85 |   -11.72 |    2.87 | **    |
+| storm      |   -10.87 |    -9.32 |   -1.55 | **    |
+| foot       |    -9.61 |   -11.03 |    1.41 | **    |
+| vs         |    -7.61 |    -6.26 |   -1.34 | **    |
+| california |    -8.19 |    -9.52 |    1.33 | **    |
+| dave       |    -6.79 |    -7.98 |    1.19 | **    |
+From: ez027993@dale.ucdavis.edu (Gary Built Like Villanueva Huckabay)
+Subject: A Warning to Homeowners, Low Flying Aircraft, and Astronomers.
+
+Oakland, California, Sunday, April 25th, 1:05 PM PDT:
+
+Jose Mesa vs. Storm Davis.
+
+You have been warned.
+
+-- 
+*   Gary Huckabay   * "Outside?!  That was right down the bleedin' pipe, *
+* "Balder than any  *  Kenny!  I realize I don't have great control, but *
+*  Dave on the net. *  c'mon!"  "Gary, that was a styrofoam cup.  The    *
+*      Really."     *  plate's a foot to your right.  Throw the ball."   *

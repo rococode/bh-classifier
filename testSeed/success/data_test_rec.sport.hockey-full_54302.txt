@@ -1,0 +1,32 @@
+0.9999781037661992 2.189623380275944e-05 0.9999562075323964 True
+prediction: hockey for data/test/rec.sport.hockey-full/54302
+| word     |   p(w|h) |   p(w|b) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| bruins   |    -7.5  |   -10.37 |    2.87 | **    |
+| pick     |    -7.56 |    -9.27 |    1.71 | **    |
+| happens  |   -10.39 |    -9.27 |   -1.12 | **    |
+| station  |    -9.7  |    -8.58 |   -1.12 | **    |
+| states   |    -9.29 |   -10.37 |    1.07 | **    |
+| new      |    -7.02 |    -8.07 |    1.04 | **    |
+| regular  |    -8.31 |    -9.27 |    0.96 |       |
+| year     |    -6.99 |    -6.23 |   -0.77 |       |
+| course   |    -8.78 |    -8.07 |   -0.72 |       |
+| conflict |   -10.39 |    -9.68 |   -0.72 |       |
+From: nhmas@gauss.med.harvard.edu (Mark Shneyder 432-4219)
+Subject: Re: Radio stations
+
+
+Add Boston's WEEI-590AM as the Bruins' flagship station. You probably won't
+pick it up anywhere outside of Boston since it's only a 5,000 watt
+station. The Bruins also have network stations in all 6 New England
+states.
+
+This could be the Bruins' last year on 'EEI which also happens to be an
+all-sports radio station. The problem is that the Bruins are not too happy
+being moved over to a different station(WMEX 1150AM) whenever there
+is a the same-night conflict with the NBA's Boston Celtics. This happened
+28 times during the course of the regular season.(The Celtics own financially
+troubled WEEI). The Bruins might resurface on WHDH 850 next year. Stay
+tuned.
+
+-PPV Mark

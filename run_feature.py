@@ -21,8 +21,10 @@ scores = []
 nltk.download('stopwords')
 nltk.download('punkt')
 
-train_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "train"
-test_path = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "test"
+path = "/Users/alisonrenner/Workspace/bh-classifier/"
+
+train_path = path + "data" + os.sep + "train"
+test_path = path + "data" + os.sep + "test"
 hockey = 'rec.sport.hockey-full'
 baseball = 'rec.sport.baseball-full'
 
@@ -338,8 +340,8 @@ for _ in [1]:
     print("lens: ", len(tNames), len(preds), file=sys.stderr)
     sys.stderr.flush()
 
-    failed_dir = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "failed"
-    success_dir = "C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\data" + os.sep + "success"
+    failed_dir = path + "data" + os.sep + "failed"
+    success_dir = path + "data" + os.sep + "success"
     if not os.path.exists(success_dir):
         os.makedirs(success_dir)
 
@@ -379,7 +381,7 @@ for _ in [1]:
     # print("feature_log_prob", clf.feature_log_prob_)
     # print("feature_log_prob shape", clf.feature_log_prob_.shape)
 
-f = open("C:\\Users\\Melissa Birchfield\\IdeaProjects\\bh-classifier\\feature_trained_2.txt", "a+")  # feature-level feedback
+f = open(path + "feature_trained_3.txt", "a+")  # feature-level feedback
 
 # condition = sys.argv[2]
 f.write(f"{condition},")

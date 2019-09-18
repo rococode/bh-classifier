@@ -1,0 +1,24 @@
+2.013637948806745e-06 0.9999979863620562 0.9999959727241073 True
+prediction: baseball for data/test/rec.sport.baseball-full/105017
+| word     |   p(w|b) |   p(w|h) |   delta | **?   |
+|----------|----------|----------|---------|-------|
+| ba       |    -8.58 |   -10.39 |    1.82 | **    |
+| ones     |    -8.58 |   -10.39 |    1.82 | **    |
+| winfield |    -8.58 |   -10.39 |    1.82 | **    |
+| numbers  |    -7.8  |    -9.29 |    1.49 | **    |
+| robert   |    -8.98 |   -10.39 |    1.41 | **    |
+| thanks   |    -7.42 |    -8.78 |    1.36 | **    |
+| image    |    -9.68 |   -10.39 |    0.72 |       |
+| article  |    -6.18 |    -6.65 |    0.48 |       |
+| second   |    -7.28 |    -7.75 |    0.48 |       |
+| david    |    -7.73 |    -8.19 |    0.47 |       |
+From: luriem@alleg.edu(Michael Lurie) The Liberalizer
+Subject: Re: Winfield's spot on THE ALL TIME GREATS TEAM
+
+In article <C5wEwD.Kto@murdoch.acc.Virginia.EDU>  
+drw3l@delmarva.evsc.Virginia.EDU (David Robert Walker) writes:
+
+
+Thanks for the numbers, they portray a true image in many ways, I accept  
+them...the first ones, and the second. IS winfield BA really only around  
+280.

@@ -1,0 +1,21 @@
+0.5989952693476264 0.4010047306523721 0.1979905386952543 False
+prediction: hockey for /Users/alisonrenner/Workspace/bh-classifier/data/test/rec.sport.baseball-full/105149
+| word        |   p(w|h) |   p(w|b) |   delta | **?   |
+|-------------|----------|----------|---------|-------|
+| join        |    -8.61 |    -9.71 |    1.1  | **    |
+| cubs        |    -9.71 |    -8.61 |   -1.09 | **    |
+| appreciated |    -8.61 |    -9.31 |    0.7  |       |
+| cubbies     |   -10.4  |    -9.71 |   -0.69 |       |
+| help        |    -8.2  |    -7.63 |   -0.57 |       |
+| mailing     |    -8.45 |    -9.02 |    0.56 |       |
+| chicago     |    -8.32 |    -8.79 |    0.47 |       |
+| like        |    -6.59 |    -6.28 |   -0.32 |       |
+| id          |    -7.69 |    -7.92 |    0.23 |       |
+| list        |    -7.84 |    -8.01 |    0.17 |       |
+From: jmelchi@sage.cc.purdue.edu (moi)
+Subject: cubbies
+
+    Is there a Chicago Cubs mailing list??  If so, I'd like to join.
+Any help appreciated....
+
+

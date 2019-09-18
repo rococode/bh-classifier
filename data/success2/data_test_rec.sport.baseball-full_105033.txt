@@ -1,0 +1,26 @@
+5.315417558380881e-06 0.9999946845824481 0.9999893691648898 True
+prediction: baseball for data/test/rec.sport.baseball-full/105033
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| cardinals |    -7.57 |   -11.72 |    4.15 | **    |
+| helpful   |    -9.77 |   -11.72 |    1.95 | **    |
+| cards     |    -8.42 |   -10.11 |    1.69 | **    |
+| detweiler |   -10.46 |   -11.72 |    1.26 | **    |
+| netherton |   -10.46 |   -11.72 |    1.26 | **    |
+| update    |    -8.13 |    -9.15 |    1.03 | **    |
+| emailed   |   -11.56 |   -10.62 |   -0.94 |       |
+| ok        |    -7.59 |    -8.39 |    0.8  |       |
+| thanks    |    -7.01 |    -7.75 |    0.74 |       |
+| dick      |    -9.26 |    -8.63 |   -0.63 |       |
+From: rdetweil@boi.hp.com (Richard Detweiler)
+Subject: Cards Mailing List update
+
+Just wanted to let all the people who e-mailed me about 
+a possible Cardinals mailing list that I wasn't able to
+get the OK to host the list here so someone else will
+have to do it. :-(
+
+Many thanks to Bob Netherton for his helpful info.
+
+Dick Detweiler
+

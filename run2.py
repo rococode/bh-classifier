@@ -23,6 +23,8 @@ scores = []
 nltk.download('stopwords')
 nltk.download('punkt')
 
+CURR_DIR = "testSeed"
+
 train_path = "data" + os.sep + "train"
 test_path = "data" + os.sep + "test"
 hockey = 'rec.sport.hockey-full'
@@ -32,6 +34,7 @@ vocab = set()
 
 pattern = re.compile('[^a-zA-Z]+')
 english_stopwords = stopwords.words('english')
+
 
 
 def clean_word(word):
@@ -153,15 +156,15 @@ for _ in [1]:
     # --- end matches ---
 
     import random
-
+    #random.seed(123)
     combined = list(zip(otrain_hockey, otrain_hockey_names, otrain_hockey_lens))
     random.shuffle(combined)
     otrain_hockey[:], otrain_hockey_names[:], otrain_hockey_lens[:] = zip(*combined)
-
     combined = list(zip(otrain_baseball, otrain_baseball_names, otrain_baseball_lens))
     random.shuffle(combined)
     otrain_baseball[:], otrain_baseball_names[:], otrain_baseball_lens[:] = zip(*combined)
 
+    # defines number of hockey and baseball emails to use (total training size is 2 x training_size)
     TRAINING_SIZE = 100
     if (TRAINING_SIZE > 0):
         train_hockey = otrain_hockey[:TRAINING_SIZE]
@@ -180,8 +183,11 @@ for _ in [1]:
         train_baseball_names = otrain_baseball_names
         train_baseball_lens = otrain_baseball_lens
 
-    print("sample 3", train_baseball_names[0:3])
-    print("sample test 3", test_baseball_names[0:3])
+    #print("training with " + str(TRAINING_SIZE) + "hockey and " + str(TRAINING_SIZE) + " baseball emails");
+    print("sample of baseball training emails", train_baseball_names[0:3])
+    print("sample of baseball test emails", test_baseball_names[0:3])
+    print("train data length of baseball emails is ", len(train_baseball_names))
+    print("test data length is ", len(test_baseball_names))
 
     # print(len(id_lookup))
 
@@ -258,8 +264,8 @@ for _ in [1]:
     probs = [[i, a, b, abs(a - b), tNames[i], preds[i] == ty[i]] for i, a, b, diff in probs]
 
     for i, a, b, diff, name, correct in probs_tmp:
-        # print(name, correct, diff)
-        failed_dir = "data" + os.sep + "close calls2"
+        print(name, correct, diff)
+        failed_dir = CURR_DIR + os.sep + "close calls"
         if not os.path.exists(failed_dir):
             os.makedirs(failed_dir)
         if not os.path.exists(failed_dir + os.sep + str(True)):
@@ -309,8 +315,8 @@ for _ in [1]:
 
     print("lens: ", len(tNames), len(preds))
 
-    failed_dir = "data" + os.sep + "failed2"
-    success_dir = "data" + os.sep + "success2"
+    failed_dir = CURR_DIR + os.sep + "failed"
+    success_dir = CURR_DIR + os.sep + "success"
     if not os.path.exists(success_dir):
         os.makedirs(success_dir)
 
@@ -507,7 +513,7 @@ for _ in [1]:
                 # print("idx", idx, match_names1[idx], match_names2[idx], match_scores[idx])
                 j = tNames.index(match_names2[idx])
                 idx += 1
-                dest_dir = "data" + os.sep + "matches-exp2"
+                dest_dir = CURR_DIR + os.sep + "matches-exp2"
                 if not os.path.exists(dest_dir):
                     os.makedirs(dest_dir)
                 status = None
@@ -550,7 +556,7 @@ for _ in [1]:
             dest = failed_dir + os.sep + tNames[i].replace(os.sep, '_') + ".txt"
             # print("LENGTH of " + tNames[i] + " is " + str(tLens[i]))
             i, a, b, diff, name, correct = probs[i]
-            if 30 < tLens[i] < 120:
+            if 20 < tLens[i] < 120:
                 with io.open(tNames[i], "r", encoding="latin-1") as f:
                     lines = f.read()
                     skip = False
@@ -575,7 +581,7 @@ for _ in [1]:
             dest = success_dir + os.sep + tNames[i].replace(os.sep, '_') + ".txt"
             # print("LENGTH of " + tNames[i] + " is " + str(tLens[i]))
             i, a, b, diff, name, correct = probs[i]
-            if 30 < tLens[i] < 120:
+            if 20 < tLens[i] < 120:
                 with io.open(tNames[i], "r", encoding="latin-1") as f:
                     lines = f.read()
                     skip = False

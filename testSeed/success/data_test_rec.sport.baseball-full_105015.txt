@@ -1,0 +1,32 @@
+0.005533869803495904 0.9944661301965168 0.9889322603930208 True
+prediction: baseball for data/test/rec.sport.baseball-full/105015
+| word      |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------|----------|----------|---------|-------|
+| runs      |    -6.65 |    -9.29 |    2.64 | **    |
+| following |    -8.76 |   -10.39 |    1.63 | **    |
+| yankees   |    -7.73 |    -9.29 |    1.56 | **    |
+| angeles   |   -10.37 |    -9.01 |   -1.36 | **    |
+| los       |   -10.37 |    -9.01 |   -1.36 | **    |
+| thanks    |    -7.42 |    -8.78 |    1.36 | **    |
+| home      |    -7.04 |    -8.19 |    1.16 | **    |
+| season    |    -7.32 |    -6.35 |   -0.97 |       |
+| anyone    |    -7.23 |    -8.19 |    0.96 |       |
+| hit       |    -6.97 |    -7.91 |    0.94 |       |
+From: genzuk@mizar.usc.edu (Michael Genzuk)
+Subject: Info on J.T. Snow
+
+I'm sure all of you have heard of the extraordiary start by  rookie
+J.T. Snow of the California Angeles.  Other than the fact that his
+father was a star receiver with the L.A. Rams and is now a radio
+personality in Los Angeles and J.T. came from the Yankees organization
+I don't know much about J.T.  If anyone has info and background on 
+the young fenom....please post.
+
+By the way, for those of you not following his exploits he has hit
+four home runs in three days.  Two last night.  He has also delivered
+the winning hit a couple of times for the Angeles in this young season.
+
+Thanks...
+
+Michael from USC
+

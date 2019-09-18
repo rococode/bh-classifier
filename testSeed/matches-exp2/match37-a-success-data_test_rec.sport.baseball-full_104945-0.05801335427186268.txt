@@ -1,0 +1,32 @@
+1.4333553314645584e-07 0.9999998566644411 0.999999713328908 True
+prediction: baseball for data/test/rec.sport.baseball-full/104945
+| word                  |   p(w|b) |   p(w|h) |   delta | **?   |
+|-----------------------|----------|----------|---------|-------|
+| base                  |    -7.66 |    -9.7  |    2.04 | **    |
+| jeff                  |    -8.42 |   -10.39 |    1.97 | **    |
+| j                     |    -9.27 |    -7.62 |   -1.65 | **    |
+| baseball              |    -6.65 |    -8.09 |    1.43 | **    |
+| stolen                |    -8.98 |   -10.39 |    1.41 | **    |
+| hits                  |    -7.97 |    -9.29 |    1.32 | **    |
+| stephenson            |    -9.27 |   -10.39 |    1.12 | **    |
+| stephpegasuscsuiucedu |    -9.27 |   -10.39 |    1.12 | **    |
+| although              |    -8.42 |    -7.45 |   -0.97 |       |
+| especially            |    -8.98 |    -8.19 |   -0.79 |       |
+From: steph@pegasus.cs.uiuc.edu (Dale Stephenson)
+Subject: Re: Hits Stolen -- First Base 1992
+
+In <1r218pINNh4a@gap.caltech.edu> jeff@smoggy.gg.caltech.edu (Jeff Goldsmith) writes:
+
+>In <steph.735029587@pegasus.cs.uiuc.edu> steph@pegasus.cs.uiuc.edu (Dale Stephenson) writes:
+
+>>Finally, I throw all this into a a formula I call Defensive Contribution, or
+>>DCON :->.  
+
+>You did mean "DefCon," didn't you?
+
+Well, no.  Although I admit that's more exciting than a rat killer.
+-- 
+Dale J. Stephenson |*| (steph@cs.uiuc.edu) |*| Baseball fanatic
+
+  "It is considered good to look wise, especially when not 
+   overburdened with information" -- J. Golden Kimball
