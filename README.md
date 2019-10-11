@@ -8,11 +8,9 @@ Users are given a series of emails (from the 20newsgroups dataset). We choose a 
 
 We test our hypothesis with a setup with 2x3 conditions. For the 2 conditions, a user can either get a model with explanations or no explanations. Explanations highlight the top three most impactful words in an email. For the 3 conditions, a user can give no feedback, instance-level feedback (correct or incorrect), or feature-level feedback (select actual words).
 
-The survey has two main phases. First, the user looks at 10 "training" emails. In these training emails, they are supposed to learn how the model works. Then, they look at 15 "test" emails. In the test emails, they tell us what they think the email is about, and what they think the model will decide. 
+The first survey had two main phases. First, the users looked at 10 "training" emails. In these training emails, they were supposed to learn how the model works. Then, they looked at 15 "test" emails. In the test emails, they told us what they thought the email is about, and what they thought the model will decide. At the end, we asked them a series of Likert questions with some open-ended "Why?" questions. This experiment yielded some indications that qualitatively supported our hypothesis, but nothing statistically significant.
 
-At the end, we ask them a series of Likert questions with some open-ended "Why?" questions.
-
-We found some indications that qualitatively support our hypothesis, but nothing statistically significant thus far.
+For the second survey, users look at 20 "training" emails with the specified purpose of understanding how the model works so that they can then evaluate its performance and usefulness. Next, we ask them a series of Likert questions with some open-ended "Why?" questions. At the end, they look at 4 "test" emails and tell us what they think the email is about, and what they think the (updated) model will decide. We ran this survey twice, once with a 76.5% accurate model and following up with a 94.4% accurate model.
 
 ## Table of Contents
 
@@ -45,10 +43,11 @@ You can probably ignore data-old.
 - **final-improved**: a final set of good emails to consider using
 - **final-split**: the final set of emails we used
 - **final2**: the final set of emails we used for study 2
+- **feedback**: used to categorize instance-level feedback to incorporate into the model
 
 ### run.py <a name="runpy"></a>
 
-The Naive Bayes classifier for binary email classification. It's kind of messy, but you may not need to run it since we already have the selected emails (in `explanationstudy/src/main/resources/`'s test, train, and practice folders). If you do need to run it again, let me know and I can walk you through it. For study 2, we used run2.py.
+The Naive Bayes classifier for binary email classification. It's kind of messy, but you may not need to run it since we already have the selected emails (in `explanationstudy/src/main/resources/`'s test, train, and practice folders). If you do need to run it again, let me know and I can walk you through it. For study 2, we used **run2.py**.
 
 ### Java Maven Projects<a name="projects"></a>
 
@@ -87,7 +86,7 @@ After workers have submitted the task, you'll want to approve their task, assign
 
 If you're just changing the interface, everything you need should be in explanationstudy/src/main/resources/web/static/js/main.2bcbbf7a.chunk.js and css/main.0092d80c.chunk.css in the same static folder. In the .js file, there are some variables and functions defined at the top, followed by the JavaScript for each phase of the study ("intro1", "practice", "train", etc.) which correspond to the cases in the Launcher class.
 
-If you want to change more of the backend, the Launcher class in explanationstudy main is a good place to start. When running locally, you can set the default condition in UserSession. To update the emails included in the study, you can find those files in explanationstudy/src/main/resources/ (practice, test, and train).
+If you want to update more of the backend, the Launcher class in explanationstudy main is a good place to start. When running locally, you can set the default condition in UserSession. To update the emails included in the study, you can find those files in explanationstudy/src/main/resources/ (practice, test, and train).
 
 To upload the new version of the testbed to the server, first you'll want to build the JAR locally via maven install.
 
@@ -97,7 +96,7 @@ Then, you'll want to connect to EC2, stop the currently running server, and rest
 
 ### To run the analysis scripts:
 
-You can run the Launcher in the main class for explanationanalysis. There are calls for extracting the open-ended responses as well as the feedback and research question responses. The FeedbackExtracter methods also perform some simple comparisons of the data and transfer it into .csv files.
+You can run the Launcher in the explanationanalysis main class. There are calls for extracting the open-ended responses as well as the feedback and research question responses. The FeedbackExtracter class also performs some simple comparisons of the data and writes it to .csv files.
 
 To apply the feedback to see the resulting model accuracy, you can run InstanceFeedbackIncorporator main and FeatureFeedbackIncorporator main, in explanationstudy. These call run_instance.py and run_feature.py, respectively. For the feature-level feedback, you can also incorporate the instance-level feedback by uncommenting the relevant lines in both the java and python files.
 
